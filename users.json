@@ -212,14 +212,14 @@
       }
     },
     "246179539501140": {
-      "coin": 288999950,
+      "coin": 278999950,
       "uid": "559041e-30_b-nebula",
       "username": "@pixelite",
       "spam": {
-        "lastMessage": 1765827268365,
+        "lastMessage": 1765834902878,
         "count": 1
       },
-      "xp": 520,
+      "xp": 580,
       "hasSentMsg": {
         "admin": true,
         "cooldown": true
@@ -231,7 +231,7 @@
       "robSuccess": 2,
       "lastMine": 1765825938870,
       "lastPhish": 1765825947322,
-      "donated_total": 11000000
+      "donated_total": 21000000
     },
     "114435796508833": {
       "coin": 11180777,
@@ -283,5 +283,5 @@
       "received_total": 199998000
     }
   },
-  "savedAt": 1765834227758
+  "savedAt": 1765834903559
 }
