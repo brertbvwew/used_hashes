@@ -5,11 +5,14 @@
       "uid": "347006cd-38_b-nebula",
       "username": "@user_347006cd-38",
       "spam": {
-        "lastMessage": 1765818582973,
+        "lastMessage": 1765819090216,
         "count": 1
       },
-      "xp": 200
+      "xp": 240,
+      "premium": true,
+      "premiumUntil": 1768411054783,
+      "lastBuyPremium": 1765819054783
     }
   },
-  "savedAt": 1765818583849
+  "savedAt": 1765819091127
 }
