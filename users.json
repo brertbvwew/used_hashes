@@ -234,14 +234,14 @@
       "donated_total": 21000000
     },
     "114435796508833": {
-      "coin": 13331369,
+      "coin": 113330369,
       "uid": "1f26dc08-33_b-nebula",
       "username": "@user_1f26dc08-33",
       "spam": {
-        "lastMessage": 1765835621537,
+        "lastMessage": 1765836233109,
         "count": 1
       },
-      "xp": 125,
+      "xp": 165,
       "lastHack": 1765827836074,
       "robSuccess": 15,
       "lastSteal": 1765827840387,
@@ -269,7 +269,7 @@
       "lastFlip": 1765827895966,
       "lastFreelance": 1765828080198,
       "autolevelup": true,
-      "received_total": 13330528
+      "received_total": 113329528
     },
     "18675021181111": {
       "coin": 470352432,
@@ -283,5 +283,5 @@
       "received_total": 470347432
     }
   },
-  "savedAt": 1765835622518
+  "savedAt": 1765836233955
 }
