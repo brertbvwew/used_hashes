@@ -39,10 +39,10 @@
       "uid": "1c352a3e-39_b-nebula",
       "username": "@zestyglock09",
       "spam": {
-        "lastMessage": 1765821368265,
+        "lastMessage": 1765824966545,
         "count": 1
       },
-      "xp": 640,
+      "xp": 820,
       "hasSentMsg": {
         "cooldown": true
       },
@@ -206,5 +206,5 @@
       "received_total": 26000
     }
   },
-  "savedAt": 1765824938104
+  "savedAt": 1765824967359
 }
