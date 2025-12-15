@@ -1,14 +1,16 @@
 {
   "user": {
     "202095793848538": {
-      "coin": 3333000,
+      "coin": 3334917,
       "uid": "347006cd-38_b-nebula",
       "username": "@user_347006cd-38",
       "spam": {
-        "lastMessage": 1765815316701,
+        "lastMessage": 1765816233488,
         "count": 1
       },
-      "xp": 80
+      "xp": 140,
+      "lastWork": 1765816217120,
+      "workSuccess": 1
     },
     "148529213390986": {
       "coin": 4990,
@@ -56,5 +58,5 @@
       "robbed": 1
     }
   },
-  "savedAt": 1765815498089
+  "savedAt": 1765816234434
 }
