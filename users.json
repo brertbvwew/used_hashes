@@ -39,10 +39,10 @@
       "uid": "1c352a3e-39_b-nebula",
       "username": "@zestyglock09",
       "spam": {
-        "lastMessage": 1765819631927,
+        "lastMessage": 1765821368265,
         "count": 1
       },
-      "xp": 500,
+      "xp": 640,
       "hasSentMsg": {
         "cooldown": true
       },
@@ -87,7 +87,10 @@
         "Resin Chunk": 2,
         "Hydro Pot": 1
       },
-      "weedlastGather": 1765819601408
+      "weedlastGather": 1765819601408,
+      "premium": true,
+      "premiumUntil": 1768413312789,
+      "lastBuyPremium": 1765821312789
     },
     "11029962604707": {
       "coin": 7358,
@@ -102,5 +105,5 @@
       "robSuccess": 1
     }
   },
-  "savedAt": 1765820510906
+  "savedAt": 1765821369294
 }
