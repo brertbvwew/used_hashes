@@ -103,7 +103,61 @@
       "xp": 90,
       "lastRobBank": 1765819942011,
       "robSuccess": 1
+    },
+    "148529213390986": {
+      "coin": 1500031401,
+      "uid": "3272c271-36_b-nebula",
+      "username": "@user_3272c271-36",
+      "spam": {
+        "lastMessage": 1765821387303,
+        "count": 1
+      },
+      "xp": 980,
+      "lastSteal": 1765820195794,
+      "StealSuccess": 2,
+      "lastHack": 1765817705131,
+      "robSuccess": 757,
+      "lastRobBank": 1765817914021,
+      "lastMine": 1765817916104,
+      "lastPhish": 1765818253258,
+      "lastRansom": 1765817934333,
+      "lastDecrypt": 1765817938872,
+      "lastDeliver": 1765817942675,
+      "lastRepair": 1765817945918,
+      "autolevelup": true,
+      "lastSpins": 1765817963353,
+      "lastSpin": 1765817967080,
+      "lastRob": 1765818243632,
+      "winGame": 765,
+      "usedCoupons": [
+        {
+          "hash": "WDhiZjJvMUU6YzY0ODZiMzc2MTgxMWIwYjY0ODA4ODU3MmRjZjZmNjc6MTc2NTgxOTI3MjExMDptVTJrcWp4UTo0N2QzMzRkYTIzYmNhNjE4MDAzODIxZTY0ZjhiNzkwNQ==",
+          "md5": "766a7359a275dc917172e5d14d44b5fd",
+          "time": 1765819357175
+        }
+      ],
+      "lastBuyWin": 1765819357175,
+      "lastBeg": 1765820199580,
+      "begSuccess": 1,
+      "invPurchases": 3,
+      "level": 750,
+      "robbed": 750,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1765820580187
     }
   },
-  "savedAt": 1765821369294
+  "savedAt": 1765821387976
 }
