@@ -157,7 +157,26 @@
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1765820580187
+    },
+    "228084489916616": {
+      "coin": 5000,
+      "uid": "31cd8696-36_b-nebula",
+      "username": "@user_31cd8696-36",
+      "spam": {
+        "lastMessage": 1765821830924,
+        "count": 1
+      },
+      "xp": 2640,
+      "usedCoupons": [
+        {
+          "hash": "QnZSOUM3MTY6NjVkOTMyMmNhZGU2MTQ4ZGRiNjI1YjY4NjJhMjQxYTU6MTc2NTgxOTI0MDE2OTpCY2xPbzB0bTo3ZmFmM2YzYjU1YmFkMzRiMmM4MWY4MWFiMWMwZGZjYQ==",
+          "md5": "29778e9a3f1071281f3d87e45ca69718",
+          "time": 1765819343379
+        }
+      ],
+      "lastBuyXP": 1765819343379,
+      "level": 4
     }
   },
-  "savedAt": 1765821387976
+  "savedAt": 1765821831922
 }
