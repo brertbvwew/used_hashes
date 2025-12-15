@@ -1,17 +1,38 @@
 {
   "user": {
     "202095793848538": {
-      "coin": 10722,
+      "coin": 500010804,
       "uid": "347006cd-38_b-nebula",
       "username": "@user_347006cd-38",
       "spam": {
-        "lastMessage": 1765819090216,
+        "lastMessage": 1765820510354,
         "count": 1
       },
-      "xp": 240,
+      "xp": 440,
       "premium": true,
       "premiumUntil": 1768411054783,
-      "lastBuyPremium": 1765819054783
+      "lastBuyPremium": 1765819054783,
+      "lastOwnerReport": 1765819963446,
+      "invPurchases": 1,
+      "winGame": 250,
+      "level": 250,
+      "robSuccess": 250,
+      "robbed": 250,
+      "rpgwin": 250,
+      "rpgGather": 250,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 250,
+      "yugiohviewcard": 250,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 250,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 250,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1765820360071
     },
     "47172313678049": {
       "coin": 1000755314,
@@ -81,5 +102,5 @@
       "robSuccess": 1
     }
   },
-  "savedAt": 1765820138592
+  "savedAt": 1765820510906
 }
