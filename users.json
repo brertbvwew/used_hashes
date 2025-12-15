@@ -176,7 +176,35 @@
       ],
       "lastBuyXP": 1765819343379,
       "level": 4
+    },
+    "254511792803874": {
+      "coin": 79262,
+      "uid": "403e88-34_b-nebula",
+      "username": "@user_403e88-34",
+      "spam": {
+        "lastMessage": 1765824937115,
+        "count": 1
+      },
+      "xp": 690,
+      "lastHack": 1765824859571,
+      "robSuccess": 11,
+      "lastSteal": 1765824864731,
+      "StealSuccess": 2,
+      "lastBeg": 1765824869204,
+      "begSuccess": 2,
+      "lastDecrypt": 1765824885228,
+      "lastRob": 1765824873902,
+      "lastRobBank": 1765824878523,
+      "lastPhish": 1765824889877,
+      "lastRansom": 1765824487488,
+      "lastWork": 1765824899447,
+      "workSuccess": 2,
+      "lastCode": 1765824903159,
+      "lastMine": 1765824513185,
+      "lastRepair": 1765824910420,
+      "lastDeliver": 1765824531823,
+      "received_total": 26000
     }
   },
-  "savedAt": 1765821831922
+  "savedAt": 1765824938104
 }
