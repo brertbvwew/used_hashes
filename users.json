@@ -210,7 +210,29 @@
       "lastClaim": {
         "daily": 1765826814541
       }
+    },
+    "246179539501140": {
+      "coin": 288999950,
+      "uid": "559041e-30_b-nebula",
+      "username": "@pixelite",
+      "spam": {
+        "lastMessage": 1765827268365,
+        "count": 1
+      },
+      "xp": 520,
+      "hasSentMsg": {
+        "admin": true,
+        "cooldown": true
+      },
+      "autolevelup": true,
+      "lastBuyCoin": 1765825256397,
+      "robbed": 3,
+      "lastHack": 1765825928920,
+      "robSuccess": 2,
+      "lastMine": 1765825938870,
+      "lastPhish": 1765825947322,
+      "donated_total": 11000000
     }
   },
-  "savedAt": 1765827077082
+  "savedAt": 1765827269082
 }
