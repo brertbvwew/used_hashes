@@ -232,7 +232,45 @@
       "lastMine": 1765825938870,
       "lastPhish": 1765825947322,
       "donated_total": 11000000
+    },
+    "114435796508833": {
+      "coin": 10105481,
+      "uid": "1f26dc08-33_b-nebula",
+      "username": "@user_1f26dc08-33",
+      "spam": {
+        "lastMessage": 1765834019712,
+        "count": 1
+      },
+      "xp": 25,
+      "lastHack": 1765827836074,
+      "robSuccess": 15,
+      "lastSteal": 1765827840387,
+      "StealSuccess": 4,
+      "lastBeg": 1765827844482,
+      "begSuccess": 4,
+      "lastRob": 1765827847289,
+      "lastDecrypt": 1765827857036,
+      "lastPhish": 1765827860583,
+      "lastWork": 1765827867892,
+      "workSuccess": 3,
+      "lastCode": 1765827871128,
+      "lastRepair": 1765827883959,
+      "lastDeliver": 1765827889504,
+      "donated_total": 76000,
+      "lastRobBank": 1765827850170,
+      "lastMine": 1765827876612,
+      "lastSpins": 1765827918298,
+      "lastBlackjack": 1765827929377,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "robbed": 1,
+      "level": 2,
+      "lastFlip": 1765827895966,
+      "lastFreelance": 1765828080198,
+      "autolevelup": true,
+      "received_total": 10104640
     }
   },
-  "savedAt": 1765827269082
+  "savedAt": 1765834020895
 }
