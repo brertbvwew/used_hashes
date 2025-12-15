@@ -67,7 +67,19 @@
         "Hydro Pot": 1
       },
       "weedlastGather": 1765819601408
+    },
+    "11029962604707": {
+      "coin": 7358,
+      "uid": "1de24a6e-37_b-nebula",
+      "username": "@user_1de24a6e-37",
+      "spam": {
+        "lastMessage": 1765820137792,
+        "count": 1
+      },
+      "xp": 90,
+      "lastRobBank": 1765819942011,
+      "robSuccess": 1
     }
   },
-  "savedAt": 1765819632730
+  "savedAt": 1765820138592
 }
