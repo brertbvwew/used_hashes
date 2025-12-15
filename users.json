@@ -105,16 +105,16 @@
       "robSuccess": 1
     },
     "148529213390986": {
-      "coin": 1500031401,
+      "coin": 1190027705,
       "uid": "3272c271-36_b-nebula",
-      "username": "@user_3272c271-36",
+      "username": "@she_said_she_was_12",
       "spam": {
-        "lastMessage": 1765821387303,
+        "lastMessage": 1765840056620,
         "count": 1
       },
-      "xp": 980,
-      "lastSteal": 1765820195794,
-      "StealSuccess": 2,
+      "xp": 190,
+      "lastSteal": 1765836192515,
+      "StealSuccess": 3,
       "lastHack": 1765817705131,
       "robSuccess": 757,
       "lastRobBank": 1765817914021,
@@ -140,8 +140,8 @@
       "lastBeg": 1765820199580,
       "begSuccess": 1,
       "invPurchases": 3,
-      "level": 750,
-      "robbed": 750,
+      "level": 752,
+      "robbed": 752,
       "rpgwin": 750,
       "rpgGather": 750,
       "rpgtrades": 750,
@@ -156,7 +156,14 @@
       "weedgather": 750,
       "weedsell": 750,
       "weedtrades": 750,
-      "lastAddInv": 1765820580187
+      "lastAddInv": 1765820580187,
+      "donated_total": 310000001,
+      "lastTagAllTime": 1765830212970,
+      "tagAllCount": 1,
+      "lastOwnerReport": 1765836538809,
+      "hasSentMsg": {
+        "cooldown": true
+      }
     },
     "228084489916616": {
       "coin": 5000,
@@ -286,5 +293,5 @@
       "received_total": 790342432
     }
   },
-  "savedAt": 1765836933976
+  "savedAt": 1765840057545
 }
