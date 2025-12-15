@@ -182,10 +182,10 @@
       "uid": "403e88-34_b-nebula",
       "username": "@user_403e88-34",
       "spam": {
-        "lastMessage": 1765827076263,
+        "lastMessage": 1765834168054,
         "count": 1
       },
-      "xp": 170,
+      "xp": 190,
       "lastHack": 1765826752094,
       "robSuccess": 26,
       "lastSteal": 1765826758460,
@@ -272,5 +272,5 @@
       "received_total": 10104640
     }
   },
-  "savedAt": 1765834020895
+  "savedAt": 1765834169066
 }
