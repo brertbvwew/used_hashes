@@ -19,7 +19,27 @@
         "count": 1
       },
       "xp": 40
+    },
+    "254511792803874": {
+      "coin": 15430,
+      "uid": "403e88-34_b-nebula",
+      "username": "@user_403e88-34",
+      "spam": {
+        "lastMessage": 1765815455333,
+        "count": 1
+      },
+      "xp": 240,
+      "autolevelup": true,
+      "lastHack": 1765815324140,
+      "robSuccess": 4,
+      "lastSteal": 1765815333867,
+      "StealSuccess": 1,
+      "lastBeg": 1765815337569,
+      "begSuccess": 1,
+      "lastRob": 1765815345869,
+      "lastRobBank": 1765815351671,
+      "lastDecrypt": 1765815434803
     }
   },
-  "savedAt": 1765815448194
+  "savedAt": 1765815456355
 }
