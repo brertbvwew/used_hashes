@@ -39,7 +39,22 @@
       "lastRob": 1765815345869,
       "lastRobBank": 1765815351671,
       "lastDecrypt": 1765815434803
+    },
+    "47172313678049": {
+      "coin": 7008,
+      "uid": "1c352a3e-39_b-nebula",
+      "username": "@user_1c352a3e-39",
+      "spam": {
+        "lastMessage": 1765815497127,
+        "count": 1
+      },
+      "xp": 70,
+      "lastWork": 1765815277646,
+      "workSuccess": 1,
+      "lastBeg": 1765815280434,
+      "begSuccess": 1,
+      "robbed": 1
     }
   },
-  "savedAt": 1765815456355
+  "savedAt": 1765815498089
 }
