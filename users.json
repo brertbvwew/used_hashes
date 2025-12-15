@@ -270,7 +270,18 @@
       "lastFreelance": 1765828080198,
       "autolevelup": true,
       "received_total": 10104640
+    },
+    "18675021181111": {
+      "coin": 200003000,
+      "uid": "2183026d-31_b-nebula",
+      "username": "@user_2183026d-31",
+      "spam": {
+        "lastMessage": 1765834175209,
+        "count": 1
+      },
+      "xp": 40,
+      "received_total": 199998000
     }
   },
-  "savedAt": 1765834169066
+  "savedAt": 1765834175935
 }
