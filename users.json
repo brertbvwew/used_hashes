@@ -9,7 +9,20 @@
         "count": 1
       },
       "xp": 40
+    },
+    "47172313678049": {
+      "coin": 5000,
+      "uid": "1c352a3e-39_b-nebula",
+      "username": "@zestyglock09",
+      "spam": {
+        "lastMessage": 1765817757948,
+        "count": 1
+      },
+      "xp": 100,
+      "hasSentMsg": {
+        "cooldown": true
+      }
     }
   },
-  "savedAt": 1765817749433
+  "savedAt": 1765817758867
 }
