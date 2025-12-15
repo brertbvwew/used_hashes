@@ -272,16 +272,16 @@
       "received_total": 11179936
     },
     "18675021181111": {
-      "coin": 200003000,
+      "coin": 470352432,
       "uid": "2183026d-31_b-nebula",
       "username": "@user_2183026d-31",
       "spam": {
-        "lastMessage": 1765834175209,
+        "lastMessage": 1765835545147,
         "count": 1
       },
-      "xp": 40,
-      "received_total": 199998000
+      "xp": 160,
+      "received_total": 470347432
     }
   },
-  "savedAt": 1765834903559
+  "savedAt": 1765835546173
 }
