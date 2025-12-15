@@ -22,7 +22,19 @@
       "hasSentMsg": {
         "cooldown": true
       }
+    },
+    "151994715099391": {
+      "coin": 999997461,
+      "uid": "132dec0a-31_b-nebula",
+      "username": "@babybear",
+      "spam": {
+        "lastMessage": 1765817923549,
+        "count": 1
+      },
+      "xp": 200,
+      "level": 499,
+      "robbed": 1
     }
   },
-  "savedAt": 1765817758867
+  "savedAt": 1765817924157
 }
