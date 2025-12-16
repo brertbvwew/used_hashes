@@ -615,7 +615,21 @@
       "lastSpins": 1765897076996,
       "lastSteal": 1765897152618,
       "StealSuccess": 1
+    },
+    "80110333988926": {
+      "coin": 899995500,
+      "uid": "30c79ed3-36_b-nebula",
+      "username": "@user_30c79ed3-36",
+      "xp": 240,
+      "received_total": 899991000,
+      "lastOwnerReport": 1765904626738,
+      "lastSpin": 1765904845501,
+      "isHelper": true,
+      "helperXP": 0,
+      "helpedCount": 0,
+      "helperLevel": 1,
+      "helperGauge": 0
     }
   },
-  "savedAt": 1765909953914
+  "savedAt": 1765909963662
 }
