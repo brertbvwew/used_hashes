@@ -86,29 +86,29 @@
       "robSuccess": 1
     },
     "148529213390986": {
-      "coin": 1170064437,
+      "coin": 1170094257,
       "uid": "3272c271-36_b-nebula",
       "username": "@SMI.le",
       "spam": {
         "lastMessage": 1765840056620,
         "count": 1
       },
-      "xp": 400,
-      "lastSteal": 1765877798960,
-      "StealSuccess": 6,
-      "lastHack": 1765877043414,
-      "robSuccess": 766,
-      "lastRobBank": 1765877802451,
-      "lastMine": 1765877792324,
-      "lastPhish": 1765877039975,
+      "xp": 100,
+      "lastSteal": 1765878509678,
+      "StealSuccess": 7,
+      "lastHack": 1765878512204,
+      "robSuccess": 770,
+      "lastRobBank": 1765878503941,
+      "lastMine": 1765878518990,
+      "lastPhish": 1765878514947,
       "lastRansom": 1765817934333,
       "lastDecrypt": 1765817938872,
-      "lastDeliver": 1765817942675,
-      "lastRepair": 1765877785579,
+      "lastDeliver": 1765878525530,
+      "lastRepair": 1765878522267,
       "autolevelup": true,
-      "lastSpins": 1765877819809,
-      "lastSpin": 1765877822501,
-      "lastRob": 1765877805836,
+      "lastSpins": 1765878540690,
+      "lastSpin": 1765878548121,
+      "lastRob": 1765878506897,
       "winGame": 765,
       "usedCoupons": [
         {
@@ -118,11 +118,11 @@
         }
       ],
       "lastBuyWin": 1765819357175,
-      "lastBeg": 1765877808815,
-      "begSuccess": 2,
+      "lastBeg": 1765878532654,
+      "begSuccess": 3,
       "invPurchases": 3,
-      "level": 753,
-      "robbed": 753,
+      "level": 754,
+      "robbed": 754,
       "rpgwin": 750,
       "rpgGather": 751,
       "rpgtrades": 750,
@@ -181,10 +181,10 @@
       },
       "rpglastGather": 1765877054042,
       "lastCode": 1765877782247,
-      "lastWork": 1765877812337,
-      "workSuccess": 1,
-      "lastDiceDuel": 1765877830620,
-      "lastBlackjack": 1765877836666,
+      "lastWork": 1765878529136,
+      "workSuccess": 2,
+      "lastDiceDuel": 1765878552171,
+      "lastBlackjack": 1765878558899,
       "clanId": "282df6",
       "gear": {
         "equipped": {
@@ -371,5 +371,5 @@
       }
     }
   },
-  "savedAt": 1765878364064
+  "savedAt": 1765878713150
 }
