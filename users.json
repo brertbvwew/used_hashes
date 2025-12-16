@@ -44,34 +44,73 @@
       }
     },
     "47172313678049": {
-      "coin": 1000057731,
+      "coin": 1000052814,
       "uid": "1c352a3e-39_b-nebula",
-      "username": "@user_1c352a3e-39",
-      "robbed": 252,
-      "xp": 420,
+      "username": "@zestyglock09",
+      "robbed": 253,
+      "xp": 90,
       "premium": true,
       "premiumUntil": 1768411054783,
       "lastBuyPremium": 1765819054783,
       "lastOwnerReport": 1765819963446,
       "invPurchases": 1,
       "winGame": 250,
-      "level": 250,
+      "level": 251,
       "robSuccess": 250,
       "rpgwin": 250,
-      "rpgGather": 250,
+      "rpgGather": 251,
       "rpgtrades": 250,
       "rpgcrafted": 250,
-      "rpgmonsterfight": 250,
+      "rpgmonsterfight": 251,
       "yugiohviewcard": 250,
       "onepiceviewcard": 250,
       "dragonballviewcard": 250,
       "pokemonviewcard": 250,
       "vipgameviewcard": 250,
       "weedcooked": 250,
-      "weedgather": 250,
+      "weedgather": 251,
       "weedsell": 250,
       "weedtrades": 250,
-      "lastAddInv": 1765820360071
+      "lastAddInv": 1765820360071,
+      "weedinventory": {
+        "Weed Leaf": 1,
+        "Rolling Paper": 4,
+        "Grinder Part": 3,
+        "Paper Crutch": 2,
+        "Metal Lid": 3,
+        "Perlite": 1,
+        "Grinder": 2,
+        "Indica Bud": 2,
+        "Resin Chunk": 5,
+        "THC Oil": 3,
+        "Dab Tool": 3,
+        "Moon Rock": 2,
+        "Chillum": 1,
+        "Mystic Pipe": 1
+      },
+      "weedlastGather": 1765887818830,
+      "rpginventory": {
+        "Apple": 3,
+        "Berries": 2,
+        "Mushroom": 3,
+        "Stone": 8,
+        "Elven Silk": 2,
+        "Iron Ore": 3
+      },
+      "rpglastGather": 1765887827546,
+      "rpgmonsterHealth": 78,
+      "rpglastFight": 1765887832024,
+      "rpghealth": 100,
+      "lastTagAllTime": 1765904146031,
+      "tagAllCount": 1,
+      "hasSentMsg": {
+        "admin": true
+      },
+      "isHelper": true,
+      "helperXP": 0,
+      "helpedCount": 0,
+      "helperLevel": 1,
+      "helperGauge": 0
     },
     "11029962604707": {
       "coin": 7358,
@@ -578,5 +617,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1765902204636
+  "savedAt": 1765909953914
 }
