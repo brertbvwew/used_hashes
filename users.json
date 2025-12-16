@@ -1,21 +1,21 @@
 {
   "user": {
     "202095793848538": {
-      "coin": 500086583,
+      "coin": 1100112679,
       "uid": "347006cd-38_b-nebula",
       "username": "@sex",
       "spam": {
         "lastMessage": 1765878362733,
         "count": 1
       },
-      "xp": 980,
+      "xp": 40,
       "premium": true,
       "premiumUntil": 1768411054783,
       "lastBuyPremium": 1765819054783,
       "lastOwnerReport": 1765819963446,
       "invPurchases": 1,
       "winGame": 250,
-      "level": 550,
+      "level": 551,
       "robSuccess": 250,
       "robbed": 250,
       "rpgwin": 250,
@@ -41,7 +41,8 @@
           "accessory": null
         },
         "inventory": {}
-      }
+      },
+      "received_total": 599994000
     },
     "47172313678049": {
       "coin": 1000052814,
@@ -631,5 +632,5 @@
       "helperGauge": 0
     }
   },
-  "savedAt": 1765909963662
+  "savedAt": 1765910947635
 }
