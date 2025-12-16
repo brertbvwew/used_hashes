@@ -109,17 +109,17 @@
       "uid": "3272c271-36_b-nebula",
       "username": "@she_said_she_was_12",
       "spam": {
-        "lastMessage": 1765875423785,
+        "lastMessage": 1765840056620,
         "count": 1
       },
-      "xp": 230,
+      "xp": 300,
       "lastSteal": 1765836192515,
       "StealSuccess": 3,
       "lastHack": 1765817705131,
-      "robSuccess": 757,
+      "robSuccess": 758,
       "lastRobBank": 1765817914021,
       "lastMine": 1765817916104,
-      "lastPhish": 1765818253258,
+      "lastPhish": 1765875440508,
       "lastRansom": 1765817934333,
       "lastDecrypt": 1765817938872,
       "lastDeliver": 1765817942675,
@@ -320,5 +320,5 @@
       "lastBuyWin": 1765869490169
     }
   },
-  "savedAt": 1765875424476
+  "savedAt": 1765875447214
 }
