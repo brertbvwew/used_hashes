@@ -48,7 +48,7 @@
       "uid": "1c352a3e-39_b-nebula",
       "username": "@user_1c352a3e-39",
       "robbed": 252,
-      "xp": 380,
+      "xp": 420,
       "premium": true,
       "premiumUntil": 1768411054783,
       "lastBuyPremium": 1765819054783,
@@ -578,5 +578,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1765901691418
+  "savedAt": 1765902204636
 }
