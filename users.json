@@ -406,7 +406,33 @@
       "hasSentMsg": {
         "cooldown": true
       }
+    },
+    "198449416917151": {
+      "coin": 231583,
+      "uid": "364664be-31_b-nebula",
+      "username": "@user_364664be-31",
+      "xp": 170,
+      "hasSentMsg": {
+        "premium": true,
+        "cooldown": true
+      },
+      "lastMine": 1765882414823,
+      "lastPhish": 1765882522885,
+      "robSuccess": 6,
+      "lastBeg": 1765882434433,
+      "begSuccess": 3,
+      "lastDeliver": 1765881966636,
+      "lastSpin": 1765883188641,
+      "lastRansom": 1765882483502,
+      "robbed": 1,
+      "lastWork": 1765882532726,
+      "workSuccess": 1,
+      "lastRobBank": 1765883214126,
+      "level": 1,
+      "lastClaim": {
+        "daily": 1765883041001
+      }
     }
   },
-  "savedAt": 1765883417847
+  "savedAt": 1765883474531
 }
