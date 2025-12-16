@@ -323,11 +323,33 @@
       "received_total": 1090339432
     },
     "184494900424901": {
-      "coin": 0,
+      "coin": 10057755,
       "uid": "397c663-31_b-nebula",
-      "username": "@user_397c663-31",
-      "xp": 60,
-      "robbed": 3
+      "username": "@areneee",
+      "xp": 600,
+      "robbed": 8,
+      "hasSentMsg": {
+        "coin": true,
+        "cooldown": true
+      },
+      "received_total": 9999000,
+      "lastHack": 1765877941045,
+      "robSuccess": 18,
+      "lastSteal": 1765882569835,
+      "StealSuccess": 3,
+      "lastCode": 1765882580960,
+      "lastDecrypt": 1765882597097,
+      "lastRob": 1765879117251,
+      "lastPhish": 1765882573798,
+      "lastWork": 1765882575923,
+      "lastDeliver": 1765877554663,
+      "lastMine": 1765876731616,
+      "workSuccess": 4,
+      "lastRepair": 1765882586814,
+      "lastBeg": 1765877942903,
+      "begSuccess": 1,
+      "level": 1,
+      "lastRansom": 1765882610099
     },
     "243658309779633": {
       "coin": 0,
@@ -351,5 +373,5 @@
       "xp": 20
     }
   },
-  "savedAt": 1765879825612
+  "savedAt": 1765882632592
 }
