@@ -114,16 +114,22 @@
       "helperGauge": 0
     },
     "11029962604707": {
-      "coin": 7358,
+      "coin": 19542,
       "uid": "1de24a6e-37_b-nebula",
       "username": "@user_1de24a6e-37",
-      "spam": {
-        "lastMessage": 1765820137792,
-        "count": 1
-      },
-      "xp": 90,
-      "lastRobBank": 1765819942011,
-      "robSuccess": 1
+      "xp": 360,
+      "lastWork": 1765924846744,
+      "workSuccess": 2,
+      "lastBeg": 1765900186027,
+      "begSuccess": 1,
+      "lastRob": 1765924814949,
+      "robSuccess": 3,
+      "lastSteal": 1765924797537,
+      "StealSuccess": 2,
+      "lastMine": 1765900307591,
+      "lastRobBank": 1765924832085,
+      "lastClean": 1765924868104,
+      "lastDeliver": 1765924878140
     },
     "148529213390986": {
       "coin": 1606351964,
@@ -700,5 +706,5 @@
       "robbed": 3
     }
   },
-  "savedAt": 1765921330047
+  "savedAt": 1765924955015
 }
