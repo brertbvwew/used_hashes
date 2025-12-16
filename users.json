@@ -632,14 +632,14 @@
       "helperGauge": 0
     },
     "151994715099391": {
-      "coin": 139987065,
+      "coin": 140000190,
       "uid": "132dec0a-31_b-nebula",
       "username": "@babybear",
-      "xp": 290,
-      "lastWork": 1765869313589,
-      "workSuccess": 1,
-      "lastRansom": 1765869315278,
-      "robSuccess": 1,
+      "xp": 600,
+      "lastWork": 1765921308629,
+      "workSuccess": 2,
+      "lastRansom": 1765921322510,
+      "robSuccess": 7,
       "lastBuyCoin": 1765869423762,
       "usedCoupons": [
         {
@@ -661,7 +661,14 @@
       "robbed": 1,
       "hasSentMsg": {
         "cooldown": true
-      }
+      },
+      "lastRob": 1765921310392,
+      "lastRobBank": 1765921312776,
+      "lastSteal": 1765921314921,
+      "StealSuccess": 1,
+      "lastHack": 1765921317847,
+      "lastPhish": 1765921319425,
+      "lastDecrypt": 1765921325339
     },
     "235858498158618": {
       "coin": 9999000,
@@ -693,5 +700,5 @@
       "robbed": 3
     }
   },
-  "savedAt": 1765921171952
+  "savedAt": 1765921330047
 }
