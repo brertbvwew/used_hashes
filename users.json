@@ -54,18 +54,18 @@
       "robSuccess": 1
     },
     "148529213390986": {
-      "coin": 1170033955,
+      "coin": 1170037256,
       "uid": "3272c271-36_b-nebula",
       "username": "@SMI.le",
       "spam": {
         "lastMessage": 1765840056620,
         "count": 1
       },
-      "xp": 590,
-      "lastSteal": 1765836192515,
-      "StealSuccess": 3,
+      "xp": 750,
+      "lastSteal": 1765876723527,
+      "StealSuccess": 4,
       "lastHack": 1765875480273,
-      "robSuccess": 761,
+      "robSuccess": 762,
       "lastRobBank": 1765875469808,
       "lastMine": 1765817916104,
       "lastPhish": 1765875440508,
@@ -76,7 +76,7 @@
       "autolevelup": true,
       "lastSpins": 1765817963353,
       "lastSpin": 1765817967080,
-      "lastRob": 1765875463208,
+      "lastRob": 1765876858601,
       "winGame": 765,
       "usedCoupons": [
         {
@@ -102,7 +102,7 @@
       "pokemonviewcard": 750,
       "vipgameviewcard": 750,
       "weedcooked": 750,
-      "weedgather": 750,
+      "weedgather": 751,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1765820580187,
@@ -112,7 +112,20 @@
       "lastOwnerReport": 1765836538809,
       "hasSentMsg": {
         "cooldown": true
-      }
+      },
+      "weedinventory": {
+        "Weed Leaf": 2,
+        "Rolling Paper": 2,
+        "Lighter": 3,
+        "Paper Crutch": 2,
+        "Seed": 5,
+        "THC Oil": 2,
+        "Dab Tool": 5,
+        "Hydro Pot": 1,
+        "Canvas Sheet": 2,
+        "420 Pineapple": 1
+      },
+      "weedlastGather": 1765876896752
     },
     "228084489916616": {
       "coin": 5000,
@@ -290,5 +303,5 @@
       }
     }
   },
-  "savedAt": 1765876835174
+  "savedAt": 1765876980512
 }
