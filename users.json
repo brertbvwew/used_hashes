@@ -388,39 +388,41 @@
       "xp": 20
     },
     "47623151038553": {
-      "coin": 355307,
+      "coin": 300385444,
       "uid": "23bdfca7-33_b-nebula",
       "username": "@user_23bdfca7-33",
-      "xp": 220,
-      "lastMine": 1765883213908,
-      "lastPhish": 1765882712697,
-      "robSuccess": 25,
-      "lastFreelance": 1765882996961,
-      "lastSpin": 1765883016445,
-      "lastDeliver": 1765883196810,
-      "lastRansom": 1765883323903,
-      "lastBeg": 1765883212169,
-      "begSuccess": 6,
+      "xp": 145,
+      "lastMine": 1765884719964,
+      "lastPhish": 1765884126956,
+      "robSuccess": 33,
+      "lastFreelance": 1765883851274,
+      "lastSpin": 1765883547657,
+      "lastDeliver": 1765884312424,
+      "lastRansom": 1765883962092,
+      "lastBeg": 1765884652038,
+      "begSuccess": 8,
       "lastWork": 1765883257486,
       "workSuccess": 5,
-      "lastClean": 1765883266044,
-      "lastCode": 1765883314022,
-      "lastHack": 1765883248519,
+      "lastClean": 1765884386982,
+      "lastCode": 1765884362971,
+      "lastHack": 1765884853868,
       "lastRob": 1765882669318,
-      "lastSteal": 1765883302018,
-      "StealSuccess": 3,
+      "lastSteal": 1765884658359,
+      "StealSuccess": 4,
       "lastDecrypt": 1765882379355,
-      "lastRepair": 1765883317701,
-      "level": 3,
-      "robbed": 1,
-      "lastRobBank": 1765882892747,
+      "lastRepair": 1765884354764,
+      "level": 4,
+      "robbed": 3,
+      "lastRobBank": 1765884374752,
       "lastRoulette": 1765882814005,
       "lastClaim": {
         "daily": 1765883098896
       },
       "hasSentMsg": {
         "cooldown": true
-      }
+      },
+      "autolevelup": true,
+      "received_total": 299997000
     },
     "198449416917151": {
       "coin": 231583,
@@ -474,5 +476,5 @@
       "lastClean": 1765883287936
     }
   },
-  "savedAt": 1765884866756
+  "savedAt": 1765885057451
 }
