@@ -235,14 +235,14 @@
       "level": 4
     },
     "254511792803874": {
-      "coin": 100367956,
+      "coin": 200366956,
       "uid": "403e88-34_b-nebula",
       "username": "@user_403e88-34",
       "spam": {
         "lastMessage": 1765897562993,
         "count": 1
       },
-      "xp": 95,
+      "xp": 155,
       "lastHack": 1765898009692,
       "robSuccess": 31,
       "lastSteal": 1765898008847,
@@ -260,7 +260,7 @@
       "lastMine": 1765897994285,
       "lastRepair": 1765897997627,
       "lastDeliver": 1765825400459,
-      "received_total": 100044000,
+      "received_total": 200043000,
       "level": 3,
       "lastFlip": 1765826123541,
       "lastSpins": 1765826130366,
@@ -575,5 +575,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1765898271109
+  "savedAt": 1765898851619
 }
