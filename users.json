@@ -630,7 +630,39 @@
       "helpedCount": 0,
       "helperLevel": 1,
       "helperGauge": 0
+    },
+    "151994715099391": {
+      "coin": 139987065,
+      "uid": "132dec0a-31_b-nebula",
+      "username": "@babybear",
+      "xp": 290,
+      "lastWork": 1765869313589,
+      "workSuccess": 1,
+      "lastRansom": 1765869315278,
+      "robSuccess": 1,
+      "lastBuyCoin": 1765869423762,
+      "usedCoupons": [
+        {
+          "hash": "QnZSOUM3MTY6NjVkOTMyMmNhZGU2MTQ4ZGRiNjI1YjY4NjJhMjQxYTU6MTc2NTgxOTI0MDE2OTpCY2xPbzB0bTo3ZmFmM2YzYjU1YmFkMzRiMmM4MWY4MWFiMWMwZGZjYQ==",
+          "md5": "29778e9a3f1071281f3d87e45ca69718",
+          "time": 1765869469984
+        },
+        {
+          "hash": "QnZSOUM3MTY6NjVkOTMyMmNhZGU2MTQ4ZGRiNjI1YjY4NjJhMjQxYTU6MTc2NTgxOTI0MDE2OTpCY2xPbzB0bTo3ZmFmM2YzYjU1YmFkMzRiMmM4MWY4MWFiMWMwZGZjYQ==",
+          "md5": "29778e9a3f1071281f3d87e45ca69718",
+          "time": 1765869490169
+        }
+      ],
+      "lastBuyXP": 1765869469984,
+      "level": 7,
+      "winGame": 15,
+      "lastBuyWin": 1765869490169,
+      "donated_total": 10020000,
+      "robbed": 1,
+      "hasSentMsg": {
+        "cooldown": true
+      }
     }
   },
-  "savedAt": 1765910947635
+  "savedAt": 1765914178965
 }
