@@ -5,17 +5,17 @@
       "uid": "347006cd-38_b-nebula",
       "username": "@user_347006cd-38",
       "spam": {
-        "lastMessage": 1765826146934,
+        "lastMessage": 1765878362733,
         "count": 1
       },
-      "xp": 680,
+      "xp": 740,
       "premium": true,
       "premiumUntil": 1768411054783,
       "lastBuyPremium": 1765819054783,
       "lastOwnerReport": 1765819963446,
       "invPurchases": 1,
       "winGame": 250,
-      "level": 250,
+      "level": 550,
       "robSuccess": 250,
       "robbed": 250,
       "rpgwin": 250,
@@ -32,7 +32,16 @@
       "weedgather": 250,
       "weedsell": 250,
       "weedtrades": 250,
-      "lastAddInv": 1765820360071
+      "lastAddInv": 1765820360071,
+      "clanId": "62e7ed",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null
+        },
+        "inventory": {}
+      }
     },
     "47172313678049": {
       "coin": 1000064324,
@@ -362,5 +371,5 @@
       }
     }
   },
-  "savedAt": 1765877906815
+  "savedAt": 1765878364064
 }
