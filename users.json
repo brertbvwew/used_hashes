@@ -35,11 +35,14 @@
       "lastAddInv": 1765820360071
     },
     "47172313678049": {
-      "coin": 2896,
+      "coin": 1000064324,
       "uid": "1c352a3e-39_b-nebula",
       "username": "@user_1c352a3e-39",
       "robbed": 1,
-      "xp": 40
+      "xp": 40,
+      "premium": true,
+      "premiumUntil": 1768411054783,
+      "lastBuyPremium": 1765819054783,
     },
     "11029962604707": {
       "coin": 7358,
