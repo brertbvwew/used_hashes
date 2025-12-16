@@ -432,7 +432,20 @@
       "lastClaim": {
         "daily": 1765883041001
       }
+    },
+    "129223201173638": {
+      "coin": 13340,
+      "uid": "323aebd9-38_b-nebula",
+      "username": "@user_323aebd9-38",
+      "xp": 300,
+      "lastSpin": 1765883108276,
+      "lastRobBank": 1765883214131,
+      "robSuccess": 4,
+      "lastRob": 1765883226443,
+      "lastPhish": 1765883241405,
+      "lastDeliver": 1765883279528,
+      "lastHack": 1765883293469
     }
   },
-  "savedAt": 1765883474531
+  "savedAt": 1765883517481
 }
