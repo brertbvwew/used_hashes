@@ -389,7 +389,7 @@
       "coin": 10073079,
       "uid": "397c663-31_b-nebula",
       "username": "@areneee",
-      "xp": 305,
+      "xp": 345,
       "robbed": 12,
       "hasSentMsg": {
         "coin": true,
@@ -693,5 +693,5 @@
       "robbed": 3
     }
   },
-  "savedAt": 1765921157086
+  "savedAt": 1765921171952
 }
