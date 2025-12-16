@@ -321,33 +321,7 @@
       },
       "xp": 240,
       "received_total": 1090339432
-    },
-    "151994715099391": {
-      "coin": 150008795,
-      "uid": "132dec0a-31_b-nebula",
-      "username": "@babybear",
-      "xp": 970,
-      "lastWork": 1765869313589,
-      "workSuccess": 1,
-      "lastRansom": 1765869315278,
-      "robSuccess": 1,
-      "lastBuyCoin": 1765869423762,
-      "usedCoupons": [
-        {
-          "hash": "QnZSOUM3MTY6NjVkOTMyMmNhZGU2MTQ4ZGRiNjI1YjY4NjJhMjQxYTU6MTc2NTgxOTI0MDE2OTpCY2xPbzB0bTo3ZmFmM2YzYjU1YmFkMzRiMmM4MWY4MWFiMWMwZGZjYQ==",
-          "md5": "29778e9a3f1071281f3d87e45ca69718",
-          "time": 1765869469984
-        },
-        {
-          "hash": "QnZSOUM3MTY6NjVkOTMyMmNhZGU2MTQ4ZGRiNjI1YjY4NjJhMjQxYTU6MTc2NTgxOTI0MDE2OTpCY2xPbzB0bTo3ZmFmM2YzYjU1YmFkMzRiMmM4MWY4MWFiMWMwZGZjYQ==",
-          "md5": "29778e9a3f1071281f3d87e45ca69718",
-          "time": 1765869490169
-        }
-      ],
-      "lastBuyXP": 1765869469984,
-      "level": 6,
-      "winGame": 15,
-      "lastBuyWin": 1765869490169
+    }
     },
     "184494900424901": {
       "coin": 0,
