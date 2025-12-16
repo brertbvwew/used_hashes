@@ -325,7 +325,21 @@
       "username": "@user_397c663-31",
       "xp": 60,
       "robbed": 3
+    },
+    "243658309779633": {
+      "coin": 0,
+      "uid": "18dfba00-33_b-nebula",
+      "username": "@user_18dfba00-33",
+      "spam": {
+        "lastMessage": 1765876644840,
+        "count": 1
+      },
+      "xp": 140,
+      "robbed": 3,
+      "hasSentMsg": {
+        "coin": true
+      }
     }
   },
-  "savedAt": 1765876633108
+  "savedAt": 1765876645529
 }
