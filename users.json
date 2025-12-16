@@ -44,11 +44,11 @@
       }
     },
     "47172313678049": {
-      "coin": 1000064324,
+      "coin": 1000057731,
       "uid": "1c352a3e-39_b-nebula",
       "username": "@user_1c352a3e-39",
-      "robbed": 250,
-      "xp": 40,
+      "robbed": 252,
+      "xp": 380,
       "premium": true,
       "premiumUntil": 1768411054783,
       "lastBuyPremium": 1765819054783,
@@ -476,5 +476,5 @@
       "lastClean": 1765883287936
     }
   },
-  "savedAt": 1765885057451
+  "savedAt": 1765886938934
 }
