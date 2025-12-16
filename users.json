@@ -511,7 +511,35 @@
         "daily": 1765886257849
       },
       "received_total": 599994000
+    },
+    "188519586758864": {
+      "coin": 29539,
+      "uid": "2910ff4a-34_b-nebula",
+      "username": "@user_2910ff4a-34",
+      "xp": 530,
+      "lastRob": 1765896917139,
+      "robSuccess": 5,
+      "lastRobBank": 1765896918984,
+      "lastPhish": 1765896924665,
+      "hasSentMsg": {
+        "admin": true,
+        "cooldown": true
+      },
+      "autolevelup": false,
+      "lastWork": 1765896997685,
+      "workSuccess": 1,
+      "lastRepair": 1765897002715,
+      "lastClean": 1765897008934,
+      "lastBeg": 1765897018747,
+      "begSuccess": 1,
+      "lastHack": 1765897021682,
+      "lastDecrypt": 1765897028088,
+      "lastCode": 1765897033707,
+      "lastDeliver": 1765897049835,
+      "lastSpins": 1765897076996,
+      "lastSteal": 1765897152618,
+      "StealSuccess": 1
     }
   },
-  "savedAt": 1765896919460
+  "savedAt": 1765897169752
 }
