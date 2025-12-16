@@ -507,7 +507,43 @@
         "cooldown": true
       },
       "lastSpin": 1765886943852
+    },
+    "173001500786812": {
+      "coin": 600231965,
+      "uid": "1ef28550-32_b-nebula",
+      "username": "@user_1ef28550-32",
+      "robbed": 7,
+      "xp": 365,
+      "lastFreelance": 1765886176704,
+      "lastMine": 1765886170820,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastHack": 1765888849568,
+      "robSuccess": 12,
+      "lastCode": 1765879615205,
+      "lastRob": 1765879740997,
+      "lastBeg": 1765879982672,
+      "begSuccess": 2,
+      "lastDecrypt": 1765879754590,
+      "lastRobBank": 1765879780558,
+      "lastSpin": 1765894959572,
+      "lastFlip": 1765879556152,
+      "lastDeliver": 1765879600862,
+      "lastRepair": 1765879606787,
+      "lastWork": 1765879963305,
+      "workSuccess": 2,
+      "lastRansom": 1765879655481,
+      "lastClean": 1765879750679,
+      "lastBlackjack": 1765879794079,
+      "level": 1,
+      "lastPhish": 1765880296718,
+      "autolevelup": true,
+      "lastClaim": {
+        "daily": 1765886257849
+      },
+      "received_total": 599994000
     }
   },
-  "savedAt": 1765894964639
+  "savedAt": 1765895644477
 }
