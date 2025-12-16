@@ -342,7 +342,14 @@
       "hasSentMsg": {
         "coin": true
       }
+    },
+    "106077605646392": {
+      "coin": 355,
+      "uid": "28d70f27-32_b-nebula",
+      "username": "@user_28d70f27-32",
+      "robbed": 1,
+      "xp": 20
     }
   },
-  "savedAt": 1765879759911
+  "savedAt": 1765879825612
 }
