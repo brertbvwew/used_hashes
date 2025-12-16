@@ -38,7 +38,7 @@
       "coin": 1000064324,
       "uid": "1c352a3e-39_b-nebula",
       "username": "@user_1c352a3e-39",
-      "robbed": 1,
+      "robbed": 250,
       "xp": 40,
       "premium": true,
       "premiumUntil": 1768411054783,
@@ -48,7 +48,6 @@
       "winGame": 250,
       "level": 250,
       "robSuccess": 250,
-      "robbed": 250,
       "rpgwin": 250,
       "rpgGather": 250,
       "rpgtrades": 250,
@@ -78,29 +77,29 @@
       "robSuccess": 1
     },
     "148529213390986": {
-      "coin": 1170037256,
+      "coin": 1170064437,
       "uid": "3272c271-36_b-nebula",
       "username": "@SMI.le",
       "spam": {
         "lastMessage": 1765840056620,
         "count": 1
       },
-      "xp": 750,
-      "lastSteal": 1765876723527,
-      "StealSuccess": 4,
-      "lastHack": 1765875480273,
-      "robSuccess": 762,
-      "lastRobBank": 1765875469808,
-      "lastMine": 1765817916104,
-      "lastPhish": 1765875440508,
+      "xp": 400,
+      "lastSteal": 1765877798960,
+      "StealSuccess": 6,
+      "lastHack": 1765877043414,
+      "robSuccess": 766,
+      "lastRobBank": 1765877802451,
+      "lastMine": 1765877792324,
+      "lastPhish": 1765877039975,
       "lastRansom": 1765817934333,
       "lastDecrypt": 1765817938872,
       "lastDeliver": 1765817942675,
-      "lastRepair": 1765817945918,
+      "lastRepair": 1765877785579,
       "autolevelup": true,
-      "lastSpins": 1765817963353,
-      "lastSpin": 1765817967080,
-      "lastRob": 1765876858601,
+      "lastSpins": 1765877819809,
+      "lastSpin": 1765877822501,
+      "lastRob": 1765877805836,
       "winGame": 765,
       "usedCoupons": [
         {
@@ -110,13 +109,13 @@
         }
       ],
       "lastBuyWin": 1765819357175,
-      "lastBeg": 1765820199580,
-      "begSuccess": 1,
+      "lastBeg": 1765877808815,
+      "begSuccess": 2,
       "invPurchases": 3,
-      "level": 752,
-      "robbed": 752,
+      "level": 753,
+      "robbed": 753,
       "rpgwin": 750,
-      "rpgGather": 750,
+      "rpgGather": 751,
       "rpgtrades": 750,
       "rpgcrafted": 750,
       "rpgmonsterfight": 750,
@@ -126,7 +125,7 @@
       "pokemonviewcard": 750,
       "vipgameviewcard": 750,
       "weedcooked": 750,
-      "weedgather": 751,
+      "weedgather": 752,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1765820580187,
@@ -138,18 +137,54 @@
         "cooldown": true
       },
       "weedinventory": {
-        "Weed Leaf": 2,
-        "Rolling Paper": 2,
-        "Lighter": 3,
+        "Weed Leaf": 6,
+        "Rolling Paper": 3,
+        "Lighter": 6,
         "Paper Crutch": 2,
-        "Seed": 5,
+        "Seed": 7,
         "THC Oil": 2,
-        "Dab Tool": 5,
+        "Dab Tool": 10,
         "Hydro Pot": 1,
         "Canvas Sheet": 2,
-        "420 Pineapple": 1
+        "420 Pineapple": 1,
+        "Grinder Part": 1,
+        "Ash": 3,
+        "Metal Lid": 2,
+        "Perlite": 2,
+        "Rolling Tray": 2,
+        "Water Pipe": 3,
+        "Moon Rock": 2
       },
-      "weedlastGather": 1765876896752
+      "weedlastGather": 1765877845418,
+      "rpginventory": {
+        "Apple": 5,
+        "Banana": 3,
+        "Carrot": 1,
+        "Berries": 2,
+        "Coal": 5,
+        "Cabbage": 2,
+        "Elven Silk": 1,
+        "Small Healing Potion": 1,
+        "Silver Coin": 2,
+        "Magic Crystal": 1,
+        "Dragon Bone": 2,
+        "Celestial Shield": 1
+      },
+      "rpglastGather": 1765877054042,
+      "lastCode": 1765877782247,
+      "lastWork": 1765877812337,
+      "workSuccess": 1,
+      "lastDiceDuel": 1765877830620,
+      "lastBlackjack": 1765877836666,
+      "clanId": "282df6",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null
+        },
+        "inventory": {}
+      }
     },
     "228084489916616": {
       "coin": 5000,
@@ -327,5 +362,5 @@
       }
     }
   },
-  "savedAt": 1765876980512
+  "savedAt": 1765877906815
 }
