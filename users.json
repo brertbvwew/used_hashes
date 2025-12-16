@@ -86,18 +86,18 @@
       "robSuccess": 1
     },
     "148529213390986": {
-      "coin": 1706350916,
+      "coin": 1606351964,
       "uid": "3272c271-36_b-nebula",
       "username": "@SMI.le",
       "spam": {
         "lastMessage": 1765840056620,
         "count": 1
       },
-      "xp": 420,
-      "lastSteal": 1765883803844,
-      "StealSuccess": 8,
+      "xp": 800,
+      "lastSteal": 1765887999784,
+      "StealSuccess": 9,
       "lastHack": 1765878512204,
-      "robSuccess": 770,
+      "robSuccess": 771,
       "lastRobBank": 1765878503941,
       "lastMine": 1765878518990,
       "lastPhish": 1765878514947,
@@ -107,8 +107,8 @@
       "lastRepair": 1765878522267,
       "autolevelup": true,
       "lastSpins": 1765878540690,
-      "lastSpin": 1765878548121,
-      "lastRob": 1765878506897,
+      "lastSpin": 1765894512715,
+      "lastRob": 1765888010904,
       "winGame": 765,
       "usedCoupons": [
         {
@@ -122,7 +122,7 @@
       "begSuccess": 3,
       "invPurchases": 3,
       "level": 755,
-      "robbed": 754,
+      "robbed": 755,
       "rpgwin": 750,
       "rpgGather": 751,
       "rpgtrades": 750,
@@ -134,11 +134,11 @@
       "pokemonviewcard": 750,
       "vipgameviewcard": 750,
       "weedcooked": 750,
-      "weedgather": 752,
+      "weedgather": 753,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1765820580187,
-      "donated_total": 530000001,
+      "donated_total": 630000001,
       "lastTagAllTime": 1765830212970,
       "tagAllCount": 1,
       "lastOwnerReport": 1765836538809,
@@ -147,8 +147,8 @@
       },
       "weedinventory": {
         "Weed Leaf": 6,
-        "Rolling Paper": 3,
-        "Lighter": 6,
+        "Rolling Paper": 5,
+        "Lighter": 8,
         "Paper Crutch": 2,
         "Seed": 7,
         "THC Oil": 2,
@@ -157,14 +157,20 @@
         "Canvas Sheet": 2,
         "420 Pineapple": 1,
         "Grinder Part": 1,
-        "Ash": 3,
-        "Metal Lid": 2,
+        "Ash": 4,
+        "Metal Lid": 5,
         "Perlite": 2,
         "Rolling Tray": 2,
         "Water Pipe": 3,
-        "Moon Rock": 2
+        "Moon Rock": 2,
+        "Worm Castings": 1,
+        "Bud": 3,
+        "Kief Dust": 1,
+        "Edible": 2,
+        "Vape Cartridge": 2,
+        "Hash Brick": 3
       },
-      "weedlastGather": 1765877845418,
+      "weedlastGather": 1765887779251,
       "rpginventory": {
         "Apple": 5,
         "Banana": 3,
@@ -495,5 +501,5 @@
       "lastSpin": 1765886943852
     }
   },
-  "savedAt": 1765887037148
+  "savedAt": 1765894949549
 }
