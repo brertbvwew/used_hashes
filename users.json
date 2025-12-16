@@ -235,42 +235,10 @@
       "level": 4
     },
     "254511792803874": {
-      "coin": 300354705,
+      "coin": 5000,
       "uid": "403e88-34_b-nebula",
-      "username": "@AgentNLS",
-      "spam": {
-        "lastMessage": 1765836933122,
-        "count": 1
-      },
-      "xp": 470,
-      "lastHack": 1765826752094,
-      "robSuccess": 26,
-      "lastSteal": 1765826758460,
-      "StealSuccess": 6,
-      "lastBeg": 1765826762001,
-      "begSuccess": 5,
-      "lastDecrypt": 1765826588039,
-      "lastRob": 1765826437590,
-      "lastRobBank": 1765826456181,
-      "lastPhish": 1765826591330,
-      "lastRansom": 1765824487488,
-      "lastWork": 1765826593320,
-      "workSuccess": 4,
-      "lastCode": 1765826598993,
-      "lastMine": 1765825378232,
-      "lastRepair": 1765825387512,
-      "lastDeliver": 1765825400459,
-      "received_total": 300042000,
-      "level": 2,
-      "lastFlip": 1765826123541,
-      "lastSpins": 1765826130366,
-      "lastClaim": {
-        "daily": 1765826814541
-      },
-      "hasSentMsg": {
-        "cooldown": true
-      },
-      "autolevelup": true
+      "username": "@user_403e88-34",
+      "xp": 40
     },
     "246179539501140": {
       "coin": 278999950,
@@ -545,5 +513,5 @@
       "received_total": 599994000
     }
   },
-  "savedAt": 1765896676047
+  "savedAt": 1765896919460
 }
