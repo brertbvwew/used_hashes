@@ -35,62 +35,11 @@
       "lastAddInv": 1765820360071
     },
     "47172313678049": {
-      "coin": 1000755314,
+      "coin": 2896,
       "uid": "1c352a3e-39_b-nebula",
-      "username": "@zestyglock09",
-      "spam": {
-        "lastMessage": 1765824966545,
-        "count": 1
-      },
-      "xp": 820,
-      "hasSentMsg": {
-        "cooldown": true
-      },
-      "robbed": 502,
-      "invPurchases": 2,
-      "winGame": 515,
-      "level": 500,
-      "robSuccess": 500,
-      "rpgwin": 500,
-      "rpgGather": 500,
-      "rpgtrades": 500,
-      "rpgcrafted": 500,
-      "rpgmonsterfight": 500,
-      "yugiohviewcard": 500,
-      "onepiceviewcard": 500,
-      "dragonballviewcard": 500,
-      "pokemonviewcard": 500,
-      "vipgameviewcard": 500,
-      "weedcooked": 500,
-      "weedgather": 501,
-      "weedsell": 500,
-      "weedtrades": 500,
-      "lastAddInv": 1765819286419,
-      "usedCoupons": [
-        {
-          "hash": "WDhiZjJvMUU6YzY0ODZiMzc2MTgxMWIwYjY0ODA4ODU3MmRjZjZmNjc6MTc2NTgxOTI3MjExMDptVTJrcWp4UTo0N2QzMzRkYTIzYmNhNjE4MDAzODIxZTY0ZjhiNzkwNQ==",
-          "md5": "766a7359a275dc917172e5d14d44b5fd",
-          "time": 1765819398840
-        }
-      ],
-      "lastBuyWin": 1765819398840,
-      "lastClaim": {
-        "daily": 1765819574178,
-        "weekly": 1765819588782
-      },
-      "weedinventory": {
-        "Rolling Paper": 4,
-        "Lighter": 2,
-        "Bud": 3,
-        "Rolling Tray": 2,
-        "Sativa Nug": 1,
-        "Resin Chunk": 2,
-        "Hydro Pot": 1
-      },
-      "weedlastGather": 1765819601408,
-      "premium": true,
-      "premiumUntil": 1768413312789,
-      "lastBuyPremium": 1765821312789
+      "username": "@user_1c352a3e-39",
+      "robbed": 1,
+      "xp": 40
     },
     "11029962604707": {
       "coin": 7358,
@@ -341,5 +290,5 @@
       }
     }
   },
-  "savedAt": 1765876645529
+  "savedAt": 1765876835174
 }
