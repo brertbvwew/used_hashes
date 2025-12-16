@@ -474,7 +474,26 @@
       "lastRob": 1765883232276,
       "robSuccess": 1,
       "lastClean": 1765883287936
+    },
+    "261113023316211": {
+      "coin": 17405,
+      "uid": "3b1645e8-31_b-nebula",
+      "username": "@user_3b1645e8-31",
+      "xp": 310,
+      "lastSteal": 1765886605644,
+      "StealSuccess": 2,
+      "lastBeg": 1765886332070,
+      "begSuccess": 1,
+      "lastRob": 1765886398650,
+      "robSuccess": 4,
+      "lastPhish": 1765886407684,
+      "lastRansom": 1765886426899,
+      "lastDecrypt": 1765886431243,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastSpin": 1765886943852
     }
   },
-  "savedAt": 1765886938934
+  "savedAt": 1765887037148
 }
