@@ -445,7 +445,19 @@
       "lastPhish": 1765883241405,
       "lastDeliver": 1765883279528,
       "lastHack": 1765883293469
+    },
+    "139170127282330": {
+      "coin": 10038,
+      "uid": "28422b5a-30_b-nebula",
+      "username": "@user_28422b5a-30",
+      "xp": 180,
+      "lastBeg": 1765882583842,
+      "begSuccess": 1,
+      "lastDeliver": 1765882624392,
+      "lastRob": 1765883232276,
+      "robSuccess": 1,
+      "lastClean": 1765883287936
     }
   },
-  "savedAt": 1765883673725
+  "savedAt": 1765883687094
 }
