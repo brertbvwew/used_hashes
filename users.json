@@ -662,7 +662,18 @@
       "hasSentMsg": {
         "cooldown": true
       }
+    },
+    "235858498158618": {
+      "coin": 9999000,
+      "uid": "136556f7-38_b-nebula",
+      "username": "@user_136556f7-38",
+      "robbed": 2,
+      "xp": 340,
+      "hasSentMsg": {
+        "coin": true
+      },
+      "received_total": 9999000
     }
   },
-  "savedAt": 1765914178965
+  "savedAt": 1765921131740
 }
