@@ -235,33 +235,33 @@
       "level": 4
     },
     "254511792803874": {
-      "coin": 100345336,
+      "coin": 100367956,
       "uid": "403e88-34_b-nebula",
       "username": "@user_403e88-34",
       "spam": {
         "lastMessage": 1765897562993,
         "count": 1
       },
-      "xp": 410,
-      "lastHack": 1765826752094,
-      "robSuccess": 26,
-      "lastSteal": 1765826758460,
-      "StealSuccess": 6,
-      "lastBeg": 1765826762001,
-      "begSuccess": 5,
-      "lastDecrypt": 1765826588039,
-      "lastRob": 1765826437590,
-      "lastRobBank": 1765826456181,
-      "lastPhish": 1765826591330,
+      "xp": 95,
+      "lastHack": 1765898009692,
+      "robSuccess": 31,
+      "lastSteal": 1765898008847,
+      "StealSuccess": 7,
+      "lastBeg": 1765898007231,
+      "begSuccess": 6,
+      "lastDecrypt": 1765898006338,
+      "lastRob": 1765898003792,
+      "lastRobBank": 1765898002312,
+      "lastPhish": 1765898004870,
       "lastRansom": 1765824487488,
-      "lastWork": 1765826593320,
-      "workSuccess": 4,
-      "lastCode": 1765826598993,
-      "lastMine": 1765825378232,
-      "lastRepair": 1765825387512,
+      "lastWork": 1765898000063,
+      "workSuccess": 5,
+      "lastCode": 1765897998502,
+      "lastMine": 1765897994285,
+      "lastRepair": 1765897997627,
       "lastDeliver": 1765825400459,
       "received_total": 100044000,
-      "level": 2,
+      "level": 3,
       "lastFlip": 1765826123541,
       "lastSpins": 1765826130366,
       "lastClaim": {
@@ -270,7 +270,9 @@
       "hasSentMsg": {
         "cooldown": true
       },
-      "robbed": 4
+      "robbed": 4,
+      "autolevelup": true,
+      "lastFreelance": 1765898241025
     },
     "246179539501140": {
       "coin": 278999950,
@@ -573,5 +575,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1765897563767
+  "savedAt": 1765898271109
 }
