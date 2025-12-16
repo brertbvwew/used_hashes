@@ -318,7 +318,14 @@
       "level": 6,
       "winGame": 15,
       "lastBuyWin": 1765869490169
+    },
+    "184494900424901": {
+      "coin": 0,
+      "uid": "397c663-31_b-nebula",
+      "username": "@user_397c663-31",
+      "xp": 60,
+      "robbed": 3
     }
   },
-  "savedAt": 1765875447214
+  "savedAt": 1765875463913
 }
