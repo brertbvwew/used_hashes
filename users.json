@@ -772,7 +772,19 @@
       "uid": "30b8cee5-30_b-nebula",
       "username": "@user_30b8cee5-30",
       "xp": 80
+    },
+    "27692151017": {
+      "coin": 1199996944,
+      "uid": "19de1cda-37_b-nebula",
+      "username": "@user_19de1cda-37",
+      "xp": 340,
+      "invPurchases": 0,
+      "received_total": 1199988000,
+      "lastHack": 1765972002277,
+      "robSuccess": 1,
+      "lastSteal": 1765972090875,
+      "StealSuccess": 1
     }
   },
-  "savedAt": 1765970220609
+  "savedAt": 1765972177437
 }
