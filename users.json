@@ -633,18 +633,25 @@
       "StealSuccess": 1
     },
     "80110333988926": {
-      "coin": 899995500,
+      "coin": 3499969714,
       "uid": "30c79ed3-36_b-nebula",
       "username": "@user_30c79ed3-36",
-      "xp": 240,
-      "received_total": 899991000,
+      "xp": 440,
+      "received_total": 3499965000,
       "lastOwnerReport": 1765904626738,
       "lastSpin": 1765904845501,
       "isHelper": true,
-      "helperXP": 0,
+      "helperXP": 50,
       "helpedCount": 0,
       "helperLevel": 1,
-      "helperGauge": 0
+      "helperGauge": 0,
+      "tasksCompleted": 1,
+      "lastTaskTimestamp": 1765909982255,
+      "lastRob": 1765910312889,
+      "robSuccess": 1,
+      "lastSteal": 1765910317974,
+      "StealSuccess": 1,
+      "robbed": 1
     },
     "151994715099391": {
       "coin": 140003440,
@@ -761,5 +768,5 @@
       "lastRobBank": 1765962901100
     }
   },
-  "savedAt": 1765965767982
+  "savedAt": 1765969912447
 }
