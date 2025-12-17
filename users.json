@@ -656,8 +656,8 @@
     "151994715099391": {
       "coin": 140003440,
       "uid": "132dec0a-31_b-nebula",
-      "username": "@babybear",
-      "xp": 280,
+      "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
+      "xp": 320,
       "lastWork": 1765928314177,
       "workSuccess": 3,
       "lastRansom": 1765921322510,
@@ -786,5 +786,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1765980700723
+  "savedAt": 1765996906466
 }
