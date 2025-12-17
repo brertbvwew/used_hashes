@@ -714,7 +714,22 @@
       "lastSteal": 1765920553543,
       "StealSuccess": 5,
       "robbed": 3
+    },
+    "155942326911020": {
+      "coin": 23454,
+      "uid": "3318f73e-30_b-nebula",
+      "username": "@user_3318f73e-30",
+      "robbed": 2,
+      "xp": 150,
+      "hasSentMsg": {
+        "coin": true
+      },
+      "received_total": 19000,
+      "lastWork": 1765962357242,
+      "workSuccess": 1,
+      "lastRansom": 1765962366641,
+      "robSuccess": 1
     }
   },
-  "savedAt": 1765962364031
+  "savedAt": 1765962375560
 }
