@@ -117,28 +117,19 @@
       "lastTaskTimestamp": 1765909971557
     },
     "11029962604707": {
-      "coin": 45431,
+      "coin": 21031,
       "uid": "1de24a6e-37_b-nebula",
       "username": "@user_1de24a6e-37",
-      "xp": 910,
-      "lastWork": 1765925627001,
-      "workSuccess": 3,
-      "lastBeg": 1765900186027,
-      "begSuccess": 1,
-      "lastRob": 1765925608400,
-      "robSuccess": 8,
-      "lastSteal": 1765925593579,
-      "StealSuccess": 4,
-      "lastMine": 1765925689223,
-      "lastRobBank": 1765924832085,
-      "lastClean": 1765925635515,
-      "lastDeliver": 1765925646141,
-      "lastSpins": 1765925703292,
-      "lastSpin": 1765925262216,
-      "lastHack": 1765925277595,
-      "lastRansom": 1765925665136,
-      "lastPhish": 1765925668706,
-      "lastCode": 1765925688464
+      "xp": 180,
+      "lastRobBank": 1765999126401,
+      "robSuccess": 1,
+      "lastSteal": 1765999132876,
+      "StealSuccess": 1,
+      "lastMine": 1765999145724,
+      "lastWork": 1765999185749,
+      "workSuccess": 1,
+      "lastClean": 1765999189787,
+      "lastDeliver": 1765999207600
     },
     "148529213390986": {
       "coin": 1606351964,
@@ -789,5 +780,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1765998662150
+  "savedAt": 1765999232783
 }
