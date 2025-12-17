@@ -1,14 +1,14 @@
 {
   "user": {
     "202095793848538": {
-      "coin": 1100176045,
+      "coin": 1100159901,
       "uid": "347006cd-38_b-nebula",
       "username": "@sex",
       "spam": {
         "lastMessage": 1765878362733,
         "count": 1
       },
-      "xp": 80,
+      "xp": 160,
       "premium": true,
       "premiumUntil": 1768411054783,
       "lastBuyPremium": 1765819054783,
@@ -42,7 +42,8 @@
         },
         "inventory": {}
       },
-      "received_total": 599994000
+      "received_total": 599994000,
+      "donated_total": 20000
     },
     "47172313678049": {
       "coin": 1000062764,
@@ -715,5 +716,5 @@
       "robbed": 3
     }
   },
-  "savedAt": 1765958502283
+  "savedAt": 1765962364031
 }
