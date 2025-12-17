@@ -250,45 +250,45 @@
       "level": 4
     },
     "254511792803874": {
-      "coin": 5000132531,
+      "coin": 5000345167,
       "uid": "403e88-34_b-nebula",
       "username": "@user_403e88-34",
       "spam": {
         "lastMessage": 1765897562993,
         "count": 1
       },
-      "xp": 825,
-      "lastHack": 1765996434587,
-      "robSuccess": 34,
-      "lastSteal": 1765996444327,
-      "StealSuccess": 8,
-      "lastBeg": 1765996449626,
-      "begSuccess": 7,
-      "lastDecrypt": 1765898006338,
-      "lastRob": 1765898003792,
-      "lastRobBank": 1765898002312,
+      "xp": 650,
+      "lastHack": 1766014136498,
+      "robSuccess": 39,
+      "lastSteal": 1766014139467,
+      "StealSuccess": 9,
+      "lastBeg": 1766014141511,
+      "begSuccess": 8,
+      "lastDecrypt": 1766014159420,
+      "lastRob": 1766014146254,
+      "lastRobBank": 1766014156758,
       "lastPhish": 1765996457289,
-      "lastRansom": 1765996478647,
-      "lastWork": 1765996464398,
-      "workSuccess": 6,
-      "lastCode": 1765996467035,
-      "lastMine": 1765897994285,
-      "lastRepair": 1765897997627,
-      "lastDeliver": 1765825400459,
+      "lastRansom": 1766014166761,
+      "lastWork": 1766014186876,
+      "workSuccess": 7,
+      "lastCode": 1766014189916,
+      "lastMine": 1766014205157,
+      "lastRepair": 1766014210896,
+      "lastDeliver": 1766014214131,
       "received_total": 5199993000,
-      "level": 10,
+      "level": 11,
       "lastFlip": 1765826123541,
-      "lastSpins": 1765980640274,
+      "lastSpins": 1766014237255,
       "lastClaim": {
-        "daily": 1765826814541
+        "daily": 1766012840373
       },
       "hasSentMsg": {
         "cooldown": true
       },
       "robbed": 5,
       "autolevelup": true,
-      "lastFreelance": 1765898241025,
-      "lastBlackjack": 1765980646536,
+      "lastFreelance": 1766014208082,
+      "lastBlackjack": 1766014242810,
       "donated_total": 200200000,
       "usedCoupons": [
         {
@@ -759,5 +759,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1766003698159
+  "savedAt": 1766014649743
 }
