@@ -667,15 +667,10 @@
       }
     },
     "235858498158618": {
-      "coin": 9999000,
+      "coin": 5000,
       "uid": "136556f7-38_b-nebula",
       "username": "@user_136556f7-38",
-      "robbed": 2,
-      "xp": 340,
-      "hasSentMsg": {
-        "coin": true
-      },
-      "received_total": 9999000
+      "xp": 40
     },
     "134652023050243": {
       "coin": 26808,
@@ -759,5 +754,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1766014649743
+  "savedAt": 1766015454277
 }
