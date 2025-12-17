@@ -729,7 +729,37 @@
       "workSuccess": 1,
       "lastRansom": 1765962366641,
       "robSuccess": 1
+    },
+    "106262373089483": {
+      "coin": 39128,
+      "uid": "29ec6256-33_b-nebula",
+      "username": "@⚖♰Cᴀʟʟ✘Mᴇ✘Dᴀᴅᴅʏ♰⚖",
+      "robbed": 2,
+      "xp": 100,
+      "hasSentMsg": {
+        "coin": true,
+        "cooldown": true
+      },
+      "received_total": 4000,
+      "lastWork": 1765962880580,
+      "workSuccess": 5,
+      "lastHack": 1765962885990,
+      "robSuccess": 7,
+      "autolevelup": true,
+      "lastMine": 1765960779466,
+      "lastBeg": 1765958875758,
+      "begSuccess": 1,
+      "lastCode": 1765962888069,
+      "inventory": [
+        "x3coin",
+        "x3coin"
+      ],
+      "lastPhish": 1765959229830,
+      "lastClean": 1765962905777,
+      "level": 2,
+      "lastRob": 1765962897045,
+      "lastRobBank": 1765962901100
     }
   },
-  "savedAt": 1765962375560
+  "savedAt": 1765965767982
 }
