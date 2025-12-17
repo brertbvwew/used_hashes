@@ -45,17 +45,17 @@
       "received_total": 599994000
     },
     "47172313678049": {
-      "coin": 1000052814,
+      "coin": 1000062764,
       "uid": "1c352a3e-39_b-nebula",
       "username": "@zestyglock09",
       "robbed": 253,
-      "xp": 90,
+      "xp": 750,
       "premium": true,
       "premiumUntil": 1768411054783,
       "lastBuyPremium": 1765819054783,
       "lastOwnerReport": 1765819963446,
       "invPurchases": 1,
-      "winGame": 250,
+      "winGame": 251,
       "level": 251,
       "robSuccess": 250,
       "rpgwin": 250,
@@ -102,16 +102,18 @@
       "rpgmonsterHealth": 78,
       "rpglastFight": 1765887832024,
       "rpghealth": 100,
-      "lastTagAllTime": 1765904146031,
+      "lastTagAllTime": 1765921235535,
       "tagAllCount": 1,
       "hasSentMsg": {
         "admin": true
       },
       "isHelper": true,
-      "helperXP": 0,
+      "helperXP": 50,
       "helpedCount": 0,
       "helperLevel": 1,
-      "helperGauge": 0
+      "helperGauge": 0,
+      "tasksCompleted": 1,
+      "lastTaskTimestamp": 1765909971557
     },
     "11029962604707": {
       "coin": 45431,
@@ -713,5 +715,5 @@
       "robbed": 3
     }
   },
-  "savedAt": 1765955287088
+  "savedAt": 1765958502283
 }
