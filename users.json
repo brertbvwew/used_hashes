@@ -281,35 +281,35 @@
       "level": 4
     },
     "254511792803874": {
-      "coin": 5100316244,
+      "coin": 5000132531,
       "uid": "403e88-34_b-nebula",
       "username": "@user_403e88-34",
       "spam": {
         "lastMessage": 1765897562993,
         "count": 1
       },
-      "xp": 515,
-      "lastHack": 1765898009692,
-      "robSuccess": 31,
-      "lastSteal": 1765898008847,
-      "StealSuccess": 7,
-      "lastBeg": 1765898007231,
-      "begSuccess": 6,
+      "xp": 825,
+      "lastHack": 1765996434587,
+      "robSuccess": 34,
+      "lastSteal": 1765996444327,
+      "StealSuccess": 8,
+      "lastBeg": 1765996449626,
+      "begSuccess": 7,
       "lastDecrypt": 1765898006338,
       "lastRob": 1765898003792,
       "lastRobBank": 1765898002312,
-      "lastPhish": 1765898004870,
-      "lastRansom": 1765824487488,
-      "lastWork": 1765898000063,
-      "workSuccess": 5,
-      "lastCode": 1765897998502,
+      "lastPhish": 1765996457289,
+      "lastRansom": 1765996478647,
+      "lastWork": 1765996464398,
+      "workSuccess": 6,
+      "lastCode": 1765996467035,
       "lastMine": 1765897994285,
       "lastRepair": 1765897997627,
       "lastDeliver": 1765825400459,
-      "received_total": 5099994000,
-      "level": 3,
+      "received_total": 5199993000,
+      "level": 10,
       "lastFlip": 1765826123541,
-      "lastSpins": 1765826130366,
+      "lastSpins": 1765980640274,
       "lastClaim": {
         "daily": 1765826814541
       },
@@ -318,7 +318,17 @@
       },
       "robbed": 5,
       "autolevelup": true,
-      "lastFreelance": 1765898241025
+      "lastFreelance": 1765898241025,
+      "lastBlackjack": 1765980646536,
+      "donated_total": 200200000,
+      "usedCoupons": [
+        {
+          "hash": "b2hsdlU1QU46YTFkNzRhZjM5NmEwZjMxNjMzOGI2NTUyNmM4ZWViYmM6MTc2NTk5NTgwMDMzNzpSVGRySUd4RTo3NWEwYzcwZDlhYTcyNTk1NmMzZWRmMGQ5ODdkY2Q4ZQ==",
+          "md5": "45a7659f6744325098fbc46b03d3a42e",
+          "time": 1765996295704
+        }
+      ],
+      "lastBuyXP": 1765996295704
     },
     "246179539501140": {
       "coin": 278999950,
@@ -780,5 +790,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1765999232783
+  "savedAt": 1765999550624
 }
