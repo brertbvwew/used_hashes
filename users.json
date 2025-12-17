@@ -1,49 +1,10 @@
 {
   "user": {
     "202095793848538": {
-      "coin": 1100159901,
+      "coin": 86966,
       "uid": "347006cd-38_b-nebula",
-      "username": "@sex",
-      "spam": {
-        "lastMessage": 1765878362733,
-        "count": 1
-      },
-      "xp": 160,
-      "premium": true,
-      "premiumUntil": 1768411054783,
-      "lastBuyPremium": 1765819054783,
-      "lastOwnerReport": 1765819963446,
-      "invPurchases": 1,
-      "winGame": 250,
-      "level": 551,
-      "robSuccess": 250,
-      "robbed": 250,
-      "rpgwin": 250,
-      "rpgGather": 250,
-      "rpgtrades": 250,
-      "rpgcrafted": 250,
-      "rpgmonsterfight": 250,
-      "yugiohviewcard": 250,
-      "onepiceviewcard": 250,
-      "dragonballviewcard": 250,
-      "pokemonviewcard": 250,
-      "vipgameviewcard": 250,
-      "weedcooked": 250,
-      "weedgather": 250,
-      "weedsell": 250,
-      "weedtrades": 250,
-      "lastAddInv": 1765820360071,
-      "clanId": "62e7ed",
-      "gear": {
-        "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": null
-        },
-        "inventory": {}
-      },
-      "received_total": 599994000,
-      "donated_total": 20000
+      "username": "@user_347006cd-38",
+      "xp": 60
     },
     "47172313678049": {
       "coin": 1000062764,
@@ -793,5 +754,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1765999562165
+  "savedAt": 1766000529720
 }
