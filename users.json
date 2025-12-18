@@ -752,7 +752,39 @@
       "robSuccess": 1,
       "lastSteal": 1765972090875,
       "StealSuccess": 1
+    },
+    "259150323957933": {
+      "coin": 282217,
+      "uid": "2e4133d4-33_b-nebula",
+      "username": "@user_2e4133d4-33",
+      "xp": 255,
+      "autolevelup": true,
+      "lastBeg": 1766041577299,
+      "begSuccess": 3,
+      "lastClean": 1766041578689,
+      "lastCode": 1766041582479,
+      "lastDeliver": 1766041586455,
+      "lastDecrypt": 1766041589183,
+      "robSuccess": 17,
+      "lastFreelance": 1766041593180,
+      "lastHack": 1766041596618,
+      "lastMine": 1766041598529,
+      "lastPhish": 1766041704141,
+      "lastRansom": 1766041703758,
+      "lastRob": 1766041765141,
+      "lastRobBank": 1766041770350,
+      "lastSteal": 1766041772378,
+      "StealSuccess": 3,
+      "lastWork": 1766041773849,
+      "workSuccess": 3,
+      "lastFlip": 1766041830181,
+      "level": 1,
+      "lastRepair": 1766041763490,
+      "lastClaim": {
+        "daily": 1766041790212
+      },
+      "lastSpin": 1766041837972
     }
   },
-  "savedAt": 1766015454277
+  "savedAt": 1766045089499
 }
