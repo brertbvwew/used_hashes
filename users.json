@@ -772,7 +772,7 @@
       "coin": 150443521,
       "uid": "2e4133d4-33_b-nebula",
       "username": "@demian_jr",
-      "xp": 350,
+      "xp": 430,
       "autolevelup": true,
       "lastBeg": 1766090472810,
       "begSuccess": 9,
@@ -846,5 +846,5 @@
       "received_total": 639993000
     }
   },
-  "savedAt": 1766092310366
+  "savedAt": 1766092482685
 }
