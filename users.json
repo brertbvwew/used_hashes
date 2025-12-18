@@ -838,13 +838,13 @@
       "robSuccess": 1
     },
     "230880849186992": {
-      "coin": 2479971225,
+      "coin": 2759967225,
       "uid": "2a529a18-32_b-nebula",
       "username": "@user_2a529a18-32",
       "robbed": 2,
-      "xp": 360,
-      "received_total": 2479971000
+      "xp": 380,
+      "received_total": 2759967000
     }
   },
-  "savedAt": 1766095510418
+  "savedAt": 1766095588040
 }
