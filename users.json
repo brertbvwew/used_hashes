@@ -815,7 +815,17 @@
       "hasSentMsg": {
         "admin": true
       }
+    },
+    "172830188666914": {
+      "coin": 100002012,
+      "uid": "30ebc6c1-34_b-nebula",
+      "username": "@user_30ebc6c1-34",
+      "xp": 150,
+      "robbed": 2,
+      "received_total": 99999000,
+      "lastRob": 1766081976802,
+      "robSuccess": 1
     }
   },
-  "savedAt": 1766067509913
+  "savedAt": 1766082029430
 }
