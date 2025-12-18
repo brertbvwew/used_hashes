@@ -849,11 +849,11 @@
       "coin": 5000,
       "uid": "857a11c-35_b-nebula",
       "username": "@user_857a11c-35",
-      "xp": 60,
+      "xp": 200,
       "hasSentMsg": {
         "cooldown": true
       }
     }
   },
-  "savedAt": 1766096154852
+  "savedAt": 1766096531816
 }
