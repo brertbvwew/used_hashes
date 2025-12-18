@@ -769,32 +769,32 @@
       "StealSuccess": 1
     },
     "259150323957933": {
-      "coin": 50420619,
+      "coin": 150443521,
       "uid": "2e4133d4-33_b-nebula",
-      "username": "@user_2e4133d4-33",
-      "xp": 705,
+      "username": "@demian_jr",
+      "xp": 290,
       "autolevelup": true,
-      "lastBeg": 1766086468498,
-      "begSuccess": 7,
-      "lastClean": 1766086486882,
-      "lastCode": 1766086487687,
-      "lastDeliver": 1766084515903,
+      "lastBeg": 1766090472810,
+      "begSuccess": 9,
+      "lastClean": 1766090485757,
+      "lastCode": 1766090484816,
+      "lastDeliver": 1766090484810,
       "lastDecrypt": 1766086500010,
-      "robSuccess": 33,
-      "lastFreelance": 1766086503031,
+      "robSuccess": 36,
+      "lastFreelance": 1766090494369,
       "lastHack": 1766086506412,
-      "lastMine": 1766086533965,
-      "lastPhish": 1766086547275,
+      "lastMine": 1766090501455,
+      "lastPhish": 1766090505422,
       "lastRansom": 1766086548101,
-      "lastRob": 1766086552772,
-      "lastRobBank": 1766085873761,
+      "lastRob": 1766090535370,
+      "lastRobBank": 1766090544913,
       "lastSteal": 1766085876467,
       "StealSuccess": 6,
       "lastWork": 1766085883335,
       "workSuccess": 6,
       "lastFlip": 1766045286148,
-      "level": 2,
-      "lastRepair": 1766085868266,
+      "level": 3,
+      "lastRepair": 1766090524764,
       "lastClaim": {
         "daily": 1766041790212
       },
@@ -803,7 +803,7 @@
         "cooldown": true
       },
       "robbed": 2,
-      "received_total": 50048000
+      "received_total": 150047000
     },
     "140535725592601": {
       "coin": 22342,
@@ -838,5 +838,5 @@
       "robSuccess": 1
     }
   },
-  "savedAt": 1766091093802
+  "savedAt": 1766091230077
 }
