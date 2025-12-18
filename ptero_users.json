@@ -1,3 +1,10 @@
 {
-  "users": {}
+  "users": {
+    "admin1": {
+      "pteroId": 14,
+      "username": "admin1",
+      "expiryDate": "2025-12-18T14:27:34.320Z",
+      "suspended": false
+    }
+  }
 }
