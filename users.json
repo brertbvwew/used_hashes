@@ -255,21 +255,21 @@
       "level": 4
     },
     "254511792803874": {
-      "coin": 5000335957,
+      "coin": 5200338293,
       "uid": "403e88-34_b-nebula",
       "username": "@dark",
       "spam": {
         "lastMessage": 1765897562993,
         "count": 1
       },
-      "xp": 50,
-      "lastHack": 1766014136498,
-      "robSuccess": 39,
-      "lastSteal": 1766014139467,
-      "StealSuccess": 9,
-      "lastBeg": 1766014141511,
-      "begSuccess": 8,
-      "lastDecrypt": 1766014159420,
+      "xp": 350,
+      "lastHack": 1766085843094,
+      "robSuccess": 41,
+      "lastSteal": 1766085845051,
+      "StealSuccess": 10,
+      "lastBeg": 1766085846951,
+      "begSuccess": 9,
+      "lastDecrypt": 1766085848835,
       "lastRob": 1766014146254,
       "lastRobBank": 1766014156758,
       "lastPhish": 1765996457289,
@@ -280,7 +280,7 @@
       "lastMine": 1766014205157,
       "lastRepair": 1766014210896,
       "lastDeliver": 1766014214131,
-      "received_total": 5199993000,
+      "received_total": 5399991000,
       "level": 12,
       "lastFlip": 1765826123541,
       "lastSpins": 1766014237255,
@@ -290,7 +290,7 @@
       "hasSentMsg": {
         "cooldown": true
       },
-      "robbed": 7,
+      "robbed": 8,
       "autolevelup": true,
       "lastFreelance": 1766014208082,
       "lastBlackjack": 1766014242810,
@@ -832,5 +832,5 @@
       "robSuccess": 1
     }
   },
-  "savedAt": 1766086256966
+  "savedAt": 1766086774704
 }
