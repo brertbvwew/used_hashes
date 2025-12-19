@@ -757,16 +757,25 @@
       "xp": 80
     },
     "27692151017": {
-      "coin": 1199996944,
+      "coin": 1200019355,
       "uid": "19de1cda-37_b-nebula",
       "username": "@user_19de1cda-37",
-      "xp": 340,
+      "xp": 650,
       "invPurchases": 0,
       "received_total": 1199988000,
-      "lastHack": 1765972002277,
-      "robSuccess": 1,
-      "lastSteal": 1765972090875,
-      "StealSuccess": 1
+      "lastHack": 1766171116380,
+      "robSuccess": 4,
+      "lastSteal": 1766171118449,
+      "StealSuccess": 2,
+      "lastBeg": 1766171119922,
+      "begSuccess": 1,
+      "lastDecrypt": 1766171139370,
+      "lastPhish": 1766171143485,
+      "lastWork": 1766171145204,
+      "workSuccess": 1,
+      "lastCode": 1766171147149,
+      "lastMine": 1766171149922,
+      "lastRepair": 1766171153382
     },
     "259150323957933": {
       "coin": 150443521,
@@ -855,5 +864,5 @@
       }
     }
   },
-  "savedAt": 1766144428288
+  "savedAt": 1766171162100
 }
