@@ -257,12 +257,12 @@
     "254511792803874": {
       "coin": 6199832800,
       "uid": "403e88-34_b-nebula",
-      "username": "@dark",
+      "username": "@AgentNLS",
       "spam": {
         "lastMessage": 1765897562993,
         "count": 1
       },
-      "xp": 50,
+      "xp": 350,
       "lastHack": 1766143531817,
       "robSuccess": 42,
       "lastSteal": 1766143537476,
@@ -864,5 +864,5 @@
       }
     }
   },
-  "savedAt": 1766171162100
+  "savedAt": 1766175412135
 }
