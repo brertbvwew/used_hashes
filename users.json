@@ -301,18 +301,6 @@
       "lastFreelance": 1766196802890,
       "lastBlackjack": 1766192338546,
       "donated_total": 250700000,
-      "usedCoupons": [
-        {
-          "hash": "b2hsdlU1QU46YTFkNzRhZjM5NmEwZjMxNjMzOGI2NTUyNmM4ZWViYmM6MTc2NTk5NTgwMDMzNzpSVGRySUd4RTo3NWEwYzcwZDlhYTcyNTk1NmMzZWRmMGQ5ODdkY2Q4ZQ==",
-          "md5": "45a7659f6744325098fbc46b03d3a42e",
-          "time": 1765996295704
-        },
-        {
-          "hash": "VHE4ZEZXMWs6NGZhOTQ2MmExZGY1MGU3M2UzY2Q1YTc5MTMyNjExNDg6MTc2NjI1MDMxNjUzNTpiMXlJc2xKUzoyNjhlYmJjMjZiYTZhYTYwYzZmYjUxOGY0YTkyMTkzNA==",
-          "md5": "8cea1b356ebd20a7fcdc25c994adbf5c",
-          "time": 1766250427993
-        }
-      ],
       "lastBuyXP": 1766250427993,
       "crashGame": {
         "betAmount": 3000,
@@ -378,9 +366,6 @@
         "Felgrand Dragon"
       ],
       "lastBuy": 1766193598105,
-      "premium": true,
-      "premiumUntil": 1768842177275,
-      "lastBuyPremium": 1766250177275
     },
     "246179539501140": {
       "coin": 428985688,
