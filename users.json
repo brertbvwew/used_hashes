@@ -78,23 +78,23 @@
       "lastTaskTimestamp": 1765909971557
     },
     "11029962604707": {
-      "coin": 100188036,
+      "coin": 100399126,
       "uid": "1de24a6e-37_b-nebula",
       "username": "@user_1de24a6e-37",
-      "xp": 130,
-      "lastRobBank": 1766000235866,
-      "robSuccess": 6,
-      "lastSteal": 1766000240454,
-      "StealSuccess": 2,
+      "xp": 400,
+      "lastRobBank": 1766196139958,
+      "robSuccess": 10,
+      "lastSteal": 1766196146648,
+      "StealSuccess": 3,
       "lastMine": 1766000222528,
-      "lastWork": 1766085947987,
-      "workSuccess": 3,
-      "lastClean": 1766085953503,
-      "lastDeliver": 1766085962448,
-      "lastPhish": 1766000225322,
-      "lastRansom": 1765999265459,
+      "lastWork": 1766196102387,
+      "workSuccess": 4,
+      "lastClean": 1766196104445,
+      "lastDeliver": 1766196157500,
+      "lastPhish": 1766196106536,
+      "lastRansom": 1766196135987,
       "received_total": 99999000,
-      "lastRob": 1766000237571,
+      "lastRob": 1766196142736,
       "lastSpin": 1766000437129,
       "lastBeg": 1766000463982,
       "begSuccess": 1,
@@ -102,7 +102,7 @@
       "level": 1,
       "donated_total": 50000,
       "lastClaim": {
-        "daily": 1766086243427
+        "daily": 1766196116242
       }
     },
     "148529213390986": {
@@ -907,5 +907,5 @@
       }
     }
   },
-  "savedAt": 1766195129569
+  "savedAt": 1766196168600
 }
