@@ -1,11 +1,15 @@
 {
   "user": {
     "202095793848538": {
-      "coin": 28072,
+      "coin": 28572,
       "robbed": 2,
       "uid": "347006cd-38_b-nebula",
       "username": "@user_347006cd-38",
-      "xp": 60
+      "xp": 200,
+      "hasSentMsg": {
+        "premium": true,
+        "cooldown": true
+      }
     },
     "47172313678049": {
       "coin": 1000062764,
@@ -947,5 +951,5 @@
       "level": 1
     }
   },
-  "savedAt": 1766248596956
+  "savedAt": 1766248810607
 }
