@@ -260,14 +260,14 @@
       "level": 4
     },
     "254511792803874": {
-      "coin": 6150458802,
+      "coin": 6150456005,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
       "spam": {
         "lastMessage": 1765897562993,
         "count": 1
       },
-      "xp": 245,
+      "xp": 5045,
       "lastHack": 1766196737019,
       "robSuccess": 56,
       "lastSteal": 1766196738847,
@@ -286,7 +286,7 @@
       "lastRepair": 1766196809898,
       "lastDeliver": 1766196815497,
       "received_total": 6399981000,
-      "level": 16,
+      "level": 18,
       "lastFlip": 1766191524690,
       "lastSpins": 1766191528525,
       "lastClaim": {
@@ -296,7 +296,7 @@
       "hasSentMsg": {
         "cooldown": true
       },
-      "robbed": 8,
+      "robbed": 9,
       "autolevelup": true,
       "lastFreelance": 1766196802890,
       "lastBlackjack": 1766192338546,
@@ -306,9 +306,14 @@
           "hash": "b2hsdlU1QU46YTFkNzRhZjM5NmEwZjMxNjMzOGI2NTUyNmM4ZWViYmM6MTc2NTk5NTgwMDMzNzpSVGRySUd4RTo3NWEwYzcwZDlhYTcyNTk1NmMzZWRmMGQ5ODdkY2Q4ZQ==",
           "md5": "45a7659f6744325098fbc46b03d3a42e",
           "time": 1765996295704
+        },
+        {
+          "hash": "VHE4ZEZXMWs6NGZhOTQ2MmExZGY1MGU3M2UzY2Q1YTc5MTMyNjExNDg6MTc2NjI1MDMxNjUzNTpiMXlJc2xKUzoyNjhlYmJjMjZiYTZhYTYwYzZmYjUxOGY0YTkyMTkzNA==",
+          "md5": "8cea1b356ebd20a7fcdc25c994adbf5c",
+          "time": 1766250427993
         }
       ],
-      "lastBuyXP": 1765996295704,
+      "lastBuyXP": 1766250427993,
       "crashGame": {
         "betAmount": 3000,
         "crashPoint": 3.68,
@@ -372,7 +377,10 @@
         "Blackwing - Hurricane the Tornado",
         "Felgrand Dragon"
       ],
-      "lastBuy": 1766193598105
+      "lastBuy": 1766193598105,
+      "premium": true,
+      "premiumUntil": 1768842177275,
+      "lastBuyPremium": 1766250177275
     },
     "246179539501140": {
       "coin": 428985688,
@@ -954,5 +962,5 @@
       "level": 1
     }
   },
-  "savedAt": 1766249548607
+  "savedAt": 1766250578354
 }
