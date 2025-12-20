@@ -255,14 +255,14 @@
       "level": 4
     },
     "254511792803874": {
-      "coin": 6200440115,
+      "coin": 6200439634,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
       "spam": {
         "lastMessage": 1765897562993,
         "count": 1
       },
-      "xp": 380,
+      "xp": 740,
       "lastHack": 1766192297973,
       "robSuccess": 53,
       "lastSteal": 1766192301244,
@@ -364,9 +364,10 @@
       },
       "yugiohviewcard": 14,
       "cardInventory": [
-        "Blackwing - Hurricane the Tornado"
+        "Blackwing - Hurricane the Tornado",
+        "Felgrand Dragon"
       ],
-      "lastBuy": 1766192688518
+      "lastBuy": 1766193598105
     },
     "246179539501140": {
       "coin": 10004000,
@@ -906,5 +907,5 @@
       }
     }
   },
-  "savedAt": 1766192884607
+  "savedAt": 1766195129569
 }
