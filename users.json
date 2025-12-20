@@ -825,7 +825,7 @@
       "coin": 1200019355,
       "uid": "19de1cda-37_b-nebula",
       "username": "@user_19de1cda-37",
-      "xp": 650,
+      "xp": 710,
       "invPurchases": 0,
       "received_total": 1199988000,
       "lastHack": 1766171116380,
@@ -840,7 +840,10 @@
       "workSuccess": 1,
       "lastCode": 1766171147149,
       "lastMine": 1766171149922,
-      "lastRepair": 1766171153382
+      "lastRepair": 1766171153382,
+      "hasSentMsg": {
+        "cooldown": true
+      }
     },
     "259150323957933": {
       "coin": 150443521,
@@ -951,5 +954,5 @@
       "level": 1
     }
   },
-  "savedAt": 1766248810607
+  "savedAt": 1766249548607
 }
