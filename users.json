@@ -1,13 +1,20 @@
 {
   "user": {
     "254511792803874": {
-      "coin": 5000,
+      "coin": 10785,
       "uid": "403e88-34_b-nebula",
-      "username": "@user_403e88-34",
-      "xp": 140,
+      "username": "@AgentNLS",
+      "xp": 340,
       "premium": true,
       "premiumUntil": 1768845193870,
-      "lastBuyPremium": 1766253193870
+      "lastBuyPremium": 1766253193870,
+      "autolevelup": true,
+      "lastHack": 1766253277359,
+      "robSuccess": 3,
+      "lastSteal": 1766253285235,
+      "StealSuccess": 1,
+      "lastRob": 1766253288087,
+      "lastDecrypt": 1766253290541
     },
     "202095793848538": {
       "coin": 150005000,
@@ -20,5 +27,5 @@
       "lastBuyPremium": 1766253176974
     }
   },
-  "savedAt": 1766253272240
+  "savedAt": 1766253311634
 }
