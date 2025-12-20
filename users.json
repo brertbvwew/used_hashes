@@ -8,7 +8,17 @@
       "premium": true,
       "premiumUntil": 1768845193870,
       "lastBuyPremium": 1766253193870
+    },
+    "202095793848538": {
+      "coin": 150005000,
+      "uid": "347006cd-38_b-nebula",
+      "username": "@user_347006cd-38",
+      "xp": 280,
+      "lastBuyCoin": 1766252371477,
+      "premium": true,
+      "premiumUntil": 1768845176974,
+      "lastBuyPremium": 1766253176974
     }
   },
-  "savedAt": 1766253209266
+  "savedAt": 1766253272240
 }
