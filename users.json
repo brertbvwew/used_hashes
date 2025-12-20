@@ -54,7 +54,21 @@
       ],
       "lastBuyXP": 1766254376926,
       "level": 6
+    },
+    "151994715099391": {
+      "coin": 100005388,
+      "uid": "132dec0a-31_b-nebula",
+      "username": "@user_132dec0a-31",
+      "xp": 260,
+      "hasSentMsg": {
+        "coin": true,
+        "cooldown": true
+      },
+      "lastWork": 1766257685071,
+      "workSuccess": 1,
+      "robbed": 1,
+      "received_total": 99999000
     }
   },
-  "savedAt": 1766254662860
+  "savedAt": 1766258426016
 }
