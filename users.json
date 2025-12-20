@@ -375,27 +375,28 @@
       "lastBuy": 1766193598105
     },
     "246179539501140": {
-      "coin": 278985688,
+      "coin": 428985688,
       "uid": "559041e-30_b-nebula",
       "username": "@pixelite",
       "spam": {
         "lastMessage": 1765834902878,
         "count": 1
       },
-      "xp": 930,
+      "xp": 50,
       "hasSentMsg": {
         "admin": true,
         "cooldown": true
       },
       "autolevelup": true,
-      "lastBuyCoin": 1765825256397,
+      "lastBuyCoin": 1766238627702,
       "robbed": 6,
       "lastHack": 1765825928920,
       "robSuccess": 3,
       "lastMine": 1765825938870,
       "lastPhish": 1765825947322,
       "donated_total": 21005101,
-      "lastRob": 1765910270689
+      "lastRob": 1765910270689,
+      "level": 1
     },
     "114435796508833": {
       "coin": 113330369,
@@ -928,5 +929,5 @@
       }
     }
   },
-  "savedAt": 1766236639059
+  "savedAt": 1766238856299
 }
