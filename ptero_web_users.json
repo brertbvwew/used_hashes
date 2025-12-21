@@ -1,4 +1,10 @@
 {
   "users": {
+    "sdfgh": {
+      "pteroId": 7,
+      "username": "sdfgh",
+      "expiryDate": "2025-12-22T13:46:21.319Z",
+      "suspended": false
+    }
   }
 }
