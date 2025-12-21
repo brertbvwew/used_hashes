@@ -54,19 +54,11 @@
       "lastBuyPremium": 1766253176974
     },
     "106077605646392": {
-      "coin": 5000,
+      "coin": 100004000,
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
-      "xp": 700,
-      "usedCoupons": [
-        {
-          "hash": "NEJmUzdQOHI6M2NjNmZmNGQ0OWU1MWVkNjBiNzFiODAyMmNjYjQ2ZTM6MTc2NjI1NDMwMDgxODpPUlhNdlFZTjo0MWI3OWY3MDFlMDFlZWZmNWU2NDViNjAzYzRkZDk4NA==",
-          "md5": "db908f9648e9f6fe9b3992848fc36ef8",
-          "time": 1766254376926
-        }
-      ],
-      "lastBuyXP": 1766254376926,
-      "level": 6
+      "xp": 160,
+      "received_total": 99999000
     },
     "151994715099391": {
       "coin": 100005388,
@@ -96,5 +88,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766345663152
+  "savedAt": 1766350550201
 }
