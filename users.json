@@ -1,10 +1,10 @@
 {
   "user": {
     "254511792803874": {
-      "coin": 150015230,
+      "coin": 125015230,
       "uid": "403e88-34_b-nebula",
       "username": "@user_403e88-34",
-      "xp": 990,
+      "xp": 890,
       "premium": true,
       "premiumUntil": 1768916132827,
       "lastBuyPremium": 1766324132827,
@@ -19,7 +19,7 @@
         }
       ],
       "lastBuyXP": 1766324481557,
-      "level": 6,
+      "level": 7,
       "lastBuyCoin": 1766324503394,
       "autolevelup": true,
       "lastSteal": 1766324650406,
@@ -27,7 +27,12 @@
       "lastBeg": 1766324653495,
       "begSuccess": 1,
       "lastRob": 1766324657327,
-      "lastRobBank": 1766324661441
+      "lastRobBank": 1766324661441,
+      "donated_total": 25000000,
+      "lastSendEmail": 1766326403887,
+      "hasSentMsg": {
+        "admin": true
+      }
     },
     "202095793848538": {
       "coin": 150005000,
@@ -75,5 +80,5 @@
       "xp": 100
     }
   },
-  "savedAt": 1766324680400
+  "savedAt": 1766333523497
 }
