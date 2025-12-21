@@ -47,7 +47,13 @@
       "workSuccess": 1,
       "robbed": 1,
       "received_total": 99999000
+    },
+    "184494900424901": {
+      "coin": 5000,
+      "uid": "397c663-31_b-nebula",
+      "username": "@user_397c663-31",
+      "xp": 100
     }
   },
-  "savedAt": 1766324295339
+  "savedAt": 1766324582350
 }
