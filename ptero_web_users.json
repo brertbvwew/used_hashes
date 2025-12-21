@@ -1,3 +1,10 @@
 {
-  "users": {}
+  "users": {
+    "defheh": {
+      "pteroId": 3,
+      "username": "defheh",
+      "expiryDate": "2025-12-22T12:16:36.111Z",
+      "suspended": false
+    }
+  }
 }
