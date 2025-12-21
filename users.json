@@ -63,8 +63,8 @@
     "151994715099391": {
       "coin": 100005388,
       "uid": "132dec0a-31_b-nebula",
-      "username": "@user_132dec0a-31",
-      "xp": 260,
+      "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
+      "xp": 320,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true
@@ -97,5 +97,5 @@
       }
     }
   },
-  "savedAt": 1766351772538
+  "savedAt": 1766351877946
 }
