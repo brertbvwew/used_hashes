@@ -1,13 +1,26 @@
 {
   "user": {
     "254511792803874": {
-      "coin": 5000,
+      "coin": 150007055,
       "uid": "403e88-34_b-nebula",
       "username": "@user_403e88-34",
-      "xp": 120,
+      "xp": 3790,
       "premium": true,
       "premiumUntil": 1768916132827,
-      "lastBuyPremium": 1766324132827
+      "lastBuyPremium": 1766324132827,
+      "lastHack": 1766324430578,
+      "robSuccess": 1,
+      "invPurchases": 0,
+      "usedCoupons": [
+        {
+          "hash": "Q1FscHdDbGI6YzU5ZGVkNDNhNzIyNjk2YzAxMTU3NGU4OTNmYzk0ZTE6MTc2NjMyNDMxNDA2Mzo2SkxKY2dwbzo0MWJlNTE3OTRmNjU4YmM4NDk0ODEzNTIzYTQ5ZjVhYw==",
+          "md5": "c48a773cbeb118d1029e78e2abfdfe42",
+          "time": 1766324481557
+        }
+      ],
+      "lastBuyXP": 1766324481557,
+      "level": 3,
+      "lastBuyCoin": 1766324503394
     },
     "202095793848538": {
       "coin": 150005000,
@@ -55,5 +68,5 @@
       "xp": 100
     }
   },
-  "savedAt": 1766324582350
+  "savedAt": 1766324594294
 }
