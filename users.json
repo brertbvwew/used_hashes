@@ -117,7 +117,7 @@
       "coin": 149518213,
       "uid": "136556f7-38_b-nebula",
       "username": "@user_136556f7-38",
-      "xp": 820,
+      "xp": 940,
       "robbed": 1,
       "hasSentMsg": {
         "cooldown": true
@@ -136,7 +136,8 @@
       "lastSpin": 1766521972388,
       "lastClean": 1766521981240,
       "lastRepair": 1766521987141,
-      "lastDeliver": 1766521995199
+      "lastDeliver": 1766521995199,
+      "autolevelup": true
     },
     "127397940699244": {
       "coin": 261089,
@@ -167,5 +168,5 @@
       "lastRobBank": 1766521405159
     }
   },
-  "savedAt": 1766522033012
+  "savedAt": 1766522094042
 }
