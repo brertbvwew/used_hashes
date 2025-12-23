@@ -103,7 +103,16 @@
       "premium": true,
       "premiumUntil": 1769077581714,
       "lastBuyPremium": 1766485581714
+    },
+    "163638858006761": {
+      "coin": 5000,
+      "uid": "25cd7ad4-31_b-nebula",
+      "username": "@user_25cd7ad4-31",
+      "xp": 120,
+      "premium": true,
+      "premiumUntil": 1769101505714,
+      "lastBuyPremium": 1766509505714
     }
   },
-  "savedAt": 1766502116348
+  "savedAt": 1766509678792
 }
