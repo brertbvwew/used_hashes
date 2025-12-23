@@ -117,7 +117,7 @@
       "coin": 149518213,
       "uid": "136556f7-38_b-nebula",
       "username": "@user_136556f7-38",
-      "xp": 940,
+      "xp": 980,
       "robbed": 1,
       "hasSentMsg": {
         "cooldown": true
@@ -168,5 +168,5 @@
       "lastRobBank": 1766521405159
     }
   },
-  "savedAt": 1766522094042
+  "savedAt": 1766522122955
 }
