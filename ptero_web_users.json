@@ -1,28 +1,4 @@
 {
   "users": {
-    "admin11": {
-      "pteroId": 2,
-      "expiryDate": "2025-12-23T11:18:19.520Z"
-    },
-    "dfgdrfhg": {
-      "pteroId": 3,
-      "expiryDate": "2025-12-23T11:38:18.154Z"
-    },
-    "Nicholas-1": {
-      "pteroId": 4,
-      "expiryDate": "2025-12-23T11:44:30.219Z"
-    },
-    "Demo1": {
-      "pteroId": 5,
-      "expiryDate": "2025-12-23T12:30:37.690Z"
-    },
-    "Fuck-icebear": {
-      "pteroId": 6,
-      "expiryDate": "2025-12-23T16:34:14.477Z"
-    },
-    "Koldalldaymf": {
-      "pteroId": 7,
-      "expiryDate": "2025-12-23T17:57:55.946Z"
-    }
   }
 }
