@@ -1,24 +1,4 @@
 {
   "users": {
-    "dfrghhg": {
-      "pteroId": 2,
-      "expiryDate": "2025-12-24T09:40:42.881Z"
-    },
-    "baby_bear": {
-      "pteroId": 3,
-      "expiryDate": "2025-12-24T09:49:47.189Z"
-    },
-    "Glockboy": {
-      "pteroId": 4,
-      "expiryDate": "2025-12-24T10:54:00.657Z"
-    },
-    "Rain_nebs": {
-      "pteroId": 5,
-      "expiryDate": "2025-12-24T13:23:18.446Z"
-    },
-    "nicholas-1": {
-      "pteroId": 6,
-      "expiryDate": "2025-12-24T14:39:25.870Z"
-    }
   }
 }
