@@ -11,6 +11,10 @@
     "Kold": {
       "pteroId": 4,
       "expiryDate": "2025-12-24T19:22:24.006Z"
+    },
+    "babybear": {
+      "pteroId": 5,
+      "expiryDate": "2025-12-24T19:25:33.868Z"
     }
   }
 }
