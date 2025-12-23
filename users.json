@@ -137,7 +137,35 @@
       "lastClean": 1766521981240,
       "lastRepair": 1766521987141,
       "lastDeliver": 1766521995199
+    },
+    "127397940699244": {
+      "coin": 261089,
+      "uid": "cc5dbe-34_b-nebula",
+      "username": "@user_cc5dbe-34",
+      "xp": 840,
+      "lastSteal": 1766521995878,
+      "StealSuccess": 6,
+      "lastRob": 1766521387795,
+      "robSuccess": 12,
+      "lastSpin": 1766521597497,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastHack": 1766521931459,
+      "lastRansom": 1766521133966,
+      "lastWork": 1766521748617,
+      "workSuccess": 4,
+      "lastClean": 1766521156101,
+      "lastBeg": 1766521742940,
+      "begSuccess": 2,
+      "lastMine": 1766521512850,
+      "lastPhish": 1766521039162,
+      "level": 1,
+      "lastClaim": {
+        "daily": 1766520589668
+      },
+      "lastRobBank": 1766521405159
     }
   },
-  "savedAt": 1766522008506
+  "savedAt": 1766522018775
 }
