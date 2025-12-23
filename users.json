@@ -95,7 +95,16 @@
       "hasSentMsg": {
         "cooldown": true
       }
+    },
+    "63046378635471": {
+      "coin": 5000,
+      "uid": "32d92c53-31_b-nebula",
+      "username": "@user_32d92c53-31",
+      "xp": 100,
+      "premium": true,
+      "premiumUntil": 1769077581714,
+      "lastBuyPremium": 1766485581714
     }
   },
-  "savedAt": 1766351877946
+  "savedAt": 1766485595927
 }
