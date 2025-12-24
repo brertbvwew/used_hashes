@@ -224,7 +224,14 @@
       "lastSpin": 1766561259319,
       "lastBuyCoin": 1766563684023,
       "autolevelup": true
+    },
+    "228084489916616": {
+      "coin": 100004000,
+      "uid": "31cd8696-36_b-nebula",
+      "username": "@user_31cd8696-36",
+      "xp": 140,
+      "received_total": 99999000
     }
   },
-  "savedAt": 1766564640575
+  "savedAt": 1766567139674
 }
