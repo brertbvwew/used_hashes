@@ -59,11 +59,16 @@
       "lastBuyPremium": 1766253176974
     },
     "106077605646392": {
-      "coin": 100004000,
+      "coin": 5000,
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
-      "xp": 100,
-      "received_total": 99999000
+      "xp": 580,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "premium": true,
+      "premiumUntil": 1766582593456,
+      "lastBuyPremium": 1766571793456
     },
     "151994715099391": {
       "coin": 100005388,
@@ -234,5 +239,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766567699340
+  "savedAt": 1766571931348
 }
