@@ -4,7 +4,7 @@
       "coin": 275052652,
       "uid": "403e88-34_b-nebula",
       "username": "@user_403e88-34",
-      "xp": 130,
+      "xp": 430,
       "premium": true,
       "premiumUntil": 1768916132827,
       "lastBuyPremium": 1766324132827,
@@ -226,5 +226,5 @@
       "autolevelup": true
     }
   },
-  "savedAt": 1766563970844
+  "savedAt": 1766564640575
 }
