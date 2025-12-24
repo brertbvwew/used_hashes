@@ -204,7 +204,27 @@
       "StealSuccess": 1,
       "donated_total": 5000,
       "received_total": 698000
+    },
+    "27726016197": {
+      "coin": 450014850,
+      "uid": "f2c508f-37_b-nebula",
+      "username": "@user_f2c508f-37",
+      "xp": 820,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "level": 1,
+      "lastMine": 1766559960257,
+      "lastPhish": 1766559966416,
+      "robSuccess": 2,
+      "lastRansom": 1766559973273,
+      "lastWork": 1766559984242,
+      "workSuccess": 1,
+      "lastClean": 1766559989303,
+      "lastSpin": 1766561259319,
+      "lastBuyCoin": 1766563684023,
+      "autolevelup": true
     }
   },
-  "savedAt": 1766525513795
+  "savedAt": 1766563970844
 }
