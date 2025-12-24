@@ -249,7 +249,19 @@
       "username": "@user_31cd8696-36",
       "xp": 140,
       "received_total": 99999000
+    },
+    "27845479774": {
+      "coin": 5000,
+      "uid": "180c7a24-34_b-nebula",
+      "username": "@user_180c7a24-34",
+      "xp": 740,
+      "hasSentMsg": {
+        "owner": true,
+        "premium": true,
+        "cooldown": true,
+        "coin": true
+      }
     }
   },
-  "savedAt": 1766603463741
+  "savedAt": 1766612713481
 }
