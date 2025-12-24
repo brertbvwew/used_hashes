@@ -116,13 +116,22 @@
       "lastBuyPremium": 1766485581714
     },
     "163638858006761": {
-      "coin": 5000,
+      "coin": 50001881,
       "uid": "25cd7ad4-31_b-nebula",
       "username": "@user_25cd7ad4-31",
-      "xp": 120,
+      "xp": 410,
       "premium": true,
       "premiumUntil": 1769101505714,
-      "lastBuyPremium": 1766509505714
+      "lastBuyPremium": 1766509505714,
+      "robbed": 2,
+      "lastRob": 1766524300890,
+      "robSuccess": 1,
+      "lastTagAllTime": 1766570277760,
+      "tagAllCount": 1,
+      "hasSentMsg": {
+        "owner": true
+      },
+      "received_total": 49999000
     },
     "235858498158618": {
       "coin": 149518213,
@@ -239,5 +248,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766571953523
+  "savedAt": 1766578759351
 }
