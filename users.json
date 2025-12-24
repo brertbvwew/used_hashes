@@ -101,10 +101,10 @@
       "coin": 5000,
       "uid": "2910ff4a-34_b-nebula",
       "username": "@user_2910ff4a-34",
-      "xp": 80,
-      "hasSentMsg": {
-        "cooldown": true
-      }
+      "xp": 60,
+      "premium": true,
+      "premiumUntil": 1766613795917,
+      "lastBuyPremium": 1766602995917
     },
     "63046378635471": {
       "coin": 5000,
@@ -248,5 +248,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766578759351
+  "savedAt": 1766603046695
 }
