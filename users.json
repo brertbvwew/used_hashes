@@ -259,7 +259,7 @@
       "coin": 5000,
       "uid": "180c7a24-34_b-nebula",
       "username": "@user_180c7a24-34",
-      "xp": 780,
+      "xp": 820,
       "hasSentMsg": {
         "owner": true,
         "premium": true,
@@ -268,5 +268,5 @@
       }
     }
   },
-  "savedAt": 1766654430962
+  "savedAt": 1766654465713
 }
