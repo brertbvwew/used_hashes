@@ -90,18 +90,29 @@
       "lastBuyPremium": 1766571793456
     },
     "151994715099391": {
-      "coin": 100005388,
+      "coin": 250001621,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 320,
+      "xp": 4240,
       "hasSentMsg": {
         "coin": true,
-        "cooldown": true
+        "cooldown": true,
+        "owner": true
       },
       "lastWork": 1766257685071,
       "workSuccess": 1,
-      "robbed": 1,
-      "received_total": 99999000
+      "robbed": 2,
+      "received_total": 99999000,
+      "lastBuyCoin": 1766655684258,
+      "usedCoupons": [
+        {
+          "hash": "RGphV29jOEg6YmY5YTEwZGI1ZmE4OTFhNDUzM2UzZDdhYmZiNTliOTY6MTc2NjY1NzkyMTMyMDpWYWJGTXpKUTo4NDg2NDVmNDMwNGMzNjc5NGUyNDZkYjE5NDBkZmJmZA==",
+          "md5": "cb7fc26016125e85eaf8a4197c0dd4e1",
+          "time": 1766658139620
+        }
+      ],
+      "lastBuyXP": 1766658139620,
+      "level": 3
     },
     "184494900424901": {
       "coin": 5000,
@@ -282,5 +293,5 @@
       }
     }
   },
-  "savedAt": 1766658239397
+  "savedAt": 1766658242253
 }
