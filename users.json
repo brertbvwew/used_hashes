@@ -59,14 +59,23 @@
       "lastBlackjack": 1766650984748
     },
     "202095793848538": {
-      "coin": 150005000,
+      "coin": 13794,
       "uid": "347006cd-38_b-nebula",
-      "username": "@user_347006cd-38",
-      "xp": 280,
-      "lastBuyCoin": 1766252371477,
-      "premium": true,
-      "premiumUntil": 1768845176974,
-      "lastBuyPremium": 1766253176974
+      "username": "@coderxsa",
+      "xp": 840,
+      "hasSentMsg": {
+        "premium": true,
+        "cooldown": true
+      },
+      "usedCoupons": [
+        {
+          "hash": "RGphV29jOEg6YmY5YTEwZGI1ZmE4OTFhNDUzM2UzZDdhYmZiNTliOTY6MTc2NjY1NzkyMTMyMDpWYWJGTXpKUTo4NDg2NDVmNDMwNGMzNjc5NGUyNDZkYjE5NDBkZmJmZA==",
+          "md5": "cb7fc26016125e85eaf8a4197c0dd4e1",
+          "time": 1766657985240
+        }
+      ],
+      "lastBuyXP": 1766657985240,
+      "level": 6
     },
     "106077605646392": {
       "coin": 5000,
@@ -273,5 +282,5 @@
       }
     }
   },
-  "savedAt": 1766656071138
+  "savedAt": 1766658239397
 }
