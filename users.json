@@ -100,10 +100,10 @@
       "lastBuyPremium": 1766571793456
     },
     "151994715099391": {
-      "coin": 250001621,
+      "coin": 250010195,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 4240,
+      "xp": 120,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
@@ -119,10 +119,21 @@
           "hash": "RGphV29jOEg6YmY5YTEwZGI1ZmE4OTFhNDUzM2UzZDdhYmZiNTliOTY6MTc2NjY1NzkyMTMyMDpWYWJGTXpKUTo4NDg2NDVmNDMwNGMzNjc5NGUyNDZkYjE5NDBkZmJmZA==",
           "md5": "cb7fc26016125e85eaf8a4197c0dd4e1",
           "time": 1766658139620
+        },
+        {
+          "hash": "YXJCY1l6UTQ6MzJkNzAwNTVkODY0NjhhNWE1Y2I3MWYyYThiMGZmNGE6MTc2NjY3NjY5MTMxMzpzYUd3eXh4QjoyZTg3YWVkMzJiNDNmMjZkZDViODRlYzc3MTkxMDhjOA==",
+          "md5": "44ab71a1eb89b21711153a803ea4641b",
+          "time": 1766677017476
         }
       ],
-      "lastBuyXP": 1766658139620,
-      "level": 3
+      "lastBuyXP": 1766677017476,
+      "level": 14,
+      "lastHack": 1766677208603,
+      "robSuccess": 4,
+      "lastRob": 1766677212486,
+      "lastRobBank": 1766677216165,
+      "autolevelup": true,
+      "lastPhish": 1766677253678
     },
     "184494900424901": {
       "coin": 5000,
@@ -336,5 +347,5 @@
       "lastHack": 1766664998854
     }
   },
-  "savedAt": 1766677127898
+  "savedAt": 1766677294517
 }
