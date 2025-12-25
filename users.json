@@ -332,20 +332,32 @@
       "lastHack": 1766664991429
     },
     "173001500786812": {
-      "coin": 13873,
+      "coin": 2034296,
       "uid": "1ef28550-32_b-nebula",
       "username": "@user_1ef28550-32",
       "robbed": 1,
-      "xp": 265,
-      "lastSpins": 1766664977896,
-      "lastMine": 1766664397161,
-      "lastFreelance": 1766664405274,
-      "lastRob": 1766664862309,
-      "robSuccess": 3,
-      "lastSpin": 1766664970187,
+      "xp": 930,
+      "lastSpins": 1766684348036,
+      "lastMine": 1766665054557,
+      "lastFreelance": 1766665009278,
+      "lastRob": 1766665872962,
+      "robSuccess": 6,
+      "lastSpin": 1766684332969,
       "lastDecrypt": 1766664975490,
-      "lastHack": 1766664998854
+      "lastHack": 1766684312624,
+      "lastCode": 1766665065710,
+      "lastFlip": 1766665081351,
+      "lastRepair": 1766665114738,
+      "lastWork": 1766665123273,
+      "workSuccess": 1,
+      "lastClean": 1766665148101,
+      "lastRobBank": 1766665203375,
+      "lastSteal": 1766665274829,
+      "StealSuccess": 1,
+      "lastBeg": 1766665297141,
+      "begSuccess": 1,
+      "received_total": 1999000
     }
   },
-  "savedAt": 1766680412946
+  "savedAt": 1766684381238
 }
