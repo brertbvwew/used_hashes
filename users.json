@@ -172,11 +172,30 @@
       "received_total": 49999000
     },
     "235858498158618": {
-      "coin": 2728,
+      "coin": 150043106,
       "uid": "136556f7-38_b-nebula",
       "username": "@user_136556f7-38",
-      "xp": 80,
-      "robbed": 1
+      "xp": 105,
+      "robbed": 1,
+      "lastWork": 1766664681718,
+      "workSuccess": 3,
+      "lastClean": 1766664685752,
+      "lastDecrypt": 1766663863223,
+      "robSuccess": 12,
+      "lastHack": 1766664733995,
+      "lastRepair": 1766664694434,
+      "lastRobBank": 1766663871115,
+      "lastSteal": 1766663857639,
+      "StealSuccess": 2,
+      "lastRob": 1766661033584,
+      "lastPhish": 1766664701926,
+      "lastBeg": 1766664701057,
+      "begSuccess": 3,
+      "lastRansom": 1766664720634,
+      "lastSpin": 1766663882909,
+      "lastBuyCoin": 1766664344759,
+      "lastFreelance": 1766664716019,
+      "level": 1
     },
     "127397940699244": {
       "coin": 261089,
@@ -279,5 +298,5 @@
       }
     }
   },
-  "savedAt": 1766660979499
+  "savedAt": 1766664890623
 }
