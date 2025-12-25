@@ -312,7 +312,22 @@
       "lastPhish": 1766664790462,
       "lastRobBank": 1766664849169,
       "lastSpin": 1766664849202
+    },
+    "173001500786812": {
+      "coin": 13873,
+      "uid": "1ef28550-32_b-nebula",
+      "username": "@user_1ef28550-32",
+      "robbed": 1,
+      "xp": 265,
+      "lastSpins": 1766664977896,
+      "lastMine": 1766664397161,
+      "lastFreelance": 1766664405274,
+      "lastRob": 1766664862309,
+      "robSuccess": 3,
+      "lastSpin": 1766664970187,
+      "lastDecrypt": 1766664975490,
+      "lastHack": 1766664998854
     }
   },
-  "savedAt": 1766664939993
+  "savedAt": 1766665002844
 }
