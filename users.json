@@ -367,7 +367,23 @@
       "uid": "23bdfca7-33_b-nebula",
       "username": "@user_23bdfca7-33",
       "xp": 100
+    },
+    "281106230300923": {
+      "coin": 30337,
+      "uid": "efdb740-33_b-nebula",
+      "username": "@user_efdb740-33",
+      "xp": 750,
+      "lastSpin": 1766685703044,
+      "lastWork": 1766685684551,
+      "workSuccess": 3,
+      "lastRob": 1766681538310,
+      "robSuccess": 6,
+      "lastMine": 1766685313632,
+      "robbed": 1,
+      "lastRobBank": 1766685762100,
+      "lastFreelance": 1766685744783,
+      "lastDecrypt": 1766685727915
     }
   },
-  "savedAt": 1766686608061
+  "savedAt": 1766686941090
 }
