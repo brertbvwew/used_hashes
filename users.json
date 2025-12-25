@@ -69,10 +69,10 @@
       "rpgGather": 1
     },
     "202095793848538": {
-      "coin": 13794,
+      "coin": 17794,
       "uid": "347006cd-38_b-nebula",
       "username": "@coderxsa",
-      "xp": 840,
+      "xp": 880,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -347,5 +347,5 @@
       "lastHack": 1766664998854
     }
   },
-  "savedAt": 1766677294517
+  "savedAt": 1766680412946
 }
