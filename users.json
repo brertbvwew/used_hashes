@@ -357,7 +357,13 @@
       "lastBeg": 1766665297141,
       "begSuccess": 1,
       "received_total": 1999000
+    },
+    "47623151038553": {
+      "coin": 5000,
+      "uid": "23bdfca7-33_b-nebula",
+      "username": "@user_23bdfca7-33",
+      "xp": 100
     }
   },
-  "savedAt": 1766684381238
+  "savedAt": 1766684438474
 }
