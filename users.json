@@ -280,15 +280,15 @@
       "received_total": 20198000
     },
     "27726016197": {
-      "coin": 450014850,
+      "coin": 450017262,
       "uid": "f2c508f-37_b-nebula",
       "username": "@user_f2c508f-37",
-      "xp": 820,
+      "xp": 0,
       "hasSentMsg": {
         "cooldown": true
       },
-      "level": 1,
-      "lastMine": 1766559960257,
+      "level": 2,
+      "lastMine": 1766689159571,
       "lastPhish": 1766559966416,
       "robSuccess": 2,
       "lastRansom": 1766559973273,
@@ -385,5 +385,5 @@
       "lastDecrypt": 1766685727915
     }
   },
-  "savedAt": 1766686941090
+  "savedAt": 1766689409574
 }
