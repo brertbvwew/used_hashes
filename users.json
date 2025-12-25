@@ -226,37 +226,38 @@
       "lastRobBank": 1766521405159
     },
     "198449416917151": {
-      "coin": 989788,
+      "coin": 251187,
       "uid": "364664be-31_b-nebula",
       "username": "@user_364664be-31",
-      "xp": 580,
+      "xp": 715,
+      "lastHack": 1766660309514,
+      "robSuccess": 18,
+      "lastRob": 1766664818116,
+      "lastMine": 1766663948214,
       "autolevelup": true,
-      "lastMine": 1766520338547,
-      "lastSpin": 1766522387935,
-      "lastBeg": 1766520055386,
-      "begSuccess": 3,
-      "lastRobBank": 1766522397825,
-      "robSuccess": 26,
-      "lastPhish": 1766520976631,
-      "lastClean": 1766520038082,
-      "lastSpins": 1766522412534,
-      "lastHack": 1766522421336,
-      "lastRob": 1766519298684,
-      "lastRansom": 1766521107807,
-      "level": 3,
-      "lastClaim": {
-        "daily": 1766511561726
-      },
       "hasSentMsg": {
         "cooldown": true,
         "coin": true
       },
-      "lastWork": 1766520558247,
+      "lastSpin": 1766664912958,
+      "lastDecrypt": 1766664086184,
+      "lastFreelance": 1766659610852,
+      "lastBeg": 1766659902779,
+      "begSuccess": 1,
+      "lastWork": 1766661399380,
       "workSuccess": 2,
-      "lastSteal": 1766520068446,
+      "lastClean": 1766661414095,
+      "lastSpins": 1766664140096,
+      "robbed": 4,
+      "lastRobBank": 1766661433793,
+      "level": 1,
+      "lastClaim": {
+        "daily": 1766660370447
+      },
+      "lastSteal": 1766661022246,
       "StealSuccess": 1,
-      "donated_total": 5000,
-      "received_total": 698000
+      "lastRansom": 1766663976317,
+      "lastPhish": 1766664099175
     },
     "27726016197": {
       "coin": 450014850,
@@ -313,5 +314,5 @@
       "lastSpin": 1766664849202
     }
   },
-  "savedAt": 1766664908065
+  "savedAt": 1766664920512
 }
