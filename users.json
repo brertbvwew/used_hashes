@@ -296,7 +296,22 @@
         "cooldown": true,
         "coin": true
       }
+    },
+    "250680665190402": {
+      "coin": 14015,
+      "uid": "ac5839-32_b-nebula",
+      "username": "@user_ac5839-32",
+      "xp": 330,
+      "lastRepair": 1766664704794,
+      "lastWork": 1766664708944,
+      "workSuccess": 1,
+      "lastRob": 1766664765937,
+      "robSuccess": 3,
+      "lastMine": 1766664785337,
+      "lastPhish": 1766664790462,
+      "lastRobBank": 1766664849169,
+      "lastSpin": 1766664849202
     }
   },
-  "savedAt": 1766664890623
+  "savedAt": 1766664908065
 }
