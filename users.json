@@ -1,10 +1,10 @@
 {
   "user": {
     "254511792803874": {
-      "coin": 725105314,
+      "coin": 725091057,
       "uid": "403e88-34_b-nebula",
-      "username": "@user_403e88-34",
-      "xp": 935,
+      "username": "@AgentNLS",
+      "xp": 835,
       "premium": true,
       "premiumUntil": 1768916132827,
       "lastBuyPremium": 1766324132827,
@@ -29,7 +29,7 @@
         }
       ],
       "lastBuyXP": 1766676746701,
-      "level": 30,
+      "level": 33,
       "lastBuyCoin": 1766676992372,
       "autolevelup": true,
       "lastSteal": 1766676913525,
@@ -57,7 +57,7 @@
       "lastFlip": 1766650972952,
       "lastSpins": 1766650978893,
       "lastBlackjack": 1766650984748,
-      "robbed": 2,
+      "robbed": 4,
       "rpginventory": {
         "Apple": 5,
         "Banana": 4,
@@ -66,7 +66,14 @@
         "Thunder Gem": 1
       },
       "rpglastGather": 1766656679130,
-      "rpgGather": 1
+      "rpgGather": 1,
+      "crashGame": {
+        "betAmount": 3000,
+        "crashPoint": 3.5,
+        "startedAt": 1766684340902,
+        "active": false
+      },
+      "lastCrash": 1766684352919
     },
     "202095793848538": {
       "coin": 17794,
@@ -397,5 +404,5 @@
       "lastDecrypt": 1766685727915
     }
   },
-  "savedAt": 1766734342406
+  "savedAt": 1766737430860
 }
