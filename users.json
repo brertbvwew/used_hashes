@@ -195,39 +195,42 @@
       "received_total": 49999000
     },
     "235858498158618": {
-      "coin": 576195573,
+      "coin": 726247260,
       "uid": "136556f7-38_b-nebula",
       "username": "@user_136556f7-38",
-      "xp": 305,
+      "xp": 310,
       "robbed": 3,
-      "lastWork": 1766734262507,
-      "workSuccess": 10,
-      "lastClean": 1766734270064,
-      "lastDecrypt": 1766734284928,
-      "robSuccess": 36,
-      "lastHack": 1766734322425,
-      "lastRepair": 1766734274422,
-      "lastRobBank": 1766694452946,
-      "lastSteal": 1766694457980,
-      "StealSuccess": 5,
-      "lastRob": 1766694460372,
-      "lastPhish": 1766734326165,
-      "lastBeg": 1766734329478,
-      "begSuccess": 7,
-      "lastRansom": 1766694478755,
-      "lastSpin": 1766734312483,
-      "lastBuyCoin": 1766694259032,
-      "lastFreelance": 1766734290351,
-      "level": 4,
-      "lastCode": 1766734318799,
+      "lastWork": 1766738785154,
+      "workSuccess": 11,
+      "lastClean": 1766738839148,
+      "lastDecrypt": 1766734865756,
+      "robSuccess": 47,
+      "lastHack": 1766738850034,
+      "lastRepair": 1766738842210,
+      "lastRobBank": 1766734906790,
+      "lastSteal": 1766734909319,
+      "StealSuccess": 7,
+      "lastRob": 1766734911598,
+      "lastPhish": 1766738873878,
+      "lastBeg": 1766738873048,
+      "begSuccess": 9,
+      "lastRansom": 1766738866612,
+      "lastSpin": 1766738878799,
+      "lastBuyCoin": 1766738239544,
+      "lastFreelance": 1766738855439,
+      "level": 5,
+      "lastCode": 1766738845518,
       "lastClaim": {
         "daily": 1766665318660
       },
       "donated_total": 24200000,
-      "lastDeliver": 1766734278589,
+      "lastDeliver": 1766738814289,
       "autolevelup": true,
-      "lastMine": 1766673638237,
-      "received_total": 9000
+      "lastMine": 1766738813766,
+      "received_total": 9000,
+      "hasSentMsg": {
+        "cooldown": true
+      }
     },
     "127397940699244": {
       "coin": 261089,
@@ -404,5 +407,5 @@
       "lastDecrypt": 1766685727915
     }
   },
-  "savedAt": 1766737430860
+  "savedAt": 1766738983035
 }
