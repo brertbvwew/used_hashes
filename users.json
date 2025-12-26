@@ -288,10 +288,10 @@
       "received_total": 20198000
     },
     "27726016197": {
-      "coin": 450017262,
+      "coin": 250015762,
       "uid": "f2c508f-37_b-nebula",
       "username": "@user_f2c508f-37",
-      "xp": 0,
+      "xp": 460,
       "hasSentMsg": {
         "cooldown": true
       },
@@ -305,7 +305,8 @@
       "lastClean": 1766559989303,
       "lastSpin": 1766561259319,
       "lastBuyCoin": 1766563684023,
-      "autolevelup": true
+      "autolevelup": true,
+      "donated_total": 200000000
     },
     "228084489916616": {
       "coin": 100004000,
@@ -393,5 +394,5 @@
       "lastDecrypt": 1766685727915
     }
   },
-  "savedAt": 1766694901999
+  "savedAt": 1766732940851
 }
