@@ -303,14 +303,15 @@
       "lastBuyCoin": 1766734120822
     },
     "27726016197": {
-      "coin": 600014262,
+      "coin": 650014262,
       "uid": "f2c508f-37_b-nebula",
       "username": "@user_f2c508f-37",
-      "xp": 820,
+      "xp": 60,
       "hasSentMsg": {
-        "cooldown": true
+        "cooldown": true,
+        "premium": true
       },
-      "level": 2,
+      "level": 3,
       "lastMine": 1766689159571,
       "lastPhish": 1766559966416,
       "robSuccess": 2,
@@ -319,9 +320,9 @@
       "workSuccess": 1,
       "lastClean": 1766559989303,
       "lastSpin": 1766561259319,
-      "lastBuyCoin": 1766743147192,
+      "lastBuyCoin": 1766746696631,
       "autolevelup": true,
-      "donated_total": 300000000
+      "donated_total": 400000000
     },
     "228084489916616": {
       "coin": 100004000,
@@ -409,5 +410,5 @@
       "lastDecrypt": 1766685727915
     }
   },
-  "savedAt": 1766744243962
+  "savedAt": 1766750887349
 }
