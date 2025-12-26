@@ -303,10 +303,10 @@
       "lastBuyCoin": 1766734120822
     },
     "27726016197": {
-      "coin": 600015762,
+      "coin": 600014262,
       "uid": "f2c508f-37_b-nebula",
       "username": "@user_f2c508f-37",
-      "xp": 720,
+      "xp": 820,
       "hasSentMsg": {
         "cooldown": true
       },
@@ -409,5 +409,5 @@
       "lastDecrypt": 1766685727915
     }
   },
-  "savedAt": 1766743728433
+  "savedAt": 1766744243962
 }
