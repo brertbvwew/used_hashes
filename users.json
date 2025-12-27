@@ -360,18 +360,24 @@
       "xp": 100
     },
     "281106230300923": {
-      "coin": 12652,
+      "coin": 14087,
       "uid": "efdb740-33_b-nebula",
       "username": "@user_efdb740-33",
-      "xp": 170,
+      "xp": 290,
       "lastWork": 1766828740356,
       "workSuccess": 1,
       "lastClean": 1766828742263,
       "lastDecrypt": 1766828746039,
-      "robSuccess": 1,
+      "robSuccess": 3,
       "lastSpin": 1766828750674,
       "violations": 1,
-      "lastMine": 1766828782589
+      "lastMine": 1766828782589,
+      "lastRob": 1766828820838,
+      "robbed": 1,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastHack": 1766828851335
     },
     "174891739418636": {
       "coin": 100100658,
@@ -411,5 +417,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766828812020
+  "savedAt": 1766828868457
 }
