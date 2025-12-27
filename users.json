@@ -473,9 +473,9 @@
     "174891739418636": {
       "coin": 31688,
       "uid": "113705af-36_b-nebula",
-      "username": "@user_113705af-36",
-      "xp": 755,
-      "lastSpin": 1766843537461,
+      "username": "@K💋",
+      "xp": 35,
+      "lastSpin": 1766843804234,
       "lastMine": 1766843397345,
       "lastRobBank": 1766843503961,
       "robSuccess": 8,
@@ -489,8 +489,9 @@
       "autolevelup": true,
       "lastDeliver": 1766843451559,
       "lastHack": 1766843500139,
-      "lastRob": 1766843557885
+      "lastRob": 1766843557885,
+      "level": 1
     }
   },
-  "savedAt": 1766843573345
+  "savedAt": 1766843815308
 }
