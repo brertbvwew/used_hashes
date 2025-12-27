@@ -122,7 +122,7 @@
       "coin": 250010195,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 120,
+      "xp": 20,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
@@ -146,7 +146,7 @@
         }
       ],
       "lastBuyXP": 1766677017476,
-      "level": 14,
+      "level": 15,
       "lastHack": 1766677208603,
       "robSuccess": 4,
       "lastRob": 1766677212486,
@@ -493,5 +493,5 @@
       "level": 1
     }
   },
-  "savedAt": 1766866307663
+  "savedAt": 1766866882472
 }
