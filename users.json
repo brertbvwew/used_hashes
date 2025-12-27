@@ -1,90 +1,12 @@
 {
   "user": {
     "254511792803874": {
-      "coin": 875101956,
+      "coin": 5000,
       "uid": "403e88-34_b-nebula",
-      "username": "@AgentNLS",
-      "xp": 965,
-      "premium": true,
-      "premiumUntil": 1768916132827,
-      "lastBuyPremium": 1766324132827,
-      "lastHack": 1766676911506,
-      "robSuccess": 30,
-      "invPurchases": 0,
-      "usedCoupons": [
-        {
-          "hash": "Q1FscHdDbGI6YzU5ZGVkNDNhNzIyNjk2YzAxMTU3NGU4OTNmYzk0ZTE6MTc2NjMyNDMxNDA2Mzo2SkxKY2dwbzo0MWJlNTE3OTRmNjU4YmM4NDk0ODEzNTIzYTQ5ZjVhYw==",
-          "md5": "c48a773cbeb118d1029e78e2abfdfe42",
-          "time": 1766324481557
-        },
-        {
-          "hash": "RTdJUlFOS1Y6MTBhNDJkOTVlZTE3OWUyNDZhZjhkNzBmMDYzNTQyZmM6MTc2NjUyMzQzODY1NzpWVWp4SHJiaTplNWExYjlkZjk3NjFmMjE0MzQ1ZWQ5N2RmNjJlNTA3MQ==",
-          "md5": "16161e25694dc74957a0282dab57a919",
-          "time": 1766523549588
-        },
-        {
-          "hash": "YXJCY1l6UTQ6MzJkNzAwNTVkODY0NjhhNWE1Y2I3MWYyYThiMGZmNGE6MTc2NjY3NjY5MTMxMzpzYUd3eXh4QjoyZTg3YWVkMzJiNDNmMjZkZDViODRlYzc3MTkxMDhjOA==",
-          "md5": "44ab71a1eb89b21711153a803ea4641b",
-          "time": 1766676746701
-        },
-        {
-          "hash": "c0tnTDRKT0E6M2RmZWJhNzRiZDg3MzU0YTNlNWJhODM4YzdkNTdkZjg6MTc2NjgzMTIxMTk3MDpPaTNQT1d6Vjo4ODMyNjZmM2NhYjVkY2E3ZDY5OWE5Zjc4ZjQ3ZGI0MA==",
-          "md5": "a90c5ac5afcc4a3a4b901487c6d90e91",
-          "time": 1766831464765
-        },
-        {
-          "hash": "Z3paZmdXMGQ6NzNlYmRjODQwNGJiNzdiMjc2NTRkZDZlNzRmOTc5NjU6MTc2NTAzMTI4NTYwMzpkdlA5SDBJbjpiMjg0NzMzMjQ2ZDdjZTgzNWM2NDk4OTkxMDEzMGU0Yg==",
-          "md5": "08cadf0a3e6560d70356dc01ff5767ec",
-          "time": 1766832583324
-        }
-      ],
-      "lastBuyXP": 1766832583324,
-      "level": 47,
-      "lastBuyCoin": 1766831430899,
-      "autolevelup": true,
-      "lastSteal": 1766676913525,
-      "StealSuccess": 5,
-      "lastBeg": 1766676915176,
-      "begSuccess": 4,
-      "lastRob": 1766676923630,
-      "lastRobBank": 1766832698204,
-      "donated_total": 25000000,
-      "lastSendEmail": 1766326403887,
-      "hasSentMsg": {
-        "admin": true,
-        "owner": true
-      },
-      "lastDecrypt": 1766676920971,
-      "lastWork": 1766832706711,
-      "workSuccess": 3,
-      "lastCode": 1766832701820,
-      "lastPhish": 1766655617783,
-      "lastRansom": 1766655653276,
-      "lastMine": 1766832710680,
-      "lastRepair": 1766345386115,
-      "lastDeliver": 1766650966915,
-      "lastFreelance": 1766650948112,
-      "lastFlip": 1766832725576,
-      "lastSpins": 1766650978893,
-      "lastBlackjack": 1766650984748,
-      "robbed": 4,
-      "rpginventory": {
-        "Apple": 5,
-        "Banana": 4,
-        "Herb": 2,
-        "Small Healing Potion": 2,
-        "Thunder Gem": 1
-      },
-      "rpglastGather": 1766656679130,
-      "rpgGather": 1,
-      "crashGame": {
-        "betAmount": 3000,
-        "crashPoint": 3.5,
-        "startedAt": 1766684340902,
-        "active": false
-      },
-      "lastCrash": 1766684352919,
-      "winGame": 1
+      "username": "@user_403e88-34",
+      "xp": 80,
+      "lastTagAllTime": 1766840767406,
+      "tagAllCount": 1
     },
     "202095793848538": {
       "coin": 150017794,
@@ -508,5 +430,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766841494734
+  "savedAt": 1766841501625
 }
