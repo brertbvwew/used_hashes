@@ -180,10 +180,10 @@
       "lastBuyPremium": 1766485581714
     },
     "163638858006761": {
-      "coin": 550001881,
+      "coin": 550007003,
       "uid": "25cd7ad4-31_b-nebula",
       "username": "@zestyglock09",
-      "xp": 650,
+      "xp": 1400,
       "premium": true,
       "premiumUntil": 1769101505714,
       "lastBuyPremium": 1766509505714,
@@ -198,7 +198,7 @@
       "received_total": 49999000,
       "invPurchases": 1,
       "winGame": 250,
-      "level": 250,
+      "level": 256,
       "rpgwin": 250,
       "rpgGather": 250,
       "rpgtrades": 250,
@@ -214,7 +214,20 @@
       "weedsell": 250,
       "weedtrades": 250,
       "lastAddInv": 1766832171644,
-      "lastBulkInv": 1766832171644
+      "lastBulkInv": 1766832171644,
+      "usedCoupons": [
+        {
+          "hash": "Z3paZmdXMGQ6NzNlYmRjODQwNGJiNzdiMjc2NTRkZDZlNzRmOTc5NjU6MTc2NTAzMTI4NTYwMzpkdlA5SDBJbjpiMjg0NzMzMjQ2ZDdjZTgzNWM2NDk4OTkxMDEzMGU0Yg==",
+          "md5": "08cadf0a3e6560d70356dc01ff5767ec",
+          "time": 1766832543374
+        }
+      ],
+      "lastBuyXP": 1766832543374,
+      "autolevelup": true,
+      "lastWork": 1766832586165,
+      "lastSteal": 1766832639804,
+      "StealSuccess": 1,
+      "lastCode": 1766832677350
     },
     "235858498158618": {
       "coin": 1176516227,
@@ -455,5 +468,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766832189282
+  "savedAt": 1766832731381
 }
