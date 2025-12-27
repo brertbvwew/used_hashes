@@ -439,10 +439,10 @@
       "robbed": 1
     },
     "281106230300923": {
-      "coin": 37743,
+      "coin": 237743,
       "uid": "efdb740-33_b-nebula",
       "username": "@user_efdb740-33",
-      "xp": 10,
+      "xp": 70,
       "lastWork": 1766838627689,
       "workSuccess": 2,
       "lastClean": 1766838681957,
@@ -464,7 +464,10 @@
       "lastPhish": 1766838730177,
       "lastDeliver": 1766838754060,
       "lastRansom": 1766838808268,
-      "level": 1
+      "level": 1,
+      "lastClaim": {
+        "daily": 1766838924337
+      }
     },
     "174891739418636": {
       "coin": 100100658,
@@ -504,5 +507,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766838869367
+  "savedAt": 1766838933659
 }
