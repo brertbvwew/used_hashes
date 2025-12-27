@@ -442,7 +442,7 @@
       "coin": 237743,
       "uid": "efdb740-33_b-nebula",
       "username": "@user_efdb740-33",
-      "xp": 70,
+      "xp": 130,
       "lastWork": 1766838627689,
       "workSuccess": 2,
       "lastClean": 1766838681957,
@@ -507,5 +507,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766838933659
+  "savedAt": 1766839085013
 }
