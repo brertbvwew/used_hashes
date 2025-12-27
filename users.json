@@ -87,10 +87,10 @@
       "winGame": 1
     },
     "202095793848538": {
-      "coin": 17794,
+      "coin": 150017794,
       "uid": "347006cd-38_b-nebula",
       "username": "@coderxsa",
-      "xp": 880,
+      "xp": 960,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -103,7 +103,8 @@
         }
       ],
       "lastBuyXP": 1766657985240,
-      "level": 250
+      "level": 250,
+      "lastBuyCoin": 1766841076076
     },
     "106077605646392": {
       "coin": 5000,
@@ -507,5 +508,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766839406834
+  "savedAt": 1766841494734
 }
