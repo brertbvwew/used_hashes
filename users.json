@@ -180,22 +180,41 @@
       "lastBuyPremium": 1766485581714
     },
     "163638858006761": {
-      "coin": 50001881,
+      "coin": 550001881,
       "uid": "25cd7ad4-31_b-nebula",
-      "username": "@user_25cd7ad4-31",
-      "xp": 410,
+      "username": "@zestyglock09",
+      "xp": 650,
       "premium": true,
       "premiumUntil": 1769101505714,
       "lastBuyPremium": 1766509505714,
-      "robbed": 2,
+      "robbed": 252,
       "lastRob": 1766524300890,
-      "robSuccess": 1,
+      "robSuccess": 251,
       "lastTagAllTime": 1766570277760,
       "tagAllCount": 1,
       "hasSentMsg": {
         "owner": true
       },
-      "received_total": 49999000
+      "received_total": 49999000,
+      "invPurchases": 1,
+      "winGame": 250,
+      "level": 250,
+      "rpgwin": 250,
+      "rpgGather": 250,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 250,
+      "yugiohviewcard": 250,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 250,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 250,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1766832171644,
+      "lastBulkInv": 1766832171644
     },
     "235858498158618": {
       "coin": 1176516227,
@@ -436,5 +455,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766831413294
+  "savedAt": 1766832189282
 }
