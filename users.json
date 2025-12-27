@@ -307,12 +307,31 @@
       "lastRobBank": 1766521405159
     },
     "198449416917151": {
-      "coin": 6588,
+      "coin": 37969,
       "uid": "364664be-31_b-nebula",
       "username": "@user_364664be-31",
-      "xp": 80,
+      "xp": 865,
       "autolevelup": true,
-      "lastMine": 1766828806723
+      "lastMine": 1766833684069,
+      "lastSpins": 1766838498038,
+      "lastSpin": 1766838486485,
+      "lastRansom": 1766833692427,
+      "robSuccess": 8,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastHack": 1766838563624,
+      "lastWork": 1766838519259,
+      "workSuccess": 2,
+      "lastClean": 1766838525754,
+      "lastPhish": 1766838511883,
+      "lastDeliver": 1766833750800,
+      "lastRobBank": 1766838451427,
+      "lastBeg": 1766838522620,
+      "begSuccess": 1,
+      "lastDecrypt": 1766838540985,
+      "lastFreelance": 1766838546129,
+      "lastRob": 1766838556254
     },
     "27726016197": {
       "coin": 650214262,
@@ -481,5 +500,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1766836809496
+  "savedAt": 1766838606920
 }
