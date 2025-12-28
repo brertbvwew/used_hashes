@@ -91,6 +91,10 @@
     "Abc": {
       "pteroId": 8,
       "expiryDate": "2025-12-29T22:07:27.117Z"
+    },
+    "pilot_one": {
+      "pteroId": 9,
+      "expiryDate": "2025-12-29T23:27:40.754Z"
     }
   }
 }
