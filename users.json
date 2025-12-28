@@ -112,10 +112,10 @@
       "lastBuyCoin": 1766841076076
     },
     "106077605646392": {
-      "coin": 6580,
+      "coin": 100205580,
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
-      "xp": 330,
+      "xp": 670,
       "hasSentMsg": {
         "cooldown": true
       },
@@ -133,7 +133,11 @@
       "level": 8,
       "autolevelup": true,
       "lastRob": 1766866789144,
-      "robSuccess": 1
+      "robSuccess": 1,
+      "lastClaim": {
+        "daily": 1766920649353
+      },
+      "received_total": 99999000
     },
     "151994715099391": {
       "coin": 250010195,
@@ -510,5 +514,5 @@
       "level": 1
     }
   },
-  "savedAt": 1766919932366
+  "savedAt": 1766920765375
 }
