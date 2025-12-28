@@ -95,7 +95,7 @@
       "coin": 1e+32,
       "uid": "347006cd-38_b-nebula",
       "username": "@coderxsa",
-      "xp": 960,
+      "xp": 320,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -108,7 +108,7 @@
         }
       ],
       "lastBuyXP": 1766657985240,
-      "level": 250,
+      "level": 251,
       "lastBuyCoin": 1766841076076
     },
     "106077605646392": {
@@ -510,5 +510,5 @@
       "level": 1
     }
   },
-  "savedAt": 1766867209328
+  "savedAt": 1766919932366
 }
