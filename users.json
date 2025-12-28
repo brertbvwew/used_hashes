@@ -95,7 +95,7 @@
       "coin": 1e+32,
       "uid": "347006cd-38_b-nebula",
       "username": "@coderxsa",
-      "xp": 320,
+      "xp": 60,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -108,8 +108,14 @@
         }
       ],
       "lastBuyXP": 1766657985240,
-      "level": 251,
-      "lastBuyCoin": 1766841076076
+      "level": 252,
+      "lastBuyCoin": 1766841076076,
+      "donated_total": 100000000,
+      "lastTagAllTime": 1766934194222,
+      "tagAllCount": 1,
+      "premium": true,
+      "premiumUntil": 1769533702491,
+      "lastBuyPremium": 1766941702491
     },
     "106077605646392": {
       "coin": 100205580,
@@ -514,5 +520,5 @@
       "level": 1
     }
   },
-  "savedAt": 1766920765375
+  "savedAt": 1766941772725
 }
