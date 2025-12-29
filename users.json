@@ -1,10 +1,10 @@
 {
   "user": {
     "254511792803874": {
-      "coin": 825111759,
+      "coin": 825111262,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
-      "xp": 25,
+      "xp": 55,
       "premium": true,
       "premiumUntil": 1768916132827,
       "lastBuyPremium": 1766324132827,
@@ -44,7 +44,7 @@
         }
       ],
       "lastBuyXP": 1766866718908,
-      "level": 61,
+      "level": 62,
       "lastBuyCoin": 1766831430899,
       "autolevelup": true,
       "lastSteal": 1766676913525,
@@ -74,20 +74,24 @@
       "lastBlackjack": 1766957013591,
       "robbed": 4,
       "rpginventory": {
-        "Apple": 6,
-        "Banana": 5,
+        "Apple": 11,
+        "Banana": 6,
         "Herb": 2,
-        "Small Healing Potion": 3,
+        "Small Healing Potion": 4,
         "Thunder Gem": 1,
         "Wood": 4,
-        "Silver Coin": 3,
-        "Leather": 2,
+        "Silver Coin": 5,
+        "Leather": 4,
         "Magic Crystal": 2,
         "Gold Nugget": 1,
-        "Dark Essence": 1
+        "Dark Essence": 1,
+        "Coal": 1,
+        "Cabbage": 2,
+        "Elven Silk": 2,
+        "Moonstone": 1
       },
-      "rpglastGather": 1766975567692,
-      "rpgGather": 3,
+      "rpglastGather": 1766979546350,
+      "rpgGather": 4,
       "crashGame": {
         "betAmount": 3000,
         "crashPoint": 3.5,
@@ -97,49 +101,70 @@
       "lastCrash": 1766684352919,
       "winGame": 1,
       "yugiohLastCard": {
-        "id": 51858200,
-        "name": "Predaplanet",
-        "type": "Trap Card",
-        "humanReadableCardType": "Continuous Trap",
-        "frameType": "trap",
-        "desc": "If a monster with a Predator Counter leaves the field while this card is face-up on the field: Add 1 \"Predap\" card from your Deck to your hand. You can only use this effect of \"Predaplanet\" once per turn. You can banish this card from your Graveyard; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Materials. Only \"Predaplant\" monsters can be used as Fusion Materials for a Fusion Summon using this effect.",
-        "race": "Continuous",
-        "archetype": "Predaplant",
-        "ygoprodeck_url": "https://ygoprodeck.com/card/predaplanet-4414",
+        "id": 23545031,
+        "name": "Mermail Abyssalacia",
+        "typeline": [
+          "Sea Serpent",
+          "Link",
+          "Effect"
+        ],
+        "type": "Link Monster",
+        "humanReadableCardType": "Link Effect Monster",
+        "frameType": "link",
+        "desc": "2 Fish, Sea Serpent, and/or Aqua monsters\r\nMonsters this card points to gain 500 ATK/DEF. You can only use each of the following effects of \"Mermail Abyssalacia\" once per turn.\r\n● During your opponent's turn (Quick Effect): You can send 1 card from your hand to the GY; add 1 \"Mermail\" monster from your Deck to your hand.\r\n● If this card in its owner's possession is destroyed by an opponent's attack or card effect: You can send 1 WATER monster from your Deck to the GY, then target 1 WATER monster in your GY; Special Summon it in Defense Position.",
+        "race": "Sea Serpent",
+        "atk": 1600,
+        "def": null,
+        "level": 0,
+        "attribute": "WATER",
+        "archetype": "Mermail",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/mermail-abyssalacia-9078",
         "card_sets": [
           {
-            "set_name": "Fusion Enforcers",
-            "set_code": "FUEN-EN013",
+            "set_name": "2020 Tin of Lost Memories Mega Pack",
+            "set_code": "MP20-EN095",
             "set_rarity": "Super Rare",
             "set_rarity_code": "(SR)",
-            "set_price": "1.48"
+            "set_price": "1.44"
+          },
+          {
+            "set_name": "Dark Neostorm",
+            "set_code": "DANE-EN094",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "0"
           }
         ],
         "card_images": [
           {
-            "id": 51858200,
-            "image_url": "https://images.ygoprodeck.com/images/cards/51858200.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/51858200.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/51858200.jpg"
+            "id": 23545031,
+            "image_url": "https://images.ygoprodeck.com/images/cards/23545031.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/23545031.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/23545031.jpg"
           }
         ],
         "card_prices": [
           {
-            "cardmarket_price": "0.23",
-            "tcgplayer_price": "0.34",
-            "ebay_price": "2.00",
-            "amazon_price": "11.99",
-            "coolstuffinc_price": "0.79"
+            "cardmarket_price": "0.46",
+            "tcgplayer_price": "0.31",
+            "ebay_price": "0.99",
+            "amazon_price": "0.99",
+            "coolstuffinc_price": "0.39"
           }
         ]
       },
-      "yugiohviewcard": 168,
+      "yugiohviewcard": 199,
       "cardInventory": [
         "Super Conductor Tyranno",
-        "Infernoid Devyaty"
+        "Infernoid Devyaty",
+        "Tierra, Source of Destruction"
       ],
-      "lastBuy": 1766978324517,
-      "ylastFightTime": 1766978411677
+      "lastBuy": 1766979425578,
+      "ylastFightTime": 1766978411677,
+      "rpgmonsterHealth": 122,
+      "rpgmonsterfight": 1,
+      "rpglastFight": 1766979457577,
+      "rpghealth": 100
     },
     "202095793848538": {
       "coin": 1e+32,
@@ -634,5 +659,5 @@
       "xp": 140
     }
   },
-  "savedAt": 1766979124410
+  "savedAt": 1766979563687
 }
