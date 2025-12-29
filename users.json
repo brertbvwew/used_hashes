@@ -121,7 +121,7 @@
       "coin": 150218530,
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
-      "xp": 810,
+      "xp": 830,
       "hasSentMsg": {
         "cooldown": true
       },
@@ -584,5 +584,5 @@
       "xp": 140
     }
   },
-  "savedAt": 1766963812636
+  "savedAt": 1766967663663
 }
