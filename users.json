@@ -657,7 +657,13 @@
       "uid": "1224714e-35_b-nebula",
       "username": "@user_1224714e-35",
       "xp": 140
+    },
+    "115560826282077": {
+      "coin": 5000,
+      "uid": "1c409e5b-37_b-nebula",
+      "username": "@user_1c409e5b-37",
+      "xp": 120
     }
   },
-  "savedAt": 1766979563687
+  "savedAt": 1767023468518
 }
