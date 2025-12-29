@@ -103,6 +103,10 @@
     "DsSiaka": {
       "pteroId": 11,
       "expiryDate": "2025-12-30T07:56:09.506Z"
+    },
+    "test45": {
+      "pteroId": 12,
+      "expiryDate": "2025-12-30T08:26:50.573Z"
     }
   }
 }
