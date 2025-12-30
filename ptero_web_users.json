@@ -111,6 +111,10 @@
     "Kold": {
       "pteroId": 3,
       "expiryDate": "2025-12-30T15:09:33.690Z"
+    },
+    "poes": {
+      "pteroId": 4,
+      "expiryDate": "2025-12-31T05:16:11.728Z"
     }
   }
 }
