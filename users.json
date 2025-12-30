@@ -224,10 +224,10 @@
       "winGame": 1
     },
     "151994715099391": {
-      "coin": 250014286,
+      "coin": 250060347,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 230,
+      "xp": 560,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
@@ -251,7 +251,7 @@
         }
       ],
       "lastBuyXP": 1766677017476,
-      "level": 16,
+      "level": 17,
       "lastHack": 1766677208603,
       "robSuccess": 4,
       "lastRob": 1766677212486,
@@ -311,9 +311,9 @@
       "lastBuy": 1766949360342,
       "lastTagAllTime": 1767024803250,
       "tagAllCount": 1,
-      "lastMine": 1767028627621,
-      "ylastFightTime": 1767073020747,
-      "winGame": 1
+      "lastMine": 1767097490098,
+      "ylastFightTime": 1767097413869,
+      "winGame": 3
     },
     "184494900424901": {
       "coin": 5000,
@@ -672,5 +672,5 @@
       "xp": 120
     }
   },
-  "savedAt": 1767095557547
+  "savedAt": 1767100447880
 }
