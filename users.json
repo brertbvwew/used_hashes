@@ -198,7 +198,7 @@
       "coin": 150218530,
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
-      "xp": 830,
+      "xp": 570,
       "hasSentMsg": {
         "cooldown": true
       },
@@ -213,7 +213,7 @@
         }
       ],
       "lastBuyXP": 1766866526910,
-      "level": 9,
+      "level": 10,
       "autolevelup": true,
       "lastRob": 1766866789144,
       "robSuccess": 1,
@@ -696,5 +696,5 @@
       "received_total": 99999000
     }
   },
-  "savedAt": 1767107741769
+  "savedAt": 1767107949292
 }
