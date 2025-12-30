@@ -694,7 +694,16 @@
       "username": "@ㅤ",
       "xp": 320,
       "received_total": 99999000
+    },
+    "27691662341": {
+      "coin": 5000,
+      "uid": "29297e35-31_b-nebula",
+      "username": "@user_29297e35-31",
+      "xp": 120,
+      "hasSentMsg": {
+        "group": true
+      }
     }
   },
-  "savedAt": 1767107949292
+  "savedAt": 1767131125536
 }
