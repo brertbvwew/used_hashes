@@ -356,14 +356,14 @@
       "coin": 550007003,
       "uid": "25cd7ad4-31_b-nebula",
       "username": "@zestyglock09",
-      "xp": 1400,
+      "xp": 380,
       "premium": true,
       "premiumUntil": 1769101505714,
       "lastBuyPremium": 1766509505714,
       "robbed": 252,
       "lastRob": 1766524300890,
       "robSuccess": 251,
-      "lastTagAllTime": 1766570277760,
+      "lastTagAllTime": 1767090755259,
       "tagAllCount": 1,
       "hasSentMsg": {
         "owner": true
@@ -371,7 +371,7 @@
       "received_total": 49999000,
       "invPurchases": 1,
       "winGame": 250,
-      "level": 256,
+      "level": 259,
       "rpgwin": 250,
       "rpgGather": 250,
       "rpgtrades": 250,
@@ -400,7 +400,8 @@
       "lastWork": 1766832586165,
       "lastSteal": 1766832639804,
       "StealSuccess": 1,
-      "lastCode": 1766832677350
+      "lastCode": 1766832677350,
+      "lastFig": 1767091502008
     },
     "235858498158618": {
       "coin": 1176516227,
@@ -672,5 +673,5 @@
       "xp": 120
     }
   },
-  "savedAt": 1767100534554
+  "savedAt": 1767100536480
 }
