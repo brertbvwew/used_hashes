@@ -139,6 +139,10 @@
     "testuser1": {
       "pteroId": 10,
       "expiryDate": "2025-12-31T08:27:45.799Z"
+    },
+    "testuser2": {
+      "pteroId": 11,
+      "expiryDate": "2025-12-31T08:27:48.331Z"
     }
   }
 }
