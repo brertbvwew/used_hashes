@@ -131,6 +131,10 @@
     "dfgdfgn": {
       "pteroId": 8,
       "expiryDate": "2025-12-31T08:26:06.599Z"
+    },
+    "testuser0": {
+      "pteroId": 9,
+      "expiryDate": "2025-12-31T08:27:43.168Z"
     }
   }
 }
