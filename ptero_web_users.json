@@ -115,6 +115,10 @@
     "poes": {
       "pteroId": 4,
       "expiryDate": "2025-12-31T05:16:11.728Z"
+    },
+    "Poes2": {
+      "pteroId": 5,
+      "expiryDate": "2025-12-31T05:22:36.172Z"
     }
   }
 }
