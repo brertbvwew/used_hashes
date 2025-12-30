@@ -159,6 +159,10 @@
     "Riribelo": {
       "pteroId": 15,
       "expiryDate": "2025-12-31T10:20:31.971Z"
+    },
+    "mktradings": {
+      "pteroId": 16,
+      "expiryDate": "2025-12-31T11:04:41.426Z"
     }
   }
 }
