@@ -151,6 +151,10 @@
     "testuser4": {
       "pteroId": 13,
       "expiryDate": "2025-12-31T08:27:53.496Z"
+    },
+    "Nicholas-12": {
+      "pteroId": 14,
+      "expiryDate": "2025-12-31T09:04:59.835Z"
     }
   }
 }
