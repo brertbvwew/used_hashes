@@ -179,6 +179,10 @@
     "ada": {
       "pteroId": 21,
       "expiryDate": "2025-12-31T15:31:27.078Z"
+    },
+    "Bro": {
+      "pteroId": 22,
+      "expiryDate": "2025-12-31T15:40:01.214Z"
     }
   }
 }
