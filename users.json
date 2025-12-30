@@ -353,10 +353,10 @@
       "lastBuyPremium": 1766485581714
     },
     "163638858006761": {
-      "coin": 550007003,
+      "coin": 550020953,
       "uid": "25cd7ad4-31_b-nebula",
       "username": "@zestyglock09",
-      "xp": 380,
+      "xp": 580,
       "premium": true,
       "premiumUntil": 1769101505714,
       "lastBuyPremium": 1766509505714,
@@ -370,7 +370,7 @@
       },
       "received_total": 49999000,
       "invPurchases": 1,
-      "winGame": 250,
+      "winGame": 251,
       "level": 259,
       "rpgwin": 250,
       "rpgGather": 250,
@@ -383,7 +383,7 @@
       "pokemonviewcard": 250,
       "vipgameviewcard": 250,
       "weedcooked": 250,
-      "weedgather": 250,
+      "weedgather": 251,
       "weedsell": 250,
       "weedtrades": 250,
       "lastAddInv": 1766832171644,
@@ -401,7 +401,17 @@
       "lastSteal": 1766832639804,
       "StealSuccess": 1,
       "lastCode": 1766832677350,
-      "lastFig": 1767091502008
+      "lastFig": 1767091502008,
+      "weedinventory": {
+        "Grinder Part": 3,
+        "Lighter": 3,
+        "Bud": 4,
+        "Sativa Nug": 4,
+        "Vape Cartridge": 2,
+        "Canvas Sheet": 1,
+        "Dank Dragonfruit": 1
+      },
+      "weedlastGather": 1767100558562
     },
     "235858498158618": {
       "coin": 1176516227,
@@ -679,5 +689,5 @@
       "xp": 260
     }
   },
-  "savedAt": 1767100558600
+  "savedAt": 1767100764549
 }
