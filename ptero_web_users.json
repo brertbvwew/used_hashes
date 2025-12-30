@@ -199,6 +199,10 @@
     "Bliforst": {
       "pteroId": 5,
       "expiryDate": "2025-12-31T19:21:32.370Z"
+    },
+    "Pilot_1": {
+      "pteroId": 6,
+      "expiryDate": "2025-12-31T20:41:17.895Z"
     }
   }
 }
