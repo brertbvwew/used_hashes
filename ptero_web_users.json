@@ -219,6 +219,10 @@
     "Cup12": {
       "pteroId": 11,
       "expiryDate": "2026-01-01T01:13:28.608Z"
+    },
+    "farel": {
+      "pteroId": 12,
+      "expiryDate": "2026-01-01T01:15:39.766Z"
     }
   }
 }
