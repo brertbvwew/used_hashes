@@ -703,7 +703,16 @@
       "hasSentMsg": {
         "group": true
       }
+    },
+    "94747515465862": {
+      "coin": 6485,
+      "uid": "1404888a-32_b-nebula",
+      "username": "@user_1404888a-32",
+      "xp": 150,
+      "lastBlackjack": 1767174186376,
+      "lastRob": 1767174217546,
+      "robSuccess": 1
     }
   },
-  "savedAt": 1767131125536
+  "savedAt": 1767174225755
 }
