@@ -227,6 +227,10 @@
     "Mmeg": {
       "pteroId": 13,
       "expiryDate": "2026-01-01T02:57:56.720Z"
+    },
+    "ds_siaka": {
+      "pteroId": 2,
+      "expiryDate": "2026-01-01T06:37:04.162Z"
     }
   }
 }
