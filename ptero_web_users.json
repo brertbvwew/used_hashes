@@ -215,6 +215,10 @@
     "habib": {
       "pteroId": 10,
       "expiryDate": "2026-01-01T00:44:34.840Z"
+    },
+    "Cup12": {
+      "pteroId": 11,
+      "expiryDate": "2026-01-01T01:13:28.608Z"
     }
   }
 }
