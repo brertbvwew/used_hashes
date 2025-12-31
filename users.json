@@ -711,7 +711,17 @@
       "xp": 50,
       "lastRob": 1767174418799,
       "robSuccess": 1
+    },
+    "109242946199597": {
+      "coin": 300002000,
+      "uid": "1bc6cceb-37_b-nebula",
+      "username": "@user_1bc6cceb-37",
+      "xp": 260,
+      "received_total": 299997000,
+      "hasSentMsg": {
+        "cooldown": true
+      }
     }
   },
-  "savedAt": 1767207228739
+  "savedAt": 1767207237353
 }
