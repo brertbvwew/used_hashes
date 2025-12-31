@@ -198,12 +198,13 @@
       "coin": 150218530,
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
-      "xp": 570,
+      "xp": 670,
       "hasSentMsg": {
-        "cooldown": true
+        "cooldown": true,
+        "premium": true
       },
-      "premium": true,
-      "premiumUntil": 1766582593456,
+      "premium": false,
+      "premiumUntil": 0,
       "lastBuyPremium": 1766571793456,
       "usedCoupons": [
         {
@@ -723,5 +724,5 @@
       }
     }
   },
-  "savedAt": 1767207237353
+  "savedAt": 1767210405791
 }
