@@ -231,6 +231,10 @@
     "ds_siaka": {
       "pteroId": 2,
       "expiryDate": "2026-01-01T06:37:04.162Z"
+    },
+    "AgentNLS": {
+      "pteroId": 5,
+      "expiryDate": "2026-01-01T06:55:40.761Z"
     }
   }
 }
