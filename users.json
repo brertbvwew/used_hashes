@@ -317,10 +317,24 @@
       "winGame": 3
     },
     "184494900424901": {
-      "coin": 5000,
+      "coin": 500010495,
       "uid": "397c663-31_b-nebula",
       "username": "@user_397c663-31",
-      "xp": 100
+      "xp": 360,
+      "lastRob": 1767230155216,
+      "robSuccess": 5,
+      "lastSteal": 1767230160360,
+      "StealSuccess": 1,
+      "lastWork": 1767230162919,
+      "workSuccess": 1,
+      "lastDecrypt": 1767230170473,
+      "lastRansom": 1767230179568,
+      "lastCode": 1767230183684,
+      "lastHack": 1767230186772,
+      "lastPhish": 1767230190271,
+      "lastSpin": 1767230195540,
+      "robbed": 1,
+      "received_total": 499995000
     },
     "230880849186992": {
       "coin": 799997000,
@@ -724,5 +738,5 @@
       }
     }
   },
-  "savedAt": 1767210405791
+  "savedAt": 1767230494372
 }
