@@ -739,7 +739,15 @@
       "hasSentMsg": {
         "cooldown": true
       }
+    },
+    "258020630073516": {
+      "coin": 180000130,
+      "uid": "c48ce1c-36_b-nebula",
+      "username": "@user_c48ce1c-36",
+      "xp": 60,
+      "robbed": 1,
+      "received_total": 179998000
     }
   },
-  "savedAt": 1767362439696
+  "savedAt": 1767362661334
 }
