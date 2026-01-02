@@ -169,10 +169,10 @@
       "received_total": 199998000
     },
     "202095793848538": {
-      "coin": 192840423,
+      "coin": 12850131,
       "uid": "347006cd-38_b-nebula",
       "username": "@coderxsa",
-      "xp": 320,
+      "xp": 670,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -187,12 +187,15 @@
       "lastBuyXP": 1766657985240,
       "level": 252,
       "lastBuyCoin": 1766841076076,
-      "donated_total": 100000000,
+      "donated_total": 280000000,
       "lastTagAllTime": 1766934194222,
       "tagAllCount": 1,
       "premium": true,
       "premiumUntil": 1769533702491,
-      "lastBuyPremium": 1766941702491
+      "lastBuyPremium": 1766941702491,
+      "lastSMSSend": 1767351307999,
+      "lastRob": 1767361825873,
+      "robSuccess": 1
     },
     "106077605646392": {
       "coin": 150218530,
@@ -738,5 +741,5 @@
       }
     }
   },
-  "savedAt": 1767356982159
+  "savedAt": 1767362439696
 }
