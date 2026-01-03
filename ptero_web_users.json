@@ -275,6 +275,10 @@
     "Djdjd": {
       "pteroId": 5,
       "expiryDate": "2026-01-02T11:20:55.324Z"
+    },
+    "baby": {
+      "pteroId": 2,
+      "expiryDate": "2026-01-04T11:05:05.267Z"
     }
   }
 }
