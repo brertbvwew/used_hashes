@@ -695,11 +695,15 @@
       "xp": 260
     },
     "148529213390986": {
-      "coin": 200003000,
+      "coin": 500000000,
       "uid": "3272c271-36_b-nebula",
       "username": "@Certified_pedo",
-      "xp": 700,
-      "received_total": 199998000
+      "xp": 60,
+      "received_total": 499995000,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "level": 1
     },
     "94747515465862": {
       "coin": 7559,
@@ -735,5 +739,5 @@
       "received_total": 1399986000
     }
   },
-  "savedAt": 1767524515099
+  "savedAt": 1767525916111
 }
