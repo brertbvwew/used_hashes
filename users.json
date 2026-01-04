@@ -726,7 +726,14 @@
       "xp": 60,
       "robbed": 1,
       "received_total": 179998000
+    },
+    "257501106827405": {
+      "coin": 1399989481,
+      "uid": "857a11c-35_b-nebula",
+      "username": "@user_857a11c-35",
+      "xp": 60,
+      "received_total": 1399986000
     }
   },
-  "savedAt": 1767362661334
+  "savedAt": 1767524515099
 }
