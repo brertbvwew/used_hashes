@@ -1,0 +1,1642 @@
+{
+  "user": {
+    "202095793848538": {
+      "premium": true,
+      "coin": 13888,
+      "uid": "347006cd-38_b-nebula",
+      "username": "@coderxsa",
+      "xp": 320,
+      "premiumUntil": 1770911673295,
+      "lastBuyPremium": 1768319673295
+    },
+    "151994715099391": {
+      "coin": 8111558464,
+      "uid": "132dec0a-31_b-nebula",
+      "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
+      "xp": 740,
+      "invPurchases": 1,
+      "winGame": 296,
+      "level": 260,
+      "robSuccess": 250,
+      "robbed": 252,
+      "rpgwin": 250,
+      "rpgGather": 252,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 250,
+      "yugiohviewcard": 257,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 296,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 252,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1767691452615,
+      "lastBulkInv": 1767691452615,
+      "yugiohLastCard": {
+        "id": 60329973,
+        "name": "Chaos Phantasm",
+        "type": "Trap Card",
+        "humanReadableCardType": "Normal Trap",
+        "frameType": "trap",
+        "desc": "Target 1 of your banished LIGHT Tuners and 1 of your banished Level 8 or lower DARK non-Tuners; return both to the GY, then Special Summon 1 LIGHT or DARK Synchro Monster from your Extra Deck whose Level equals the total Levels of those returned monsters.",
+        "race": "Normal",
+        "archetype": "Chaos",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/chaos-phantasm-13475",
+        "card_sets": [
+          {
+            "set_name": "25th Anniversary Tin: Dueling Mirrors",
+            "set_code": "MP24-EN332",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+          },
+          {
+            "set_name": "Photon Hypernova",
+            "set_code": "PHHY-EN076",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+          }
+        ],
+        "card_images": [
+          {
+            "id": 60329973,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60329973.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60329973.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60329973.jpg"
+          }
+        ],
+        "card_prices": [
+          {
+            "cardmarket_price": "0.05",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.39"
+          }
+        ]
+      },
+      "hasSentMsg": {
+        "cooldown": true,
+        "admin": true
+      },
+      "premium": true,
+      "premiumUntil": 1770283760389,
+      "lastBuyPremium": 1767691760389,
+      "spacedrones": [
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        }
+      ],
+      "spacemine": {
+        "usedDrones": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "spaceinventory": {
+        "Scrap Metal": 3,
+        "Iron Ore": 5,
+        "Damaged Circuit": 4,
+        "Silicon Ore": 3,
+        "Copper Ore": 3,
+        "Copper Wire": 3,
+        "Biometric Data Pad": 2,
+        "Crystal Shard": 2,
+        "Quantum Chip": 2,
+        "Titanium Ore": 2,
+        "Advanced Sensor Array": 2,
+        "Quantum Processor": 2,
+        "Energy Cell": 2,
+        "Plasma Coils": 2
+      },
+      "spacestationlastPassiveIncome": 1768316151871,
+      "spacelastSalvage": 1768316184277,
+      "spacesalvage": 2,
+      "sellcount": 2,
+      "lastClaim": {
+        "daily": 1767796218411,
+        "weekly": 1767796241788,
+        "monthly": 1767796254977,
+        "quarterly": 1767796275335,
+        "biannual": 1767796287939,
+        "yearly": 1767796307955,
+        "maxLevel200": 1767796337169,
+        "legendary": 1767796351072
+      },
+      "lastFig": 1767799613766,
+      "lastOwnerReport": 1767800040870,
+      "received_total": 7499925000,
+      "lastPokemon": {
+        "id": 493,
+        "name": "arceus",
+        "stats": [
+          {
+            "name": "hp",
+            "value": 120
+          },
+          {
+            "name": "attack",
+            "value": 120
+          },
+          {
+            "name": "defense",
+            "value": 120
+          },
+          {
+            "name": "special-attack",
+            "value": 120
+          },
+          {
+            "name": "special-defense",
+            "value": 120
+          },
+          {
+            "name": "speed",
+            "value": 120
+          }
+        ],
+        "isLegendary": false,
+        "isMythical": true,
+        "isStarter": false,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/493.png"
+      },
+      "pokemonInventory": [
+        "arceus"
+      ],
+      "lastCatch": 1768142257782,
+      "weedinventory": {
+        "Weed Leaf": 8,
+        "Rolling Paper": 5,
+        "Lighter": 2,
+        "Ash": 8,
+        "Paper Crutch": 1,
+        "Perlite": 3,
+        "Bud": 5,
+        "Sativa Nug": 2,
+        "Indica Bud": 3,
+        "Water Pipe": 2,
+        "Hybrid Nug": 1,
+        "Rare Blue Strain": 1,
+        "Magic Zipper": 1,
+        "Grinder Part": 3,
+        "Metal Lid": 2,
+        "Rolling Tray": 1,
+        "Kief Dust": 5,
+        "Edible": 2,
+        "Infused Blunt": 2
+      },
+      "weedlastGather": 1768672903491,
+      "rpginventory": {
+        "Apple": 6,
+        "Mushroom": 3,
+        "Wood": 3,
+        "Cabbage": 2,
+        "Stone": 6,
+        "Elven Silk": 2,
+        "Small Healing Potion": 2,
+        "Iron Shard": 3,
+        "Crystal Shard": 1,
+        "Diamond": 1,
+        "Carrot": 4,
+        "Berries": 1,
+        "Leather": 2,
+        "Gold Nugget": 2,
+        "Dark Essence": 2,
+        "Storm Gem": 1
+      },
+      "rpglastGather": 1768672895172,
+      "spam": {
+        "lastMessage": 1769455611513,
+        "count": 1
+      }
+    },
+    "254511792803874": {
+      "coin": 2218179636,
+      "uid": "403e88-34_b-nebula",
+      "username": "@AgentNLS",
+      "xp": 660,
+      "invPurchases": 3,
+      "winGame": 750,
+      "level": 754,
+      "robSuccess": 762,
+      "robbed": 754,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1767694782186,
+      "lastBulkInv": 1767694782186,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "autolevelup": true,
+      "lastHack": 1767736632869,
+      "lastSteal": 1767736640119,
+      "StealSuccess": 4,
+      "lastBeg": 1767725759405,
+      "begSuccess": 2,
+      "lastDecrypt": 1767725766672,
+      "lastPhish": 1767725771881,
+      "lastRob": 1767725762129,
+      "lastRobBank": 1767725764342,
+      "premium": true,
+      "premiumUntil": 1770284136285,
+      "lastBuyPremium": 1767692136285,
+      "lastFlip": 1767691874168,
+      "lastClaim": {
+        "ultimate": 1767694785786,
+        "immortal": 1767694951836,
+        "divine": 1767694981835,
+        "mythical": 1767694997832,
+        "legendary": 1767695033929,
+        "maxLevel200": 1767696044495,
+        "yearly": 1767696056029,
+        "daily": 1767699164802,
+        "weekly": 1767699168520,
+        "monthly": 1767699172749,
+        "quarterly": 1767699213552,
+        "biannual": 1767699225224
+      },
+      "received_total": 0,
+      "spacedrones": [
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 4
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        }
+      ],
+      "spacemine": {
+        "usedDrones": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "spaceinventory": {
+        "Scrap Metal": 6,
+        "Iron Ore": 3,
+        "Damaged Circuit": 2,
+        "Silicon Ore": 3,
+        "Copper Ore": 1,
+        "Copper Wire": 2,
+        "Biometric Data Pad": 1,
+        "Crystal Shard": 1,
+        "Quantum Chip": 1,
+        "Titanium Ore": 1,
+        "Advanced Sensor Array": 1,
+        "Quantum Processor": 1,
+        "Energy Cell": 1,
+        "Plasma Coils": 1,
+        "Fusion Core": 1
+      },
+      "spacelastSalvage": 1767774631129,
+      "spacesalvage": 1
+    },
+    "148529213390986": {
+      "coin": 526240879,
+      "uid": "3272c271-36_b-nebula",
+      "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
+      "xp": 970,
+      "hasSentMsg": {
+        "cooldown": true,
+        "premium": true
+      },
+      "invPurchases": 1,
+      "winGame": 279,
+      "level": 254,
+      "robSuccess": 250,
+      "robbed": 254,
+      "rpgwin": 250,
+      "rpgGather": 250,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 250,
+      "yugiohviewcard": 250,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 279,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 250,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1767691320941,
+      "lastBulkInv": 1767691320941,
+      "premium": true,
+      "premiumUntil": 1768315186870,
+      "lastBuyPremium": 1768304386870,
+      "lastClaim": {
+        "daily": 1767693264400,
+        "weekly": 1767693285914,
+        "monthly": 1767693311314,
+        "biannual": 1767693327955,
+        "yearly": 1767693340762,
+        "maxLevel200": 1767693379339,
+        "legendary": 1767693394595,
+        "quarterly": 1767694958461
+      },
+      "autolevelup": true,
+      "lastPokemon": {
+        "id": 552,
+        "name": "krokorok",
+        "stats": [
+          {
+            "name": "hp",
+            "value": 60
+          },
+          {
+            "name": "attack",
+            "value": 82
+          },
+          {
+            "name": "defense",
+            "value": 45
+          },
+          {
+            "name": "special-attack",
+            "value": 45
+          },
+          {
+            "name": "special-defense",
+            "value": 45
+          },
+          {
+            "name": "speed",
+            "value": 74
+          }
+        ],
+        "isLegendary": false,
+        "isMythical": false,
+        "isStarter": false,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/552.png"
+      },
+      "lastSteal": 1767825575269,
+      "StealSuccess": 1,
+      "donated_total": 3400000000
+    },
+    "163638858006761": {
+      "coin": 475980056,
+      "uid": "25cd7ad4-31_b-nebula",
+      "username": "@zestyglock09",
+      "xp": 190,
+      "invPurchases": 1,
+      "winGame": 250,
+      "level": 254,
+      "robSuccess": 250,
+      "robbed": 256,
+      "rpgwin": 250,
+      "rpgGather": 250,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 251,
+      "yugiohviewcard": 250,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 250,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 252,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1767691991766,
+      "lastBulkInv": 1767691991766,
+      "premium": true,
+      "premiumUntil": 1770284060781,
+      "lastBuyPremium": 1767692060781,
+      "lastOwnerReport": 1767729310131,
+      "spacedrones": [
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        }
+      ],
+      "spacemine": {
+        "usedDrones": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "spaceinventory": {
+        "Scrap Metal": 8,
+        "Iron Ore": 4,
+        "Damaged Circuit": 4,
+        "Silicon Ore": 4,
+        "Copper Ore": 2,
+        "Copper Wire": 3,
+        "Biometric Data Pad": 2,
+        "Crystal Shard": 3,
+        "Quantum Chip": 2,
+        "Titanium Ore": 2,
+        "Advanced Sensor Array": 2,
+        "Quantum Processor": 2,
+        "Energy Cell": 2,
+        "Plasma Coils": 2,
+        "Gold Ore": 1
+      },
+      "spacelastSalvage": 1767737457535,
+      "spacesalvage": 2,
+      "spacestationlastPassiveIncome": 1767800522500,
+      "sellcount": 1,
+      "weedinventory": {
+        "Grinder Part": 5,
+        "Lighter": 6,
+        "Bud": 4,
+        "Sativa Nug": 5,
+        "Hybrid Nug": 1,
+        "Bud Crystal": 1,
+        "Hydro Pot": 2,
+        "Rolling Paper": 3,
+        "Ash": 5,
+        "Paper Crutch": 2,
+        "Seed": 5,
+        "Metal Lid": 5,
+        "Indica Bud": 2,
+        "Water Pipe": 1,
+        "Moon Rock": 2,
+        "Infused Blunt": 2,
+        "Mystic Pipe": 2
+      },
+      "weedlastGather": 1767800529723,
+      "rpgmonsterHealth": 339,
+      "rpglastFight": 1767791298509,
+      "rpghealth": 100,
+      "lastFig": 1767799929078
+    },
+    "259150323957933": {
+      "coin": 699998000,
+      "uid": "2e4133d4-33_b-nebula",
+      "username": "@user_2e4133d4-33",
+      "xp": 200,
+      "received_total": 699993000
+    },
+    "174891739418636": {
+      "coin": 1200111364,
+      "uid": "113705af-36_b-nebula",
+      "username": "@user_113705af-36",
+      "xp": 840,
+      "lastSpin": 1767815886935,
+      "lastSpins": 1767816242728,
+      "lastMine": 1767816712876,
+      "lastDecrypt": 1767816388219,
+      "robSuccess": 55,
+      "lastFreelance": 1767816393565,
+      "lastRob": 1767816814008,
+      "lastPhish": 1767816721498,
+      "lastRansom": 1767816717271,
+      "autolevelup": false,
+      "lastRobBank": 1767816684887,
+      "lastHack": 1767816235101,
+      "lastSteal": 1767794521343,
+      "StealSuccess": 2,
+      "lastWork": 1767816674003,
+      "workSuccess": 7,
+      "level": 6,
+      "lastClaim": {
+        "daily": 1767793506238
+      },
+      "violations": 8,
+      "lastClean": 1767805718452,
+      "robbed": 8,
+      "received_total": 1199988000,
+      "lastCode": 1767816411089,
+      "lastBeg": 1767805756411,
+      "begSuccess": 1,
+      "lastDeliver": 1767805781689,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "invPurchases": 0,
+      "donated_total": 200000
+    },
+    "106077605646392": {
+      "coin": 1500668795,
+      "uid": "28d70f27-32_b-nebula",
+      "username": "@user_28d70f27-32",
+      "xp": 590,
+      "hasSentMsg": {
+        "admin": true,
+        "cooldown": true
+      },
+      "autolevelup": true,
+      "invPurchases": 1,
+      "winGame": 253,
+      "level": 253,
+      "robSuccess": 251,
+      "robbed": 251,
+      "rpgwin": 250,
+      "rpgGather": 253,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 251,
+      "yugiohviewcard": 295,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 253,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 251,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1767695670545,
+      "lastBulkInv": 1767695670545,
+      "rpginventory": {
+        "Apple": 1,
+        "Carrot": 6,
+        "Berries": 5,
+        "Wood": 3,
+        "Herb": 5,
+        "Leather": 2,
+        "Mystic Feather": 4,
+        "Banana": 3,
+        "Mushroom": 2,
+        "Tomato": 1,
+        "Iron Shard": 4,
+        "Coal": 2,
+        "Stone": 8,
+        "Elven Silk": 1,
+        "Small Healing Potion": 1,
+        "Silver Coin": 1,
+        "Iron Ore": 4,
+        "Vampire Fang": 2
+      },
+      "rpglastGather": 1768316312475,
+      "yugiohLastCard": {
+        "id": 9267769,
+        "name": "Flashbang",
+        "type": "Trap Card",
+        "humanReadableCardType": "Normal Trap",
+        "frameType": "trap",
+        "desc": "Activate only after damage calculation when a monster your opponent controls made a direct attack. It is now the End Phase of this turn.",
+        "race": "Normal",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/flashbang-784",
+        "card_sets": [
+          {
+            "set_name": "Strike of Neos",
+            "set_code": "STON-EN053",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+          }
+        ],
+        "card_images": [
+          {
+            "id": 9267769,
+            "image_url": "https://images.ygoprodeck.com/images/cards/9267769.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/9267769.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/9267769.jpg"
+          }
+        ],
+        "card_prices": [
+          {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+          }
+        ]
+      },
+      "received_total": 1099989000,
+      "lastClaim": {
+        "daily": 1767795397731,
+        "weekly": 1767795413429
+      },
+      "lastRob": 1767800134791,
+      "donated_total": 300000000,
+      "lastPokemon": {
+        "id": 248,
+        "name": "tyranitar",
+        "stats": [
+          {
+            "name": "hp",
+            "value": 100
+          },
+          {
+            "name": "attack",
+            "value": 134
+          },
+          {
+            "name": "defense",
+            "value": 110
+          },
+          {
+            "name": "special-attack",
+            "value": 95
+          },
+          {
+            "name": "special-defense",
+            "value": 100
+          },
+          {
+            "name": "speed",
+            "value": 61
+          }
+        ],
+        "isLegendary": false,
+        "isMythical": false,
+        "isStarter": false,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/248.png"
+      },
+      "pokemonInventory": [
+        "tyranitar"
+      ],
+      "lastCatch": 1767823393765,
+      "spaceinventory": {
+        "Scrap Metal": 6,
+        "Iron Ore": 2,
+        "Damaged Circuit": 3,
+        "Silicon Ore": 2,
+        "Copper Ore": 1,
+        "Copper Wire": 2,
+        "Biometric Data Pad": 1,
+        "Crystal Shard": 2,
+        "Quantum Chip": 1,
+        "Titanium Ore": 1,
+        "Advanced Sensor Array": 1,
+        "Quantum Processor": 1,
+        "Energy Cell": 1,
+        "Plasma Coils": 1,
+        "Gold Ore": 1,
+        "Fusion Core": 1,
+        "Neutronium Fragment": 1
+      },
+      "spacelastSalvage": 1768316291624,
+      "spacesalvage": 1,
+      "rpgmonsterHealth": 72,
+      "rpglastFight": 1768316325180,
+      "rpghealth": 100,
+      "weedinventory": {
+        "Weed Leaf": 2,
+        "Grinder Part": 1,
+        "Paper Crutch": 2,
+        "Worm Castings": 1,
+        "Rolling Tray": 3,
+        "Plastic Shard": 1,
+        "Compost": 1,
+        "Edible": 2,
+        "Hybrid Nug": 2,
+        "Hash Brick": 3,
+        "Canvas Sheet": 2
+      },
+      "weedlastGather": 1768316349597,
+      "spacedrones": [
+        {
+          "level": 1
+        }
+      ],
+      "spacemine": {
+        "usedDrones": [
+          null
+        ]
+      },
+      "premium": true,
+      "premiumUntil": 1768948241189,
+      "lastBuyPremium": 1768937441189
+    },
+    "93939944173798": {
+      "coin": 662577,
+      "uid": "232d457b-38_b-nebula",
+      "username": "@user_232d457b-38",
+      "xp": 750,
+      "robbed": 8,
+      "lastMine": 1767805843943,
+      "lastHack": 1769357380346,
+      "robSuccess": 17,
+      "lastWork": 1769357340664,
+      "workSuccess": 4,
+      "lastRob": 1769327369958,
+      "lastSpin": 1769357320802,
+      "lastBeg": 1769357446231,
+      "begSuccess": 3,
+      "lastRobBank": 1767693217867,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastDeliver": 1769357401940,
+      "autolevelup": true,
+      "level": 2,
+      "lastClaim": {
+        "daily": 1769327103789
+      },
+      "invPurchases": 0,
+      "lastFreelance": 1769357371035,
+      "lastCode": 1767806157264,
+      "lastClean": 1769357409689,
+      "lastPhish": 1769357528845,
+      "lastRansom": 1767806081955
+    },
+    "279800426053766": {
+      "coin": 88032340,
+      "uid": "2c18d595-36_b-nebula",
+      "username": "@user_2c18d595-36",
+      "xp": 165,
+      "lastWork": 1767899669507,
+      "workSuccess": 3,
+      "lastSpin": 1767899627009,
+      "lastRobBank": 1767899689364,
+      "robSuccess": 9,
+      "lastDeliver": 1767694118569,
+      "lastFreelance": 1767694392819,
+      "lastDecrypt": 1767694395936,
+      "lastPhish": 1767899679117,
+      "lastHack": 1767899686435,
+      "lastMine": 1767899676788,
+      "lastSpins": 1767694437049,
+      "received_total": 99999000,
+      "donated_total": 12001000,
+      "robbed": 3,
+      "lastCode": 1767899684607,
+      "lastRepair": 1767899720767,
+      "level": 1,
+      "lastRansom": 1767899759855,
+      "autolevelup": true
+    },
+    "235858498158618": {
+      "coin": 804076715,
+      "uid": "136556f7-38_b-nebula",
+      "username": "@user_136556f7-38",
+      "robbed": 253,
+      "xp": 10,
+      "invPurchases": 1,
+      "winGame": 250,
+      "level": 253,
+      "robSuccess": 260,
+      "rpgwin": 250,
+      "rpgGather": 250,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 250,
+      "yugiohviewcard": 252,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 250,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 250,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1767694583500,
+      "lastBulkInv": 1767694583500,
+      "lastClaim": {
+        "daily": 1767806392053,
+        "quarterly": 1767696158345,
+        "biannual": 1767696175349,
+        "maxLevel200": 1767696189502,
+        "legendary": 1767696205309,
+        "weekly": 1767806425731
+      },
+      "yugiohLastCard": {
+        "id": 67273917,
+        "name": "Igknight Cavalier",
+        "typeline": [
+          "Warrior",
+          "Pendulum",
+          "Normal"
+        ],
+        "type": "Pendulum Normal Monster",
+        "humanReadableCardType": "Pendulum Normal Monster",
+        "frameType": "normal_pendulum",
+        "desc": "[ Pendulum Effect ] \nIf you have an \"Igknight\" card in your other Pendulum Zone: You can destroy both cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.\n\n[ Monster Effect ] \n''The vaunted weapons of this pink Igknight have inflicted as much damage to her enemies as to her own troops, but she gets results so very few complain.''",
+        "race": "Warrior",
+        "atk": 2400,
+        "def": 1200,
+        "level": 5,
+        "attribute": "FIRE",
+        "archetype": "Igknight",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/igknight-cavalier-5655",
+        "card_sets": [
+          {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN130",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+          },
+          {
+            "set_name": "Dimension of Chaos",
+            "set_code": "DOCS-EN030",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+          }
+        ],
+        "card_images": [
+          {
+            "id": 67273917,
+            "image_url": "https://images.ygoprodeck.com/images/cards/67273917.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/67273917.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/67273917.jpg"
+          }
+        ],
+        "card_prices": [
+          {
+            "cardmarket_price": "0.06",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "1.49",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
+          }
+        ]
+      },
+      "inventory": [
+        "robotassistant",
+        "platinumbadge",
+        "x3coin",
+        "goldbadge",
+        "supercar",
+        "mansion"
+      ],
+      "hasSentMsg": {
+        "cooldown": true,
+        "premium": true
+      },
+      "lastWork": 1767806764897,
+      "workSuccess": 3,
+      "lastMine": 1767806766751,
+      "lastDecrypt": 1767806779636,
+      "lastDeliver": 1767806804531,
+      "lastPhish": 1767806769909,
+      "lastFreelance": 1767806788640,
+      "lastSpin": 1767806813100,
+      "lastRob": 1767806828049,
+      "lastRobBank": 1767806819281,
+      "lastSteal": 1767806821875,
+      "StealSuccess": 2,
+      "donated_total": 100001000,
+      "lastBuyCoin": 1767957730481,
+      "cardInventory": [
+        "Igknight Cavalier"
+      ],
+      "lastBuy": 1767697576058,
+      "lastCode": 1767806773369,
+      "lastHack": 1767806776371,
+      "lastRepair": 1767806808872,
+      "premium": true,
+      "premiumUntil": 1767916195181,
+      "lastBuyPremium": 1767905395181,
+      "lastFig": 1767906368092
+    },
+    "250680665190402": {
+      "coin": 99826512,
+      "uid": "ac5839-32_b-nebula",
+      "username": "@user_ac5839-32",
+      "xp": 575,
+      "lastClean": 1767901851026,
+      "lastRansom": 1767947444646,
+      "robSuccess": 35,
+      "robbed": 1,
+      "lastBeg": 1767866205254,
+      "begSuccess": 3,
+      "lastRob": 1767954381380,
+      "lastRobBank": 1767947527094,
+      "lastPhish": 1767954383061,
+      "lastMine": 1767866815329,
+      "lastCode": 1767947519232,
+      "autolevelup": true,
+      "received_total": 99999000,
+      "lastFreelance": 1767947521528,
+      "lastDeliver": 1767868339758,
+      "lastWork": 1767947529380,
+      "workSuccess": 4,
+      "lastRepair": 1767947517701,
+      "lastDecrypt": 1767868345928,
+      "level": 3,
+      "lastHack": 1767867054516,
+      "lastClaim": {
+        "daily": 1767865544857
+      },
+      "lastSpin": 1767947571584,
+      "lastSpins": 1767947554957,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastSteal": 1767947532055,
+      "StealSuccess": 2,
+      "donated_total": 500000
+    },
+    "78147265507451": {
+      "coin": 300455416,
+      "uid": "3b2e497b-31_b-nebula",
+      "username": "@user_3b2e497b-31",
+      "xp": 935,
+      "lastRob": 1769327052067,
+      "robSuccess": 12,
+      "lastMine": 1767806043330,
+      "robbed": 4,
+      "lastHack": 1767806090017,
+      "lastDeliver": 1767806059944,
+      "lastWork": 1767806047920,
+      "workSuccess": 4,
+      "lastSpin": 1767805500457,
+      "received_total": 299997000,
+      "level": 1,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "violations": 1,
+      "lastClaim": {
+        "daily": 1769327116376
+      },
+      "lastSteal": 1767805608839,
+      "StealSuccess": 1,
+      "lastFreelance": 1767805684407,
+      "lastCode": 1767806145740,
+      "lastClean": 1767806053785,
+      "lastBeg": 1767805747112,
+      "begSuccess": 1,
+      "lastRansom": 1767806157570
+    },
+    "80110333988926": {
+      "coin": 5000,
+      "uid": "30c79ed3-36_b-nebula",
+      "username": "@user_30c79ed3-36",
+      "xp": 20
+    },
+    "257501106827405": {
+      "coin": 3699994448,
+      "uid": "857a11c-35_b-nebula",
+      "username": "@user_857a11c-35",
+      "xp": 270,
+      "invPurchases": 0,
+      "lastHack": 1767807897501,
+      "robSuccess": 10,
+      "lastPhish": 1767807892827,
+      "lastWork": 1767807923699,
+      "workSuccess": 2,
+      "lastDecrypt": 1767807895706,
+      "lastMine": 1767807894153,
+      "lastRansom": 1767793046533,
+      "lastRobBank": 1767793051252,
+      "lastSteal": 1767807902680,
+      "StealSuccess": 3,
+      "lastSpin": 1767793082293,
+      "lastRob": 1767807890934,
+      "received_total": 3699963000,
+      "robbed": 2,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "level": 1
+    },
+    "27780398463": {
+      "coin": 199998000,
+      "uid": "5dfef68-33_b-nebula",
+      "username": "@user_5dfef68-33",
+      "xp": 160,
+      "robbed": 3,
+      "hasSentMsg": {
+        "coin": true
+      },
+      "received_total": 199998000
+    },
+    "173001500786812": {
+      "coin": 5000,
+      "uid": "1ef28550-32_b-nebula",
+      "username": "@user_1ef28550-32",
+      "xp": 860,
+      "lastSpins": 1769357296454
+    },
+    "39969636786213": {
+      "coin": 10023258,
+      "uid": "2a722a9b-33_b-nebula",
+      "username": "@user_2a722a9b-33",
+      "xp": 440,
+      "robbed": 7,
+      "received_total": 9999000,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastRob": 1767866780895,
+      "robSuccess": 7,
+      "lastSpin": 1767866858133,
+      "lastSteal": 1767866794269,
+      "StealSuccess": 3,
+      "lastPhish": 1767866812222,
+      "lastWork": 1767866797643,
+      "workSuccess": 2,
+      "lastRepair": 1767866804910,
+      "lastClean": 1767866802279,
+      "lastMine": 1767866807292,
+      "level": 1,
+      "lastRobBank": 1767866068715,
+      "lastDeliver": 1767866830970,
+      "lastDecrypt": 1767866849352
+    },
+    "198449416917151": {
+      "coin": 144790030,
+      "uid": "364664be-31_b-nebula",
+      "username": "@dickridder_👅",
+      "xp": 615,
+      "lastRansom": 1769327056513,
+      "robSuccess": 34,
+      "received_total": 144288000,
+      "lastSpin": 1769256184420,
+      "lastMine": 1769327046556,
+      "lastRoulette": 1767821716253,
+      "lastFlip": 1767824111645,
+      "autolevelup": true,
+      "lastPhish": 1769327049948,
+      "lastRob": 1769265756792,
+      "lastWork": 1769257296034,
+      "workSuccess": 4,
+      "lastSpins": 1767859541455,
+      "hasSentMsg": {
+        "cooldown": true,
+        "owner": true
+      },
+      "lastRobBank": 1769327041152,
+      "lastHack": 1769265807084,
+      "lastTagAllTime": 1769259237978,
+      "tagAllCount": 1,
+      "level": 5,
+      "violations": 2,
+      "lastFreelance": 1767850878593,
+      "lastClaim": {
+        "daily": 1769250571179
+      },
+      "robbed": 1
+    },
+    "92612597956617": {
+      "coin": 3399966000,
+      "uid": "7deb4b8-37_b-nebula",
+      "username": "@user_7deb4b8-37",
+      "xp": 560,
+      "robbed": 2,
+      "hasSentMsg": {
+        "coin": true
+      },
+      "received_total": 3399966000
+    },
+    "184615444676655": {
+      "coin": 5000,
+      "uid": "4917cb8-35_b-nebula",
+      "username": "@user_4917cb8-35",
+      "xp": 60
+    },
+    "64455211774052": {
+      "coin": 9347,
+      "uid": "1eaaaef5-32_b-nebula",
+      "username": "@user_1eaaaef5-32",
+      "xp": 170,
+      "lastRob": 1767860919437,
+      "robSuccess": 3,
+      "robbed": 1,
+      "lastHack": 1767861016167
+    },
+    "189915400822990": {
+      "coin": 207630,
+      "uid": "3828659-30_b-nebula",
+      "username": "@user_3828659-30",
+      "xp": 30,
+      "lastHack": 1767865753480,
+      "robSuccess": 9,
+      "robbed": 5,
+      "hasSentMsg": {
+        "coin": true
+      },
+      "received_total": 199000,
+      "lastWork": 1767816701027,
+      "workSuccess": 1,
+      "lastRob": 1767865743103,
+      "lastMine": 1767816791412,
+      "level": 1
+    },
+    "189850640715850": {
+      "coin": 12522,
+      "uid": "9725df7-30_b-nebula",
+      "username": "@user_9725df7-30",
+      "xp": 300,
+      "lastRob": 1767866743233,
+      "robSuccess": 1,
+      "hasSentMsg": {
+        "owner": true,
+        "premium": true
+      },
+      "lastTagAllTime": 1767867102477,
+      "tagAllCount": 1,
+      "lastWork": 1767871133807,
+      "lastCode": 1767871140580,
+      "lastBeg": 1767871144850,
+      "begSuccess": 1,
+      "lastClean": 1767871155080,
+      "level": 1
+    },
+    "114435796508833": {
+      "coin": 200003000,
+      "uid": "1f26dc08-33_b-nebula",
+      "username": "@user_1f26dc08-33",
+      "xp": 40,
+      "received_total": 199998000
+    },
+    "230880849186992": {
+      "coin": 500000000,
+      "uid": "2a529a18-32_b-nebula",
+      "username": "@user_2a529a18-32",
+      "xp": 80,
+      "received_total": 499995000
+    },
+    "65198425669680": {
+      "coin": 5000,
+      "uid": "1a396a08-30_b-nebula",
+      "username": "@user_1a396a08-30",
+      "xp": 60,
+      "premium": true,
+      "premiumUntil": 1768682402513,
+      "lastBuyPremium": 1768671602513
+    },
+    "63046378635471": {
+      "coin": 150003153,
+      "uid": "32d92c53-31_b-nebula",
+      "username": "@zestyglock009",
+      "xp": 180,
+      "hasSentMsg": {
+        "owner": true,
+        "cooldown": true
+      },
+      "lastTagAllTime": 1768940574803,
+      "tagAllCount": 1,
+      "lastOwnerReport": 1768931266154,
+      "usedCoupons": [
+        {
+          "hash": "am5yQVg5aHA6MDdhMzFiMjIwOWMxZDcwZjFkN2VmOGNlMGIxY2EzNWU6MTc2ODkzNjQzODQyNDpqZktGdUUxYTo5OTk0ZjkwMDAxNjEyZDI3ZWZhZDM3M2FlZDRjZGYxMw==",
+          "md5": "67647b54ff79c370a3ffa7ed2c6f42c3",
+          "time": 1768941061041
+        }
+      ],
+      "lastBuyXP": 1768941061041,
+      "level": 8,
+      "autolevelup": true,
+      "premium": true,
+      "premiumUntil": 1768952024204,
+      "lastBuyPremium": 1768941224204,
+      "robbed": 1,
+      "lastBuyCoin": 1769334100402
+    },
+    "27618605148": {
+      "coin": 5000,
+      "uid": "2f7d607a-38_b-nebula",
+      "username": "@zestyglock09",
+      "xp": 160,
+      "hasSentMsg": {
+        "owner": true
+      }
+    },
+    "79242918416443": {
+      "coin": 58655,
+      "uid": "b0ce0aa-33_b-nebula",
+      "username": "@zestyglockII",
+      "xp": 95,
+      "robbed": 1,
+      "hasSentMsg": {
+        "owner": true,
+        "cooldown": true
+      },
+      "autolevelup": true,
+      "winGame": 1,
+      "level": 2,
+      "lastOwnerReport": 1769345296849,
+      "lastWork": 1769357195798,
+      "workSuccess": 1,
+      "lastHack": 1769357197325,
+      "robSuccess": 4,
+      "lastPhish": 1769357199874,
+      "lastClean": 1769357201981,
+      "lastBeg": 1769357203457,
+      "begSuccess": 1,
+      "lastSteal": 1769357204981,
+      "StealSuccess": 1,
+      "lastDecrypt": 1769357232072,
+      "lastRansom": 1769357254152,
+      "lastSpins": 1769357281105,
+      "lastSpin": 1769357284730,
+      "lastDeliver": 1769357340258,
+      "lastBlackjack": 1769357341377,
+      "lastFreelance": 1769357341970,
+      "premium": true,
+      "premiumUntil": 1769371055581,
+      "lastBuyPremium": 1769360255581
+    },
+    "249216148455505": {
+      "coin": 5000,
+      "uid": "6f4c608-35_b-nebula",
+      "username": "@xX.Mommy_issues_for_life.Xx",
+      "xp": 160,
+      "lastSpin": 1769345646591
+    }
+  },
+  "clan": {
+    "a287cb": {
+      "name": "زنجي",
+      "leader": "202095793848538",
+      "members": [
+        "202095793848538"
+      ],
+      "createdAt": 1767683717690,
+      "lastIncome": 1767686089927,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 1767686089927,
+      "lastChallenge": 1767686149451,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "upgrades": {
+        "defense": 1,
+        "attack": 1,
+        "vault": 0
+      },
+      "perks": {
+        "income": 500,
+        "defense": 500,
+        "attack": 500,
+        "speed": 250,
+        "stealth": 100
+      },
+      "coin": 7500000,
+      "glory": 0,
+      "essence": 0,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5
+    },
+    "fc49b0": {
+      "name": "poker's bar",
+      "leader": "254511792803874",
+      "members": [
+        "254511792803874"
+      ],
+      "createdAt": 1767691935317,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5
+    },
+    "8fbf3f": {
+      "name": "poker's bar",
+      "leader": "254511792803874",
+      "members": [
+        "254511792803874"
+      ],
+      "createdAt": 1767696273536,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5
+    }
+  },
+  "savedAt": 1769455612273
+}
