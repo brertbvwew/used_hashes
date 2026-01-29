@@ -1325,42 +1325,15 @@
       "lastDecrypt": 1767866849352
     },
     "198449416917151": {
-      "coin": 144998456,
+      "coin": 7715,
       "uid": "364664be-31_b-nebula",
-      "username": "@dickridder_👅",
-      "xp": 815,
-      "lastRansom": 1769610159687,
-      "robSuccess": 36,
-      "received_total": 144288000,
-      "lastSpin": 1769610230416,
-      "lastMine": 1769610154355,
-      "lastRoulette": 1767821716253,
-      "lastFlip": 1767824111645,
-      "autolevelup": true,
-      "lastPhish": 1769327049948,
-      "lastRob": 1769265756792,
-      "lastWork": 1769610156891,
-      "workSuccess": 5,
-      "lastSpins": 1769610217205,
-      "hasSentMsg": {
-        "cooldown": true,
-        "owner": true
-      },
-      "lastRobBank": 1769327041152,
-      "lastHack": 1769610162046,
-      "lastTagAllTime": 1769259237978,
-      "tagAllCount": 1,
-      "level": 5,
-      "violations": 2,
-      "lastFreelance": 1767850878593,
-      "lastClaim": {
-        "daily": 1769610148197
-      },
-      "robbed": 1,
+      "username": "@user_364664be-31",
       "spam": {
-        "lastMessage": 1769610290280,
+        "lastMessage": 1769708038286,
         "count": 1
-      }
+      },
+      "xp": 180,
+      "lastMine": 1769707860215
     },
     "92612597956617": {
       "coin": 3399966000,
@@ -1706,5 +1679,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769707216394
+  "savedAt": 1769708038790
 }
