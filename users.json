@@ -1451,10 +1451,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 140017103,
+      "coin": 140014182,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 420,
+      "xp": 20,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true
@@ -1470,19 +1470,20 @@
         }
       ],
       "lastBuyXP": 1768941061041,
-      "level": 8,
+      "level": 9,
       "autolevelup": true,
       "premium": true,
       "premiumUntil": 1768952024204,
       "lastBuyPremium": 1768941224204,
-      "robbed": 1,
+      "robbed": 2,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1769613274767,
+        "lastMessage": 1769674548501,
         "count": 1
       },
       "donated_total": 10000000,
-      "winGame": 1
+      "winGame": 1,
+      "lastClean": 1769636964176
     },
     "27618605148": {
       "coin": 5000,
@@ -1650,7 +1651,43 @@
         "projectType": null
       },
       "maxMembers": 5
+    },
+    "5b8093": {
+      "name": "poker's bar",
+      "leader": "254511792803874",
+      "members": [
+        "254511792803874"
+      ],
+      "createdAt": 1769632121723,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5
     }
   },
-  "savedAt": 1769613275490
+  "savedAt": 1769674548967
 }
