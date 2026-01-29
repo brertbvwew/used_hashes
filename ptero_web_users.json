@@ -3,6 +3,10 @@
     "Boobs": {
       "pteroId": 5,
       "expiryDate": "2026-01-30T14:59:22.827Z"
+    },
+    "dark": {
+      "pteroId": 6,
+      "expiryDate": "2026-01-30T15:01:50.537Z"
     }
   }
 }
