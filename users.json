@@ -1570,13 +1570,16 @@
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "spam": {
-        "lastMessage": 1769786712506,
+        "lastMessage": 1769787843465,
         "count": 1
       },
-      "xp": 80,
+      "xp": 200,
       "hasSentMsg": {
         "premium": true
-      }
+      },
+      "premium": true,
+      "premiumUntil": 1772379809099,
+      "lastBuyPremium": 1769787809099
     }
   },
   "clan": {
@@ -1731,5 +1734,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769786714464
+  "savedAt": 1769787845366
 }
