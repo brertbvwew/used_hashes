@@ -1564,12 +1564,13 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@user_6f4c608-35",
       "spam": {
-        "lastMessage": 1769837279894,
+        "lastMessage": 1769837279997,
         "count": 1
       },
-      "xp": 580,
+      "xp": 560,
       "hasSentMsg": {
-        "premium": true
+        "premium": true,
+        "cooldown": true
       }
     },
     "168419274039524": {
@@ -1741,5 +1742,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769837280407
+  "savedAt": 1769837281838
 }
