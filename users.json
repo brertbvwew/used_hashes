@@ -1560,14 +1560,14 @@
       "lastBuyPremium": 1769360255581
     },
     "249216148455505": {
-      "coin": 1520023383,
+      "coin": 57404112,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🥵Xx_👻🕸️Mommy🕸️👻_xX🥵",
       "spam": {
-        "lastMessage": 1769941565286,
+        "lastMessage": 1769942106629,
         "count": 1
       },
-      "xp": 200,
+      "xp": 820,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -1625,6 +1625,18 @@
           "accessory": null
         },
         "inventory": {}
+      },
+      "club": {
+        "level": 46,
+        "upgrades": {
+          "music": 50,
+          "djs": 35,
+          "security": 25,
+          "bikegang": 15,
+          "carfleet": 10
+        },
+        "lastRentCollected": 1769942096047,
+        "upgradesBoughtSinceLevel": 0
       }
     },
     "168419274039524": {
@@ -1820,7 +1832,7 @@
       "glory": 0,
       "essence": 0,
       "roles": {
-        "treasurer": null,
+        "treasurer": "249216148455505",
         "warlord": null,
         "spy": null
       },
@@ -1832,5 +1844,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769941565824
+  "savedAt": 1769942107270
 }
