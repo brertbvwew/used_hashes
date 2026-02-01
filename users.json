@@ -1578,102 +1578,14 @@
       "lastBuyPremium": 1769360255581
     },
     "249216148455505": {
-      "coin": 7529459112,
+      "coin": 5000,
       "uid": "6f4c608-35_b-nebula",
-      "username": "@🥵Xx_👻🕸️Mommy🕸️👻_xX🥵",
+      "username": "@user_6f4c608-35",
       "spam": {
-        "lastMessage": 1769956826616,
+        "lastMessage": 1769964552810,
         "count": 1
       },
-      "xp": 880,
-      "hasSentMsg": {
-        "premium": true,
-        "cooldown": true
-      },
-      "lastSpin": 1769838033188,
-      "lastSpins": 1769838039850,
-      "lastRob": 1769837657469,
-      "robSuccess": 756,
-      "robbed": 751,
-      "received_total": 19998000,
-      "lastRobBank": 1769837828086,
-      "lastSteal": 1769837830718,
-      "StealSuccess": 1,
-      "lastPhish": 1769837833384,
-      "lastHack": 1769837848001,
-      "level": 754,
-      "lastRepair": 1769837950587,
-      "lastRansom": 1769837951759,
-      "lastBeg": 1769837953147,
-      "begSuccess": 1,
-      "lastClean": 1769837995534,
-      "lastDecrypt": 1769838000680,
-      "lastDeliver": 1769838002942,
-      "lastCode": 1769838028853,
-      "lastMine": 1769838030433,
-      "isHelper": true,
-      "helperXP": 0,
-      "helpedCount": 0,
-      "helperLevel": 1,
-      "helperGauge": 0,
-      "lastBuyUnban": 1769926905824,
-      "invPurchases": 3,
-      "winGame": 750,
-      "rpgwin": 750,
-      "rpgGather": 750,
-      "rpgtrades": 750,
-      "rpgcrafted": 750,
-      "rpgmonsterfight": 750,
-      "yugiohviewcard": 750,
-      "onepiceviewcard": 750,
-      "dragonballviewcard": 750,
-      "pokemonviewcard": 750,
-      "vipgameviewcard": 750,
-      "weedcooked": 750,
-      "weedgather": 750,
-      "weedsell": 750,
-      "weedtrades": 750,
-      "lastAddInv": 1769940849082,
-      "lastBulkInv": 1769940849082,
-      "clanId": "894ee3",
-      "gear": {
-        "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": null
-        },
-        "inventory": {}
-      },
-      "club": {
-        "level": 46,
-        "upgrades": {
-          "music": 50,
-          "djs": 35,
-          "security": 25,
-          "bikegang": 15,
-          "carfleet": 10
-        },
-        "lastRentCollected": 1769942096047,
-        "upgradesBoughtSinceLevel": 0
-      },
-      "premium": true,
-      "premiumUntil": 1772538532752,
-      "lastBuyPremium": 1769946532752,
-      "tokens": 3,
-      "lastBuyTokens": 1769946933818,
-      "lastClaim": {
-        "ultimate": 1769956736338,
-        "immortal": 1769956742763,
-        "divine": 1769956754142,
-        "mythical": 1769956765607,
-        "legendary": 1769956770009,
-        "maxLevel200": 1769956781528,
-        "yearly": 1769956792481,
-        "biannual": 1769956799854,
-        "quarterly": 1769956807656,
-        "monthly": 1769956813942,
-        "weekly": 1769956821165
-      }
+      "xp": 40
     },
     "168419274039524": {
       "coin": 5000,
@@ -1882,5 +1794,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769958581083
+  "savedAt": 1769964553415
 }
