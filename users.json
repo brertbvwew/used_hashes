@@ -996,7 +996,7 @@
       "coin": 1273000,
       "uid": "232d457b-38_b-nebula",
       "username": "@user_232d457b-38",
-      "xp": 370,
+      "xp": 410,
       "robbed": 9,
       "lastMine": 1769922267665,
       "lastHack": 1769922176746,
@@ -1024,7 +1024,7 @@
       "lastPhish": 1769357528845,
       "lastRansom": 1767806081955,
       "spam": {
-        "lastMessage": 1769922438316,
+        "lastMessage": 1769957251438,
         "count": 1
       }
     },
@@ -1881,5 +1881,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769956827199
+  "savedAt": 1769957252082
 }
