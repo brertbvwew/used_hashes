@@ -1564,10 +1564,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🥵Xx_👻🕸️Mommy🕸️👻_xX🥵",
       "spam": {
-        "lastMessage": 1769929458436,
+        "lastMessage": 1769929458621,
         "count": 1
       },
-      "xp": 360,
+      "xp": 520,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -1593,12 +1593,12 @@
       "lastDeliver": 1769838002942,
       "lastCode": 1769838028853,
       "lastMine": 1769838030433,
-      "lastBuyUnban": 1769926433158,
       "isHelper": true,
       "helperXP": 0,
       "helpedCount": 0,
       "helperLevel": 1,
-      "helperGauge": 0
+      "helperGauge": 0,
+      "lastBuyUnban": 1769926905824
     },
     "168419274039524": {
       "coin": 5000,
@@ -1769,5 +1769,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769929459230
+  "savedAt": 1769929461248
 }
