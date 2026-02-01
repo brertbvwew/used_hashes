@@ -1578,14 +1578,15 @@
       "lastBuyPremium": 1769360255581
     },
     "249216148455505": {
-      "coin": 5000,
+      "coin": 150005000,
       "uid": "6f4c608-35_b-nebula",
       "username": "@user_6f4c608-35",
       "spam": {
-        "lastMessage": 1769964552810,
+        "lastMessage": 1769979768107,
         "count": 1
       },
-      "xp": 40
+      "xp": 340,
+      "lastBuyCoin": 1769979627788
     },
     "168419274039524": {
       "coin": 5000,
@@ -1794,5 +1795,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769964553415
+  "savedAt": 1769979769025
 }
