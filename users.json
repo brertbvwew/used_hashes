@@ -1560,14 +1560,14 @@
       "lastBuyPremium": 1769360255581
     },
     "249216148455505": {
-      "coin": 1520023383,
+      "coin": 20023383,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🥵Xx_👻🕸️Mommy🕸️👻_xX🥵",
       "spam": {
-        "lastMessage": 1769940856458,
+        "lastMessage": 1769940903671,
         "count": 1
       },
-      "xp": 60,
+      "xp": 900,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -1575,15 +1575,15 @@
       "lastSpin": 1769838033188,
       "lastSpins": 1769838039850,
       "lastRob": 1769837657469,
-      "robSuccess": 756,
-      "robbed": 751,
+      "robSuccess": 6,
+      "robbed": 1,
       "received_total": 19998000,
       "lastRobBank": 1769837828086,
       "lastSteal": 1769837830718,
       "StealSuccess": 1,
       "lastPhish": 1769837833384,
       "lastHack": 1769837848001,
-      "level": 753,
+      "level": 2,
       "lastRepair": 1769837950587,
       "lastRansom": 1769837951759,
       "lastBeg": 1769837953147,
@@ -1593,30 +1593,12 @@
       "lastDeliver": 1769838002942,
       "lastCode": 1769838028853,
       "lastMine": 1769838030433,
+      "lastBuyUnban": 1769939581907,
       "isHelper": true,
       "helperXP": 0,
       "helpedCount": 0,
       "helperLevel": 1,
-      "helperGauge": 0,
-      "lastBuyUnban": 1769926905824,
-      "invPurchases": 3,
-      "winGame": 750,
-      "rpgwin": 750,
-      "rpgGather": 750,
-      "rpgtrades": 750,
-      "rpgcrafted": 750,
-      "rpgmonsterfight": 750,
-      "yugiohviewcard": 750,
-      "onepiceviewcard": 750,
-      "dragonballviewcard": 750,
-      "pokemonviewcard": 750,
-      "vipgameviewcard": 750,
-      "weedcooked": 750,
-      "weedgather": 750,
-      "weedsell": 750,
-      "weedtrades": 750,
-      "lastAddInv": 1769940849082,
-      "lastBulkInv": 1769940849082
+      "helperGauge": 0
     },
     "168419274039524": {
       "coin": 5000,
@@ -1787,5 +1769,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769940857037
+  "savedAt": 1769940904611
 }
