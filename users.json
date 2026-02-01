@@ -1564,10 +1564,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🥵Xx_👻🕸️Mommy🕸️👻_xX🥵",
       "spam": {
-        "lastMessage": 1769942910176,
+        "lastMessage": 1769946605636,
         "count": 1
       },
-      "xp": 360,
+      "xp": 520,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -1637,7 +1637,10 @@
         },
         "lastRentCollected": 1769942096047,
         "upgradesBoughtSinceLevel": 0
-      }
+      },
+      "premium": true,
+      "premiumUntil": 1772538532752,
+      "lastBuyPremium": 1769946532752
     },
     "168419274039524": {
       "coin": 5000,
@@ -1846,5 +1849,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769942912239
+  "savedAt": 1769946607327
 }
