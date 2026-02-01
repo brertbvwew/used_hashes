@@ -993,18 +993,18 @@
       "lastBuyPremium": 1768937441189
     },
     "93939944173798": {
-      "coin": 1273000,
+      "coin": 1320230,
       "uid": "232d457b-38_b-nebula",
       "username": "@user_232d457b-38",
-      "xp": 410,
+      "xp": 220,
       "robbed": 9,
-      "lastMine": 1769922267665,
+      "lastMine": 1769957283765,
       "lastHack": 1769922176746,
-      "robSuccess": 20,
+      "robSuccess": 21,
       "lastWork": 1769922210954,
       "workSuccess": 5,
-      "lastRob": 1769922217228,
-      "lastSpin": 1769922282475,
+      "lastRob": 1769957301283,
+      "lastSpin": 1769957291203,
       "lastBeg": 1769922228564,
       "begSuccess": 4,
       "lastRobBank": 1767693217867,
@@ -1013,7 +1013,7 @@
       },
       "lastDeliver": 1769922242139,
       "autolevelup": true,
-      "level": 3,
+      "level": 4,
       "lastClaim": {
         "daily": 1769922184946
       },
@@ -1024,9 +1024,10 @@
       "lastPhish": 1769357528845,
       "lastRansom": 1767806081955,
       "spam": {
-        "lastMessage": 1769957251438,
+        "lastMessage": 1769958580442,
         "count": 1
-      }
+      },
+      "winGame": 1
     },
     "279800426053766": {
       "coin": 88032340,
@@ -1881,5 +1882,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769957252082
+  "savedAt": 1769958581083
 }
