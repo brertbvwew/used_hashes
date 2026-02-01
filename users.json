@@ -1560,14 +1560,14 @@
       "lastBuyPremium": 1769360255581
     },
     "249216148455505": {
-      "coin": 7404112,
+      "coin": 6793404112,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🥵Xx_👻🕸️Mommy🕸️👻_xX🥵",
       "spam": {
-        "lastMessage": 1769942717885,
+        "lastMessage": 1769942910029,
         "count": 1
       },
-      "xp": 180,
+      "xp": 360,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -1814,11 +1814,11 @@
         "249216148455505"
       ],
       "createdAt": 1769941493159,
-      "lastIncome": 0,
+      "lastIncome": 1769942831432,
       "lastBattle": 0,
       "lastMission": 0,
       "lastAmbush": 0,
-      "lastCollect": 0,
+      "lastCollect": 1769942831432,
       "lastChallenge": 0,
       "lastScavenge": 0,
       "lastResearch": 0,
@@ -1846,5 +1846,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769942718939
+  "savedAt": 1769942910716
 }
