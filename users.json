@@ -1467,7 +1467,7 @@
       "coin": 640034025,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 410,
+      "xp": 470,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1497,7 +1497,7 @@
       "robbed": 252,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1769948249721,
+        "lastMessage": 1769949094009,
         "count": 1
       },
       "donated_total": 10000000,
@@ -1868,5 +1868,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769948250368
+  "savedAt": 1769949094791
 }
