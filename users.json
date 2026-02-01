@@ -1560,14 +1560,14 @@
       "lastBuyPremium": 1769360255581
     },
     "249216148455505": {
-      "coin": 20023383,
+      "coin": 1020023383,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🥵Xx_👻🕸️Mommy🕸️👻_xX🥵",
       "spam": {
-        "lastMessage": 1769940341117,
+        "lastMessage": 1769940745943,
         "count": 1
       },
-      "xp": 860,
+      "xp": 940,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -1575,15 +1575,15 @@
       "lastSpin": 1769838033188,
       "lastSpins": 1769838039850,
       "lastRob": 1769837657469,
-      "robSuccess": 6,
-      "robbed": 1,
+      "robSuccess": 506,
+      "robbed": 501,
       "received_total": 19998000,
       "lastRobBank": 1769837828086,
       "lastSteal": 1769837830718,
       "StealSuccess": 1,
       "lastPhish": 1769837833384,
       "lastHack": 1769837848001,
-      "level": 2,
+      "level": 502,
       "lastRepair": 1769837950587,
       "lastRansom": 1769837951759,
       "lastBeg": 1769837953147,
@@ -1599,7 +1599,24 @@
       "helperLevel": 1,
       "helperGauge": 0,
       "lastBuyUnban": 1769926905824,
-      "invPurchases": 0
+      "invPurchases": 2,
+      "winGame": 500,
+      "rpgwin": 500,
+      "rpgGather": 500,
+      "rpgtrades": 500,
+      "rpgcrafted": 500,
+      "rpgmonsterfight": 500,
+      "yugiohviewcard": 500,
+      "onepiceviewcard": 500,
+      "dragonballviewcard": 500,
+      "pokemonviewcard": 500,
+      "vipgameviewcard": 500,
+      "weedcooked": 500,
+      "weedgather": 500,
+      "weedsell": 500,
+      "weedtrades": 500,
+      "lastAddInv": 1769940740622,
+      "lastBulkInv": 1769940740622
     },
     "168419274039524": {
       "coin": 5000,
@@ -1770,5 +1787,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769940342065
+  "savedAt": 1769940746558
 }
