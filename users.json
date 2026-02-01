@@ -1577,14 +1577,14 @@
       "lastBuyPremium": 1769360255581
     },
     "249216148455505": {
-      "coin": 6793404112,
+      "coin": 7529459112,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🥵Xx_👻🕸️Mommy🕸️👻_xX🥵",
       "spam": {
-        "lastMessage": 1769946969441,
+        "lastMessage": 1769956826616,
         "count": 1
       },
-      "xp": 600,
+      "xp": 880,
       "hasSentMsg": {
         "premium": true,
         "cooldown": true
@@ -1659,7 +1659,20 @@
       "premiumUntil": 1772538532752,
       "lastBuyPremium": 1769946532752,
       "tokens": 3,
-      "lastBuyTokens": 1769946933818
+      "lastBuyTokens": 1769946933818,
+      "lastClaim": {
+        "ultimate": 1769956736338,
+        "immortal": 1769956742763,
+        "divine": 1769956754142,
+        "mythical": 1769956765607,
+        "legendary": 1769956770009,
+        "maxLevel200": 1769956781528,
+        "yearly": 1769956792481,
+        "biannual": 1769956799854,
+        "quarterly": 1769956807656,
+        "monthly": 1769956813942,
+        "weekly": 1769956821165
+      }
     },
     "168419274039524": {
       "coin": 5000,
@@ -1868,5 +1881,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769949094791
+  "savedAt": 1769956827199
 }
