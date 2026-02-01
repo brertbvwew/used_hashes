@@ -1464,10 +1464,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 140034025,
+      "coin": 640034025,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 290,
+      "xp": 370,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1489,31 +1489,48 @@
         }
       ],
       "lastBuyXP": 1769706883476,
-      "level": 16,
+      "level": 266,
       "autolevelup": true,
       "premium": true,
       "premiumUntil": 1769713834691,
       "lastBuyPremium": 1769703034691,
-      "robbed": 2,
+      "robbed": 252,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1769707215828,
+        "lastMessage": 1769948081059,
         "count": 1
       },
       "donated_total": 10000000,
-      "winGame": 1,
+      "winGame": 251,
       "lastClean": 1769706967501,
       "lastWork": 1769706969314,
       "workSuccess": 2,
       "lastHack": 1769705802994,
-      "robSuccess": 2,
+      "robSuccess": 252,
       "lastBeg": 1769707125483,
       "begSuccess": 2,
       "lastDeliver": 1769706987707,
       "lastSteal": 1769707005339,
       "StealSuccess": 1,
       "lastSpin": 1769707062085,
-      "lastRobBank": 1769707155581
+      "lastRobBank": 1769707155581,
+      "invPurchases": 1,
+      "rpgwin": 250,
+      "rpgGather": 250,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 250,
+      "yugiohviewcard": 250,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 250,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 250,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1769947986456,
+      "lastBulkInv": 1769947986456
     },
     "27618605148": {
       "coin": 5000,
@@ -1851,5 +1868,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1769946969667
+  "savedAt": 1769948081461
 }
