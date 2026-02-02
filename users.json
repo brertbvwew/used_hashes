@@ -810,7 +810,7 @@
       "coin": 1500668795,
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
-      "xp": 590,
+      "xp": 710,
       "hasSentMsg": {
         "admin": true,
         "cooldown": true
@@ -990,7 +990,13 @@
       },
       "premium": true,
       "premiumUntil": 1768948241189,
-      "lastBuyPremium": 1768937441189
+      "lastBuyPremium": 1768937441189,
+      "spam": {
+        "lastMessage": 1770034052070,
+        "count": 2
+      },
+      "tokens": 3,
+      "lastBuyTokens": 1770033864385
     },
     "93939944173798": {
       "coin": 1320230,
@@ -1795,5 +1801,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770030125581
+  "savedAt": 1770034053479
 }
