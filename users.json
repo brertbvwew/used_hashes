@@ -496,41 +496,42 @@
       "spacesalvage": 1
     },
     "148529213390986": {
-      "coin": 526240879,
+      "coin": 1676995879,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 970,
+      "xp": 190,
       "hasSentMsg": {
         "cooldown": true,
-        "premium": true
+        "premium": true,
+        "admin": true
       },
-      "invPurchases": 1,
-      "winGame": 279,
-      "level": 254,
-      "robSuccess": 250,
-      "robbed": 254,
-      "rpgwin": 250,
-      "rpgGather": 250,
-      "rpgtrades": 250,
-      "rpgcrafted": 250,
-      "rpgmonsterfight": 250,
-      "yugiohviewcard": 250,
-      "onepiceviewcard": 250,
-      "dragonballviewcard": 250,
-      "pokemonviewcard": 279,
-      "vipgameviewcard": 250,
-      "weedcooked": 250,
-      "weedgather": 250,
-      "weedsell": 250,
-      "weedtrades": 250,
-      "lastAddInv": 1767691320941,
-      "lastBulkInv": 1767691320941,
+      "invPurchases": 3,
+      "winGame": 779,
+      "level": 762,
+      "robSuccess": 750,
+      "robbed": 754,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 779,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1770043518486,
+      "lastBulkInv": 1770043518486,
       "premium": true,
       "premiumUntil": 1768315186870,
       "lastBuyPremium": 1768304386870,
       "lastClaim": {
-        "daily": 1767693264400,
-        "weekly": 1767693285914,
+        "daily": 1769967577635,
+        "weekly": 1769967604487,
         "monthly": 1767693311314,
         "biannual": 1767693327955,
         "yearly": 1767693340762,
@@ -576,7 +577,20 @@
       },
       "lastSteal": 1767825575269,
       "StealSuccess": 1,
-      "donated_total": 3400000000
+      "donated_total": 3400000000,
+      "spam": {
+        "lastMessage": 1770047655797,
+        "count": 2
+      },
+      "usedCoupons": [
+        {
+          "hash": "Ulo1OVRhZlQ6NGNkMjMyMjE0YWQyYTg0NmM5NTE0OTQzODU3NWFkZjg6MTc3MDA0MzY2ODExMTpMNnVrZzFSMTo1OWI4OWU2MTVkMTc4ODE1YjE1YWQ1ZDMwMmRmNmRiMw==",
+          "md5": "9747e1eb7da68a17f6907e4ae81ec626",
+          "time": 1770043683634
+        }
+      ],
+      "lastBuyXP": 1770043683634,
+      "lastBuyCoin": 1770043755011
     },
     "163638858006761": {
       "coin": 475980056,
@@ -1801,5 +1815,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770039458124
+  "savedAt": 1770047657536
 }
