@@ -809,8 +809,8 @@
     "106077605646392": {
       "coin": 2000668795,
       "uid": "28d70f27-32_b-nebula",
-      "username": "@user_28d70f27-32",
-      "xp": 930,
+      "username": "@KoldWantsOnlyTits👅",
+      "xp": 30,
       "hasSentMsg": {
         "admin": true,
         "cooldown": true
@@ -818,7 +818,7 @@
       "autolevelup": true,
       "invPurchases": 2,
       "winGame": 503,
-      "level": 503,
+      "level": 504,
       "robSuccess": 501,
       "robbed": 501,
       "rpgwin": 500,
@@ -988,11 +988,11 @@
           null
         ]
       },
-      "premium": true,
-      "premiumUntil": 1768948241189,
+      "premium": false,
+      "premiumUntil": 0,
       "lastBuyPremium": 1768937441189,
       "spam": {
-        "lastMessage": 1770036052693,
+        "lastMessage": 1770036303036,
         "count": 1
       },
       "tokens": 1,
@@ -1801,5 +1801,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770036055135
+  "savedAt": 1770036305420
 }
