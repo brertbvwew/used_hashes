@@ -807,36 +807,36 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 2000668795,
+      "coin": 2500668795,
       "uid": "28d70f27-32_b-nebula",
       "username": "@KoldWantsOnlyTits👅",
-      "xp": 30,
+      "xp": 150,
       "hasSentMsg": {
         "admin": true,
         "cooldown": true
       },
       "autolevelup": true,
-      "invPurchases": 2,
-      "winGame": 503,
-      "level": 504,
-      "robSuccess": 501,
-      "robbed": 501,
-      "rpgwin": 500,
-      "rpgGather": 503,
-      "rpgtrades": 500,
-      "rpgcrafted": 500,
-      "rpgmonsterfight": 501,
-      "yugiohviewcard": 545,
-      "onepiceviewcard": 500,
-      "dragonballviewcard": 500,
-      "pokemonviewcard": 503,
-      "vipgameviewcard": 500,
-      "weedcooked": 500,
-      "weedgather": 501,
-      "weedsell": 500,
-      "weedtrades": 500,
-      "lastAddInv": 1770036040617,
-      "lastBulkInv": 1770036040617,
+      "invPurchases": 3,
+      "winGame": 753,
+      "level": 754,
+      "robSuccess": 751,
+      "robbed": 751,
+      "rpgwin": 750,
+      "rpgGather": 753,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 751,
+      "yugiohviewcard": 795,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 753,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 751,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1770039431329,
+      "lastBulkInv": 1770039431329,
       "rpginventory": {
         "Apple": 1,
         "Carrot": 6,
@@ -992,7 +992,7 @@
       "premiumUntil": 0,
       "lastBuyPremium": 1768937441189,
       "spam": {
-        "lastMessage": 1770036303036,
+        "lastMessage": 1770039455816,
         "count": 1
       },
       "tokens": 1,
@@ -1801,5 +1801,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770036305420
+  "savedAt": 1770039458124
 }
