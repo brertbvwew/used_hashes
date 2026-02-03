@@ -821,17 +821,38 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 5000,
+      "coin": 1000005000,
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
       "spam": {
-        "lastMessage": 1770128119067,
+        "lastMessage": 1770149186764,
         "count": 1
       },
-      "xp": 60,
+      "xp": 560,
       "premium": true,
       "premiumUntil": 1772720075822,
-      "lastBuyPremium": 1770128075822
+      "lastBuyPremium": 1770128075822,
+      "invPurchases": 2,
+      "winGame": 500,
+      "level": 500,
+      "robSuccess": 500,
+      "robbed": 500,
+      "rpgwin": 500,
+      "rpgGather": 500,
+      "rpgtrades": 500,
+      "rpgcrafted": 500,
+      "rpgmonsterfight": 500,
+      "yugiohviewcard": 500,
+      "onepiceviewcard": 500,
+      "dragonballviewcard": 500,
+      "pokemonviewcard": 500,
+      "vipgameviewcard": 500,
+      "weedcooked": 500,
+      "weedgather": 500,
+      "weedsell": 500,
+      "weedtrades": 500,
+      "lastAddInv": 1770149033064,
+      "lastBulkInv": 1770149033064
     },
     "93939944173798": {
       "coin": 1320230,
@@ -1617,5 +1638,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770142777560
+  "savedAt": 1770149188372
 }
