@@ -1563,39 +1563,17 @@
       }
     },
     "79242918416443": {
-      "coin": 58655,
+      "coin": 5000,
       "uid": "b0ce0aa-33_b-nebula",
-      "username": "@zestyglockII",
-      "xp": 95,
-      "robbed": 1,
-      "hasSentMsg": {
-        "owner": true,
-        "cooldown": true
+      "username": "@user_b0ce0aa-33",
+      "spam": {
+        "lastMessage": 1770126978640,
+        "count": 1
       },
-      "autolevelup": true,
-      "winGame": 1,
-      "level": 2,
-      "lastOwnerReport": 1769345296849,
-      "lastWork": 1769357195798,
-      "workSuccess": 1,
-      "lastHack": 1769357197325,
-      "robSuccess": 4,
-      "lastPhish": 1769357199874,
-      "lastClean": 1769357201981,
-      "lastBeg": 1769357203457,
-      "begSuccess": 1,
-      "lastSteal": 1769357204981,
-      "StealSuccess": 1,
-      "lastDecrypt": 1769357232072,
-      "lastRansom": 1769357254152,
-      "lastSpins": 1769357281105,
-      "lastSpin": 1769357284730,
-      "lastDeliver": 1769357340258,
-      "lastBlackjack": 1769357341377,
-      "lastFreelance": 1769357341970,
+      "xp": 40,
       "premium": true,
-      "premiumUntil": 1769371055581,
-      "lastBuyPremium": 1769360255581
+      "premiumUntil": 1770731714322,
+      "lastBuyPremium": 1770126914322
     },
     "249216148455505": {
       "coin": 150005000,
@@ -1815,5 +1793,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770047657536
+  "savedAt": 1770126980513
 }
