@@ -1452,19 +1452,21 @@
       "lastBuyPremium": 1769787809099
     },
     "269505624326383": {
-      "coin": 5551,
+      "coin": 100009462,
       "uid": "f9f673c-33_b-nebula",
       "username": "@user_f9f673c-33",
       "spam": {
-        "lastMessage": 1770195147400,
+        "lastMessage": 1770201749847,
         "count": 1
       },
-      "xp": 270,
+      "xp": 440,
       "robbed": 1,
-      "lastRob": 1770130959809,
-      "robSuccess": 1,
-      "lastWork": 1770194930931,
-      "workSuccess": 1
+      "lastRob": 1770195281911,
+      "robSuccess": 2,
+      "lastWork": 1770195297959,
+      "workSuccess": 2,
+      "lastSpin": 1770195319618,
+      "received_total": 99999000
     }
   },
   "clan": {
@@ -1657,5 +1659,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770195570885
+  "savedAt": 1770201751890
 }
