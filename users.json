@@ -1429,10 +1429,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770234548052,
+        "lastMessage": 1770245727071,
         "count": 1
       },
-      "xp": 80,
+      "xp": 240,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 750,
@@ -1460,7 +1460,16 @@
       },
       "premium": true,
       "premiumUntil": 1772826347250,
-      "lastBuyPremium": 1770234347250
+      "lastBuyPremium": 1770234347250,
+      "clanId": "ac5c8c",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null
+        },
+        "inventory": {}
+      }
     },
     "168419274039524": {
       "coin": 5000,
@@ -1684,7 +1693,43 @@
         "projectType": null
       },
       "maxMembers": 5
+    },
+    "ac5c8c": {
+      "name": "༽࿂༜།S༴PཽI༆DཽE༴R།༜࿂༼",
+      "leader": "249216148455505",
+      "members": [
+        "249216148455505"
+      ],
+      "createdAt": 1770245717447,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5
     }
   },
-  "savedAt": 1770234548818
+  "savedAt": 1770245727905
 }
