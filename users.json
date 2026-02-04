@@ -1425,15 +1425,42 @@
       "lastSendEmail": 1770138412732
     },
     "249216148455505": {
-      "coin": 150005000,
+      "coin": 1650005000,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770030123835,
-        "count": 2
+        "lastMessage": 1770234405681,
+        "count": 1
       },
-      "xp": 620,
-      "lastBuyCoin": 1769979627788
+      "xp": 980,
+      "lastBuyCoin": 1769979627788,
+      "invPurchases": 3,
+      "winGame": 750,
+      "level": 750,
+      "robSuccess": 750,
+      "robbed": 750,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1770234154305,
+      "lastBulkInv": 1770234154305,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "premium": true,
+      "premiumUntil": 1772826347250,
+      "lastBuyPremium": 1770234347250
     },
     "168419274039524": {
       "coin": 5000,
@@ -1659,5 +1686,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770208227188
+  "savedAt": 1770234406644
 }
