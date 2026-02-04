@@ -1429,14 +1429,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770234405681,
+        "lastMessage": 1770234548052,
         "count": 1
       },
-      "xp": 980,
+      "xp": 80,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 750,
-      "level": 750,
+      "level": 751,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1686,5 +1686,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770234406644
+  "savedAt": 1770234548818
 }
