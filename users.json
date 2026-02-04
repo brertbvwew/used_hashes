@@ -1327,10 +1327,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 640034025,
+      "coin": 640033487,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 470,
+      "xp": 30,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1352,24 +1352,24 @@
         }
       ],
       "lastBuyXP": 1769706883476,
-      "level": 266,
+      "level": 267,
       "autolevelup": true,
-      "premium": true,
-      "premiumUntil": 1769713834691,
+      "premium": false,
+      "premiumUntil": 0,
       "lastBuyPremium": 1769703034691,
-      "robbed": 252,
+      "robbed": 254,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1769949094009,
+        "lastMessage": 1770193902348,
         "count": 1
       },
       "donated_total": 10000000,
       "winGame": 251,
       "lastClean": 1769706967501,
-      "lastWork": 1769706969314,
-      "workSuccess": 2,
-      "lastHack": 1769705802994,
-      "robSuccess": 252,
+      "lastWork": 1770193282923,
+      "workSuccess": 3,
+      "lastHack": 1770193283689,
+      "robSuccess": 254,
       "lastBeg": 1769707125483,
       "begSuccess": 2,
       "lastDeliver": 1769706987707,
@@ -1393,7 +1393,8 @@
       "weedsell": 250,
       "weedtrades": 250,
       "lastAddInv": 1769948239721,
-      "lastBulkInv": 1769948239721
+      "lastBulkInv": 1769948239721,
+      "lastPhish": 1770193284215
     },
     "27618605148": {
       "coin": 5000,
@@ -1638,5 +1639,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770149188372
+  "savedAt": 1770193905442
 }
