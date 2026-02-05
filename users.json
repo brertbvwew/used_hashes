@@ -1458,14 +1458,14 @@
       "lastBuyCoin": 1770298071784
     },
     "249216148455505": {
-      "coin": 1497505000,
+      "coin": 1342505000,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770306848556,
+        "lastMessage": 1770307212721,
         "count": 1
       },
-      "xp": 80,
+      "xp": 360,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 750,
@@ -1778,7 +1778,9 @@
       "perks": {
         "income": 500,
         "defense": 500,
-        "attack": 500
+        "attack": 500,
+        "speed": 250,
+        "stealth": 100
       },
       "coin": 0,
       "glory": 0,
@@ -1796,5 +1798,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770306849495
+  "savedAt": 1770307213823
 }
