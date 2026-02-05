@@ -1474,19 +1474,19 @@
       "lastBuyCoin": 1770298071784
     },
     "249216148455505": {
-      "coin": 8599132759,
+      "coin": 8099133024,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770323995967,
+        "lastMessage": 1770324560039,
         "count": 1
       },
-      "xp": 370,
+      "xp": 40,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 757,
-      "level": 769,
-      "robSuccess": 750,
+      "level": 770,
+      "robSuccess": 751,
       "robbed": 750,
       "rpgwin": 750,
       "rpgGather": 750,
@@ -1602,7 +1602,9 @@
         },
         "lastRentCollected": 1770323937662,
         "upgradesBoughtSinceLevel": 2
-      }
+      },
+      "donated_total": 500000000,
+      "lastRob": 1770324373183
     },
     "168419274039524": {
       "coin": 5000,
@@ -1894,5 +1896,5 @@
       "welcomeMessage": "Always the best when comparing to the weak"
     }
   },
-  "savedAt": 1770324534496
+  "savedAt": 1770324561862
 }
