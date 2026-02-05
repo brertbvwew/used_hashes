@@ -1473,14 +1473,14 @@
       "lastBuyCoin": 1770298071784
     },
     "249216148455505": {
-      "coin": 9573013132,
+      "coin": 8763013132,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770323188100,
+        "lastMessage": 1770323293276,
         "count": 1
       },
-      "xp": 610,
+      "xp": 770,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 757,
@@ -1865,7 +1865,7 @@
       "lastResearch": 0,
       "upgrades": {
         "defense": 10,
-        "attack": 8,
+        "attack": 9,
         "vault": 12
       },
       "perks": {
@@ -1875,7 +1875,7 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 1444666000,
+      "coin": 6347641,
       "glory": 115,
       "essence": 3,
       "roles": {
@@ -1892,5 +1892,5 @@
       "lastTrain": 1770322124142
     }
   },
-  "savedAt": 1770323190048
+  "savedAt": 1770323294943
 }
