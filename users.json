@@ -821,20 +821,20 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 1000005000,
+      "coin": 6701505000,
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
       "spam": {
-        "lastMessage": 1770149186764,
+        "lastMessage": 1770318496128,
         "count": 1
       },
-      "xp": 560,
+      "xp": 5220,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 2,
-      "winGame": 500,
-      "level": 500,
+      "winGame": 515,
+      "level": 502,
       "robSuccess": 500,
       "robbed": 500,
       "rpgwin": 500,
@@ -852,7 +852,22 @@
       "weedsell": 500,
       "weedtrades": 500,
       "lastAddInv": 1770149033064,
-      "lastBulkInv": 1770149033064
+      "lastBulkInv": 1770149033064,
+      "clanId": "ac5c8c",
+      "usedCoupons": [
+        {
+          "hash": "dGRIeDFXR0E6ODY5NTVhZWE1MzU2Mzg5YTM2Y2E0ODM3NTkzZTcxZmI6MTc3MDMwODU5NjA2NTpqdFk1V2ZyQjoyMzZmYjBiNzExYmQ1Y2FjZGRhYTY3NDdjYzkwODA1OQ==",
+          "md5": "8e4763cd29dd8c6089bceaa609f3d4b7",
+          "time": 1770313312393
+        },
+        {
+          "hash": "N1pjSTFuMHA6Mzk4NzAwODIyODM5OTUzNzcyMjYzNzQ0ZTllMGU0MTM6MTc3MDMwODU5NTA1OTpNTU9PSjBaTzo4ZDI1YWUyNmVjNWMxZjg1Yzg0Y2Q1MTUwODI5YmZiNg==",
+          "md5": "93a81ac1d143ee4375e67f0782f22cde",
+          "time": 1770313360091
+        }
+      ],
+      "lastBuyXP": 1770313312393,
+      "lastBuyWin": 1770313360091
     },
     "93939944173798": {
       "coin": 1523461,
@@ -1861,5 +1876,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770317000337
+  "savedAt": 1770318498168
 }
