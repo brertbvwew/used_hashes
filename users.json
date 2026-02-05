@@ -1342,10 +1342,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 540531378,
+      "coin": 640530378,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 150,
+      "xp": 170,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1375,7 +1375,7 @@
       "robbed": 255,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1770195568910,
+        "lastMessage": 1770324532527,
         "count": 1
       },
       "donated_total": 110000000,
@@ -1412,7 +1412,8 @@
       "lastPhish": 1770193284215,
       "lastClaim": {
         "monthly": 1770195560526
-      }
+      },
+      "received_total": 99999000
     },
     "27618605148": {
       "coin": 5000,
@@ -1857,7 +1858,7 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770316819550,
       "lastBattle": 0,
-      "lastMission": 1770323526147,
+      "lastMission": 1770324106105,
       "lastAmbush": 0,
       "lastCollect": 1770316819550,
       "lastChallenge": 1770322190790,
@@ -1875,8 +1876,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 1954905987,
-      "glory": 188,
+      "coin": 2486946587,
+      "glory": 236,
       "essence": 7,
       "roles": {
         "treasurer": "249216148455505",
@@ -1893,5 +1894,5 @@
       "welcomeMessage": "Always the best when comparing to the weak"
     }
   },
-  "savedAt": 1770323997819
+  "savedAt": 1770324534496
 }
