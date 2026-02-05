@@ -855,16 +855,16 @@
       "lastBulkInv": 1770149033064
     },
     "93939944173798": {
-      "coin": 1320230,
+      "coin": 1523461,
       "uid": "232d457b-38_b-nebula",
       "username": "@user_232d457b-38",
-      "xp": 220,
+      "xp": 300,
       "robbed": 9,
       "lastMine": 1769957283765,
       "lastHack": 1769922176746,
       "robSuccess": 21,
-      "lastWork": 1769922210954,
-      "workSuccess": 5,
+      "lastWork": 1770304993723,
+      "workSuccess": 6,
       "lastRob": 1769957301283,
       "lastSpin": 1769957291203,
       "lastBeg": 1769922228564,
@@ -877,7 +877,7 @@
       "autolevelup": true,
       "level": 4,
       "lastClaim": {
-        "daily": 1769922184946
+        "daily": 1770304984815
       },
       "invPurchases": 0,
       "lastFreelance": 1769357371035,
@@ -886,7 +886,7 @@
       "lastPhish": 1769357528845,
       "lastRansom": 1767806081955,
       "spam": {
-        "lastMessage": 1769958580442,
+        "lastMessage": 1770305020415,
         "count": 1
       },
       "winGame": 1
@@ -1782,5 +1782,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770298426980
+  "savedAt": 1770305022589
 }
