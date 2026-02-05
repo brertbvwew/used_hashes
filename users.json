@@ -1477,14 +1477,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770323293276,
+        "lastMessage": 1770323752888,
         "count": 1
       },
-      "xp": 770,
+      "xp": 90,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 757,
-      "level": 768,
+      "level": 769,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1857,11 +1857,11 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770316819550,
       "lastBattle": 0,
-      "lastMission": 1770322119912,
+      "lastMission": 1770323526147,
       "lastAmbush": 0,
       "lastCollect": 1770316819550,
       "lastChallenge": 1770322190790,
-      "lastScavenge": 1770322260113,
+      "lastScavenge": 1770323738241,
       "lastResearch": 0,
       "upgrades": {
         "defense": 10,
@@ -1875,9 +1875,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 6347641,
-      "glory": 115,
-      "essence": 3,
+      "coin": 1954905987,
+      "glory": 188,
+      "essence": 7,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -1889,8 +1889,9 @@
         "projectType": null
       },
       "maxMembers": 5,
-      "lastTrain": 1770322124142
+      "lastTrain": 1770322124142,
+      "welcomeMessage": "Always the best when comparing to the weak"
     }
   },
-  "savedAt": 1770323294943
+  "savedAt": 1770323754533
 }
