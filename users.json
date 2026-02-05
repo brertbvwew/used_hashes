@@ -1458,18 +1458,18 @@
       "lastBuyCoin": 1770298071784
     },
     "249216148455505": {
-      "coin": 1650005000,
+      "coin": 1497505000,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770245727071,
+        "lastMessage": 1770306848556,
         "count": 1
       },
-      "xp": 240,
+      "xp": 80,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 750,
-      "level": 751,
+      "level": 752,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1481,7 +1481,7 @@
       "onepiceviewcard": 750,
       "dragonballviewcard": 750,
       "pokemonviewcard": 750,
-      "vipgameviewcard": 750,
+      "vipgameviewcard": 751,
       "weedcooked": 750,
       "weedgather": 750,
       "weedsell": 750,
@@ -1502,6 +1502,16 @@
           "accessory": null
         },
         "inventory": {}
+      },
+      "vipgameLastCard": {
+        "id": 76,
+        "name": "VIP CARD COLLECTION - CODERXSA",
+        "rarity": "VIP",
+        "power": 16891,
+        "color": "Gold",
+        "attribute": "Exclusive",
+        "imageUrl": "https://i.ibb.co/XfjtdnGS/vip-72.png",
+        "cost": 46591
       }
     },
     "168419274039524": {
@@ -1765,7 +1775,11 @@
         "attack": 0,
         "vault": 0
       },
-      "perks": {},
+      "perks": {
+        "income": 500,
+        "defense": 500,
+        "attack": 500
+      },
       "coin": 0,
       "glory": 0,
       "essence": 0,
@@ -1782,5 +1796,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770305022589
+  "savedAt": 1770306849495
 }
