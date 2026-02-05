@@ -1409,20 +1409,49 @@
       }
     },
     "79242918416443": {
-      "coin": 0,
+      "coin": 13135,
       "uid": "b0ce0aa-33_b-nebula",
       "username": "@glockonmolly",
       "spam": {
-        "lastMessage": 1770142775539,
+        "lastMessage": 1770297241722,
         "count": 1
       },
-      "xp": 540,
+      "xp": 600,
       "premium": true,
       "premiumUntil": 1770731714322,
       "lastBuyPremium": 1770126914322,
       "robbed": 2,
       "lastOwnerReport": 1770138275222,
-      "lastSendEmail": 1770138412732
+      "lastSendEmail": 1770138412732,
+      "lastWork": 1770297103146,
+      "level": 8,
+      "lastXvideoDl": 1770232875813,
+      "hasSentMsg": {
+        "admin": true,
+        "banned": true
+      },
+      "lastTagAllTime": 1770277562585,
+      "tagAllCount": 1,
+      "banned": false,
+      "banUntil": null,
+      "usedCoupons": [
+        {
+          "hash": "NHVxM3NGSDk6NjA3NjczZGY1Njc5MmVkMDc3M2QwMWM4ZGE5NjU5NzU6MTc3MDI5Njk2NjI4MjpLdkNXc0tjcDpjNjg2ODFlMDk1NGU2ZWZjZDdiMzBmNDBiN2JiNDQ4Mg==",
+          "md5": "59415737e152d9f4babd339602ddca9d",
+          "time": 1770297010122
+        }
+      ],
+      "lastBuyXP": 1770297010122,
+      "workSuccess": 1,
+      "lastHack": 1770297112036,
+      "robSuccess": 2,
+      "autolevelup": true,
+      "lastBeg": 1770297152976,
+      "begSuccess": 1,
+      "lastSteal": 1770297167831,
+      "StealSuccess": 1,
+      "lastClean": 1770297188176,
+      "lastRansom": 1770297231727
     },
     "249216148455505": {
       "coin": 1650005000,
@@ -1731,5 +1760,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770245727905
+  "savedAt": 1770297243472
 }
