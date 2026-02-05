@@ -1473,14 +1473,14 @@
       "lastBuyCoin": 1770298071784
     },
     "249216148455505": {
-      "coin": 11348260000,
+      "coin": 9848260000,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770322265129,
+        "lastMessage": 1770323015638,
         "count": 1
       },
-      "xp": 370,
+      "xp": 490,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 757,
@@ -1589,7 +1589,18 @@
           "time": 1770315618539
         }
       ],
-      "lastBuyXP": 1770315618539
+      "lastBuyXP": 1770315618539,
+      "club": {
+        "level": 1,
+        "upgrades": {
+          "music": 0,
+          "djs": 0,
+          "security": 0,
+          "bikegang": 0,
+          "carfleet": 0
+        },
+        "lastRentCollected": 0
+      }
     },
     "168419274039524": {
       "coin": 5000,
@@ -1880,5 +1891,5 @@
       "lastTrain": 1770322124142
     }
   },
-  "savedAt": 1770322266762
+  "savedAt": 1770323017555
 }
