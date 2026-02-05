@@ -1473,18 +1473,18 @@
       "lastBuyCoin": 1770298071784
     },
     "249216148455505": {
-      "coin": 14548260000,
+      "coin": 11348260000,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770321126655,
+        "lastMessage": 1770322265129,
         "count": 1
       },
-      "xp": 210,
+      "xp": 370,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 757,
-      "level": 767,
+      "level": 768,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1845,16 +1845,16 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770316819550,
       "lastBattle": 0,
-      "lastMission": 1770320536242,
+      "lastMission": 1770322119912,
       "lastAmbush": 0,
       "lastCollect": 1770316819550,
-      "lastChallenge": 0,
-      "lastScavenge": 1770316933798,
+      "lastChallenge": 1770322190790,
+      "lastScavenge": 1770322260113,
       "lastResearch": 0,
       "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0
+        "defense": 10,
+        "attack": 8,
+        "vault": 12
       },
       "perks": {
         "income": 500,
@@ -1863,9 +1863,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 7306343,
-      "glory": 60,
-      "essence": 1,
+      "coin": 1444666000,
+      "glory": 115,
+      "essence": 3,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -1876,8 +1876,9 @@
         "eta": 0,
         "projectType": null
       },
-      "maxMembers": 5
+      "maxMembers": 5,
+      "lastTrain": 1770322124142
     }
   },
-  "savedAt": 1770321128418
+  "savedAt": 1770322266762
 }
