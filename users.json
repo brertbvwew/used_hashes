@@ -1462,14 +1462,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770313009781,
+        "lastMessage": 1770315662153,
         "count": 1
       },
-      "xp": 980,
+      "xp": 9220,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 756,
-      "level": 752,
+      "level": 757,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1551,7 +1551,20 @@
       "lastClaim": {
         "divine": 1770312805929,
         "immortal": 1770312819152
-      }
+      },
+      "usedCoupons": [
+        {
+          "hash": "eTdtb1c4ZDU6MTAzM2ZlY2NhYmNlYTE0OGY5MDRmMDY2YmFmMDUyMzQ6MTc3MDMxMzg3Mjk1MDptTFpxZVRhcToyY2RkM2NhNzllNzQ4YzU1N2MzYTFkZjFhMmFkYjAzNQ==",
+          "md5": "aadea53bec6f6db460459693bb2223a7",
+          "time": 1770314811073
+        },
+        {
+          "hash": "Q05xYXpBZEE6N2MyNDJmZDMxOGU4ZTNmYjgyMTFlMzg2ZjdkYTY4YmY6MTc3MDMxMzg3MTU4MjpaVk96QWpZYTo1ODFlYjU0OGM2ZmY0YzdiOTEyY2UwZWRmNGQ5OWYxYQ==",
+          "md5": "f808b2109d25cf31d6316082190728a2",
+          "time": 1770315618539
+        }
+      ],
+      "lastBuyXP": 1770315618539
     },
     "168419274039524": {
       "coin": 5000,
@@ -1838,5 +1851,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770313013925
+  "savedAt": 1770315662866
 }
