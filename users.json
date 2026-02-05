@@ -1542,10 +1542,10 @@
       "uid": "2920406d-38_b-nebula",
       "username": "@user_2920406d-38",
       "spam": {
-        "lastMessage": 1770298377609,
+        "lastMessage": 1770298424914,
         "count": 2
       },
-      "xp": 180,
+      "xp": 280,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true
@@ -1782,5 +1782,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770298379712
+  "savedAt": 1770298426980
 }
