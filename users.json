@@ -1409,14 +1409,14 @@
       }
     },
     "79242918416443": {
-      "coin": 13135,
+      "coin": 150210135,
       "uid": "b0ce0aa-33_b-nebula",
       "username": "@glockonmolly",
       "spam": {
-        "lastMessage": 1770297241722,
+        "lastMessage": 1770298125665,
         "count": 1
       },
-      "xp": 600,
+      "xp": 820,
       "premium": true,
       "premiumUntil": 1770731714322,
       "lastBuyPremium": 1770126914322,
@@ -1451,7 +1451,11 @@
       "lastSteal": 1770297167831,
       "StealSuccess": 1,
       "lastClean": 1770297188176,
-      "lastRansom": 1770297231727
+      "lastRansom": 1770297231727,
+      "lastClaim": {
+        "daily": 1770297252587
+      },
+      "lastBuyCoin": 1770298071784
     },
     "249216148455505": {
       "coin": 1650005000,
@@ -1760,5 +1764,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770297243472
+  "savedAt": 1770298127683
 }
