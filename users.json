@@ -1536,6 +1536,24 @@
       "workSuccess": 2,
       "lastSpin": 1770195319618,
       "received_total": 99999000
+    },
+    "246098019020928": {
+      "coin": 205000,
+      "uid": "2920406d-38_b-nebula",
+      "username": "@user_2920406d-38",
+      "spam": {
+        "lastMessage": 1770298377609,
+        "count": 2
+      },
+      "xp": 180,
+      "hasSentMsg": {
+        "owner": true,
+        "cooldown": true
+      },
+      "level": 1,
+      "lastClaim": {
+        "daily": 1770298311038
+      }
     }
   },
   "clan": {
@@ -1764,5 +1782,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770298127683
+  "savedAt": 1770298379712
 }
