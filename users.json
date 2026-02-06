@@ -1474,14 +1474,14 @@
       "lastBuyCoin": 1770298071784
     },
     "249216148455505": {
-      "coin": 8099133024,
+      "coin": 8099118024,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770324560039,
+        "lastMessage": 1770351485462,
         "count": 1
       },
-      "xp": 40,
+      "xp": 220,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 757,
@@ -1896,5 +1896,5 @@
       "welcomeMessage": "Always the best when comparing to the weak"
     }
   },
-  "savedAt": 1770351388349
+  "savedAt": 1770351487399
 }
