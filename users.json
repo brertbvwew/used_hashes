@@ -11,13 +11,13 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 8111558464,
+      "coin": 8211557464,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 740,
+      "xp": 40,
       "invPurchases": 1,
       "winGame": 296,
-      "level": 260,
+      "level": 261,
       "robSuccess": 250,
       "robbed": 252,
       "rpgwin": 250,
@@ -225,7 +225,7 @@
       },
       "lastFig": 1767799613766,
       "lastOwnerReport": 1767800040870,
-      "received_total": 7499925000,
+      "received_total": 7599924000,
       "lastPokemon": {
         "id": 493,
         "name": "arceus",
@@ -307,7 +307,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1769455611513,
+        "lastMessage": 1770351369949,
         "count": 1
       }
     },
@@ -1896,5 +1896,5 @@
       "welcomeMessage": "Always the best when comparing to the weak"
     }
   },
-  "savedAt": 1770324561862
+  "savedAt": 1770351371460
 }
