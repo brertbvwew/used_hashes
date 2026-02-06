@@ -825,16 +825,16 @@
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
       "spam": {
-        "lastMessage": 1770407386362,
-        "count": 2
+        "lastMessage": 1770412693621,
+        "count": 1
       },
-      "xp": 320,
+      "xp": 160,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 2,
-      "winGame": 515,
-      "level": 508,
+      "winGame": 545,
+      "level": 510,
       "robSuccess": 500,
       "robbed": 500,
       "rpgwin": 500,
@@ -864,15 +864,48 @@
           "hash": "N1pjSTFuMHA6Mzk4NzAwODIyODM5OTUzNzcyMjYzNzQ0ZTllMGU0MTM6MTc3MDMwODU5NTA1OTpNTU9PSjBaTzo4ZDI1YWUyNmVjNWMxZjg1Yzg0Y2Q1MTUwODI5YmZiNg==",
           "md5": "93a81ac1d143ee4375e67f0782f22cde",
           "time": 1770313360091
+        },
+        {
+          "hash": "N1dCakljZGw6ZjI2NjE2MWRkZWFhNjZjYTZjZjQ4YTgyZTI2ZTlkZGY6MTc3MDQwOTI0NjcxNjpEejdwTzhRYzowMTkwZTkzZDVkNzlmYjlhNWZkODM4MWU0MDEzNmUyNg==",
+          "md5": "ae708f57872f5a8db0adb6838aa4acfb",
+          "time": 1770412286455
+        },
+        {
+          "hash": "WXl6TVZZRGQ6ZTRmNmJiYTgzMjBlZDQ2MTVkZmQxZGEyYTY5ZTc2YmY6MTc3MDQwOTI0MDU4MjpKQVVVS253ejowY2M0ZTAxYWY4Nzc3NzA3OWQ5ZTBkNTNjNWM2OGZlZg==",
+          "md5": "e16745337ce8fc15b95512efa5665c71",
+          "time": 1770412472680
         }
       ],
       "lastBuyXP": 1770313312393,
-      "lastBuyWin": 1770313360091,
+      "lastBuyWin": 1770412472680,
       "hasSentMsg": {
         "admin": true
       },
-      "tokens": 12,
-      "lastBuyTokens": 1770407118104
+      "tokens": 39,
+      "lastBuyTokens": 1770412506203,
+      "gear": {
+        "equipped": {},
+        "inventory": {
+          "3849": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          },
+          "d1b1": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "3e29": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          }
+        }
+      }
     },
     "93939944173798": {
       "coin": 1523461,
@@ -1880,7 +1913,7 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770405971209,
       "lastBattle": 0,
-      "lastMission": 1770412489431,
+      "lastMission": 1770412653420,
       "lastAmbush": 0,
       "lastCollect": 1770405971209,
       "lastChallenge": 1770411754895,
@@ -1898,8 +1931,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 35596757117,
-      "glory": 2688,
+      "coin": 39120440163,
+      "glory": 2815,
       "essence": 23,
       "roles": {
         "treasurer": "249216148455505",
@@ -1917,5 +1950,5 @@
       "tempPowerBoost": 10
     }
   },
-  "savedAt": 1770412514073
+  "savedAt": 1770412694577
 }
