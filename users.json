@@ -1516,13 +1516,13 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770412513504,
+        "lastMessage": 1770412872689,
         "count": 1
       },
-      "xp": 260,
+      "xp": 780,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 757,
+      "winGame": 776,
       "level": 773,
       "robSuccess": 751,
       "robbed": 750,
@@ -1534,7 +1534,7 @@
       "yugiohviewcard": 750,
       "onepiceviewcard": 750,
       "dragonballviewcard": 750,
-      "pokemonviewcard": 757,
+      "pokemonviewcard": 761,
       "vipgameviewcard": 751,
       "weedcooked": 750,
       "weedgather": 750,
@@ -1568,39 +1568,39 @@
         "cost": 46591
       },
       "lastPokemon": {
-        "id": 833,
-        "name": "chewtle",
+        "id": 236,
+        "name": "tyrogue",
         "stats": [
           {
             "name": "hp",
-            "value": 50
+            "value": 35
           },
           {
             "name": "attack",
-            "value": 64
+            "value": 35
           },
           {
             "name": "defense",
-            "value": 50
+            "value": 35
           },
           {
             "name": "special-attack",
-            "value": 38
+            "value": 35
           },
           {
             "name": "special-defense",
-            "value": 38
+            "value": 35
           },
           {
             "name": "speed",
-            "value": 44
+            "value": 35
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/833.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/833.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/236.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -1626,6 +1626,11 @@
           "hash": "Q05xYXpBZEE6N2MyNDJmZDMxOGU4ZTNmYjgyMTFlMzg2ZjdkYTY4YmY6MTc3MDMxMzg3MTU4MjpaVk96QWpZYTo1ODFlYjU0OGM2ZmY0YzdiOTEyY2UwZWRmNGQ5OWYxYQ==",
           "md5": "f808b2109d25cf31d6316082190728a2",
           "time": 1770315618539
+        },
+        {
+          "hash": "YWMzYkZKZWk6NzJjZWViNjFkMzcxMjFiY2Q0NzIxMTRlNWM3MzkyNTE6MTc3MDQwOTI0NTMwOTpmUXNkSWd5TTphN2QwMDMxYTM1YmZkNTcwOWI4MGJlNGNkNjE5YTBiYw==",
+          "md5": "1ded78be84a07baccb0937f134c911a8",
+          "time": 1770412792468
         }
       ],
       "lastBuyXP": 1770315618539,
@@ -1642,7 +1647,8 @@
         "upgradesBoughtSinceLevel": 2
       },
       "donated_total": 500000000,
-      "lastRob": 1770324373183
+      "lastRob": 1770324373183,
+      "lastBuyWin": 1770412792468
     },
     "168419274039524": {
       "coin": 5000,
@@ -1913,7 +1919,7 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770405971209,
       "lastBattle": 0,
-      "lastMission": 1770412653420,
+      "lastMission": 1770412832789,
       "lastAmbush": 0,
       "lastCollect": 1770405971209,
       "lastChallenge": 1770411754895,
@@ -1931,8 +1937,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 39120440163,
-      "glory": 2815,
+      "coin": 40398244221,
+      "glory": 2883,
       "essence": 23,
       "roles": {
         "treasurer": "249216148455505",
@@ -1950,5 +1956,5 @@
       "tempPowerBoost": 10
     }
   },
-  "savedAt": 1770412694577
+  "savedAt": 1770412873710
 }
