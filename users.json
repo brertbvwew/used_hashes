@@ -1474,14 +1474,14 @@
       "lastBuyCoin": 1770298071784
     },
     "249216148455505": {
-      "coin": 8099118024,
+      "coin": 7099118023,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770351485462,
+        "lastMessage": 1770402089488,
         "count": 1
       },
-      "xp": 220,
+      "xp": 700,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 757,
@@ -1860,14 +1860,14 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770316819550,
       "lastBattle": 0,
-      "lastMission": 1770324106105,
+      "lastMission": 1770401600196,
       "lastAmbush": 0,
       "lastCollect": 1770316819550,
       "lastChallenge": 1770322190790,
       "lastScavenge": 1770323738241,
       "lastResearch": 0,
       "upgrades": {
-        "defense": 10,
+        "defense": 12,
         "attack": 9,
         "vault": 12
       },
@@ -1878,8 +1878,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 2486946587,
-      "glory": 236,
+      "coin": 1552946124,
+      "glory": 254,
       "essence": 7,
       "roles": {
         "treasurer": "249216148455505",
@@ -1892,9 +1892,10 @@
         "projectType": null
       },
       "maxMembers": 5,
-      "lastTrain": 1770322124142,
-      "welcomeMessage": "Always the best when comparing to the weak"
+      "lastTrain": 1770401538048,
+      "welcomeMessage": "Always the best when comparing to the weak",
+      "tempPowerBoost": 10
     }
   },
-  "savedAt": 1770392210814
+  "savedAt": 1770402091379
 }
