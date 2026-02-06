@@ -11,10 +11,10 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 8211557464,
+      "coin": 8214386214,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 40,
+      "xp": 80,
       "invPurchases": 1,
       "winGame": 296,
       "level": 261,
@@ -209,7 +209,7 @@
         "Energy Cell": 2,
         "Plasma Coils": 2
       },
-      "spacestationlastPassiveIncome": 1768316151871,
+      "spacestationlastPassiveIncome": 1770351379263,
       "spacelastSalvage": 1768316184277,
       "spacesalvage": 2,
       "sellcount": 2,
@@ -307,7 +307,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1770351369949,
+        "lastMessage": 1770351386422,
         "count": 1
       }
     },
@@ -1896,5 +1896,5 @@
       "welcomeMessage": "Always the best when comparing to the weak"
     }
   },
-  "savedAt": 1770351371460
+  "savedAt": 1770351388349
 }
