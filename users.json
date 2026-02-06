@@ -1623,23 +1623,23 @@
       "lastBuyPremium": 1769787809099
     },
     "269505624326383": {
-      "coin": 100015664,
+      "coin": 100026460,
       "uid": "f9f673c-33_b-nebula",
       "username": "@user_f9f673c-33",
       "spam": {
-        "lastMessage": 1770319338635,
+        "lastMessage": 1770392208710,
         "count": 1
       },
-      "xp": 610,
+      "xp": 840,
       "robbed": 1,
-      "lastRob": 1770319324712,
-      "robSuccess": 4,
-      "lastWork": 1770195297959,
-      "workSuccess": 2,
+      "lastRob": 1770391560176,
+      "robSuccess": 5,
+      "lastWork": 1770392173360,
+      "workSuccess": 4,
       "lastSpin": 1770195319618,
       "received_total": 99999000,
-      "lastBeg": 1770319295624,
-      "begSuccess": 1,
+      "lastBeg": 1770392156209,
+      "begSuccess": 3,
       "lastPhish": 1770319312979
     },
     "246098019020928": {
@@ -1896,5 +1896,5 @@
       "welcomeMessage": "Always the best when comparing to the weak"
     }
   },
-  "savedAt": 1770351487399
+  "savedAt": 1770392210814
 }
