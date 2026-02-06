@@ -1664,6 +1664,21 @@
       "lastClaim": {
         "daily": 1770298311038
       }
+    },
+    "153889215119498": {
+      "coin": 7100,
+      "uid": "20a65242-38_b-nebula",
+      "username": "@user_20a65242-38",
+      "spam": {
+        "lastMessage": 1770409156470,
+        "count": 3
+      },
+      "xp": 210,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastRob": 1770408471430,
+      "robSuccess": 1
     }
   },
   "clan": {
@@ -1902,5 +1917,5 @@
       "tempPowerBoost": 10
     }
   },
-  "savedAt": 1770407387835
+  "savedAt": 1770409158001
 }
