@@ -1741,6 +1741,16 @@
       ],
       "lastBuyXP": 1770463924309,
       "level": 6
+    },
+    "173534512988169": {
+      "coin": 5000,
+      "uid": "9ed0184-39_b-nebula",
+      "username": "@user_9ed0184-39",
+      "spam": {
+        "lastMessage": 1770464128332,
+        "count": 1
+      },
+      "xp": 120
     }
   },
   "clan": {
@@ -2017,5 +2027,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770464107139
+  "savedAt": 1770464129965
 }
