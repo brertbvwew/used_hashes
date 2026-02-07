@@ -1536,14 +1536,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770492083636,
+        "lastMessage": 1770492442868,
         "count": 1
       },
-      "xp": 100,
+      "xp": 50,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 792,
-      "level": 797,
+      "winGame": 843,
+      "level": 801,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1554,7 +1554,7 @@
       "yugiohviewcard": 750,
       "onepiceviewcard": 750,
       "dragonballviewcard": 750,
-      "pokemonviewcard": 773,
+      "pokemonviewcard": 812,
       "vipgameviewcard": 751,
       "weedcooked": 750,
       "weedgather": 750,
@@ -1589,8 +1589,8 @@
         "cost": 46591
       },
       "lastPokemon": {
-        "id": 557,
-        "name": "dwebble",
+        "id": 27,
+        "name": "sandshrew",
         "stats": [
           {
             "name": "hp",
@@ -1598,7 +1598,7 @@
           },
           {
             "name": "attack",
-            "value": 65
+            "value": 75
           },
           {
             "name": "defense",
@@ -1606,22 +1606,22 @@
           },
           {
             "name": "special-attack",
-            "value": 35
+            "value": 20
           },
           {
             "name": "special-defense",
-            "value": 35
+            "value": 30
           },
           {
             "name": "speed",
-            "value": 55
+            "value": 40
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/557.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/557.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/27.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -1848,11 +1848,11 @@
         "148529213390986"
       ],
       "createdAt": 1770491533522,
-      "lastIncome": 0,
+      "lastIncome": 1770492422712,
       "lastBattle": 0,
       "lastMission": 1770492060603,
       "lastAmbush": 0,
-      "lastCollect": 0,
+      "lastCollect": 1770492422712,
       "lastChallenge": 0,
       "lastScavenge": 1770492074649,
       "lastResearch": 0,
@@ -1880,7 +1880,9 @@
         "eta": 0,
         "projectType": null
       },
-      "maxMembers": 5
+      "maxMembers": 5,
+      "tempPowerBoost": 10,
+      "lastTrain": 1770492414886
     },
     "a287cb": {
       "name": "زنجي",
@@ -2196,5 +2198,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770492084713
+  "savedAt": 1770492443629
 }
