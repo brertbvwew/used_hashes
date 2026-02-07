@@ -1403,7 +1403,7 @@
       "coin": 1140530378,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 210,
+      "xp": 250,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1433,7 +1433,7 @@
       "robbed": 505,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1770496774090,
+        "lastMessage": 1770497408577,
         "count": 1
       },
       "donated_total": 110000000,
@@ -1471,7 +1471,8 @@
       "lastClaim": {
         "monthly": 1770195560526
       },
-      "received_total": 99999000
+      "received_total": 99999000,
+      "clanId": "ac5c8c"
     },
     "27618605148": {
       "coin": 5000,
@@ -2077,7 +2078,8 @@
       "leader": "249216148455505",
       "members": [
         "249216148455505",
-        "106077605646392"
+        "106077605646392",
+        "63046378635471"
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1770405971209,
@@ -2198,5 +2200,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770496775913
+  "savedAt": 1770497410222
 }
