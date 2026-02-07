@@ -821,38 +821,38 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 12452505000,
+      "coin": 12952505000,
       "uid": "28d70f27-32_b-nebula",
       "username": "@user_28d70f27-32",
       "spam": {
-        "lastMessage": 1770412693621,
+        "lastMessage": 1770473288243,
         "count": 1
       },
-      "xp": 160,
+      "xp": 120,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
-      "invPurchases": 2,
-      "winGame": 545,
-      "level": 510,
-      "robSuccess": 500,
-      "robbed": 500,
-      "rpgwin": 500,
-      "rpgGather": 500,
-      "rpgtrades": 500,
-      "rpgcrafted": 500,
-      "rpgmonsterfight": 500,
-      "yugiohviewcard": 500,
-      "onepiceviewcard": 500,
-      "dragonballviewcard": 500,
-      "pokemonviewcard": 500,
-      "vipgameviewcard": 500,
-      "weedcooked": 500,
-      "weedgather": 500,
-      "weedsell": 500,
-      "weedtrades": 500,
-      "lastAddInv": 1770149033064,
-      "lastBulkInv": 1770149033064,
+      "invPurchases": 3,
+      "winGame": 795,
+      "level": 761,
+      "robSuccess": 750,
+      "robbed": 750,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1770473262982,
+      "lastBulkInv": 1770473262982,
       "clanId": "ac5c8c",
       "usedCoupons": [
         {
@@ -881,8 +881,8 @@
       "hasSentMsg": {
         "admin": true
       },
-      "tokens": 39,
-      "lastBuyTokens": 1770412506203,
+      "tokens": 41,
+      "lastBuyTokens": 1770412760749,
       "gear": {
         "equipped": {},
         "inventory": {
@@ -905,7 +905,8 @@
             "tier": 1
           }
         }
-      }
+      },
+      "lastBuyUnban": 1770413730574
     },
     "93939944173798": {
       "coin": 1523461,
@@ -2036,5 +2037,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770465414807
+  "savedAt": 1770473289962
 }
