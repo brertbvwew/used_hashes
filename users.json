@@ -1718,6 +1718,29 @@
       },
       "lastRob": 1770408471430,
       "robSuccess": 1
+    },
+    "66701597106413": {
+      "coin": 5000,
+      "uid": "eb43751-33_b-nebula",
+      "username": "@user_eb43751-33",
+      "spam": {
+        "lastMessage": 1770464105321,
+        "count": 1
+      },
+      "xp": 920,
+      "lastBuyUnban": 1770417520059,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "usedCoupons": [
+        {
+          "hash": "MHVRZTZaR1M6MjhkYjNhMjdkYWUzODhlYzhmOTc5NjM2ZjAzNTZhMjE6MTc3MDQxNzMzOTQxNTpvaXZQY2JLODo4MmUwNTkzMTNiMTY2YWY3OGMxOTJiYjczY2Y5NTQxMQ==",
+          "md5": "514c2dcb436321486ab0fddd6183e2ce",
+          "time": 1770463924309
+        }
+      ],
+      "lastBuyXP": 1770463924309,
+      "level": 6
     }
   },
   "clan": {
@@ -1954,7 +1977,45 @@
       "lastTrain": 1770412073553,
       "welcomeMessage": "Always the best when comparing to the weak",
       "tempPowerBoost": 10
+    },
+    "94483a": {
+      "name": "Rainzclan",
+      "leader": "148529213390986",
+      "members": [
+        "148529213390986"
+      ],
+      "createdAt": 1770430922258,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0
+      },
+      "perks": {
+        "speed": 250
+      },
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5
     }
   },
-  "savedAt": 1770412873710
+  "savedAt": 1770464107139
 }
