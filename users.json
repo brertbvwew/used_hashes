@@ -840,20 +840,20 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 12952505000,
+      "coin": 19210505000,
       "uid": "28d70f27-32_b-nebula",
-      "username": "@user_28d70f27-32",
+      "username": "@Kold",
       "spam": {
-        "lastMessage": 1770473288243,
+        "lastMessage": 1770503441374,
         "count": 1
       },
-      "xp": 120,
+      "xp": 390,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
-      "winGame": 795,
-      "level": 761,
+      "winGame": 817,
+      "level": 762,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -864,7 +864,7 @@
       "yugiohviewcard": 750,
       "onepiceviewcard": 750,
       "dragonballviewcard": 750,
-      "pokemonviewcard": 750,
+      "pokemonviewcard": 757,
       "vipgameviewcard": 750,
       "weedcooked": 750,
       "weedgather": 750,
@@ -893,10 +893,15 @@
           "hash": "WXl6TVZZRGQ6ZTRmNmJiYTgzMjBlZDQ2MTVkZmQxZGEyYTY5ZTc2YmY6MTc3MDQwOTI0MDU4MjpKQVVVS253ejowY2M0ZTAxYWY4Nzc3NzA3OWQ5ZTBkNTNjNWM2OGZlZg==",
           "md5": "e16745337ce8fc15b95512efa5665c71",
           "time": 1770412472680
+        },
+        {
+          "hash": "WGF0dGZ2bmg6NDdiZDlkZjRiNDFiNmFhNzRlZjU1MGJiMWIyZDkxMGU6MTc3MDQ4NDc3MDUwMDpxZnF1NTZUdjplODlkMDQ4MzU0ODk2OWRkYjA2MmNkMGEwM2RiYzA2Yg==",
+          "md5": "fc8b23eac5d5bc0b8ea09b3f06a0301a",
+          "time": 1770485555998
         }
       ],
       "lastBuyXP": 1770313312393,
-      "lastBuyWin": 1770412472680,
+      "lastBuyWin": 1770485555998,
       "hasSentMsg": {
         "admin": true
       },
@@ -925,7 +930,43 @@
           }
         }
       },
-      "lastBuyUnban": 1770413730574
+      "lastBuyUnban": 1770413730574,
+      "lastPokemon": {
+        "id": 730,
+        "name": "primarina",
+        "stats": [
+          {
+            "name": "hp",
+            "value": 80
+          },
+          {
+            "name": "attack",
+            "value": 74
+          },
+          {
+            "name": "defense",
+            "value": 74
+          },
+          {
+            "name": "special-attack",
+            "value": 126
+          },
+          {
+            "name": "special-defense",
+            "value": 116
+          },
+          {
+            "name": "speed",
+            "value": 60
+          }
+        ],
+        "isLegendary": false,
+        "isMythical": false,
+        "isStarter": false,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/730.png"
+      },
+      "lastOwnerReport": 1770487113707
     },
     "93939944173798": {
       "coin": 1523461,
@@ -2108,7 +2149,7 @@
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
-        "spy": null
+        "spy": "63046378635471"
       },
       "research": {
         "project": null,
@@ -2200,5 +2241,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770498556492
+  "savedAt": 1770503442117
 }
