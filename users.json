@@ -1533,10 +1533,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770487368686,
+        "lastMessage": 1770488975799,
         "count": 2
       },
-      "xp": 400,
+      "xp": 440,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 780,
@@ -2081,7 +2081,49 @@
         "projectType": null
       },
       "maxMembers": 5
+    },
+    "29c359": {
+      "name": "Rainzfaze",
+      "leader": "148529213390986",
+      "members": [
+        "148529213390986"
+      ],
+      "createdAt": 1770488405651,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 1770488807761,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 1770488828489,
+      "lastScavenge": 1770488817810,
+      "lastResearch": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0
+      },
+      "perks": {
+        "speed": 250,
+        "stealth": 100,
+        "income": 500,
+        "defense": 500,
+        "attack": 500
+      },
+      "coin": 21127750,
+      "glory": 115,
+      "essence": 4,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5
     }
   },
-  "savedAt": 1770488395213
+  "savedAt": 1770488978212
 }
