@@ -496,10 +496,10 @@
       "spacesalvage": 1
     },
     "148529213390986": {
-      "coin": 1676995879,
+      "coin": 2086995879,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 950,
+      "xp": 90,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -507,7 +507,7 @@
       },
       "invPurchases": 3,
       "winGame": 809,
-      "level": 768,
+      "level": 769,
       "robSuccess": 750,
       "robbed": 754,
       "rpgwin": 750,
@@ -537,7 +537,10 @@
         "yearly": 1767693340762,
         "maxLevel200": 1767693379339,
         "legendary": 1767693394595,
-        "quarterly": 1767694958461
+        "quarterly": 1767694958461,
+        "mythical": 1770491435243,
+        "immortal": 1770491440136,
+        "divine": 1770491448392
       },
       "autolevelup": true,
       "lastPokemon": {
@@ -579,7 +582,7 @@
       "StealSuccess": 1,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1770488394200,
+        "lastMessage": 1770491454276,
         "count": 1
       },
       "usedCoupons": [
@@ -2147,5 +2150,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770491390058
+  "savedAt": 1770491456542
 }
