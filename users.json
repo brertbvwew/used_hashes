@@ -1774,6 +1774,17 @@
       ],
       "lastBuyXP": 1770465380077,
       "level": 1
+    },
+    "246179539501140": {
+      "coin": 150005000,
+      "uid": "559041e-30_b-nebula",
+      "username": "@♢○○𓅓𝕻𝖎𝖝𝖊𝖑2.0",
+      "spam": {
+        "lastMessage": 1770486870961,
+        "count": 2
+      },
+      "xp": 260,
+      "lastBuyCoin": 1770452158687
     }
   },
   "clan": {
@@ -1975,7 +1986,7 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770405971209,
       "lastBattle": 0,
-      "lastMission": 1770485992357,
+      "lastMission": 1770486796396,
       "lastAmbush": 0,
       "lastCollect": 1770405971209,
       "lastChallenge": 1770411754895,
@@ -1993,8 +2004,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 11276411188,
-      "glory": 3262,
+      "coin": 14669525654,
+      "glory": 3392,
       "essence": 23,
       "roles": {
         "treasurer": "249216148455505",
@@ -2050,5 +2061,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770486113475
+  "savedAt": 1770486873553
 }
