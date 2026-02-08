@@ -1596,17 +1596,17 @@
       "lastBuyCoin": 1770298071784
     },
     "249216148455505": {
-      "coin": 400948734,
+      "coin": 592297515,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770564923374,
+        "lastMessage": 1770566182729,
         "count": 1
       },
-      "xp": 850,
+      "xp": 990,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 917,
+      "winGame": 918,
       "level": 810,
       "robSuccess": 751,
       "robbed": 751,
@@ -1757,7 +1757,7 @@
       "helperLevel": 1,
       "helperGauge": 0,
       "lastXvideoDl": 1770487037507,
-      "clublastRobTime": 1770559023693,
+      "clublastRobTime": 1770566171305,
       "tokens": 3,
       "lastBuyTokens": 1770504670805
     },
@@ -2200,7 +2200,7 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770498489117,
       "lastBattle": 1770491928171,
-      "lastMission": 1770554316473,
+      "lastMission": 1770566177167,
       "lastAmbush": 0,
       "lastCollect": 1770498489117,
       "lastChallenge": 1770498500490,
@@ -2218,8 +2218,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 29523000339,
-      "glory": 8728,
+      "coin": 29822723742,
+      "glory": 8755,
       "essence": 35,
       "roles": {
         "treasurer": "249216148455505",
@@ -2317,5 +2317,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770564924966
+  "savedAt": 1770566184192
 }
