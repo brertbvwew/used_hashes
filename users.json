@@ -1463,10 +1463,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 1140530378,
+      "coin": 7883530378,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 250,
+      "xp": 350,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1488,24 +1488,24 @@
         }
       ],
       "lastBuyXP": 1769706883476,
-      "level": 517,
+      "level": 767,
       "autolevelup": true,
       "premium": false,
       "premiumUntil": 0,
       "lastBuyPremium": 1769703034691,
-      "robbed": 505,
+      "robbed": 755,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1770497408577,
+        "lastMessage": 1770557319787,
         "count": 1
       },
       "donated_total": 110000000,
-      "winGame": 501,
+      "winGame": 751,
       "lastClean": 1769706967501,
       "lastWork": 1770193282923,
       "workSuccess": 3,
       "lastHack": 1770193283689,
-      "robSuccess": 504,
+      "robSuccess": 754,
       "lastBeg": 1769707125483,
       "begSuccess": 2,
       "lastDeliver": 1769706987707,
@@ -1513,23 +1513,23 @@
       "StealSuccess": 1,
       "lastSpin": 1769707062085,
       "lastRobBank": 1769707155581,
-      "invPurchases": 2,
-      "rpgwin": 500,
-      "rpgGather": 500,
-      "rpgtrades": 500,
-      "rpgcrafted": 500,
-      "rpgmonsterfight": 500,
-      "yugiohviewcard": 500,
-      "onepiceviewcard": 500,
-      "dragonballviewcard": 500,
-      "pokemonviewcard": 500,
-      "vipgameviewcard": 500,
-      "weedcooked": 500,
-      "weedgather": 500,
-      "weedsell": 500,
-      "weedtrades": 500,
-      "lastAddInv": 1770496491215,
-      "lastBulkInv": 1770496491215,
+      "invPurchases": 3,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1770557297863,
+      "lastBulkInv": 1770557297863,
       "lastPhish": 1770193284215,
       "lastClaim": {
         "monthly": 1770195560526
@@ -1962,7 +1962,7 @@
       "lastAmbush": 0,
       "lastCollect": 1770492422712,
       "lastChallenge": 1770521563837,
-      "lastScavenge": 1770535393855,
+      "lastScavenge": 1770550140299,
       "lastResearch": 0,
       "upgrades": {
         "defense": 0,
@@ -1975,9 +1975,9 @@
         "defense": 500,
         "stealth": 100
       },
-      "coin": 342034149,
-      "glory": 64,
-      "essence": 4,
+      "coin": 342463910,
+      "glory": 73,
+      "essence": 5,
       "roles": {
         "treasurer": null,
         "warlord": null,
@@ -2191,7 +2191,7 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770498489117,
       "lastBattle": 1770491928171,
-      "lastMission": 1770540817762,
+      "lastMission": 1770554316473,
       "lastAmbush": 0,
       "lastCollect": 1770498489117,
       "lastChallenge": 1770498500490,
@@ -2209,8 +2209,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 17361235035,
-      "glory": 8157,
+      "coin": 29523000339,
+      "glory": 8728,
       "essence": 35,
       "roles": {
         "treasurer": "249216148455505",
@@ -2308,5 +2308,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770541234762
+  "savedAt": 1770557321899
 }
