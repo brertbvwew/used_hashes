@@ -866,15 +866,15 @@
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1770503504498,
-        "count": 2
+        "lastMessage": 1770541174857,
+        "count": 1
       },
-      "xp": 510,
+      "xp": 990,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
-      "winGame": 817,
+      "winGame": 821,
       "level": 762,
       "robSuccess": 750,
       "robbed": 750,
@@ -886,7 +886,7 @@
       "yugiohviewcard": 750,
       "onepiceviewcard": 750,
       "dragonballviewcard": 750,
-      "pokemonviewcard": 757,
+      "pokemonviewcard": 761,
       "vipgameviewcard": 750,
       "weedcooked": 750,
       "weedgather": 750,
@@ -927,7 +927,7 @@
       "hasSentMsg": {
         "admin": true
       },
-      "tokens": 41,
+      "tokens": 39,
       "lastBuyTokens": 1770412760749,
       "gear": {
         "equipped": {},
@@ -954,39 +954,39 @@
       },
       "lastBuyUnban": 1770413730574,
       "lastPokemon": {
-        "id": 730,
-        "name": "primarina",
+        "id": 287,
+        "name": "slakoth",
         "stats": [
           {
             "name": "hp",
-            "value": 80
+            "value": 60
           },
           {
             "name": "attack",
-            "value": 74
+            "value": 60
           },
           {
             "name": "defense",
-            "value": 74
+            "value": 60
           },
           {
             "name": "special-attack",
-            "value": 126
+            "value": 35
           },
           {
             "name": "special-defense",
-            "value": 116
+            "value": 35
           },
           {
             "name": "speed",
-            "value": 60
+            "value": 30
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/730.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/730.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/287.png"
       },
       "lastOwnerReport": 1770487113707
     },
@@ -2191,11 +2191,11 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770498489117,
       "lastBattle": 1770491928171,
-      "lastMission": 1770535498060,
+      "lastMission": 1770540817762,
       "lastAmbush": 0,
       "lastCollect": 1770498489117,
       "lastChallenge": 1770498500490,
-      "lastScavenge": 1770535484482,
+      "lastScavenge": 1770538943939,
       "lastResearch": 0,
       "upgrades": {
         "defense": 15,
@@ -2209,9 +2209,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 15201333028,
-      "glory": 8073,
-      "essence": 34,
+      "coin": 17361235035,
+      "glory": 8157,
+      "essence": 35,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2223,7 +2223,7 @@
         "projectType": null
       },
       "maxMembers": 5,
-      "lastTrain": 1770534427070,
+      "lastTrain": 1770538997940,
       "welcomeMessage": "Always the best when comparing to the weak",
       "tempPowerBoost": 10
     },
@@ -2308,5 +2308,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770538870843
+  "savedAt": 1770541176592
 }
