@@ -1578,14 +1578,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770534572616,
+        "lastMessage": 1770535506952,
         "count": 1
       },
-      "xp": 950,
+      "xp": 230,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 915,
-      "level": 809,
+      "level": 810,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1929,7 +1929,7 @@
       "lastAmbush": 0,
       "lastCollect": 1770492422712,
       "lastChallenge": 1770521563837,
-      "lastScavenge": 1770521529185,
+      "lastScavenge": 1770535393855,
       "lastResearch": 0,
       "upgrades": {
         "defense": 0,
@@ -1942,9 +1942,9 @@
         "defense": 500,
         "stealth": 100
       },
-      "coin": 341250412,
-      "glory": 62,
-      "essence": 3,
+      "coin": 342034149,
+      "glory": 64,
+      "essence": 4,
       "roles": {
         "treasurer": null,
         "warlord": null,
@@ -2157,11 +2157,11 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770498489117,
       "lastBattle": 1770491928171,
-      "lastMission": 1770534568788,
+      "lastMission": 1770535498060,
       "lastAmbush": 0,
       "lastCollect": 1770498489117,
       "lastChallenge": 1770498500490,
-      "lastScavenge": 1770412266396,
+      "lastScavenge": 1770535484482,
       "lastResearch": 0,
       "upgrades": {
         "defense": 15,
@@ -2175,9 +2175,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 13222409789,
-      "glory": 7962,
-      "essence": 23,
+      "coin": 15201333028,
+      "glory": 8073,
+      "essence": 34,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2274,5 +2274,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770534574041
+  "savedAt": 1770535508694
 }
