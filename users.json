@@ -1299,10 +1299,10 @@
       "lastSpins": 1769357296454
     },
     "39969636786213": {
-      "coin": 10263497,
+      "coin": 10467200,
       "uid": "2a722a9b-33_b-nebula",
       "username": "@user_2a722a9b-33",
-      "xp": 550,
+      "xp": 710,
       "robbed": 9,
       "received_total": 9999000,
       "hasSentMsg": {
@@ -1310,9 +1310,9 @@
         "premium": true,
         "owner": true
       },
-      "lastRob": 1769716894967,
-      "robSuccess": 16,
-      "lastSpin": 1769714280309,
+      "lastRob": 1770536703757,
+      "robSuccess": 18,
+      "lastSpin": 1770536735312,
       "lastSteal": 1769716913314,
       "StealSuccess": 5,
       "lastPhish": 1769714344568,
@@ -1322,18 +1322,18 @@
       "lastClean": 1767866802279,
       "lastMine": 1769716877786,
       "level": 3,
-      "lastRobBank": 1769716875068,
+      "lastRobBank": 1770536819111,
       "lastDeliver": 1767866830970,
       "lastDecrypt": 1767866849352,
       "spam": {
-        "lastMessage": 1769718186510,
+        "lastMessage": 1770536839026,
         "count": 1
       },
       "lastTagAllTime": 1769705393548,
       "tagAllCount": 1,
       "donated_total": 6000,
       "lastClaim": {
-        "daily": 1769717359915
+        "daily": 1770536828759
       }
     },
     "198449416917151": {
@@ -2296,5 +2296,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770535519265
+  "savedAt": 1770536840935
 }
