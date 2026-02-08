@@ -1935,6 +1935,16 @@
       "weedtrades": 250,
       "lastAddInv": 1770534082827,
       "lastBulkInv": 1770534082827
+    },
+    "70244391493882": {
+      "coin": 5000,
+      "uid": "1e145df7-32_b-nebula",
+      "username": "@user_1e145df7-32",
+      "spam": {
+        "lastMessage": 1770536897510,
+        "count": 1
+      },
+      "xp": 100
     }
   },
   "clan": {
@@ -2296,5 +2306,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770536840935
+  "savedAt": 1770536899885
 }
