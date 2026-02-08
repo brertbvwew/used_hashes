@@ -1882,6 +1882,37 @@
       "weedtrades": 250,
       "lastAddInv": 1770488931376,
       "lastBulkInv": 1770488931376
+    },
+    "27645319912": {
+      "coin": 500005000,
+      "uid": "23008fe9-32_b-nebula",
+      "username": "@user_23008fe9-32",
+      "spam": {
+        "lastMessage": 1770534094244,
+        "count": 1
+      },
+      "xp": 80,
+      "invPurchases": 1,
+      "winGame": 250,
+      "level": 250,
+      "robSuccess": 250,
+      "robbed": 250,
+      "rpgwin": 250,
+      "rpgGather": 250,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 250,
+      "yugiohviewcard": 250,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 250,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 250,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1770534082827,
+      "lastBulkInv": 1770534082827
     }
   },
   "clan": {
@@ -2126,7 +2157,7 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770498489117,
       "lastBattle": 1770491928171,
-      "lastMission": 1770531684812,
+      "lastMission": 1770534082172,
       "lastAmbush": 0,
       "lastCollect": 1770498489117,
       "lastChallenge": 1770498500490,
@@ -2134,8 +2165,8 @@
       "lastResearch": 0,
       "upgrades": {
         "defense": 14,
-        "attack": 11,
-        "vault": 16
+        "attack": 12,
+        "vault": 17
       },
       "perks": {
         "income": 500,
@@ -2144,8 +2175,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 26514317085,
-      "glory": 5470,
+      "coin": 29640940486,
+      "glory": 7422,
       "essence": 23,
       "roles": {
         "treasurer": "249216148455505",
@@ -2158,7 +2189,7 @@
         "projectType": null
       },
       "maxMembers": 5,
-      "lastTrain": 1770531671530,
+      "lastTrain": 1770532397676,
       "welcomeMessage": "Always the best when comparing to the weak",
       "tempPowerBoost": 10
     },
@@ -2243,5 +2274,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770532112416
+  "savedAt": 1770534095050
 }
