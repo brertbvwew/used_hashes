@@ -496,10 +496,10 @@
       "spacesalvage": 1
     },
     "148529213390986": {
-      "coin": 2086995879,
+      "coin": 750685631,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 90,
+      "xp": 650,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -507,7 +507,7 @@
       },
       "invPurchases": 3,
       "winGame": 809,
-      "level": 769,
+      "level": 771,
       "robSuccess": 750,
       "robbed": 754,
       "rpgwin": 750,
@@ -582,7 +582,7 @@
       "StealSuccess": 1,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1770491454276,
+        "lastMessage": 1770535517478,
         "count": 1
       },
       "usedCoupons": [
@@ -609,7 +609,29 @@
       ],
       "lastBuyXP": 1770488069317,
       "lastBuyCoin": 1770043755011,
-      "lastBuyWin": 1770488241856
+      "lastBuyWin": 1770488241856,
+      "clanId": "713943",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null
+        },
+        "inventory": {}
+      },
+      "club": {
+        "level": 66,
+        "upgrades": {
+          "music": 62,
+          "djs": 30,
+          "security": 50,
+          "bikegang": 30,
+          "carfleet": 25
+        },
+        "lastRentCollected": 1770521590168,
+        "upgradesBoughtSinceLevel": 2
+      },
+      "clublastRobTime": 1770534624125
     },
     "163638858006761": {
       "coin": 475980056,
@@ -2274,5 +2296,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770535508694
+  "savedAt": 1770535519265
 }
