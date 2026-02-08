@@ -1578,14 +1578,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770532111783,
-        "count": 2
+        "lastMessage": 1770534572616,
+        "count": 1
       },
-      "xp": 470,
+      "xp": 950,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 913,
-      "level": 807,
+      "winGame": 915,
+      "level": 809,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1596,7 +1596,7 @@
       "yugiohviewcard": 750,
       "onepiceviewcard": 750,
       "dragonballviewcard": 750,
-      "pokemonviewcard": 874,
+      "pokemonviewcard": 876,
       "vipgameviewcard": 751,
       "weedcooked": 750,
       "weedgather": 750,
@@ -1631,39 +1631,39 @@
         "cost": 46591
       },
       "lastPokemon": {
-        "id": 322,
-        "name": "numel",
+        "id": 623,
+        "name": "golurk",
         "stats": [
           {
             "name": "hp",
-            "value": 60
+            "value": 89
           },
           {
             "name": "attack",
-            "value": 60
+            "value": 124
           },
           {
             "name": "defense",
-            "value": 40
+            "value": 80
           },
           {
             "name": "special-attack",
-            "value": 65
+            "value": 55
           },
           {
             "name": "special-defense",
-            "value": 45
+            "value": 80
           },
           {
             "name": "speed",
-            "value": 35
+            "value": 55
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/322.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/322.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/623.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2157,16 +2157,16 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770498489117,
       "lastBattle": 1770491928171,
-      "lastMission": 1770534082172,
+      "lastMission": 1770534568788,
       "lastAmbush": 0,
       "lastCollect": 1770498489117,
       "lastChallenge": 1770498500490,
       "lastScavenge": 1770412266396,
       "lastResearch": 0,
       "upgrades": {
-        "defense": 14,
+        "defense": 15,
         "attack": 12,
-        "vault": 17
+        "vault": 18
       },
       "perks": {
         "income": 500,
@@ -2175,8 +2175,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 29640940486,
-      "glory": 7422,
+      "coin": 13222409789,
+      "glory": 7962,
       "essence": 23,
       "roles": {
         "treasurer": "249216148455505",
@@ -2189,7 +2189,7 @@
         "projectType": null
       },
       "maxMembers": 5,
-      "lastTrain": 1770532397676,
+      "lastTrain": 1770534427070,
       "welcomeMessage": "Always the best when comparing to the weak",
       "tempPowerBoost": 10
     },
@@ -2274,5 +2274,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770534095050
+  "savedAt": 1770534574041
 }
