@@ -1968,6 +1968,26 @@
         "count": 1
       },
       "xp": 100
+    },
+    "97131339710686": {
+      "coin": 40408,
+      "uid": "2a5962c6-36_b-nebula",
+      "username": "@user_2a5962c6-36",
+      "spam": {
+        "lastMessage": 1770582197332,
+        "count": 1
+      },
+      "xp": 530,
+      "lastRobBank": 1770582004671,
+      "robSuccess": 20,
+      "lastRansom": 1770581981665,
+      "lastRob": 1770581972708,
+      "lastBeg": 1770577711677,
+      "begSuccess": 1,
+      "lastHack": 1770579670689,
+      "lastMine": 1770582164015,
+      "robbed": 2,
+      "level": 1
     }
   },
   "clan": {
@@ -2329,5 +2349,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770582167330
+  "savedAt": 1770582199104
 }
