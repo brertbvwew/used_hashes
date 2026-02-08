@@ -1470,10 +1470,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 165242429,
+      "coin": 590793883,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 890,
+      "xp": 360,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1495,24 +1495,24 @@
         }
       ],
       "lastBuyXP": 1769706883476,
-      "level": 767,
+      "level": 768,
       "autolevelup": true,
       "premium": false,
       "premiumUntil": 0,
       "lastBuyPremium": 1769703034691,
-      "robbed": 757,
+      "robbed": 759,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1770581757511,
+        "lastMessage": 1770582997411,
         "count": 1
       },
-      "donated_total": 110000000,
+      "donated_total": 120000000,
       "winGame": 751,
       "lastClean": 1769706967501,
       "lastWork": 1770193282923,
       "workSuccess": 3,
       "lastHack": 1770193283689,
-      "robSuccess": 754,
+      "robSuccess": 755,
       "lastBeg": 1769707125483,
       "begSuccess": 2,
       "lastDeliver": 1769706987707,
@@ -1539,7 +1539,15 @@
       "lastBulkInv": 1770557297863,
       "lastPhish": 1770193284215,
       "lastClaim": {
-        "monthly": 1770195560526
+        "monthly": 1770195560526,
+        "divine": 1770582538478,
+        "weekly": 1770582560552,
+        "quarterly": 1770582608926,
+        "biannual": 1770582624002,
+        "yearly": 1770582649616,
+        "maxLevel200": 1770582666954,
+        "legendary": 1770582681766,
+        "immortal": 1770582707676
       },
       "received_total": 99999000,
       "clanId": "ac5c8c",
@@ -1554,7 +1562,8 @@
         },
         "lastRentCollected": 1770581302902,
         "upgradesBoughtSinceLevel": 0
-      }
+      },
+      "lastRob": 1770582863925
     },
     "27618605148": {
       "coin": 5000,
@@ -2227,7 +2236,8 @@
       "members": [
         "249216148455505",
         "106077605646392",
-        "63046378635471"
+        "63046378635471",
+        "254511792803874"
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1770498489117,
@@ -2349,5 +2359,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770582199104
+  "savedAt": 1770582999442
 }
