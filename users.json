@@ -1578,14 +1578,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770504686772,
+        "lastMessage": 1770527040993,
         "count": 1
       },
-      "xp": 930,
+      "xp": 90,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 865,
-      "level": 802,
+      "level": 803,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1894,11 +1894,11 @@
       "createdAt": 1770491533522,
       "lastIncome": 1770492422712,
       "lastBattle": 0,
-      "lastMission": 1770492060603,
+      "lastMission": 1770521528847,
       "lastAmbush": 0,
       "lastCollect": 1770492422712,
-      "lastChallenge": 0,
-      "lastScavenge": 1770492074649,
+      "lastChallenge": 1770521563837,
+      "lastScavenge": 1770521529185,
       "lastResearch": 0,
       "upgrades": {
         "defense": 0,
@@ -1911,9 +1911,9 @@
         "defense": 500,
         "stealth": 100
       },
-      "coin": 22187869,
-      "glory": 35,
-      "essence": 2,
+      "coin": 341250412,
+      "glory": 62,
+      "essence": 3,
       "roles": {
         "treasurer": null,
         "warlord": null,
@@ -1925,8 +1925,7 @@
         "projectType": null
       },
       "maxMembers": 5,
-      "tempPowerBoost": 10,
-      "lastTrain": 1770492414886
+      "lastTrain": 1770521573740
     },
     "a287cb": {
       "name": "زنجي",
@@ -2127,7 +2126,7 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770498489117,
       "lastBattle": 1770491928171,
-      "lastMission": 1770491967034,
+      "lastMission": 1770526276024,
       "lastAmbush": 0,
       "lastCollect": 1770498489117,
       "lastChallenge": 1770498500490,
@@ -2145,8 +2144,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 16488808390,
-      "glory": 4921,
+      "coin": 16782229206,
+      "glory": 4980,
       "essence": 23,
       "roles": {
         "treasurer": "249216148455505",
@@ -2243,5 +2242,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770504687703
+  "savedAt": 1770527042009
 }
