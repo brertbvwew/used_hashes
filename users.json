@@ -1463,10 +1463,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 1443572812,
+      "coin": 165242429,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 830,
+      "xp": 890,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1496,7 +1496,7 @@
       "robbed": 757,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1770581319491,
+        "lastMessage": 1770581757511,
         "count": 1
       },
       "donated_total": 110000000,
@@ -1537,16 +1537,16 @@
       "received_total": 99999000,
       "clanId": "ac5c8c",
       "club": {
-        "level": 36,
+        "level": 46,
         "upgrades": {
           "music": 21,
           "djs": 30,
           "security": 50,
           "bikegang": 5,
-          "carfleet": 0
+          "carfleet": 29
         },
         "lastRentCollected": 1770581302902,
-        "upgradesBoughtSinceLevel": 1
+        "upgradesBoughtSinceLevel": 0
       }
     },
     "27618605148": {
@@ -2322,5 +2322,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770581321234
+  "savedAt": 1770581760120
 }
