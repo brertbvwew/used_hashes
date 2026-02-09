@@ -1258,7 +1258,7 @@
       "coin": 3699994448,
       "uid": "857a11c-35_b-nebula",
       "username": "@ɪج̵͂̃͋̄̒̑͌̈́͆͐̽̈́̉̑̂͊͂̔͒͘͠BANK",
-      "xp": 350,
+      "xp": 430,
       "invPurchases": 0,
       "lastHack": 1767807897501,
       "robSuccess": 10,
@@ -1280,7 +1280,7 @@
       },
       "level": 1,
       "spam": {
-        "lastMessage": 1770652293791,
+        "lastMessage": 1770652804897,
         "count": 1
       }
     },
@@ -2411,5 +2411,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770652298282
+  "savedAt": 1770652806950
 }
