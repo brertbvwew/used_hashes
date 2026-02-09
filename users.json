@@ -1633,10 +1633,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770648494169,
+        "lastMessage": 1770658971912,
         "count": 1
       },
-      "xp": 130,
+      "xp": 610,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 922,
@@ -1726,6 +1726,12 @@
             "tier": 1
           },
           "ff72": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          },
+          "29d5": {
             "name": "ARMOR T1",
             "type": "armor",
             "power": 300,
@@ -2411,5 +2417,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770652806950
+  "savedAt": 1770658973987
 }
