@@ -1625,18 +1625,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 20265030736,
+      "coin": 22271824432,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770628318461,
+        "lastMessage": 1770648494169,
         "count": 1
       },
-      "xp": 270,
+      "xp": 130,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 921,
-      "level": 815,
+      "winGame": 922,
+      "level": 816,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1685,6 +1685,12 @@
           }
         },
         "inventory": {
+          "3818": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
           "3d2c": {
             "name": "ARMOR T1",
             "type": "armor",
@@ -1713,6 +1719,12 @@
             "name": "WEAPON T1",
             "type": "weapon",
             "power": 500,
+            "tier": 1
+          },
+          "ff72": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
             "tier": 1
           }
         }
@@ -1832,7 +1844,7 @@
       "helperLevel": 1,
       "helperGauge": 0,
       "lastXvideoDl": 1770487037507,
-      "clublastRobTime": 1770595404504,
+      "clublastRobTime": 1770648475037,
       "tokens": 3,
       "lastBuyTokens": 1770504670805
     },
@@ -2042,13 +2054,13 @@
         "148529213390986"
       ],
       "createdAt": 1770491533522,
-      "lastIncome": 1770492422712,
+      "lastIncome": 1770645886084,
       "lastBattle": 0,
-      "lastMission": 1770521528847,
+      "lastMission": 1770645864556,
       "lastAmbush": 0,
-      "lastCollect": 1770492422712,
-      "lastChallenge": 1770521563837,
-      "lastScavenge": 1770550140299,
+      "lastCollect": 1770645886084,
+      "lastChallenge": 1770646120271,
+      "lastScavenge": 1770645870799,
       "lastResearch": 0,
       "upgrades": {
         "defense": 0,
@@ -2061,9 +2073,9 @@
         "defense": 500,
         "stealth": 100
       },
-      "coin": 342463910,
-      "glory": 73,
-      "essence": 5,
+      "coin": 598628700,
+      "glory": 97,
+      "essence": 6,
       "roles": {
         "treasurer": null,
         "warlord": null,
@@ -2075,7 +2087,8 @@
         "projectType": null
       },
       "maxMembers": 5,
-      "lastTrain": 1770521573740
+      "lastTrain": 1770646143987,
+      "tempPowerBoost": 10
     },
     "a287cb": {
       "name": "زنجي",
@@ -2277,11 +2290,11 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770595433251,
       "lastBattle": 1770491928171,
-      "lastMission": 1770628310027,
+      "lastMission": 1770633142662,
       "lastAmbush": 0,
       "lastCollect": 1770595433251,
       "lastChallenge": 1770595450573,
-      "lastScavenge": 1770628269985,
+      "lastScavenge": 1770628425786,
       "lastResearch": 0,
       "upgrades": {
         "defense": 16,
@@ -2295,9 +2308,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 50145934625,
-      "glory": 12504,
-      "essence": 19,
+      "coin": 57245513576,
+      "glory": 13015,
+      "essence": 53,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2394,5 +2407,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770628320343
+  "savedAt": 1770648496125
 }
