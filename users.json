@@ -1625,14 +1625,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 13170030738,
+      "coin": 20265030738,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770595420507,
-        "count": 1
+        "lastMessage": 1770595469105,
+        "count": 2
       },
-      "xp": 770,
+      "xp": 870,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 921,
@@ -1772,7 +1772,7 @@
           "bikegang": 40,
           "carfleet": 30
         },
-        "lastRentCollected": 1770498513243,
+        "lastRentCollected": 1770595458224,
         "upgradesBoughtSinceLevel": 1
       },
       "donated_total": 500000000,
@@ -2229,12 +2229,12 @@
         "254511792803874"
       ],
       "createdAt": 1770245717447,
-      "lastIncome": 1770498489117,
+      "lastIncome": 1770595433251,
       "lastBattle": 1770491928171,
       "lastMission": 1770580705259,
       "lastAmbush": 0,
-      "lastCollect": 1770498489117,
-      "lastChallenge": 1770498500490,
+      "lastCollect": 1770595433251,
+      "lastChallenge": 1770595450573,
       "lastScavenge": 1770538943939,
       "lastResearch": 0,
       "upgrades": {
@@ -2249,8 +2249,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 34474353838,
-      "glory": 8932,
+      "coin": 34529353838,
+      "glory": 9932,
       "essence": 35,
       "roles": {
         "treasurer": "249216148455505",
@@ -2264,8 +2264,7 @@
       },
       "maxMembers": 5,
       "lastTrain": 1770580657385,
-      "welcomeMessage": "Always the best when comparing to the weak",
-      "tempPowerBoost": 10
+      "welcomeMessage": "Always the best when comparing to the weak"
     },
     "94483a": {
       "name": "Rainzclan",
@@ -2348,5 +2347,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770595422325
+  "savedAt": 1770595470882
 }
