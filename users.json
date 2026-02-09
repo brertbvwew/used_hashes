@@ -499,7 +499,7 @@
       "coin": 750685631,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 650,
+      "xp": 730,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -582,8 +582,8 @@
       "StealSuccess": 1,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1770535517478,
-        "count": 1
+        "lastMessage": 1770659135654,
+        "count": 2
       },
       "usedCoupons": [
         {
@@ -610,15 +610,6 @@
       "lastBuyXP": 1770488069317,
       "lastBuyCoin": 1770043755011,
       "lastBuyWin": 1770488241856,
-      "clanId": "713943",
-      "gear": {
-        "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": null
-        },
-        "inventory": {}
-      },
       "club": {
         "level": 66,
         "upgrades": {
@@ -631,7 +622,8 @@
         "lastRentCollected": 1770521590168,
         "upgradesBoughtSinceLevel": 2
       },
-      "clublastRobTime": 1770534624125
+      "clublastRobTime": 1770534624125,
+      "clanId": "ac5c8c"
     },
     "163638858006761": {
       "coin": 475980056,
@@ -2417,5 +2409,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770658973987
+  "savedAt": 1770659135837
 }
