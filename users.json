@@ -2032,19 +2032,19 @@
       "xp": 120
     },
     "246179539501140": {
-      "coin": 62222020218,
+      "coin": 8006876755,
       "uid": "559041e-30_b-nebula",
       "username": "@bnno",
       "spam": {
-        "lastMessage": 1770744669588,
+        "lastMessage": 1770745352557,
         "count": 1
       },
-      "xp": 900,
+      "xp": 80,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
       "winGame": 750,
-      "level": 751,
+      "level": 752,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -2069,16 +2069,16 @@
         "premium": true
       },
       "club": {
-        "level": 87,
+        "level": 96,
         "upgrades": {
           "music": 130,
           "djs": 29,
-          "security": 40,
-          "bikegang": 30,
-          "carfleet": 31
+          "security": 50,
+          "bikegang": 38,
+          "carfleet": 38
         },
         "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 2
+        "upgradesBoughtSinceLevel": 0
       }
     },
     "27645319912": {
@@ -2549,5 +2549,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770745027965
+  "savedAt": 1770745354606
 }
