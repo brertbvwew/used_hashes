@@ -2007,14 +2007,14 @@
       "xp": 120
     },
     "246179539501140": {
-      "coin": 41648020218,
+      "coin": 48506020218,
       "uid": "559041e-30_b-nebula",
       "username": "@bnno",
       "spam": {
-        "lastMessage": 1770744507516,
+        "lastMessage": 1770744557055,
         "count": 1
       },
-      "xp": 760,
+      "xp": 800,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
@@ -2524,5 +2524,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770744509712
+  "savedAt": 1770744559168
 }
