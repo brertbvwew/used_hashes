@@ -1999,14 +1999,14 @@
       "robSuccess": 1
     },
     "66701597106413": {
-      "coin": 1500005000,
+      "coin": 1490005000,
       "uid": "eb43751-33_b-nebula",
       "username": "@user_eb43751-33",
       "spam": {
-        "lastMessage": 1770747544376,
+        "lastMessage": 1770749028527,
         "count": 1
       },
-      "xp": 380,
+      "xp": 760,
       "lastBuyUnban": 1770741391076,
       "invPurchases": 3,
       "winGame": 750,
@@ -2031,6 +2031,15 @@
       "lastBulkInv": 1770746912027,
       "hasSentMsg": {
         "cooldown": true
+      },
+      "clanId": "1a097e",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null
+        },
+        "inventory": {}
       }
     },
     "173534512988169": {
@@ -2401,7 +2410,7 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770695318326,
       "lastBattle": 1770734826289,
-      "lastMission": 1770735691263,
+      "lastMission": 1770748693245,
       "lastAmbush": 0,
       "lastCollect": 1770695318326,
       "lastChallenge": 1770741542386,
@@ -2419,8 +2428,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 4154607439,
-      "glory": 16903,
+      "coin": 4506678655,
+      "glory": 16934,
       "essence": 46,
       "roles": {
         "treasurer": "249216148455505",
@@ -2433,8 +2442,9 @@
         "projectType": "income_boost"
       },
       "maxMembers": 5,
-      "lastTrain": 1770697077024,
-      "welcomeMessage": "Always the best when comparing to the weak"
+      "lastTrain": 1770748610480,
+      "welcomeMessage": "Always the best when comparing to the weak",
+      "tempPowerBoost": 10
     },
     "94483a": {
       "name": "Rainzclan",
@@ -2561,5 +2571,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770747545482
+  "savedAt": 1770749029603
 }
