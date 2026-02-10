@@ -2007,14 +2007,14 @@
       "xp": 120
     },
     "246179539501140": {
-      "coin": 500020218,
+      "coin": 41648020218,
       "uid": "559041e-30_b-nebula",
       "username": "@bnno",
       "spam": {
-        "lastMessage": 1770735564335,
+        "lastMessage": 1770744507516,
         "count": 1
       },
-      "xp": 600,
+      "xp": 760,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
@@ -2040,7 +2040,8 @@
       "lastBulkInv": 1770735495564,
       "clanId": "10cbff",
       "hasSentMsg": {
-        "cooldown": true
+        "cooldown": true,
+        "premium": true
       },
       "club": {
         "level": 87,
@@ -2523,5 +2524,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770742081991
+  "savedAt": 1770744509712
 }
