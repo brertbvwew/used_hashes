@@ -11,10 +11,10 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 9214386214,
+      "coin": 9824386214,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 260,
+      "xp": 460,
       "invPurchases": 3,
       "winGame": 796,
       "level": 761,
@@ -221,7 +221,11 @@
         "biannual": 1767796287939,
         "yearly": 1767796307955,
         "maxLevel200": 1767796337169,
-        "legendary": 1767796351072
+        "legendary": 1767796351072,
+        "ultimate": 1770696534790,
+        "immortal": 1770696545330,
+        "divine": 1770696553503,
+        "mythical": 1770696560370
       },
       "lastFig": 1767799613766,
       "lastOwnerReport": 1767800040870,
@@ -307,7 +311,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1770695091376,
+        "lastMessage": 1770696580466,
         "count": 1
       }
     },
@@ -2297,7 +2301,7 @@
       "lastAmbush": 0,
       "lastCollect": 1770695318326,
       "lastChallenge": 1770595450573,
-      "lastScavenge": 1770628425786,
+      "lastScavenge": 1770696096681,
       "lastResearch": 1770695300778,
       "upgrades": {
         "defense": 16,
@@ -2311,9 +2315,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 57250513576,
-      "glory": 13015,
-      "essence": 53,
+      "coin": 57272850449,
+      "glory": 13238,
+      "essence": 121,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2410,5 +2414,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770695428538
+  "savedAt": 1770696582467
 }
