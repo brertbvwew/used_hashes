@@ -2008,14 +2008,14 @@
       "uid": "eb43751-33_b-nebula",
       "username": "@user_eb43751-33",
       "spam": {
-        "lastMessage": 1770750760046,
+        "lastMessage": 1770751361025,
         "count": 1
       },
-      "xp": 840,
+      "xp": 20,
       "lastBuyUnban": 1770741391076,
       "invPurchases": 3,
       "winGame": 750,
-      "level": 750,
+      "level": 751,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -2576,5 +2576,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770750761839
+  "savedAt": 1770751362867
 }
