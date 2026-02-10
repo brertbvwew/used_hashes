@@ -501,10 +501,10 @@
       "spacesalvage": 1
     },
     "148529213390986": {
-      "coin": 750685631,
+      "coin": 101686561,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 730,
+      "xp": 0,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -512,7 +512,7 @@
       },
       "invPurchases": 3,
       "winGame": 809,
-      "level": 771,
+      "level": 773,
       "robSuccess": 750,
       "robbed": 754,
       "rpgwin": 750,
@@ -583,11 +583,11 @@
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/552.png"
       },
-      "lastSteal": 1767825575269,
-      "StealSuccess": 1,
+      "lastSteal": 1770734144347,
+      "StealSuccess": 2,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1770659135654,
+        "lastMessage": 1770735877246,
         "count": 2
       },
       "usedCoupons": [
@@ -628,7 +628,22 @@
         "upgradesBoughtSinceLevel": 2
       },
       "clublastRobTime": 1770534624125,
-      "clanId": "ac5c8c"
+      "clanId": "10cbff",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null
+        },
+        "inventory": {
+          "c0e8": {
+            "name": "ACCESSORY T1",
+            "type": "accessory",
+            "power": 200,
+            "tier": 1
+          }
+        }
+      }
     },
     "163638858006761": {
       "coin": 475980056,
@@ -2458,15 +2473,15 @@
       "createdAt": 1770733283679,
       "lastIncome": 0,
       "lastBattle": 0,
-      "lastMission": 1770735758444,
+      "lastMission": 1770735879473,
       "lastAmbush": 0,
       "lastCollect": 0,
       "lastChallenge": 1770735247835,
-      "lastScavenge": 1770735750723,
+      "lastScavenge": 1770735877033,
       "lastResearch": 0,
       "upgrades": {
         "defense": 8,
-        "attack": 7,
+        "attack": 9,
         "vault": 9
       },
       "perks": {
@@ -2476,9 +2491,9 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 6063473123,
-      "glory": 1201,
-      "essence": 7,
+      "coin": 3985795965,
+      "glory": 1308,
+      "essence": 12,
       "roles": {
         "treasurer": "246179539501140",
         "warlord": null,
@@ -2493,5 +2508,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770735777285
+  "savedAt": 1770735887193
 }
