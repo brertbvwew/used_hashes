@@ -14,7 +14,7 @@
       "coin": 9824386214,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 580,
+      "xp": 680,
       "invPurchases": 3,
       "winGame": 796,
       "level": 761,
@@ -85,8 +85,8 @@
         "admin": true
       },
       "premium": true,
-      "premiumUntil": 1770283760389,
-      "lastBuyPremium": 1767691760389,
+      "premiumUntil": 1773324001059,
+      "lastBuyPremium": 1770732001059,
       "spacedrones": [
         {
           "level": 5
@@ -311,7 +311,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1770697557633,
+        "lastMessage": 1770732041304,
         "count": 1
       },
       "clanId": "ac5c8c"
@@ -2416,5 +2416,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770709654014
+  "savedAt": 1770732043534
 }
