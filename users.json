@@ -11,10 +11,10 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 9824386214,
+      "coin": 9827214964,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 680,
+      "xp": 780,
       "invPurchases": 3,
       "winGame": 796,
       "level": 761,
@@ -209,7 +209,7 @@
         "Energy Cell": 2,
         "Plasma Coils": 2
       },
-      "spacestationlastPassiveIncome": 1770351379263,
+      "spacestationlastPassiveIncome": 1770734678510,
       "spacelastSalvage": 1768316184277,
       "spacesalvage": 2,
       "sellcount": 2,
@@ -311,7 +311,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1770732041304,
+        "lastMessage": 1770734688547,
         "count": 1
       },
       "clanId": "ac5c8c"
@@ -2419,7 +2419,8 @@
       "name": "Rainzfaze",
       "leader": "148529213390986",
       "members": [
-        "148529213390986"
+        "148529213390986",
+        "246179539501140"
       ],
       "createdAt": 1770733283679,
       "lastIncome": 0,
@@ -2431,18 +2432,22 @@
       "lastScavenge": 0,
       "lastResearch": 0,
       "upgrades": {
-        "defense": 0,
+        "defense": 8,
         "attack": 0,
-        "vault": 0
+        "vault": 9
       },
       "perks": {
-        "speed": 150
+        "speed": 250,
+        "attack": 500,
+        "defense": 500,
+        "stealth": 100,
+        "income": 500
       },
-      "coin": 0,
+      "coin": 1011650444,
       "glory": 0,
       "essence": 0,
       "roles": {
-        "treasurer": null,
+        "treasurer": "246179539501140",
         "warlord": null,
         "spy": null
       },
@@ -2454,5 +2459,5 @@
       "maxMembers": 5
     }
   },
-  "savedAt": 1770733391350
+  "savedAt": 1770734690768
 }
