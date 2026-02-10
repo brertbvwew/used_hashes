@@ -1959,19 +1959,19 @@
       "xp": 120
     },
     "246179539501140": {
-      "coin": 1250004000,
+      "coin": 8387553000,
       "uid": "559041e-30_b-nebula",
       "username": "@bnno",
       "spam": {
-        "lastMessage": 1770663092814,
+        "lastMessage": 1770733389510,
         "count": 1
       },
-      "xp": 740,
+      "xp": 0,
       "lastBuyCoin": 1770452158687,
-      "received_total": 99999000,
+      "received_total": 199998000,
       "invPurchases": 2,
       "winGame": 500,
-      "level": 500,
+      "level": 501,
       "robSuccess": 500,
       "robbed": 500,
       "rpgwin": 500,
@@ -2414,7 +2414,45 @@
         "projectType": null
       },
       "maxMembers": 5
+    },
+    "10cbff": {
+      "name": "Rainzfaze",
+      "leader": "148529213390986",
+      "members": [
+        "148529213390986"
+      ],
+      "createdAt": 1770733283679,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0
+      },
+      "perks": {
+        "speed": 150
+      },
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5
     }
   },
-  "savedAt": 1770732043534
+  "savedAt": 1770733391350
 }
