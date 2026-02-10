@@ -2011,10 +2011,10 @@
       "uid": "559041e-30_b-nebula",
       "username": "@bnno",
       "spam": {
-        "lastMessage": 1770744590346,
+        "lastMessage": 1770744669588,
         "count": 1
       },
-      "xp": 860,
+      "xp": 900,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
@@ -2524,5 +2524,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770744592622
+  "savedAt": 1770744671929
 }
