@@ -1666,14 +1666,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 63995041756,
+      "coin": 2799365676,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770745026268,
+        "lastMessage": 1770745691087,
         "count": 1
       },
-      "xp": 30,
+      "xp": 190,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 925,
@@ -1908,13 +1908,13 @@
       ],
       "lastBuyXP": 1770742048350,
       "club": {
-        "level": 105,
+        "level": 119,
         "upgrades": {
-          "music": 120,
-          "djs": 73,
+          "music": 150,
+          "djs": 75,
           "security": 50,
-          "bikegang": 40,
-          "carfleet": 30
+          "bikegang": 45,
+          "carfleet": 35
         },
         "lastRentCollected": 1770695266688,
         "upgradesBoughtSinceLevel": 1
@@ -2514,11 +2514,11 @@
       "createdAt": 1770733283679,
       "lastIncome": 1770744574490,
       "lastBattle": 0,
-      "lastMission": 1770745574243,
+      "lastMission": 1770745663102,
       "lastAmbush": 0,
       "lastCollect": 1770744574490,
       "lastChallenge": 1770735247835,
-      "lastScavenge": 1770745576095,
+      "lastScavenge": 1770745664233,
       "lastResearch": 0,
       "upgrades": {
         "defense": 8,
@@ -2532,9 +2532,9 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 5389840242,
-      "glory": 1355,
-      "essence": 15,
+      "coin": 6681844367,
+      "glory": 1430,
+      "essence": 19,
       "roles": {
         "treasurer": "246179539501140",
         "warlord": null,
@@ -2549,5 +2549,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770745592020
+  "savedAt": 1770745692367
 }
