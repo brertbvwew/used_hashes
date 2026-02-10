@@ -1999,27 +1999,39 @@
       "robSuccess": 1
     },
     "66701597106413": {
-      "coin": 5000,
+      "coin": 1500005000,
       "uid": "eb43751-33_b-nebula",
       "username": "@user_eb43751-33",
       "spam": {
-        "lastMessage": 1770464105321,
+        "lastMessage": 1770746997744,
         "count": 1
       },
-      "xp": 920,
-      "lastBuyUnban": 1770417520059,
+      "xp": 320,
+      "lastBuyUnban": 1770741391076,
+      "invPurchases": 3,
+      "winGame": 750,
+      "level": 750,
+      "robSuccess": 750,
+      "robbed": 750,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1770746912027,
+      "lastBulkInv": 1770746912027,
       "hasSentMsg": {
         "cooldown": true
-      },
-      "usedCoupons": [
-        {
-          "hash": "MHVRZTZaR1M6MjhkYjNhMjdkYWUzODhlYzhmOTc5NjM2ZjAzNTZhMjE6MTc3MDQxNzMzOTQxNTpvaXZQY2JLODo4MmUwNTkzMTNiMTY2YWY3OGMxOTJiYjczY2Y5NTQxMQ==",
-          "md5": "514c2dcb436321486ab0fddd6183e2ce",
-          "time": 1770463924309
-        }
-      ],
-      "lastBuyXP": 1770463924309,
-      "level": 6
+      }
     },
     "173534512988169": {
       "coin": 5000,
@@ -2523,7 +2535,7 @@
       "upgrades": {
         "defense": 8,
         "attack": 9,
-        "vault": 9
+        "vault": 11
       },
       "perks": {
         "speed": 250,
@@ -2532,7 +2544,7 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 6681844367,
+      "coin": 6404141361,
       "glory": 1430,
       "essence": 19,
       "roles": {
@@ -2549,5 +2561,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770745692367
+  "savedAt": 1770747000486
 }
