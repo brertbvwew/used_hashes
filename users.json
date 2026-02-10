@@ -1670,14 +1670,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770695426856,
-        "count": 2
+        "lastMessage": 1770742079865,
+        "count": 1
       },
-      "xp": 630,
+      "xp": 12650,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 924,
-      "level": 817,
+      "level": 825,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1865,9 +1865,24 @@
           "hash": "R01iNmNEN3g6MTM3OTViMmFmMmNlMDQ3NzViZGU5Y2JkOGI2OTQzZjQ6MTc3MDQ4NjIwNzMyMzpIQkxqWGxHTzplZWIyNzI0N2Y3NTZlNTViYjM4ZDIxNzRlZDdjYjgyMg==",
           "md5": "c07068e1129be71d265c6f805d7bfa4a",
           "time": 1770492024446
+        },
+        {
+          "hash": "TWE3ZDhoMEY6MmQzN2JiMGE5N2YwNTM0YzFkZDM2YmQyNGI3YjZiOWI6MTc3MDczNjA3MzEyNjpFdlF2RVRtazplYzQ1NDNiNDg3ZGU0NGIyYjNhZmUzNDhhMGQwMjdjOQ==",
+          "md5": "b38f7504491603de4620e3cf0b828818",
+          "time": 1770741657615
+        },
+        {
+          "hash": "Wlp1WXk2ekU6ODUwNmVmYzZlMDMyYzFlYTJjYWY0MTk1ZGM5ZjliOWE6MTc3MDczNjA3MTY2NzpYc1lSZEhMYjoxYmY3YjNiM2YwMjYxYWYwNGU0NjE0MmU1OWYzY2QxZg==",
+          "md5": "cac876a2b2d68e9a70236a0b47e3768c",
+          "time": 1770741857609
+        },
+        {
+          "hash": "VjdaZUpVQVI6YWVkNjMwY2ExMmJjNjMxZmI5YjI4ZGVkZWI1NjJhZDg6MTc3MDczNjA3NDczMzp5NnJVcjdNWDozNzQ1ODIwYzdkMGE4MGNjMWNkOWQ3ZTg2NmFlMTg4Mg==",
+          "md5": "e3469d540d947d8e66f6ec139414271f",
+          "time": 1770742048350
         }
       ],
-      "lastBuyXP": 1770492024446,
+      "lastBuyXP": 1770742048350,
       "club": {
         "level": 105,
         "upgrades": {
@@ -2351,7 +2366,7 @@
       "lastMission": 1770735691263,
       "lastAmbush": 0,
       "lastCollect": 1770695318326,
-      "lastChallenge": 1770595450573,
+      "lastChallenge": 1770741542386,
       "lastScavenge": 1770697344654,
       "lastResearch": 1770695300778,
       "upgrades": {
@@ -2366,18 +2381,18 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 4104607439,
-      "glory": 15903,
-      "essence": 146,
+      "coin": 4154607439,
+      "glory": 16903,
+      "essence": 46,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
         "spy": "63046378635471"
       },
       "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
+        "project": "income_boost",
+        "eta": 1770784683357,
+        "projectType": "income_boost"
       },
       "maxMembers": 5,
       "lastTrain": 1770697077024,
@@ -2508,5 +2523,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770735887193
+  "savedAt": 1770742081991
 }
