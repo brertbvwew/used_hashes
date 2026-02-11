@@ -1507,10 +1507,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 561318746710,
+      "coin": 561279746710,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 960,
+      "xp": 220,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1538,7 +1538,7 @@
         }
       ],
       "lastBuyXP": 1770662600429,
-      "level": 775,
+      "level": 776,
       "autolevelup": true,
       "premium": false,
       "premiumUntil": 0,
@@ -1546,7 +1546,7 @@
       "robbed": 759,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1770837480473,
+        "lastMessage": 1770837963127,
         "count": 1
       },
       "donated_total": 120000000,
@@ -1620,7 +1620,8 @@
         "THC Crystal": 2,
         "Rare Blue Strain": 3
       },
-      "weedlastGather": 1770833640452
+      "weedlastGather": 1770833640452,
+      "lastBuyUnban": 1770837348518
     },
     "27618605148": {
       "coin": 5000,
@@ -2512,7 +2513,7 @@
       "lastAmbush": 0,
       "lastCollect": 1770785279279,
       "lastChallenge": 1770741542386,
-      "lastScavenge": 1770835469527,
+      "lastScavenge": 1770807222554,
       "lastResearch": 1770785118108,
       "upgrades": {
         "defense": 16,
@@ -2526,9 +2527,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 5361806247,
-      "glory": 17611,
-      "essence": 103,
+      "coin": 5337424736,
+      "glory": 17423,
+      "essence": 40,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2632,13 +2633,13 @@
         "246179539501140"
       ],
       "createdAt": 1770733283679,
-      "lastIncome": 1770835020290,
+      "lastIncome": 1770744574490,
       "lastBattle": 0,
-      "lastMission": 1770835458360,
-      "lastAmbush": 1770835764330,
-      "lastCollect": 1770835020290,
+      "lastMission": 1770817618645,
+      "lastAmbush": 0,
+      "lastCollect": 1770744574490,
       "lastChallenge": 1770735247835,
-      "lastScavenge": 1770835459537,
+      "lastScavenge": 1770745664233,
       "lastResearch": 0,
       "upgrades": {
         "defense": 8,
@@ -2652,9 +2653,9 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 22238870001,
-      "glory": 1961,
-      "essence": 40,
+      "coin": 9419080092,
+      "glory": 1543,
+      "essence": 19,
       "roles": {
         "treasurer": "246179539501140",
         "warlord": null,
@@ -2669,5 +2670,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770837865042
+  "savedAt": 1770837965025
 }
