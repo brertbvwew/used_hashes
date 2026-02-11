@@ -1507,10 +1507,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 9563396710,
+      "coin": 561318746710,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 800,
+      "xp": 960,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1546,7 +1546,7 @@
       "robbed": 759,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1770761641748,
+        "lastMessage": 1770837480473,
         "count": 1
       },
       "donated_total": 120000000,
@@ -1575,7 +1575,7 @@
       "pokemonviewcard": 750,
       "vipgameviewcard": 750,
       "weedcooked": 750,
-      "weedgather": 750,
+      "weedgather": 751,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1770557297863,
@@ -1607,7 +1607,20 @@
         "upgradesBoughtSinceLevel": 1
       },
       "lastRob": 1770582863925,
-      "lastSpins": 1770663243451
+      "lastSpins": 1770663243451,
+      "weedinventory": {
+        "Weed Leaf": 5,
+        "Rolling Paper": 3,
+        "Grinder Part": 1,
+        "Lighter": 3,
+        "Seed": 1,
+        "Perlite": 1,
+        "Sativa Nug": 1,
+        "Edible": 2,
+        "THC Crystal": 2,
+        "Rare Blue Strain": 3
+      },
+      "weedlastGather": 1770833640452
     },
     "27618605148": {
       "coin": 5000,
@@ -2656,5 +2669,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770829140377
+  "savedAt": 1770837863101
 }
