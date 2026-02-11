@@ -1683,32 +1683,32 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 561928981852,
+      "coin": 561922429852,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770843909155,
+        "lastMessage": 1770849823038,
         "count": 1
       },
-      "xp": 810,
+      "xp": 370,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 930,
-      "level": 859,
+      "winGame": 931,
+      "level": 861,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
-      "rpgGather": 750,
+      "rpgGather": 751,
       "rpgtrades": 750,
       "rpgcrafted": 750,
-      "rpgmonsterfight": 750,
+      "rpgmonsterfight": 751,
       "yugiohviewcard": 750,
       "onepiceviewcard": 750,
       "dragonballviewcard": 750,
-      "pokemonviewcard": 876,
+      "pokemonviewcard": 877,
       "vipgameviewcard": 751,
       "weedcooked": 750,
-      "weedgather": 750,
+      "weedgather": 751,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1770234154305,
@@ -1952,6 +1952,30 @@
             "type": "weapon",
             "power": 500,
             "tier": 1
+          },
+          "1af1": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "d1bc": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          },
+          "0dca": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "fc30": {
+            "name": "ACCESSORY T1",
+            "type": "accessory",
+            "power": 200,
+            "tier": 1
           }
         }
       },
@@ -1966,39 +1990,39 @@
         "cost": 46591
       },
       "lastPokemon": {
-        "id": 623,
-        "name": "golurk",
+        "id": 657,
+        "name": "frogadier",
         "stats": [
           {
             "name": "hp",
-            "value": 89
+            "value": 54
           },
           {
             "name": "attack",
-            "value": 124
+            "value": 63
           },
           {
             "name": "defense",
-            "value": 80
+            "value": 52
           },
           {
             "name": "special-attack",
-            "value": 55
+            "value": 83
           },
           {
             "name": "special-defense",
-            "value": 80
+            "value": 56
           },
           {
             "name": "speed",
-            "value": 55
+            "value": 97
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/623.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/657.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2099,7 +2123,138 @@
       "tokens": 3,
       "lastBuyTokens": 1770504670805,
       "lastBuyUnban": 1770749146378,
-      "lastSMSSend": 1770842714439
+      "lastSMSSend": 1770842714439,
+      "spacedrones": [
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 3
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        }
+      ],
+      "spacemine": {
+        "usedDrones": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "rpginventory": {
+        "Apple": 3,
+        "Banana": 3,
+        "Mushroom": 2,
+        "Wood": 1,
+        "Coal": 4,
+        "Herb": 3,
+        "Tomato": 3,
+        "Goblin Ear": 3,
+        "Elven Silk": 2,
+        "Iron Shard": 2,
+        "Pumpkin": 1,
+        "Coconut": 2,
+        "Iron Ore": 1,
+        "Gold Nugget": 1,
+        "Dragon Bone": 1,
+        "Dragon Scale": 1
+      },
+      "rpglastGather": 1770849692169,
+      "weedinventory": {
+        "Grinder Part": 1,
+        "Seed": 1,
+        "Perlite": 2,
+        "Worm Castings": 2,
+        "Sativa Nug": 5,
+        "Water Pipe": 2,
+        "THC Oil": 1,
+        "High-Grade Wax": 2,
+        "420 Pineapple": 1
+      },
+      "weedlastGather": 1770849700678,
+      "rpgmonsterHealth": 110,
+      "rpglastFight": 1770849705788,
+      "rpghealth": 100,
+      "spaceinventory": {
+        "Scrap Metal": 2,
+        "Iron Ore": 2,
+        "Damaged Circuit": 2,
+        "Silicon Ore": 2,
+        "Copper Ore": 1,
+        "Copper Wire": 2,
+        "Biometric Data Pad": 1,
+        "Crystal Shard": 1,
+        "Quantum Chip": 1,
+        "Titanium Ore": 1,
+        "Advanced Sensor Array": 1,
+        "Quantum Processor": 1,
+        "Energy Cell": 1,
+        "Plasma Coils": 1,
+        "Fusion Core": 1
+      },
+      "spacelastSalvage": 1770849730568,
+      "spacesalvage": 1
     },
     "168419274039524": {
       "coin": 5000,
@@ -2580,7 +2735,7 @@
       "lastAmbush": 0,
       "lastCollect": 1770785279279,
       "lastChallenge": 1770844227815,
-      "lastScavenge": 1770844287412,
+      "lastScavenge": 1770845500352,
       "lastResearch": 1770785118108,
       "upgrades": {
         "defense": 16,
@@ -2594,9 +2749,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 7458265641,
-      "glory": 18890,
-      "essence": 154,
+      "coin": 7460876972,
+      "glory": 18904,
+      "essence": 160,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2608,8 +2763,9 @@
         "projectType": "vault_expansion"
       },
       "maxMembers": 5,
-      "lastTrain": 1770843587222,
-      "welcomeMessage": "Always the best when comparing to the weak"
+      "lastTrain": 1770845482205,
+      "welcomeMessage": "Always the best when comparing to the weak",
+      "tempPowerBoost": 10
     },
     "94483a": {
       "name": "Rainzclan",
@@ -2736,5 +2892,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770845445387
+  "savedAt": 1770849825186
 }
