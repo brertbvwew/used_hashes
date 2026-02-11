@@ -1670,14 +1670,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770781103033,
+        "lastMessage": 1770781915304,
         "count": 1
       },
-      "xp": 5070,
+      "xp": 90,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 925,
-      "level": 848,
+      "level": 854,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1726,6 +1726,12 @@
           }
         },
         "inventory": {
+          "2561": {
+            "name": "ACCESSORY T1",
+            "type": "accessory",
+            "power": 200,
+            "tier": 1
+          },
           "3818": {
             "name": "WEAPON T1",
             "type": "weapon",
@@ -1796,6 +1802,12 @@
             "name": "ACCESSORY T1",
             "type": "accessory",
             "power": 200,
+            "tier": 1
+          },
+          "7f6b": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
             "tier": 1
           }
         }
@@ -2424,7 +2436,7 @@
       "lastAmbush": 0,
       "lastCollect": 1770695318326,
       "lastChallenge": 1770741542386,
-      "lastScavenge": 1770761605304,
+      "lastScavenge": 1770781883655,
       "lastResearch": 1770695300778,
       "upgrades": {
         "defense": 16,
@@ -2438,9 +2450,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 5290663859,
-      "glory": 17008,
-      "essence": 58,
+      "coin": 5308333007,
+      "glory": 17183,
+      "essence": 114,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2581,5 +2593,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770781105028
+  "savedAt": 1770781917413
 }
