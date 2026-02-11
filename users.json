@@ -1683,17 +1683,17 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 561922429852,
+      "coin": 561919881852,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770849823038,
+        "lastMessage": 1770849900043,
         "count": 1
       },
-      "xp": 370,
+      "xp": 800,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 931,
+      "winGame": 932,
       "level": 861,
       "robSuccess": 751,
       "robbed": 751,
@@ -1702,10 +1702,10 @@
       "rpgtrades": 750,
       "rpgcrafted": 750,
       "rpgmonsterfight": 751,
-      "yugiohviewcard": 750,
-      "onepiceviewcard": 750,
-      "dragonballviewcard": 750,
-      "pokemonviewcard": 877,
+      "yugiohviewcard": 751,
+      "onepiceviewcard": 751,
+      "dragonballviewcard": 751,
+      "pokemonviewcard": 878,
       "vipgameviewcard": 751,
       "weedcooked": 750,
       "weedgather": 751,
@@ -1990,39 +1990,39 @@
         "cost": 46591
       },
       "lastPokemon": {
-        "id": 657,
-        "name": "frogadier",
+        "id": 853,
+        "name": "grapploct",
         "stats": [
           {
             "name": "hp",
-            "value": 54
+            "value": 80
           },
           {
             "name": "attack",
-            "value": 63
+            "value": 118
           },
           {
             "name": "defense",
-            "value": 52
+            "value": 90
           },
           {
             "name": "special-attack",
-            "value": 83
+            "value": 70
           },
           {
             "name": "special-defense",
-            "value": 56
+            "value": 80
           },
           {
             "name": "speed",
-            "value": 97
+            "value": 42
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/657.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/657.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/853.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/853.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2138,7 +2138,28 @@
           "level": 5
         },
         {
-          "level": 3
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 2
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
         },
         {
           "level": 1
@@ -2182,6 +2203,13 @@
       ],
       "spacemine": {
         "usedDrones": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null,
           null,
           null,
@@ -2254,7 +2282,64 @@
         "Fusion Core": 1
       },
       "spacelastSalvage": 1770849730568,
-      "spacesalvage": 1
+      "spacesalvage": 1,
+      "yugiohLastCard": {
+        "id": 60715406,
+        "name": "Tentacle Plant",
+        "typeline": [
+          "Plant",
+          "Normal"
+        ],
+        "type": "Normal Monster",
+        "humanReadableCardType": "Normal Monster",
+        "frameType": "normal",
+        "desc": "''A carnivorous plant that has an outgrowth of tentacles. It attacks someone nearby by extending its tentacles.''",
+        "race": "Plant",
+        "atk": 500,
+        "def": 600,
+        "level": 2,
+        "attribute": "WATER",
+        "archetype": "Recolored counterpart",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/tentacle-plant-5152",
+        "card_images": [
+          {
+            "id": 60715406,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60715406.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60715406.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60715406.jpg"
+          }
+        ],
+        "card_prices": [
+          {
+            "cardmarket_price": "0.00",
+            "tcgplayer_price": "0.00",
+            "ebay_price": "15.00",
+            "amazon_price": "1.02",
+            "coolstuffinc_price": "0.00"
+          }
+        ]
+      },
+      "onepiceLastCard": {
+        "id": "OP02-080",
+        "name": "Dobon",
+        "rarity": "C",
+        "power": 4000,
+        "color": "Purple",
+        "attribute": "Strike",
+        "imageUrl": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-080.png"
+      },
+      "dragonballLastCard": {
+        "id": "FB05-004",
+        "name": "Kibito (Mini) : DA",
+        "rarity": "R",
+        "color": "Red",
+        "cardType": "BATTLE",
+        "power": 25000,
+        "effect": "[Critical] (When this card inflicts damage with an attack, the life is placed in the Drop.)\n[On Play] Add up to 1 card from your life to your hand.",
+        "set": "BOOSTER PACK -NEW ADVENTURE- [FB05]",
+        "getIt": "BOOSTER PACK -NEW ADVENTURE- [FB05]",
+        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB05-004.webp"
+      }
     },
     "168419274039524": {
       "coin": 5000,
@@ -2892,5 +2977,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770849825186
+  "savedAt": 1770849902805
 }
