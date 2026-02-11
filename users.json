@@ -1673,14 +1673,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770785298929,
+        "lastMessage": 1770807241798,
         "count": 1
       },
-      "xp": 270,
+      "xp": 470,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 925,
-      "level": 854,
+      "level": 855,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1729,6 +1729,12 @@
           }
         },
         "inventory": {
+          "1810": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
           "2561": {
             "name": "ACCESSORY T1",
             "type": "accessory",
@@ -1745,6 +1751,12 @@
             "name": "WEAPON T1",
             "type": "weapon",
             "power": 500,
+            "tier": 1
+          },
+          "5684": {
+            "name": "ACCESSORY T1",
+            "type": "accessory",
+            "power": 200,
             "tier": 1
           },
           "3d2c": {
@@ -1811,6 +1823,54 @@
             "name": "WEAPON T1",
             "type": "weapon",
             "power": 500,
+            "tier": 1
+          },
+          "1f45": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "2bae": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          },
+          "e189": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "6ba6": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "a691": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "4c96": {
+            "name": "ACCESSORY T1",
+            "type": "accessory",
+            "power": 200,
+            "tier": 1
+          },
+          "bb24": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          },
+          "8e4e": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
             "tier": 1
           }
         }
@@ -2439,7 +2499,7 @@
       "lastAmbush": 0,
       "lastCollect": 1770785279279,
       "lastChallenge": 1770741542386,
-      "lastScavenge": 1770781883655,
+      "lastScavenge": 1770807222554,
       "lastResearch": 1770785118108,
       "upgrades": {
         "defense": 16,
@@ -2453,9 +2513,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 5308333007,
-      "glory": 17183,
-      "essence": 114,
+      "coin": 5337424736,
+      "glory": 17423,
+      "essence": 190,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2596,5 +2656,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770790078396
+  "savedAt": 1770807243737
 }
