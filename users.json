@@ -1682,18 +1682,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 155575710680,
+      "coin": 265402304204,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770829138037,
-        "count": 2
+        "lastMessage": 1770837385471,
+        "count": 1
       },
-      "xp": 950,
+      "xp": 370,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 927,
-      "level": 855,
+      "winGame": 928,
+      "level": 857,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2028,7 +2028,7 @@
       "helperLevel": 1,
       "helperGauge": 0,
       "lastXvideoDl": 1770487037507,
-      "clublastRobTime": 1770829124398,
+      "clublastRobTime": 1770833595554,
       "tokens": 3,
       "lastBuyTokens": 1770504670805,
       "lastBuyUnban": 1770749146378
@@ -2512,7 +2512,7 @@
       "lastAmbush": 0,
       "lastCollect": 1770785279279,
       "lastChallenge": 1770741542386,
-      "lastScavenge": 1770807222554,
+      "lastScavenge": 1770835469527,
       "lastResearch": 1770785118108,
       "upgrades": {
         "defense": 16,
@@ -2526,9 +2526,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 5337424736,
-      "glory": 17423,
-      "essence": 40,
+      "coin": 5361806247,
+      "glory": 17611,
+      "essence": 103,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2632,13 +2632,13 @@
         "246179539501140"
       ],
       "createdAt": 1770733283679,
-      "lastIncome": 1770744574490,
+      "lastIncome": 1770835020290,
       "lastBattle": 0,
-      "lastMission": 1770817618645,
-      "lastAmbush": 0,
-      "lastCollect": 1770744574490,
+      "lastMission": 1770835458360,
+      "lastAmbush": 1770835764330,
+      "lastCollect": 1770835020290,
       "lastChallenge": 1770735247835,
-      "lastScavenge": 1770745664233,
+      "lastScavenge": 1770835459537,
       "lastResearch": 0,
       "upgrades": {
         "defense": 8,
@@ -2652,9 +2652,9 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 9419080092,
-      "glory": 1543,
-      "essence": 19,
+      "coin": 22238870001,
+      "glory": 1961,
+      "essence": 40,
       "roles": {
         "treasurer": "246179539501140",
         "warlord": null,
@@ -2669,5 +2669,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770837863101
+  "savedAt": 1770837865042
 }
