@@ -878,10 +878,10 @@
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1770790076100,
+        "lastMessage": 1770817722184,
         "count": 1
       },
-      "xp": 50,
+      "xp": 70,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
@@ -2515,19 +2515,19 @@
       },
       "coin": 5337424736,
       "glory": 17423,
-      "essence": 190,
+      "essence": 40,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
         "spy": "63046378635471"
       },
       "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
+        "project": "vault_expansion",
+        "eta": 1770872108296,
+        "projectType": "vault_expansion"
       },
       "maxMembers": 5,
-      "lastTrain": 1770748610480,
+      "lastTrain": 1770807340603,
       "welcomeMessage": "Always the best when comparing to the weak",
       "tempPowerBoost": 10
     },
@@ -2621,7 +2621,7 @@
       "createdAt": 1770733283679,
       "lastIncome": 1770744574490,
       "lastBattle": 0,
-      "lastMission": 1770745663102,
+      "lastMission": 1770817618645,
       "lastAmbush": 0,
       "lastCollect": 1770744574490,
       "lastChallenge": 1770735247835,
@@ -2639,8 +2639,8 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 6404141361,
-      "glory": 1430,
+      "coin": 9419080092,
+      "glory": 1543,
       "essence": 19,
       "roles": {
         "treasurer": "246179539501140",
@@ -2656,5 +2656,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770807243737
+  "savedAt": 1770817724924
 }
