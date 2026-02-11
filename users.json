@@ -874,20 +874,20 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 19210505000,
+      "coin": 570933355000,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1770572016488,
+        "lastMessage": 1770790076100,
         "count": 1
       },
-      "xp": 70,
+      "xp": 50,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
       "winGame": 821,
-      "level": 763,
+      "level": 764,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -937,9 +937,10 @@
       "lastBuyXP": 1770313312393,
       "lastBuyWin": 1770485555998,
       "hasSentMsg": {
-        "admin": true
+        "admin": true,
+        "banned": true
       },
-      "tokens": 39,
+      "tokens": 35,
       "lastBuyTokens": 1770412760749,
       "gear": {
         "equipped": {},
@@ -1000,7 +1001,9 @@
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/287.png"
       },
-      "lastOwnerReport": 1770487113707
+      "lastOwnerReport": 1770487113707,
+      "banned": false,
+      "permanent": false
     },
     "93939944173798": {
       "coin": 1723461,
@@ -2593,5 +2596,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770785300777
+  "savedAt": 1770790078396
 }
