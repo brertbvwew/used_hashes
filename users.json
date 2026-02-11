@@ -1687,14 +1687,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770842958784,
+        "lastMessage": 1770843909155,
         "count": 1
       },
-      "xp": 710,
+      "xp": 810,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 930,
-      "level": 858,
+      "level": 859,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1900,6 +1900,54 @@
             "tier": 1
           },
           "dce4": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "47c4": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "363f": {
+            "name": "ACCESSORY T1",
+            "type": "accessory",
+            "power": 200,
+            "tier": 1
+          },
+          "254b": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          },
+          "d5af": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "7e50": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "5a96": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          },
+          "6cd1": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          },
+          "30f7": {
             "name": "WEAPON T1",
             "type": "weapon",
             "power": 500,
@@ -2528,11 +2576,11 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770785279279,
       "lastBattle": 1770734826289,
-      "lastMission": 1770759494948,
+      "lastMission": 1770843608805,
       "lastAmbush": 0,
       "lastCollect": 1770785279279,
       "lastChallenge": 1770741542386,
-      "lastScavenge": 1770807222554,
+      "lastScavenge": 1770843890287,
       "lastResearch": 1770785118108,
       "upgrades": {
         "defense": 16,
@@ -2546,9 +2594,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 5337424736,
-      "glory": 17423,
-      "essence": 40,
+      "coin": 7402552056,
+      "glory": 17857,
+      "essence": 140,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2560,7 +2608,7 @@
         "projectType": "vault_expansion"
       },
       "maxMembers": 5,
-      "lastTrain": 1770807340603,
+      "lastTrain": 1770843587222,
       "welcomeMessage": "Always the best when comparing to the weak",
       "tempPowerBoost": 10
     },
@@ -2689,5 +2737,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770842961023
+  "savedAt": 1770843911600
 }
