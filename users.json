@@ -1507,10 +1507,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 561383746710,
+      "coin": 561382590710,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 480,
+      "xp": 920,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1546,7 +1546,7 @@
       "robbed": 759,
       "lastBuyCoin": 1770845403248,
       "spam": {
-        "lastMessage": 1770845442883,
+        "lastMessage": 1770850134849,
         "count": 1
       },
       "donated_total": 120000000,
@@ -1621,7 +1621,29 @@
         "Rare Blue Strain": 3
       },
       "weedlastGather": 1770833640452,
-      "lastBuyUnban": 1770837348518
+      "lastBuyUnban": 1770837348518,
+      "spacedrones": [
+        {
+          "level": 4
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        },
+        {
+          "level": 1
+        }
+      ],
+      "spacemine": {
+        "usedDrones": [
+          null,
+          null,
+          null,
+          null
+        ]
+      }
     },
     "27618605148": {
       "coin": 5000,
@@ -2977,5 +2999,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770849902805
+  "savedAt": 1770850137197
 }
