@@ -1670,10 +1670,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770785094849,
+        "lastMessage": 1770785131896,
         "count": 1
       },
-      "xp": 130,
+      "xp": 190,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 925,
@@ -2437,14 +2437,14 @@
       "lastCollect": 1770695318326,
       "lastChallenge": 1770741542386,
       "lastScavenge": 1770781883655,
-      "lastResearch": 1770695300778,
+      "lastResearch": 1770785118108,
       "upgrades": {
         "defense": 16,
         "attack": 13,
         "vault": 19
       },
       "perks": {
-        "income": 550,
+        "income": 600,
         "defense": 500,
         "attack": 500,
         "speed": 250,
@@ -2459,9 +2459,9 @@
         "spy": "63046378635471"
       },
       "research": {
-        "project": "income_boost",
-        "eta": 1770784683357,
-        "projectType": "income_boost"
+        "project": null,
+        "eta": 0,
+        "projectType": null
       },
       "maxMembers": 5,
       "lastTrain": 1770748610480,
@@ -2593,5 +2593,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770785095912
+  "savedAt": 1770785132811
 }
