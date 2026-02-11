@@ -1507,10 +1507,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 561279746710,
+      "coin": 561233746710,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 220,
+      "xp": 420,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1546,7 +1546,7 @@
       "robbed": 759,
       "lastBuyCoin": 1769334100402,
       "spam": {
-        "lastMessage": 1770837963127,
+        "lastMessage": 1770844709933,
         "count": 1
       },
       "donated_total": 120000000,
@@ -2579,8 +2579,8 @@
       "lastMission": 1770843608805,
       "lastAmbush": 0,
       "lastCollect": 1770785279279,
-      "lastChallenge": 1770741542386,
-      "lastScavenge": 1770843890287,
+      "lastChallenge": 1770844227815,
+      "lastScavenge": 1770844287412,
       "lastResearch": 1770785118108,
       "upgrades": {
         "defense": 16,
@@ -2594,9 +2594,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 7402552056,
-      "glory": 17857,
-      "essence": 140,
+      "coin": 7458265641,
+      "glory": 18890,
+      "essence": 154,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -2609,8 +2609,7 @@
       },
       "maxMembers": 5,
       "lastTrain": 1770843587222,
-      "welcomeMessage": "Always the best when comparing to the weak",
-      "tempPowerBoost": 10
+      "welcomeMessage": "Always the best when comparing to the weak"
     },
     "94483a": {
       "name": "Rainzclan",
@@ -2737,5 +2736,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770843911600
+  "savedAt": 1770844711967
 }
