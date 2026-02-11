@@ -1507,10 +1507,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 561382590710,
+      "coin": 561467526710,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 920,
+      "xp": 20,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1538,7 +1538,7 @@
         }
       ],
       "lastBuyXP": 1770662600429,
-      "level": 776,
+      "level": 777,
       "autolevelup": true,
       "premium": false,
       "premiumUntil": 0,
@@ -1546,7 +1546,7 @@
       "robbed": 759,
       "lastBuyCoin": 1770845403248,
       "spam": {
-        "lastMessage": 1770850134849,
+        "lastMessage": 1770850661065,
         "count": 1
       },
       "donated_total": 120000000,
@@ -1603,7 +1603,7 @@
           "bikegang": 20,
           "carfleet": 33
         },
-        "lastRentCollected": 1770761634591,
+        "lastRentCollected": 1770850652150,
         "upgradesBoughtSinceLevel": 1
       },
       "lastRob": 1770582863925,
@@ -1624,7 +1624,10 @@
       "lastBuyUnban": 1770837348518,
       "spacedrones": [
         {
-          "level": 4
+          "level": 5
+        },
+        {
+          "level": 1
         },
         {
           "level": 1
@@ -1638,6 +1641,7 @@
       ],
       "spacemine": {
         "usedDrones": [
+          null,
           null,
           null,
           null,
@@ -2999,5 +3003,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770850332163
+  "savedAt": 1770850663124
 }
