@@ -516,10 +516,10 @@
       }
     },
     "148529213390986": {
-      "coin": 101686561,
+      "coin": 118686561,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 460,
+      "xp": 600,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -527,7 +527,7 @@
       },
       "invPurchases": 3,
       "winGame": 809,
-      "level": 773,
+      "level": 774,
       "robSuccess": 750,
       "robbed": 754,
       "rpgwin": 750,
@@ -602,7 +602,7 @@
       "StealSuccess": 2,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1770745588493,
+        "lastMessage": 1770907970889,
         "count": 1
       },
       "usedCoupons": [
@@ -652,6 +652,12 @@
         },
         "inventory": {
           "c0e8": {
+            "name": "ACCESSORY T1",
+            "type": "accessory",
+            "power": 200,
+            "tier": 1
+          },
+          "edec": {
             "name": "ACCESSORY T1",
             "type": "accessory",
             "power": 200,
@@ -3228,11 +3234,11 @@
       "createdAt": 1770733283679,
       "lastIncome": 1770744574490,
       "lastBattle": 0,
-      "lastMission": 1770817618645,
-      "lastAmbush": 0,
+      "lastMission": 1770907784300,
+      "lastAmbush": 1770907786853,
       "lastCollect": 1770744574490,
-      "lastChallenge": 1770735247835,
-      "lastScavenge": 1770745664233,
+      "lastChallenge": 1770907557887,
+      "lastScavenge": 1770907785932,
       "lastResearch": 0,
       "upgrades": {
         "defense": 8,
@@ -3246,9 +3252,9 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 9419080092,
-      "glory": 1543,
-      "essence": 19,
+      "coin": 56329979481,
+      "glory": 3196,
+      "essence": 47,
       "roles": {
         "treasurer": "246179539501140",
         "warlord": null,
@@ -3263,5 +3269,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770904151277
+  "savedAt": 1770907973854
 }
