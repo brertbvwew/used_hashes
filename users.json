@@ -2549,20 +2549,20 @@
       "robSuccess": 1
     },
     "66701597106413": {
-      "coin": 1490005000,
+      "coin": 1490001606,
       "uid": "eb43751-33_b-nebula",
-      "username": "@user_eb43751-33",
+      "username": "@Xx_|❄️|©-Santa-®|🎅|_xX",
       "spam": {
-        "lastMessage": 1770751361025,
+        "lastMessage": 1770881613093,
         "count": 1
       },
-      "xp": 20,
-      "lastBuyUnban": 1770741391076,
+      "xp": 640,
+      "lastBuyUnban": 1770762053638,
       "invPurchases": 3,
       "winGame": 750,
       "level": 751,
       "robSuccess": 750,
-      "robbed": 750,
+      "robbed": 751,
       "rpgwin": 750,
       "rpgGather": 750,
       "rpgtrades": 750,
@@ -2590,7 +2590,8 @@
           "accessory": null
         },
         "inventory": {}
-      }
+      },
+      "lastOwnerReport": 1770752002154
     },
     "173534512988169": {
       "coin": 5000,
@@ -3122,5 +3123,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770881123199
+  "savedAt": 1770881616055
 }
