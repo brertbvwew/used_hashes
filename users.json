@@ -1713,10 +1713,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770871353074,
+        "lastMessage": 1770871589829,
         "count": 1
       },
-      "xp": 370,
+      "xp": 930,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 933,
@@ -2010,6 +2010,12 @@
             "tier": 1
           },
           "af7f": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "365c": {
             "name": "WEAPON T1",
             "type": "weapon",
             "power": 500,
@@ -2892,11 +2898,11 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770785279279,
       "lastBattle": 1770734826289,
-      "lastMission": 1770843608805,
+      "lastMission": 1770871536886,
       "lastAmbush": 0,
       "lastCollect": 1770785279279,
       "lastChallenge": 1770844227815,
-      "lastScavenge": 1770871339752,
+      "lastScavenge": 1770871480597,
       "lastResearch": 1770785118108,
       "upgrades": {
         "defense": 16,
@@ -2910,9 +2916,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 7477591949,
-      "glory": 19030,
-      "essence": 196,
+      "coin": 17257710631,
+      "glory": 19702,
+      "essence": 200,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -3053,5 +3059,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770871355525
+  "savedAt": 1770871592483
 }
