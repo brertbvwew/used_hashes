@@ -2625,7 +2625,7 @@
       ]
     },
     "168419274039524": {
-      "coin": 6000000000000000000,
+      "coin": 6000,
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "spam": {
@@ -2639,7 +2639,7 @@
       "premium": true,
       "premiumUntil": 1772379809099,
       "lastBuyPremium": 1769787809099,
-      "level": 1001
+      "level": 1
     },
     "269505624326383": {
       "coin": 7774,
