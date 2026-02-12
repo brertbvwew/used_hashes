@@ -2475,20 +2475,21 @@
       "boughtplots": 25
     },
     "168419274039524": {
-      "coin": 5000,
+      "coin": 6000000000000000000,
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "spam": {
-        "lastMessage": 1769787843465,
+        "lastMessage": 1770880189212,
         "count": 1
       },
-      "xp": 200,
+      "xp": 22442480,
       "hasSentMsg": {
         "premium": true
       },
       "premium": true,
       "premiumUntil": 1772379809099,
-      "lastBuyPremium": 1769787809099
+      "lastBuyPremium": 1769787809099,
+      "level": 1001
     },
     "269505624326383": {
       "coin": 7774,
@@ -3111,5 +3112,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770879647596
+  "savedAt": 1770880191964
 }
