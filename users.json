@@ -1508,10 +1508,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 1245242058710,
+      "coin": 1245328955500,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 760,
+      "xp": 320,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1540,7 +1540,7 @@
         }
       ],
       "lastBuyXP": 1770662600429,
-      "level": 777,
+      "level": 779,
       "autolevelup": true,
       "premium": false,
       "premiumUntil": 0,
@@ -1548,7 +1548,7 @@
       "robbed": 759,
       "lastBuyCoin": 1770845403248,
       "spam": {
-        "lastMessage": 1770878379574,
+        "lastMessage": 1770884594782,
         "count": 1
       },
       "donated_total": 120000000,
@@ -1567,7 +1567,7 @@
       "lastRobBank": 1769707155581,
       "invPurchases": 3,
       "rpgwin": 750,
-      "rpgGather": 750,
+      "rpgGather": 751,
       "rpgtrades": 750,
       "rpgcrafted": 750,
       "rpgmonsterfight": 750,
@@ -1577,7 +1577,7 @@
       "pokemonviewcard": 750,
       "vipgameviewcard": 750,
       "weedcooked": 750,
-      "weedgather": 751,
+      "weedgather": 752,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1770557297863,
@@ -1594,7 +1594,7 @@
         "legendary": 1770582681766,
         "immortal": 1770582707676
       },
-      "received_total": 99999000,
+      "received_total": 199998000,
       "clanId": "ac5c8c",
       "club": {
         "level": 52,
@@ -1611,18 +1611,24 @@
       "lastRob": 1770582863925,
       "lastSpins": 1770663243451,
       "weedinventory": {
-        "Weed Leaf": 5,
-        "Rolling Paper": 3,
-        "Grinder Part": 1,
-        "Lighter": 3,
+        "Weed Leaf": 7,
+        "Rolling Paper": 7,
+        "Grinder Part": 2,
+        "Lighter": 4,
         "Seed": 1,
-        "Perlite": 1,
-        "Sativa Nug": 1,
+        "Perlite": 4,
+        "Sativa Nug": 6,
         "Edible": 2,
         "THC Crystal": 2,
-        "Rare Blue Strain": 3
+        "Rare Blue Strain": 5,
+        "Paper Crutch": 3,
+        "Metal Lid": 2,
+        "Water Pipe": 1,
+        "Compost": 3,
+        "Moon Rock": 1,
+        "Hydro Pot": 1
       },
-      "weedlastGather": 1770833640452,
+      "weedlastGather": 1770882446886,
       "lastBuyUnban": 1770837348518,
       "spacedrones": [
         {
@@ -1638,19 +1644,43 @@
           "level": 5
         },
         {
-          "level": 1
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
         },
         {
           "level": 1
@@ -1695,11 +1725,47 @@
           null,
           null,
           null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
       "banned": false,
-      "permanent": false
+      "permanent": false,
+      "spacestationlastPassiveIncome": 1770884584772,
+      "rpginventory": {
+        "Carrot": 1,
+        "Berries": 1,
+        "Stone": 3,
+        "Iron Shard": 1,
+        "Coconut": 1,
+        "Runestone": 2
+      },
+      "rpglastGather": 1770882456249,
+      "spaceinventory": {
+        "Scrap Metal": 2,
+        "Iron Ore": 1,
+        "Damaged Circuit": 2,
+        "Silicon Ore": 3,
+        "Copper Ore": 2,
+        "Copper Wire": 1,
+        "Biometric Data Pad": 1,
+        "Crystal Shard": 1,
+        "Quantum Chip": 1,
+        "Titanium Ore": 1,
+        "Advanced Sensor Array": 1,
+        "Quantum Processor": 1,
+        "Energy Cell": 1,
+        "Plasma Coils": 1
+      },
+      "spacelastSalvage": 1770882794383,
+      "spacesalvage": 1
     },
     "27618605148": {
       "coin": 5000,
@@ -3134,5 +3200,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770883247289
+  "savedAt": 1770884597424
 }
