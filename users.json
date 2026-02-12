@@ -516,10 +516,10 @@
       }
     },
     "148529213390986": {
-      "coin": 118686561,
+      "coin": 120686561,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 600,
+      "xp": 40,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -527,7 +527,7 @@
       },
       "invPurchases": 3,
       "winGame": 809,
-      "level": 774,
+      "level": 775,
       "robSuccess": 750,
       "robbed": 754,
       "rpgwin": 750,
@@ -602,7 +602,7 @@
       "StealSuccess": 2,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1770907970889,
+        "lastMessage": 1770908363504,
         "count": 1
       },
       "usedCoupons": [
@@ -661,6 +661,12 @@
             "name": "ACCESSORY T1",
             "type": "accessory",
             "power": 200,
+            "tier": 1
+          },
+          "18bb": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
             "tier": 1
           }
         }
@@ -3234,16 +3240,16 @@
       "createdAt": 1770733283679,
       "lastIncome": 1770744574490,
       "lastBattle": 0,
-      "lastMission": 1770907784300,
-      "lastAmbush": 1770907786853,
+      "lastMission": 1770908162168,
+      "lastAmbush": 1770908163452,
       "lastCollect": 1770744574490,
       "lastChallenge": 1770907557887,
-      "lastScavenge": 1770907785932,
+      "lastScavenge": 1770908160578,
       "lastResearch": 0,
       "upgrades": {
-        "defense": 8,
-        "attack": 9,
-        "vault": 11
+        "defense": 13,
+        "attack": 10,
+        "vault": 17
       },
       "perks": {
         "speed": 250,
@@ -3252,9 +3258,9 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 56329979481,
-      "glory": 3196,
-      "essence": 47,
+      "coin": 42894825734,
+      "glory": 3324,
+      "essence": 51,
       "roles": {
         "treasurer": "246179539501140",
         "warlord": null,
@@ -3266,8 +3272,8 @@
         "projectType": null
       },
       "maxMembers": 5,
-      "lastTrain": 1770735242284
+      "lastTrain": 1770908251973
     }
   },
-  "savedAt": 1770907973854
+  "savedAt": 1770908366358
 }
