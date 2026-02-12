@@ -901,14 +901,14 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 1254812254000,
+      "coin": 1254746754000,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1770889849753,
+        "lastMessage": 1770918124538,
         "count": 1
       },
-      "xp": 610,
+      "xp": 650,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
@@ -3147,7 +3147,7 @@
         "stealth": 100
       },
       "coin": 48917854419,
-      "glory": 21832,
+      "glory": 21857,
       "essence": 145,
       "roles": {
         "treasurer": "249216148455505",
@@ -3253,12 +3253,12 @@
       ],
       "createdAt": 1770733283679,
       "lastIncome": 1770744574490,
-      "lastBattle": 0,
-      "lastMission": 1770909044175,
-      "lastAmbush": 1770909044557,
+      "lastBattle": 1770918013358,
+      "lastMission": 1770918091652,
+      "lastAmbush": 1770918093168,
       "lastCollect": 1770744574490,
       "lastChallenge": 1770907557887,
-      "lastScavenge": 1770909044360,
+      "lastScavenge": 1770918094517,
       "lastResearch": 0,
       "upgrades": {
         "defense": 13,
@@ -3272,9 +3272,9 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 50939538075,
-      "glory": 3597,
-      "essence": 62,
+      "coin": 61675520680,
+      "glory": 4001,
+      "essence": 82,
       "roles": {
         "treasurer": "246179539501140",
         "warlord": null,
@@ -3289,5 +3289,5 @@
       "lastTrain": 1770908251973
     }
   },
-  "savedAt": 1770909254431
+  "savedAt": 1770918127089
 }
