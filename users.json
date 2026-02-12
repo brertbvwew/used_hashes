@@ -878,16 +878,16 @@
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1770880282285,
+        "lastMessage": 1770889849753,
         "count": 1
       },
-      "xp": 750,
+      "xp": 610,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
       "winGame": 821,
-      "level": 764,
+      "level": 765,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -938,9 +938,10 @@
       "lastBuyWin": 1770485555998,
       "hasSentMsg": {
         "admin": true,
-        "banned": true
+        "banned": true,
+        "owner": true
       },
-      "tokens": 35,
+      "tokens": 34,
       "lastBuyTokens": 1770412760749,
       "gear": {
         "equipped": {},
@@ -961,6 +962,24 @@
             "name": "ARMOR T1",
             "type": "armor",
             "power": 300,
+            "tier": 1
+          },
+          "90ca": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          },
+          "b566": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "1bd3": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
             "tier": 1
           }
         }
@@ -3210,5 +3229,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770889755715
+  "savedAt": 1770889851950
 }
