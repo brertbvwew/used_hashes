@@ -2756,19 +2756,19 @@
       "xp": 120
     },
     "246179539501140": {
-      "coin": 8006876755,
+      "coin": 50610376755,
       "uid": "559041e-30_b-nebula",
-      "username": "@bnno",
+      "username": "@its_to_coldd",
       "spam": {
-        "lastMessage": 1770745352557,
+        "lastMessage": 1770908544235,
         "count": 1
       },
-      "xp": 80,
+      "xp": 260,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
       "winGame": 750,
-      "level": 752,
+      "level": 754,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -2790,7 +2790,8 @@
       "clanId": "10cbff",
       "hasSentMsg": {
         "cooldown": true,
-        "premium": true
+        "premium": true,
+        "banned": true
       },
       "club": {
         "level": 96,
@@ -2803,6 +2804,19 @@
         },
         "lastRentCollected": 0,
         "upgradesBoughtSinceLevel": 0
+      },
+      "banned": false,
+      "permanent": false,
+      "gear": {
+        "equipped": {},
+        "inventory": {
+          "5f8c": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
+          }
+        }
       }
     },
     "27645319912": {
@@ -3275,5 +3289,5 @@
       "lastTrain": 1770908251973
     }
   },
-  "savedAt": 1770908366358
+  "savedAt": 1770908547136
 }
