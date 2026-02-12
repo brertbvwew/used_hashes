@@ -1508,10 +1508,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 1245328955500,
+      "coin": 1245330760090,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 320,
+      "xp": 710,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1548,8 +1548,8 @@
       "robbed": 759,
       "lastBuyCoin": 1770845403248,
       "spam": {
-        "lastMessage": 1770884594782,
-        "count": 1
+        "lastMessage": 1770888991260,
+        "count": 4
       },
       "donated_total": 120000000,
       "winGame": 751,
@@ -1567,17 +1567,17 @@
       "lastRobBank": 1769707155581,
       "invPurchases": 3,
       "rpgwin": 750,
-      "rpgGather": 751,
+      "rpgGather": 752,
       "rpgtrades": 750,
       "rpgcrafted": 750,
-      "rpgmonsterfight": 750,
+      "rpgmonsterfight": 751,
       "yugiohviewcard": 750,
       "onepiceviewcard": 750,
       "dragonballviewcard": 750,
       "pokemonviewcard": 750,
       "vipgameviewcard": 750,
       "weedcooked": 750,
-      "weedgather": 752,
+      "weedgather": 753,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1770557297863,
@@ -1611,24 +1611,26 @@
       "lastRob": 1770582863925,
       "lastSpins": 1770663243451,
       "weedinventory": {
-        "Weed Leaf": 7,
-        "Rolling Paper": 7,
-        "Grinder Part": 2,
+        "Weed Leaf": 10,
+        "Rolling Paper": 8,
+        "Grinder Part": 5,
         "Lighter": 4,
         "Seed": 1,
-        "Perlite": 4,
+        "Perlite": 5,
         "Sativa Nug": 6,
         "Edible": 2,
-        "THC Crystal": 2,
+        "THC Crystal": 3,
         "Rare Blue Strain": 5,
         "Paper Crutch": 3,
         "Metal Lid": 2,
-        "Water Pipe": 1,
-        "Compost": 3,
+        "Water Pipe": 4,
+        "Compost": 5,
         "Moon Rock": 1,
-        "Hydro Pot": 1
+        "Hydro Pot": 1,
+        "Ash": 5,
+        "Resin Chunk": 5
       },
-      "weedlastGather": 1770882446886,
+      "weedlastGather": 1770888988125,
       "lastBuyUnban": 1770837348518,
       "spacedrones": [
         {
@@ -1683,7 +1685,7 @@
           "level": 5
         },
         {
-          "level": 1
+          "level": 2
         },
         {
           "level": 1
@@ -1738,16 +1740,21 @@
       },
       "banned": false,
       "permanent": false,
-      "spacestationlastPassiveIncome": 1770884584772,
+      "spacestationlastPassiveIncome": 1770888974093,
       "rpginventory": {
-        "Carrot": 1,
+        "Carrot": 5,
         "Berries": 1,
-        "Stone": 3,
+        "Stone": 7,
         "Iron Shard": 1,
         "Coconut": 1,
-        "Runestone": 2
+        "Runestone": 3,
+        "Apple": 5,
+        "Banana": 2,
+        "Cabbage": 2,
+        "Goblin Ear": 1,
+        "Small Healing Potion": 2
       },
-      "rpglastGather": 1770882456249,
+      "rpglastGather": 1770888986385,
       "spaceinventory": {
         "Scrap Metal": 2,
         "Iron Ore": 1,
@@ -1765,7 +1772,10 @@
         "Plasma Coils": 1
       },
       "spacelastSalvage": 1770882794383,
-      "spacesalvage": 1
+      "spacesalvage": 1,
+      "rpgmonsterHealth": 173,
+      "rpglastFight": 1770888990592,
+      "rpghealth": 100
     },
     "27618605148": {
       "coin": 5000,
@@ -3200,5 +3210,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770884656879
+  "savedAt": 1770888993967
 }
