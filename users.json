@@ -317,10 +317,10 @@
       "clanId": "ac5c8c"
     },
     "254511792803874": {
-      "coin": 2218179636,
+      "coin": 1237667429636,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
-      "xp": 660,
+      "xp": 760,
       "invPurchases": 3,
       "winGame": 750,
       "level": 754,
@@ -498,7 +498,11 @@
         "Fusion Core": 1
       },
       "spacelastSalvage": 1767774631129,
-      "spacesalvage": 1
+      "spacesalvage": 1,
+      "spam": {
+        "lastMessage": 1770900814634,
+        "count": 1
+      }
     },
     "148529213390986": {
       "coin": 101686561,
@@ -3244,5 +3248,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770894273438
+  "savedAt": 1770900817082
 }
