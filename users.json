@@ -317,10 +317,10 @@
       "clanId": "ac5c8c"
     },
     "254511792803874": {
-      "coin": 1237667429636,
+      "coin": 1236167429636,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
-      "xp": 760,
+      "xp": 860,
       "invPurchases": 3,
       "winGame": 750,
       "level": 754,
@@ -500,8 +500,19 @@
       "spacelastSalvage": 1767774631129,
       "spacesalvage": 1,
       "spam": {
-        "lastMessage": 1770900814634,
+        "lastMessage": 1770900940380,
         "count": 1
+      },
+      "club": {
+        "level": 1,
+        "upgrades": {
+          "music": 0,
+          "djs": 0,
+          "security": 0,
+          "bikegang": 0,
+          "carfleet": 0
+        },
+        "lastRentCollected": 0
       }
     },
     "148529213390986": {
@@ -3248,5 +3259,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770900878499
+  "savedAt": 1770900942911
 }
