@@ -1856,14 +1856,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1980928631746,
+      "coin": 1978665181746,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770890428819,
+        "lastMessage": 1770890857183,
         "count": 1
       },
-      "xp": 50,
+      "xp": 530,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 936,
@@ -2588,7 +2588,22 @@
         ]
       },
       "boughtplots": 25,
-      "rpgmonsterHealth": 172
+      "rpgmonsterHealth": 172,
+      "inventory": [
+        "spacecolony",
+        "timecrystal",
+        "islandparadise",
+        "legendarypet",
+        "platinumbadge",
+        "robotassistant",
+        "goldenchest",
+        "supercar",
+        "privatejet",
+        "mansion",
+        "luxuryyacht",
+        "dragonpet",
+        "goldbadge"
+      ]
     },
     "168419274039524": {
       "coin": 6000000000000000000,
@@ -3229,5 +3244,5 @@
       "lastTrain": 1770735242284
     }
   },
-  "savedAt": 1770890431371
+  "savedAt": 1770890859906
 }
