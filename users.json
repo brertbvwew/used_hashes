@@ -1923,18 +1923,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 11308170542,
+      "coin": 11108170542,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770972654597,
-        "count": 1
+        "lastMessage": 1770972750247,
+        "count": 2
       },
-      "xp": 820,
+      "xp": 40,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 942,
-      "level": 872,
+      "level": 873,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2366,7 +2366,7 @@
         "lastRentCollected": 1770963376406,
         "upgradesBoughtSinceLevel": 1
       },
-      "donated_total": 900000000,
+      "donated_total": 1100000000,
       "lastRob": 1770324373183,
       "lastBuyWin": 1770412792468,
       "banned": false,
@@ -3206,7 +3206,7 @@
         "projectType": "income_boost"
       },
       "maxMembers": 5,
-      "lastTrain": 1770972550154,
+      "lastTrain": 1770972671915,
       "welcomeMessage": "Always the best when comparing to the weak"
     },
     "94483a": {
@@ -3334,5 +3334,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1770972655514
+  "savedAt": 1770972752286
 }
