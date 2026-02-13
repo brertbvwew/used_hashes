@@ -2789,19 +2789,19 @@
       "xp": 120
     },
     "246179539501140": {
-      "coin": 26613126492,
+      "coin": 667721018776,
       "uid": "559041e-30_b-nebula",
       "username": "@its_to_coldd",
       "spam": {
-        "lastMessage": 1770964948880,
+        "lastMessage": 1770968477497,
         "count": 2
       },
-      "xp": 960,
+      "xp": 490,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
-      "winGame": 752,
-      "level": 756,
+      "winGame": 753,
+      "level": 757,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -2854,7 +2854,9 @@
       "lastClaim": {
         "daily": 1770912006268
       },
-      "clublastRobTime": 1770964491389
+      "clublastRobTime": 1770968170949,
+      "lastSteal": 1770968140239,
+      "StealSuccess": 1
     },
     "27645319912": {
       "coin": 1000005000,
@@ -3165,7 +3167,7 @@
       "lastIncome": 1770874282119,
       "lastBattle": 1770734826289,
       "lastMission": 1770901224904,
-      "lastAmbush": 0,
+      "lastAmbush": 1770965638062,
       "lastCollect": 1770874282119,
       "lastChallenge": 1770844227815,
       "lastScavenge": 1770901253624,
@@ -3292,7 +3294,7 @@
       "lastIncome": 1770744574490,
       "lastBattle": 1770918013358,
       "lastMission": 1770960004667,
-      "lastAmbush": 1770918093168,
+      "lastAmbush": 1770966835719,
       "lastCollect": 1770744574490,
       "lastChallenge": 1770907557887,
       "lastScavenge": 1770959996965,
@@ -3309,7 +3311,7 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 6696958354,
+      "coin": 1056696958354,
       "glory": 4815,
       "essence": 21,
       "roles": {
@@ -3323,8 +3325,8 @@
         "projectType": "income_boost"
       },
       "maxMembers": 5,
-      "lastTrain": 1770908251973
+      "lastTrain": 1770965545182
     }
   },
-  "savedAt": 1770965100126
+  "savedAt": 1770968479383
 }
