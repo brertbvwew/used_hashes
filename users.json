@@ -1464,7 +1464,7 @@
       "coin": 145466227,
       "uid": "364664be-31_b-nebula",
       "username": "@dickridder_👅",
-      "xp": 150,
+      "xp": 190,
       "lastRansom": 1770580093556,
       "robSuccess": 41,
       "received_total": 144288000,
@@ -1494,7 +1494,7 @@
       },
       "robbed": 2,
       "spam": {
-        "lastMessage": 1770582165262,
+        "lastMessage": 1770972623984,
         "count": 1
       },
       "lastBlackjack": 1770580024710,
@@ -3180,7 +3180,7 @@
       "lastScavenge": 1770901253624,
       "lastResearch": 1770873714328,
       "upgrades": {
-        "defense": 16,
+        "defense": 17,
         "attack": 13,
         "vault": 20,
         "vault_storage": 50000000
@@ -3192,7 +3192,7 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 13506087152,
+      "coin": 367970087152,
       "glory": 21907,
       "essence": 45,
       "roles": {
@@ -3206,9 +3206,8 @@
         "projectType": "income_boost"
       },
       "maxMembers": 5,
-      "lastTrain": 1770845482205,
-      "welcomeMessage": "Always the best when comparing to the weak",
-      "tempPowerBoost": 10
+      "lastTrain": 1770972550154,
+      "welcomeMessage": "Always the best when comparing to the weak"
     },
     "94483a": {
       "name": "Rainzclan",
@@ -3335,5 +3334,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1770969877185
+  "savedAt": 1770972626740
 }
