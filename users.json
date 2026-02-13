@@ -2694,20 +2694,20 @@
       "level": 1
     },
     "269505624326383": {
-      "coin": 200016197,
+      "coin": 300015197,
       "uid": "f9f673c-33_b-nebula",
       "username": "@user_f9f673c-33",
       "spam": {
-        "lastMessage": 1770974260409,
+        "lastMessage": 1770974321475,
         "count": 1
       },
-      "xp": 30,
+      "xp": 70,
       "lastWork": 1770973473300,
       "workSuccess": 2,
       "lastBeg": 1770973489091,
       "begSuccess": 3,
       "robbed": 1,
-      "received_total": 199998000,
+      "received_total": 299997000,
       "usedCoupons": [
         {
           "hash": "aVlMSlU1Z1c6NjBhODMzNjk5OWZjZDI3NjM0MDNlYjNlNDM0Mjc4YzY6MTc3MDk3MzY3MzkyMjpDUDJidUc5aTozYjJlMzU1ZmY4MmFkMzE5ODBhNzg0OTg5Njk3MjI5OA==",
@@ -3350,5 +3350,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1770974269244
+  "savedAt": 1770974323763
 }
