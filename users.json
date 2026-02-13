@@ -2698,10 +2698,10 @@
       "uid": "f9f673c-33_b-nebula",
       "username": "@user_f9f673c-33",
       "spam": {
-        "lastMessage": 1770974827350,
+        "lastMessage": 1770975145522,
         "count": 1
       },
-      "xp": 230,
+      "xp": 250,
       "lastWork": 1770973473300,
       "workSuccess": 2,
       "lastBeg": 1770973489091,
@@ -3351,5 +3351,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1770974830101
+  "savedAt": 1770975148376
 }
