@@ -1461,10 +1461,10 @@
       }
     },
     "198449416917151": {
-      "coin": 145466227,
+      "coin": 145663519,
       "uid": "364664be-31_b-nebula",
       "username": "@dickridder_👅",
-      "xp": 190,
+      "xp": 290,
       "lastRansom": 1770580093556,
       "robSuccess": 41,
       "received_total": 144288000,
@@ -1490,11 +1490,11 @@
       "violations": 2,
       "lastFreelance": 1770582139012,
       "lastClaim": {
-        "daily": 1770579987186
+        "daily": 1770972658407
       },
-      "robbed": 2,
+      "robbed": 3,
       "spam": {
-        "lastMessage": 1770972623984,
+        "lastMessage": 1770974267140,
         "count": 1
       },
       "lastBlackjack": 1770580024710,
@@ -3350,5 +3350,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1770974262897
+  "savedAt": 1770974269244
 }
