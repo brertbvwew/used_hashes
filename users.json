@@ -2694,18 +2694,20 @@
       "level": 1
     },
     "269505624326383": {
-      "coin": 7774,
+      "coin": 200005050,
       "uid": "f9f673c-33_b-nebula",
       "username": "@user_f9f673c-33",
       "spam": {
-        "lastMessage": 1770672992523,
+        "lastMessage": 1770973364952,
         "count": 1
       },
-      "xp": 70,
-      "lastWork": 1770672900930,
+      "xp": 220,
+      "lastWork": 1770973045965,
       "workSuccess": 1,
-      "lastBeg": 1770672983731,
-      "begSuccess": 1
+      "lastBeg": 1770972988519,
+      "begSuccess": 2,
+      "robbed": 1,
+      "received_total": 199998000
     },
     "246098019020928": {
       "coin": 205000,
@@ -3334,5 +3336,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1770973336317
+  "savedAt": 1770973367710
 }
