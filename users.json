@@ -2789,14 +2789,14 @@
       "xp": 120
     },
     "246179539501140": {
-      "coin": 257740915824,
+      "coin": 26613126492,
       "uid": "559041e-30_b-nebula",
       "username": "@its_to_coldd",
       "spam": {
-        "lastMessage": 1770964520617,
+        "lastMessage": 1770964948880,
         "count": 2
       },
-      "xp": 780,
+      "xp": 960,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
@@ -2827,16 +2827,16 @@
         "banned": true
       },
       "club": {
-        "level": 99,
+        "level": 121,
         "upgrades": {
           "music": 130,
-          "djs": 29,
+          "djs": 93,
           "security": 61,
           "bikegang": 38,
           "carfleet": 38
         },
         "lastRentCollected": 1770964478787,
-        "upgradesBoughtSinceLevel": 2
+        "upgradesBoughtSinceLevel": 0
       },
       "banned": false,
       "permanent": false,
@@ -3326,5 +3326,5 @@
       "lastTrain": 1770908251973
     }
   },
-  "savedAt": 1770964947107
+  "savedAt": 1770964950747
 }
