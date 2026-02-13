@@ -950,16 +950,16 @@
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1771018961605,
-        "count": 4
+        "lastMessage": 1771019260799,
+        "count": 1
       },
-      "xp": 790,
+      "xp": 250,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
       "winGame": 821,
-      "level": 767,
+      "level": 768,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -3205,10 +3205,10 @@
       "createdAt": 1770245717447,
       "lastIncome": 1770969126179,
       "lastBattle": 1771018852624,
-      "lastMission": 1770901224904,
+      "lastMission": 1771019236852,
       "lastAmbush": 1771018946883,
       "lastCollect": 1770969126179,
-      "lastChallenge": 1770844227815,
+      "lastChallenge": 1771019170066,
       "lastScavenge": 1771018741215,
       "lastResearch": 1770873714328,
       "upgrades": {
@@ -3224,8 +3224,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 58428367656,
-      "glory": 22083,
+      "coin": 60883054913,
+      "glory": 23212,
       "essence": 67,
       "roles": {
         "treasurer": "249216148455505",
@@ -3238,7 +3238,7 @@
         "projectType": "income_boost"
       },
       "maxMembers": 5,
-      "lastTrain": 1771018941122,
+      "lastTrain": 1771019248812,
       "welcomeMessage": "Always the best when comparing to the weak",
       "tempPowerBoost": 10
     },
@@ -3367,5 +3367,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771018961992
+  "savedAt": 1771019262434
 }
