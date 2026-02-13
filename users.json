@@ -946,20 +946,20 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 1254746754000,
+      "coin": 1254759754000,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1770918124538,
-        "count": 1
+        "lastMessage": 1771018961605,
+        "count": 4
       },
-      "xp": 650,
+      "xp": 790,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
       "winGame": 821,
-      "level": 765,
+      "level": 767,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -3204,12 +3204,12 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1770969126179,
-      "lastBattle": 1770734826289,
+      "lastBattle": 1771018852624,
       "lastMission": 1770901224904,
-      "lastAmbush": 1770965638062,
+      "lastAmbush": 1771018946883,
       "lastCollect": 1770969126179,
       "lastChallenge": 1770844227815,
-      "lastScavenge": 1770901253624,
+      "lastScavenge": 1771018741215,
       "lastResearch": 1770873714328,
       "upgrades": {
         "defense": 18,
@@ -3224,9 +3224,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 58422780124,
-      "glory": 21907,
-      "essence": 45,
+      "coin": 58428367656,
+      "glory": 22083,
+      "essence": 67,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -3238,8 +3238,9 @@
         "projectType": "income_boost"
       },
       "maxMembers": 5,
-      "lastTrain": 1770972671915,
-      "welcomeMessage": "Always the best when comparing to the weak"
+      "lastTrain": 1771018941122,
+      "welcomeMessage": "Always the best when comparing to the weak",
+      "tempPowerBoost": 10
     },
     "94483a": {
       "name": "Rainzclan",
@@ -3350,7 +3351,7 @@
         "income": 500
       },
       "coin": 101849752986,
-      "glory": 8266,
+      "glory": 8416,
       "essence": 28,
       "roles": {
         "treasurer": "246179539501140",
@@ -3366,5 +3367,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771015723696
+  "savedAt": 1771018961992
 }
