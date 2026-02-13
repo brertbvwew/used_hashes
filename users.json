@@ -2698,10 +2698,10 @@
       "uid": "f9f673c-33_b-nebula",
       "username": "@user_f9f673c-33",
       "spam": {
-        "lastMessage": 1770974236589,
+        "lastMessage": 1770974260409,
         "count": 1
       },
-      "xp": 10,
+      "xp": 30,
       "lastWork": 1770973473300,
       "workSuccess": 2,
       "lastBeg": 1770973489091,
@@ -3314,8 +3314,8 @@
       ],
       "createdAt": 1770733283679,
       "lastIncome": 1770969720046,
-      "lastBattle": 1770974234504,
-      "lastMission": 1770974229723,
+      "lastBattle": 1770974257671,
+      "lastMission": 1770974248984,
       "lastAmbush": 1770966835719,
       "lastCollect": 1770969720046,
       "lastChallenge": 1770907557887,
@@ -3333,8 +3333,8 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 90892081048,
-      "glory": 6150,
+      "coin": 95439915152,
+      "glory": 6313,
       "essence": 28,
       "roles": {
         "treasurer": "246179539501140",
@@ -3350,5 +3350,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1770974242675
+  "savedAt": 1770974262897
 }
