@@ -2948,6 +2948,16 @@
       "lastMine": 1770582164015,
       "robbed": 2,
       "level": 1
+    },
+    "54348683972709": {
+      "coin": 5000,
+      "uid": "32400592-39_b-nebula",
+      "username": "@user_32400592-39",
+      "spam": {
+        "lastMessage": 1771015722595,
+        "count": 1
+      },
+      "xp": 60
     }
   },
   "clan": {
@@ -3324,7 +3334,7 @@
       "lastMission": 1770974718891,
       "lastAmbush": 1770986932073,
       "lastCollect": 1770969720046,
-      "lastChallenge": 1770907557887,
+      "lastChallenge": 1771011309464,
       "lastScavenge": 1770969846256,
       "lastResearch": 0,
       "upgrades": {
@@ -3339,8 +3349,8 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 101799752986,
-      "glory": 7266,
+      "coin": 101849752986,
+      "glory": 8266,
       "essence": 28,
       "roles": {
         "treasurer": "246179539501140",
@@ -3356,5 +3366,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771002107712
+  "savedAt": 1771015723696
 }
