@@ -1917,14 +1917,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1946796313348,
+      "coin": 1034643253619,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770968696344,
+        "lastMessage": 1770968792967,
         "count": 1
       },
-      "xp": 280,
+      "xp": 340,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 942,
@@ -2349,10 +2349,10 @@
       ],
       "lastBuyXP": 1770781031583,
       "club": {
-        "level": 132,
+        "level": 147,
         "upgrades": {
-          "music": 150,
-          "djs": 75,
+          "music": 170,
+          "djs": 100,
           "security": 70,
           "bikegang": 55,
           "carfleet": 45
@@ -3312,7 +3312,7 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 7762737151,
+      "coin": 532762737151,
       "glory": 4815,
       "essence": 21,
       "roles": {
@@ -3329,5 +3329,5 @@
       "lastTrain": 1770968634381
     }
   },
-  "savedAt": 1770968697393
+  "savedAt": 1770968793869
 }
