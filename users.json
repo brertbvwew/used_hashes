@@ -1917,14 +1917,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 3774672855998,
+      "coin": 1946796313348,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1770968618070,
+        "lastMessage": 1770968696344,
         "count": 1
       },
-      "xp": 100,
+      "xp": 280,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 942,
@@ -2349,16 +2349,16 @@
       ],
       "lastBuyXP": 1770781031583,
       "club": {
-        "level": 124,
+        "level": 132,
         "upgrades": {
           "music": 150,
           "djs": 75,
-          "security": 50,
-          "bikegang": 50,
+          "security": 70,
+          "bikegang": 55,
           "carfleet": 45
         },
         "lastRentCollected": 1770963376406,
-        "upgradesBoughtSinceLevel": 1
+        "upgradesBoughtSinceLevel": 2
       },
       "donated_total": 900000000,
       "lastRob": 1770324373183,
@@ -3187,7 +3187,7 @@
         "stealth": 100
       },
       "coin": 48917854419,
-      "glory": 21857,
+      "glory": 21907,
       "essence": 45,
       "roles": {
         "treasurer": "249216148455505",
@@ -3293,7 +3293,7 @@
       ],
       "createdAt": 1770733283679,
       "lastIncome": 1770744574490,
-      "lastBattle": 1770918013358,
+      "lastBattle": 1770968695048,
       "lastMission": 1770960004667,
       "lastAmbush": 1770966835719,
       "lastCollect": 1770744574490,
@@ -3326,8 +3326,8 @@
         "projectType": "income_boost"
       },
       "maxMembers": 5,
-      "lastTrain": 1770965545182
+      "lastTrain": 1770968634381
     }
   },
-  "savedAt": 1770968619171
+  "savedAt": 1770968697393
 }
