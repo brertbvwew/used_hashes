@@ -1599,10 +1599,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 1204675082,
+      "coin": 102299502385,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 450,
+      "xp": 740,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1612,7 +1612,7 @@
       },
       "lastTagAllTime": 1769705533260,
       "tagAllCount": 1,
-      "lastOwnerReport": 1768931266154,
+      "lastOwnerReport": 1771014754850,
       "usedCoupons": [
         {
           "hash": "am5yQVg5aHA6MDdhMzFiMjIwOWMxZDcwZjFkN2VmOGNlMGIxY2EzNWU6MTc2ODkzNjQzODQyNDpqZktGdUUxYTo5OTk0ZjkwMDAxNjEyZDI3ZWZhZDM3M2FlZDRjZGYxMw==",
@@ -1639,16 +1639,16 @@
       "robbed": 759,
       "lastBuyCoin": 1770928221706,
       "spam": {
-        "lastMessage": 1770975246706,
+        "lastMessage": 1771021551646,
         "count": 1
       },
       "donated_total": 120000000,
-      "winGame": 751,
+      "winGame": 752,
       "lastClean": 1770663269641,
       "lastWork": 1770662798274,
       "workSuccess": 4,
       "lastHack": 1770662853228,
-      "robSuccess": 757,
+      "robSuccess": 758,
       "lastBeg": 1770662942888,
       "begSuccess": 3,
       "lastDeliver": 1770663180005,
@@ -1699,7 +1699,7 @@
         "lastRentCollected": 1770939231285,
         "upgradesBoughtSinceLevel": 1
       },
-      "lastRob": 1770582863925,
+      "lastRob": 1771021440524,
       "lastSpins": 1770663243451,
       "weedinventory": {
         "Weed Leaf": 10,
@@ -1866,7 +1866,8 @@
       "spacesalvage": 1,
       "rpgmonsterHealth": 173,
       "rpglastFight": 1770888990592,
-      "rpghealth": 100
+      "rpghealth": 100,
+      "clublastRobTime": 1771021528265
     },
     "27618605148": {
       "coin": 5000,
@@ -3209,7 +3210,7 @@
       "lastAmbush": 1771018946883,
       "lastCollect": 1770969126179,
       "lastChallenge": 1771019170066,
-      "lastScavenge": 1771018741215,
+      "lastScavenge": 1771019278216,
       "lastResearch": 1770873714328,
       "upgrades": {
         "defense": 18,
@@ -3224,9 +3225,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 60883054913,
-      "glory": 23212,
-      "essence": 67,
+      "coin": 60883647012,
+      "glory": 23220,
+      "essence": 68,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -3238,7 +3239,7 @@
         "projectType": "income_boost"
       },
       "maxMembers": 5,
-      "lastTrain": 1771019248812,
+      "lastTrain": 1771019275964,
       "welcomeMessage": "Always the best when comparing to the weak",
       "tempPowerBoost": 10
     },
@@ -3367,5 +3368,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771019262434
+  "savedAt": 1771021555631
 }
