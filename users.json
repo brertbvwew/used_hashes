@@ -2694,14 +2694,14 @@
       "level": 1
     },
     "269505624326383": {
-      "coin": 200014479,
+      "coin": 200016197,
       "uid": "f9f673c-33_b-nebula",
       "username": "@user_f9f673c-33",
       "spam": {
-        "lastMessage": 1770974026572,
+        "lastMessage": 1770974236589,
         "count": 1
       },
-      "xp": 2910,
+      "xp": 10,
       "lastWork": 1770973473300,
       "workSuccess": 2,
       "lastBeg": 1770973489091,
@@ -2716,11 +2716,12 @@
         }
       ],
       "lastBuyXP": 1770973795642,
-      "level": 4,
+      "level": 7,
       "autolevelup": true,
       "lastRob": 1770974004144,
       "robSuccess": 2,
-      "lastHack": 1770974023279
+      "lastHack": 1770974023279,
+      "lastDeliver": 1770974199203
     },
     "246098019020928": {
       "coin": 205000,
@@ -3313,8 +3314,8 @@
       ],
       "createdAt": 1770733283679,
       "lastIncome": 1770969720046,
-      "lastBattle": 1770969829775,
-      "lastMission": 1770969840182,
+      "lastBattle": 1770974234504,
+      "lastMission": 1770974229723,
       "lastAmbush": 1770966835719,
       "lastCollect": 1770969720046,
       "lastChallenge": 1770907557887,
@@ -3332,8 +3333,8 @@
         "stealth": 100,
         "income": 500
       },
-      "coin": 83740228418,
-      "glory": 5605,
+      "coin": 90892081048,
+      "glory": 6150,
       "essence": 28,
       "roles": {
         "treasurer": "246179539501140",
@@ -3349,5 +3350,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1770974032604
+  "savedAt": 1770974242675
 }
