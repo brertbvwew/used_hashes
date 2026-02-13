@@ -516,10 +516,10 @@
       }
     },
     "148529213390986": {
-      "coin": 388595416,
+      "coin": 191725665966,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 540,
+      "xp": 770,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -527,9 +527,9 @@
         "banned": true
       },
       "invPurchases": 3,
-      "winGame": 810,
-      "level": 780,
-      "robSuccess": 750,
+      "winGame": 811,
+      "level": 781,
+      "robSuccess": 752,
       "robbed": 754,
       "rpgwin": 750,
       "rpgGather": 750,
@@ -599,11 +599,11 @@
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/552.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/552.png"
       },
-      "lastSteal": 1770734144347,
-      "StealSuccess": 2,
+      "lastSteal": 1770965915235,
+      "StealSuccess": 3,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1770965097800,
+        "lastMessage": 1770968487459,
         "count": 2
       },
       "usedCoupons": [
@@ -643,7 +643,7 @@
         "lastRentCollected": 1770964415927,
         "upgradesBoughtSinceLevel": 0
       },
-      "clublastRobTime": 1770964419003,
+      "clublastRobTime": 1770968099473,
       "clanId": "10cbff",
       "gear": {
         "equipped": {
@@ -703,7 +703,8 @@
         }
       },
       "banned": false,
-      "permanent": false
+      "permanent": false,
+      "lastRob": 1770968090158
     },
     "163638858006761": {
       "coin": 475980056,
@@ -3328,5 +3329,5 @@
       "lastTrain": 1770965545182
     }
   },
-  "savedAt": 1770968479383
+  "savedAt": 1770968489545
 }
