@@ -1427,11 +1427,11 @@
       "lastSpins": 1769357296454
     },
     "39969636786213": {
-      "coin": 10467200,
+      "coin": 10659921,
       "uid": "2a722a9b-33_b-nebula",
       "username": "@user_2a722a9b-33",
-      "xp": 710,
-      "robbed": 9,
+      "xp": 830,
+      "robbed": 12,
       "received_total": 9999000,
       "hasSentMsg": {
         "cooldown": true,
@@ -1454,14 +1454,14 @@
       "lastDeliver": 1767866830970,
       "lastDecrypt": 1767866849352,
       "spam": {
-        "lastMessage": 1770536839026,
+        "lastMessage": 1771081566147,
         "count": 1
       },
       "lastTagAllTime": 1769705393548,
       "tagAllCount": 1,
       "donated_total": 6000,
       "lastClaim": {
-        "daily": 1770536828759
+        "daily": 1771081553948
       }
     },
     "198449416917151": {
@@ -3371,5 +3371,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771081554062
+  "savedAt": 1771081568590
 }
