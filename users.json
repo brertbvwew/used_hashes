@@ -11,13 +11,13 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 559056360,
+      "coin": 566556360,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 980,
+      "xp": 220,
       "invPurchases": 3,
       "winGame": 797,
-      "level": 763,
+      "level": 764,
       "robSuccess": 750,
       "robbed": 753,
       "rpgwin": 750,
@@ -311,7 +311,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1771103331791,
+        "lastMessage": 1771105764229,
         "count": 1
       },
       "clanId": "ac5c8c",
@@ -3494,7 +3494,7 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1770969126179,
-      "lastBattle": 1771104724533,
+      "lastBattle": 1771105738305,
       "lastMission": 1771019236852,
       "lastAmbush": 1771094155904,
       "lastCollect": 1770969126179,
@@ -3515,7 +3515,7 @@
         "stealth": 100
       },
       "coin": 15640803899,
-      "glory": 23328,
+      "glory": 23478,
       "essence": 70,
       "roles": {
         "treasurer": "249216148455505",
@@ -3624,7 +3624,7 @@
       "lastMission": 1770974718891,
       "lastAmbush": 1770986932073,
       "lastCollect": 1770969720046,
-      "lastChallenge": 1771011309464,
+      "lastChallenge": 1771105728271,
       "lastScavenge": 1770969846256,
       "lastResearch": 1771073204056,
       "upgrades": {
@@ -3639,8 +3639,8 @@
         "stealth": 100,
         "income": 550
       },
-      "coin": 101849752986,
-      "glory": 8516,
+      "coin": 101899752986,
+      "glory": 9516,
       "essence": 28,
       "roles": {
         "treasurer": "246179539501140",
@@ -3656,5 +3656,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771105597708
+  "savedAt": 1771105766061
 }
