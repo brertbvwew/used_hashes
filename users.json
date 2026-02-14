@@ -516,10 +516,10 @@
       }
     },
     "148529213390986": {
-      "coin": 30744842275,
+      "coin": 30765842275,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 870,
+      "xp": 190,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -528,7 +528,7 @@
       },
       "invPurchases": 3,
       "winGame": 812,
-      "level": 792,
+      "level": 793,
       "robSuccess": 752,
       "robbed": 754,
       "rpgwin": 750,
@@ -603,7 +603,7 @@
       "StealSuccess": 3,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1771073212674,
+        "lastMessage": 1771093487440,
         "count": 1
       },
       "usedCoupons": [
@@ -3228,7 +3228,7 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 60883647013,
+      "coin": 61883647013,
       "glory": 23220,
       "essence": 68,
       "roles": {
@@ -3371,5 +3371,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771092924004
+  "savedAt": 1771093489145
 }
