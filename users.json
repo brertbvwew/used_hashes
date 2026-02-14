@@ -2993,10 +2993,10 @@
       "uid": "1250d17-30_b-nebula",
       "username": "@user_1250d17-30",
       "spam": {
-        "lastMessage": 1771099955593,
+        "lastMessage": 1771100264433,
         "count": 1
       },
-      "xp": 320,
+      "xp": 500,
       "invPurchases": 2,
       "winGame": 500,
       "level": 500,
@@ -3429,5 +3429,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771100108657
+  "savedAt": 1771100266361
 }
