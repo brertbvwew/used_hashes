@@ -1721,17 +1721,17 @@
       }
     },
     "230880849186992": {
-      "coin": 148394017728,
+      "coin": 355404208,
       "uid": "2a529a18-32_b-nebula",
       "username": "@𝑩𝒊𝒈𝑫𝒂𝒅𝒂",
       "spam": {
-        "lastMessage": 1771102823776,
+        "lastMessage": 1771110318344,
         "count": 1
       },
-      "xp": 840,
+      "xp": 260,
       "invPurchases": 3,
       "winGame": 751,
-      "level": 750,
+      "level": 751,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1756,18 +1756,19 @@
       "received_total": 99999000,
       "lastBuyCoin": 1771102596421,
       "club": {
-        "level": 2,
+        "level": 117,
         "upgrades": {
-          "music": 0,
-          "djs": 0,
-          "security": 0,
-          "bikegang": 0,
-          "carfleet": 4
+          "music": 140,
+          "djs": 75,
+          "security": 62,
+          "bikegang": 37,
+          "carfleet": 35
         },
         "lastRentCollected": 0,
         "upgradesBoughtSinceLevel": 1
       },
-      "clublastRobTime": 1771102813922
+      "clublastRobTime": 1771102813922,
+      "clanId": "ac5c8c"
     },
     "65198425669680": {
       "coin": 5000,
@@ -3589,7 +3590,8 @@
         "161328232681649",
         "114435796508833",
         "271627354902618",
-        "254511792803874"
+        "254511792803874",
+        "230880849186992"
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1771108057984,
@@ -3755,5 +3757,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771110236918
+  "savedAt": 1771110320609
 }
