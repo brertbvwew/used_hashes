@@ -519,7 +519,7 @@
       "coin": 30744842275,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 770,
+      "xp": 870,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -603,7 +603,7 @@
       "StealSuccess": 3,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1771071324612,
+        "lastMessage": 1771073212674,
         "count": 1
       },
       "usedCoupons": [
@@ -3337,7 +3337,7 @@
       "lastCollect": 1770969720046,
       "lastChallenge": 1771011309464,
       "lastScavenge": 1770969846256,
-      "lastResearch": 0,
+      "lastResearch": 1771073204056,
       "upgrades": {
         "defense": 20,
         "attack": 15,
@@ -3348,7 +3348,7 @@
         "attack": 500,
         "defense": 500,
         "stealth": 100,
-        "income": 500
+        "income": 550
       },
       "coin": 101849752986,
       "glory": 8416,
@@ -3359,13 +3359,13 @@
         "spy": null
       },
       "research": {
-        "project": "income_boost",
-        "eta": 1771002704849,
-        "projectType": "income_boost"
+        "project": null,
+        "eta": 0,
+        "projectType": null
       },
       "maxMembers": 5,
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771071326929
+  "savedAt": 1771073214503
 }
