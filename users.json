@@ -3055,13 +3055,13 @@
       "uid": "2910ff4a-34_b-nebula",
       "username": "@user_2910ff4a-34",
       "spam": {
-        "lastMessage": 1771101270600,
+        "lastMessage": 1771101424105,
         "count": 1
       },
-      "xp": 200,
+      "xp": 390,
       "lastOwnerReport": 1771091597719,
       "invPurchases": 1,
-      "winGame": 250,
+      "winGame": 251,
       "level": 250,
       "robSuccess": 250,
       "robbed": 250,
@@ -3073,14 +3073,49 @@
       "yugiohviewcard": 250,
       "onepiceviewcard": 250,
       "dragonballviewcard": 250,
-      "pokemonviewcard": 250,
+      "pokemonviewcard": 251,
       "vipgameviewcard": 250,
       "weedcooked": 250,
       "weedgather": 250,
       "weedsell": 250,
       "weedtrades": 250,
       "lastAddInv": 1771101222707,
-      "lastBulkInv": 1771101222707
+      "lastBulkInv": 1771101222707,
+      "lastPokemon": {
+        "id": 178,
+        "name": "xatu",
+        "stats": [
+          {
+            "name": "hp",
+            "value": 65
+          },
+          {
+            "name": "attack",
+            "value": 75
+          },
+          {
+            "name": "defense",
+            "value": 70
+          },
+          {
+            "name": "special-attack",
+            "value": 95
+          },
+          {
+            "name": "special-defense",
+            "value": 70
+          },
+          {
+            "name": "speed",
+            "value": 95
+          }
+        ],
+        "isLegendary": false,
+        "isMythical": false,
+        "isStarter": false,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/178.png"
+      }
     }
   },
   "clan": {
@@ -3489,5 +3524,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771101317802
+  "savedAt": 1771101425732
 }
