@@ -11,10 +11,10 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 9690641732,
+      "coin": 559056360,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 880,
+      "xp": 980,
       "invPurchases": 3,
       "winGame": 797,
       "level": 763,
@@ -311,7 +311,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1771103228770,
+        "lastMessage": 1771103331791,
         "count": 1
       },
       "clanId": "ac5c8c",
@@ -322,9 +322,9 @@
       "helperGauge": 0,
       "donated_total": 100000000,
       "club": {
-        "level": 86,
+        "level": 134,
         "upgrades": {
-          "music": 0,
+          "music": 144,
           "djs": 100,
           "security": 62,
           "bikegang": 50,
@@ -3452,7 +3452,7 @@
         "projectType": null
       },
       "maxMembers": 7,
-      "lastTrain": 1771099864959,
+      "lastTrain": 1771103307709,
       "welcomeMessage": "Always the best when comparing to the weak"
     },
     "94483a": {
@@ -3580,5 +3580,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771103239615
+  "savedAt": 1771103333322
 }
