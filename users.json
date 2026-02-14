@@ -2831,35 +2831,35 @@
       "robSuccess": 1
     },
     "66701597106413": {
-      "coin": 500005000,
+      "coin": 1000005000,
       "uid": "eb43751-33_b-nebula",
       "username": "@Xx_🎅©|S^A∆N∆T^A|®❄️_xX",
       "spam": {
-        "lastMessage": 1771101070419,
+        "lastMessage": 1771101264980,
         "count": 1
       },
-      "xp": 140,
-      "invPurchases": 1,
-      "winGame": 250,
-      "level": 250,
-      "robSuccess": 250,
-      "robbed": 250,
-      "rpgwin": 250,
-      "rpgGather": 250,
-      "rpgtrades": 250,
-      "rpgcrafted": 250,
-      "rpgmonsterfight": 250,
-      "yugiohviewcard": 250,
-      "onepiceviewcard": 250,
-      "dragonballviewcard": 250,
-      "pokemonviewcard": 250,
-      "vipgameviewcard": 250,
-      "weedcooked": 250,
-      "weedgather": 250,
-      "weedsell": 250,
-      "weedtrades": 250,
-      "lastAddInv": 1771100868670,
-      "lastBulkInv": 1771100868670
+      "xp": 220,
+      "invPurchases": 2,
+      "winGame": 500,
+      "level": 500,
+      "robSuccess": 500,
+      "robbed": 500,
+      "rpgwin": 500,
+      "rpgGather": 500,
+      "rpgtrades": 500,
+      "rpgcrafted": 500,
+      "rpgmonsterfight": 500,
+      "yugiohviewcard": 500,
+      "onepiceviewcard": 500,
+      "dragonballviewcard": 500,
+      "pokemonviewcard": 500,
+      "vipgameviewcard": 500,
+      "weedcooked": 500,
+      "weedgather": 500,
+      "weedsell": 500,
+      "weedtrades": 500,
+      "lastAddInv": 1771101238875,
+      "lastBulkInv": 1771101238875
     },
     "173534512988169": {
       "coin": 5000,
@@ -3454,5 +3454,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771101072289
+  "savedAt": 1771101266704
 }
