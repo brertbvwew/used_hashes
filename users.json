@@ -337,13 +337,13 @@
       "clublastRobTime": 1771106061919
     },
     "254511792803874": {
-      "coin": 1104758359753,
+      "coin": 1104803327344,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
-      "xp": 860,
+      "xp": 40,
       "invPurchases": 3,
-      "winGame": 750,
-      "level": 761,
+      "winGame": 751,
+      "level": 762,
       "robSuccess": 762,
       "robbed": 754,
       "rpgwin": 750,
@@ -520,7 +520,7 @@
       "spacelastSalvage": 1767774631129,
       "spacesalvage": 1,
       "spam": {
-        "lastMessage": 1771105221290,
+        "lastMessage": 1771110236061,
         "count": 1
       },
       "club": {
@@ -542,7 +542,8 @@
           "time": 1771105153097
         }
       ],
-      "lastBuyXP": 1771105153097
+      "lastBuyXP": 1771105153097,
+      "clublastRobTime": 1771110148158
     },
     "148529213390986": {
       "coin": 737359446,
@@ -3592,7 +3593,7 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1771108057984,
-      "lastBattle": 1771107036569,
+      "lastBattle": 1771110217252,
       "lastMission": 1771106021145,
       "lastAmbush": 1771105875118,
       "lastCollect": 1771108057984,
@@ -3613,7 +3614,7 @@
         "stealth": 100
       },
       "coin": 759297411137,
-      "glory": 24859,
+      "glory": 25909,
       "essence": 75,
       "roles": {
         "treasurer": "249216148455505",
@@ -3627,8 +3628,7 @@
       },
       "maxMembers": 12,
       "lastTrain": 1771107045835,
-      "welcomeMessage": "Always the best when comparing to the weak",
-      "tempPowerBoost": 10
+      "welcomeMessage": "Always the best when comparing to the weak"
     },
     "94483a": {
       "name": "Rainzclan",
@@ -3755,5 +3755,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771109531000
+  "savedAt": 1771110236918
 }
