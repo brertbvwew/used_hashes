@@ -11,12 +11,12 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 566556360,
+      "coin": 911466708,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 220,
+      "xp": 440,
       "invPurchases": 3,
-      "winGame": 797,
+      "winGame": 798,
       "level": 764,
       "robSuccess": 750,
       "robbed": 753,
@@ -311,7 +311,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1771105764229,
+        "lastMessage": 1771106072784,
         "count": 1
       },
       "clanId": "ac5c8c",
@@ -334,7 +334,7 @@
         "upgradesBoughtSinceLevel": 1
       },
       "lastBuyCoin": 1771102128867,
-      "clublastRobTime": 1771102437490
+      "clublastRobTime": 1771106061919
     },
     "254511792803874": {
       "coin": 1104758359753,
@@ -3494,11 +3494,11 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1770969126179,
-      "lastBattle": 1771105738305,
-      "lastMission": 1771019236852,
-      "lastAmbush": 1771094155904,
+      "lastBattle": 1771106073165,
+      "lastMission": 1771106021145,
+      "lastAmbush": 1771105875118,
       "lastCollect": 1770969126179,
-      "lastChallenge": 1771019170066,
+      "lastChallenge": 1771105976190,
       "lastScavenge": 1771099883903,
       "lastResearch": 1771092913734,
       "upgrades": {
@@ -3514,8 +3514,8 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 15640803899,
-      "glory": 23478,
+      "coin": 17295851713,
+      "glory": 24647,
       "essence": 70,
       "roles": {
         "treasurer": "249216148455505",
@@ -3528,7 +3528,7 @@
         "projectType": null
       },
       "maxMembers": 11,
-      "lastTrain": 1771103385534,
+      "lastTrain": 1771105837741,
       "welcomeMessage": "Always the best when comparing to the weak"
     },
     "94483a": {
@@ -3620,12 +3620,12 @@
       ],
       "createdAt": 1770733283679,
       "lastIncome": 1770969720046,
-      "lastBattle": 1770986930527,
-      "lastMission": 1770974718891,
+      "lastBattle": 1771105874317,
+      "lastMission": 1771106060782,
       "lastAmbush": 1770986932073,
       "lastCollect": 1770969720046,
       "lastChallenge": 1771105728271,
-      "lastScavenge": 1770969846256,
+      "lastScavenge": 1771106064053,
       "lastResearch": 1771073204056,
       "upgrades": {
         "defense": 20,
@@ -3639,9 +3639,9 @@
         "stealth": 100,
         "income": 550
       },
-      "coin": 101899752986,
-      "glory": 9516,
-      "essence": 28,
+      "coin": 114965943007,
+      "glory": 9831,
+      "essence": 31,
       "roles": {
         "treasurer": "246179539501140",
         "warlord": null,
@@ -3656,5 +3656,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771105766061
+  "savedAt": 1771106075115
 }
