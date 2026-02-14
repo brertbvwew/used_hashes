@@ -2095,18 +2095,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1017379219626,
+      "coin": 1017379219625,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771108382173,
+        "lastMessage": 1771108434072,
         "count": 1
       },
-      "xp": 5650,
+      "xp": 3690,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 948,
-      "level": 896,
+      "level": 898,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -3598,7 +3598,7 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 537297411136,
+      "coin": 759297411137,
       "glory": 24859,
       "essence": 75,
       "roles": {
@@ -3741,5 +3741,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771108384087
+  "savedAt": 1771108435592
 }
