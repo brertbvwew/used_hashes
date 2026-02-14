@@ -950,20 +950,20 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 1254759754000,
+      "coin": 1576887504000,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1771019260799,
+        "lastMessage": 1771098758042,
         "count": 1
       },
-      "xp": 250,
+      "xp": 490,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
-      "winGame": 821,
-      "level": 768,
+      "winGame": 823,
+      "level": 769,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -974,7 +974,7 @@
       "yugiohviewcard": 750,
       "onepiceviewcard": 750,
       "dragonballviewcard": 750,
-      "pokemonviewcard": 761,
+      "pokemonviewcard": 763,
       "vipgameviewcard": 750,
       "weedcooked": 750,
       "weedgather": 750,
@@ -1062,16 +1062,16 @@
       },
       "lastBuyUnban": 1770413730574,
       "lastPokemon": {
-        "id": 287,
-        "name": "slakoth",
+        "id": 336,
+        "name": "seviper",
         "stats": [
           {
             "name": "hp",
-            "value": 60
+            "value": 73
           },
           {
             "name": "attack",
-            "value": 60
+            "value": 100
           },
           {
             "name": "defense",
@@ -1079,22 +1079,22 @@
           },
           {
             "name": "special-attack",
-            "value": 35
+            "value": 100
           },
           {
             "name": "special-defense",
-            "value": 35
+            "value": 60
           },
           {
             "name": "speed",
-            "value": 30
+            "value": 65
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/287.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/287.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/336.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/336.png"
       },
       "lastOwnerReport": 1770487113707,
       "banned": false,
@@ -3376,5 +3376,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771098700588
+  "savedAt": 1771098760183
 }
