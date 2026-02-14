@@ -1934,14 +1934,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 563448567595,
+      "coin": 513447067595,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771098770956,
+        "lastMessage": 1771098877762,
         "count": 1
       },
-      "xp": 790,
+      "xp": 890,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 947,
@@ -3213,7 +3213,7 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1770969126179,
-      "lastBattle": 1771018852624,
+      "lastBattle": 1771098838930,
       "lastMission": 1771019236852,
       "lastAmbush": 1771094155904,
       "lastCollect": 1770969126179,
@@ -3221,8 +3221,8 @@
       "lastScavenge": 1771019278216,
       "lastResearch": 1771092913734,
       "upgrades": {
-        "defense": 18,
-        "attack": 13,
+        "defense": 20,
+        "attack": 15,
         "vault": 22,
         "vault_storage": 50000000
       },
@@ -3233,7 +3233,7 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 1531883647013,
+      "coin": 15640684336,
       "glory": 23220,
       "essence": 68,
       "roles": {
@@ -3247,9 +3247,8 @@
         "projectType": null
       },
       "maxMembers": 6,
-      "lastTrain": 1771094142903,
-      "welcomeMessage": "Always the best when comparing to the weak",
-      "tempPowerBoost": 10
+      "lastTrain": 1771098835141,
+      "welcomeMessage": "Always the best when comparing to the weak"
     },
     "94483a": {
       "name": "Rainzclan",
@@ -3360,7 +3359,7 @@
         "income": 550
       },
       "coin": 101849752986,
-      "glory": 8416,
+      "glory": 8441,
       "essence": 28,
       "roles": {
         "treasurer": "246179539501140",
@@ -3376,5 +3375,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771098772680
+  "savedAt": 1771098879383
 }
