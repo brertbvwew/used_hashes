@@ -2683,22 +2683,22 @@
       ]
     },
     "168419274039524": {
-      "coin": 6000,
+      "coin": 1000000000,
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "spam": {
         "lastMessage": 1771076260212,
         "count": 1
       },
-      "xp": 22385640,
+      "xp": 20,
       "hasSentMsg": {
-        "premium": true,
-        "banned": true
+        "premium": false,
+        "banned": false
       },
       "premium": true,
-      "premiumUntil": 1772379809099,
+      "premiumUntil": 3093500289381,
       "lastBuyPremium": 1769787809099,
-      "level": 59,
+      "level": 700,
       "banned": false,
       "permanent": false
     },
