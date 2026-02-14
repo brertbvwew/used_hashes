@@ -966,19 +966,19 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 915539664478,
+      "coin": 1059937592865,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1771104083913,
+        "lastMessage": 1771104143705,
         "count": 1
       },
-      "xp": 550,
+      "xp": 610,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
-      "winGame": 823,
+      "winGame": 824,
       "level": 809,
       "robSuccess": 750,
       "robbed": 750,
@@ -1157,7 +1157,8 @@
         },
         "lastRentCollected": 0,
         "upgradesBoughtSinceLevel": 1
-      }
+      },
+      "clublastRobTime": 1771104097112
     },
     "93939944173798": {
       "coin": 1923461,
@@ -3582,5 +3583,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771104091792
+  "savedAt": 1771104145552
 }
