@@ -965,20 +965,20 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 1219270398612,
+      "coin": 1024195477092,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1771102618149,
+        "lastMessage": 1771103915575,
         "count": 1
       },
-      "xp": 6210,
+      "xp": 490,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
       "winGame": 823,
-      "level": 803,
+      "level": 809,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1146,16 +1146,16 @@
       "permanent": false,
       "received_total": 99999000,
       "club": {
-        "level": 4,
+        "level": 126,
         "upgrades": {
-          "music": 0,
-          "djs": 0,
-          "security": 10,
-          "bikegang": 0,
-          "carfleet": 0
+          "music": 170,
+          "djs": 75,
+          "security": 60,
+          "bikegang": 40,
+          "carfleet": 30
         },
         "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 1
+        "upgradesBoughtSinceLevel": 0
       }
     },
     "93939944173798": {
@@ -3452,7 +3452,7 @@
         "eta": 0,
         "projectType": null
       },
-      "maxMembers": 8,
+      "maxMembers": 9,
       "lastTrain": 1771103385534,
       "welcomeMessage": "Always the best when comparing to the weak"
     },
@@ -3581,5 +3581,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771103690793
+  "savedAt": 1771103917489
 }
