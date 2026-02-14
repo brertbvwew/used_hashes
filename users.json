@@ -3252,17 +3252,17 @@
       "clanId": "ac5c8c"
     },
     "161328232681649": {
-      "coin": 82223837235,
+      "coin": 425357332180,
       "uid": "7c1202a-39_b-nebula",
       "username": "@𝑹𝒂𝒊𝒏𝒃𝒆𝒂𝒓",
       "spam": {
-        "lastMessage": 1771108251517,
+        "lastMessage": 1771108483855,
         "count": 1
       },
-      "xp": 980,
+      "xp": 60,
       "invPurchases": 3,
-      "winGame": 750,
-      "level": 750,
+      "winGame": 751,
+      "level": 751,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -3296,7 +3296,8 @@
         },
         "lastRentCollected": 1771108232471,
         "upgradesBoughtSinceLevel": 2
-      }
+      },
+      "clublastRobTime": 1771108471626
     },
     "271627354902618": {
       "coin": 1000005000,
@@ -3741,5 +3742,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771108435592
+  "savedAt": 1771108486291
 }
