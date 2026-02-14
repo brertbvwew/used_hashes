@@ -3187,12 +3187,12 @@
     "161328232681649": {
       "coin": 500005000,
       "uid": "7c1202a-39_b-nebula",
-      "username": "@user_7c1202a-39",
+      "username": "@𝑹𝒂𝒊𝒏𝒃𝒆𝒂𝒓",
       "spam": {
-        "lastMessage": 1771105408374,
+        "lastMessage": 1771105441940,
         "count": 1
       },
-      "xp": 140,
+      "xp": 180,
       "invPurchases": 1,
       "winGame": 250,
       "level": 250,
@@ -3587,7 +3587,7 @@
       "createdAt": 1770733283679,
       "lastIncome": 1770969720046,
       "lastBattle": 1770986930527,
-      "lastMission": 1771105371982,
+      "lastMission": 1770974718891,
       "lastAmbush": 1770986932073,
       "lastCollect": 1770969720046,
       "lastChallenge": 1771011309464,
@@ -3605,8 +3605,8 @@
         "stealth": 100,
         "income": 550
       },
-      "coin": 104071861056,
-      "glory": 8546,
+      "coin": 101849752986,
+      "glory": 8516,
       "essence": 28,
       "roles": {
         "treasurer": "246179539501140",
@@ -3622,5 +3622,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771105409900
+  "savedAt": 1771105443694
 }
