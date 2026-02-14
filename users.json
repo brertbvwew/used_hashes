@@ -1764,10 +1764,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 643188521836,
+      "coin": 892423521836,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 500,
+      "xp": 540,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1804,7 +1804,7 @@
       "robbed": 759,
       "lastBuyCoin": 1771057072829,
       "spam": {
-        "lastMessage": 1771105596205,
+        "lastMessage": 1771107279578,
         "count": 1
       },
       "donated_total": 120000000,
@@ -3727,5 +3727,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771107262266
+  "savedAt": 1771107281354
 }
