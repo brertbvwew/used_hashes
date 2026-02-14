@@ -1938,10 +1938,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771092921874,
+        "lastMessage": 1771094974391,
         "count": 1
       },
-      "xp": 540,
+      "xp": 580,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 945,
@@ -3246,7 +3246,7 @@
         "eta": 0,
         "projectType": null
       },
-      "maxMembers": 5,
+      "maxMembers": 6,
       "lastTrain": 1771094142903,
       "welcomeMessage": "Always the best when comparing to the weak",
       "tempPowerBoost": 10
@@ -3376,5 +3376,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771094158967
+  "savedAt": 1771094976533
 }
