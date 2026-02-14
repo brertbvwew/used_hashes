@@ -1653,18 +1653,18 @@
       "level": 1
     },
     "114435796508833": {
-      "coin": 12625409980,
+      "coin": 275880494,
       "received_total": 99999000,
       "uid": "1f26dc08-33_b-nebula",
       "username": "@user_1f26dc08-33",
       "spam": {
-        "lastMessage": 1771109148074,
+        "lastMessage": 1771109358235,
         "count": 1
       },
-      "xp": 960,
+      "xp": 200,
       "invPurchases": 3,
       "winGame": 765,
-      "level": 757,
+      "level": 758,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1707,16 +1707,16 @@
       "clanId": "ac5c8c",
       "donated_total": 100000000,
       "club": {
-        "level": 54,
+        "level": 94,
         "upgrades": {
           "music": 100,
-          "djs": 0,
+          "djs": 50,
           "security": 60,
-          "bikegang": 0,
-          "carfleet": 0
+          "bikegang": 37,
+          "carfleet": 34
         },
         "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 1
+        "upgradesBoughtSinceLevel": 2
       }
     },
     "230880849186992": {
@@ -3755,5 +3755,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771109149298
+  "savedAt": 1771109359810
 }
