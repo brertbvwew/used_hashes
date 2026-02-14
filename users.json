@@ -337,13 +337,13 @@
       "clublastRobTime": 1771102437490
     },
     "254511792803874": {
-      "coin": 1236167429636,
+      "coin": 1104756859753,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
-      "xp": 860,
+      "xp": 120,
       "invPurchases": 3,
       "winGame": 750,
-      "level": 754,
+      "level": 755,
       "robSuccess": 762,
       "robbed": 754,
       "rpgwin": 750,
@@ -520,19 +520,20 @@
       "spacelastSalvage": 1767774631129,
       "spacesalvage": 1,
       "spam": {
-        "lastMessage": 1770900940380,
+        "lastMessage": 1771104090671,
         "count": 1
       },
       "club": {
-        "level": 1,
+        "level": 122,
         "upgrades": {
-          "music": 0,
-          "djs": 0,
-          "security": 0,
-          "bikegang": 0,
-          "carfleet": 0
+          "music": 170,
+          "djs": 75,
+          "security": 50,
+          "bikegang": 40,
+          "carfleet": 30
         },
-        "lastRentCollected": 0
+        "lastRentCollected": 0,
+        "upgradesBoughtSinceLevel": 2
       }
     },
     "148529213390986": {
@@ -3581,5 +3582,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771104085341
+  "savedAt": 1771104091792
 }
