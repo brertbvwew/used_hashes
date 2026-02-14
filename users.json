@@ -2687,17 +2687,20 @@
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "spam": {
-        "lastMessage": 1770880189212,
+        "lastMessage": 1771076260212,
         "count": 1
       },
-      "xp": 22442480,
+      "xp": 22385640,
       "hasSentMsg": {
-        "premium": true
+        "premium": true,
+        "banned": true
       },
       "premium": true,
       "premiumUntil": 1772379809099,
       "lastBuyPremium": 1769787809099,
-      "level": 1
+      "level": 59,
+      "banned": false,
+      "permanent": false
     },
     "269505624326383": {
       "coin": 300029147,
@@ -3368,5 +3371,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771075201112
+  "savedAt": 1771076263437
 }
