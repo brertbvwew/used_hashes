@@ -1934,17 +1934,17 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1299378534143,
+      "coin": 1963448567595,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771094974391,
+        "lastMessage": 1771098698864,
         "count": 1
       },
-      "xp": 580,
+      "xp": 750,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 945,
+      "winGame": 947,
       "level": 873,
       "robSuccess": 751,
       "robbed": 751,
@@ -1956,7 +1956,7 @@
       "yugiohviewcard": 751,
       "onepiceviewcard": 751,
       "dragonballviewcard": 751,
-      "pokemonviewcard": 878,
+      "pokemonviewcard": 879,
       "vipgameviewcard": 751,
       "weedcooked": 750,
       "weedgather": 755,
@@ -2259,16 +2259,16 @@
         "cost": 46591
       },
       "lastPokemon": {
-        "id": 853,
-        "name": "grapploct",
+        "id": 930,
+        "name": "arboliva",
         "stats": [
           {
             "name": "hp",
-            "value": 80
+            "value": 78
           },
           {
             "name": "attack",
-            "value": 118
+            "value": 69
           },
           {
             "name": "defense",
@@ -2276,22 +2276,22 @@
           },
           {
             "name": "special-attack",
-            "value": 70
+            "value": 125
           },
           {
             "name": "special-defense",
-            "value": 80
+            "value": 109
           },
           {
             "name": "speed",
-            "value": 42
+            "value": 39
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/853.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/853.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/930.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/930.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2388,7 +2388,7 @@
       "helperLevel": 1,
       "helperGauge": 0,
       "lastXvideoDl": 1770487037507,
-      "clublastRobTime": 1771092549447,
+      "clublastRobTime": 1771098682662,
       "tokens": 3,
       "lastBuyTokens": 1770504670805,
       "lastBuyUnban": 1770958966907,
@@ -3376,5 +3376,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771094976533
+  "savedAt": 1771098700588
 }
