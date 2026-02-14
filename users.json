@@ -2850,14 +2850,14 @@
       "robSuccess": 1
     },
     "66701597106413": {
-      "coin": 816436947148,
+      "coin": 459478636335,
       "uid": "eb43751-33_b-nebula",
       "username": "@Xx_🎅©|S^A∆N∆T^A|®❄️_xX",
       "spam": {
-        "lastMessage": 1771101903361,
+        "lastMessage": 1771102611559,
         "count": 1
       },
-      "xp": 520,
+      "xp": 820,
       "invPurchases": 3,
       "winGame": 751,
       "level": 750,
@@ -2881,16 +2881,16 @@
       "lastBulkInv": 1771101650203,
       "clanId": "ac5c8c",
       "club": {
-        "level": 12,
+        "level": 132,
         "upgrades": {
-          "music": 0,
-          "djs": 0,
-          "security": 0,
-          "bikegang": 0,
-          "carfleet": 33
+          "music": 175,
+          "djs": 80,
+          "security": 55,
+          "bikegang": 45,
+          "carfleet": 40
         },
-        "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 0
+        "lastRentCollected": 1771102602258,
+        "upgradesBoughtSinceLevel": 2
       },
       "clublastRobTime": 1771101894750
     },
@@ -3554,5 +3554,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771102458693
+  "savedAt": 1771102613523
 }
