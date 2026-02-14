@@ -3217,6 +3217,37 @@
       "hasSentMsg": {
         "cooldown": true
       }
+    },
+    "271627354902618": {
+      "coin": 1000005000,
+      "uid": "89e2e64-38_b-nebula",
+      "username": "@Dædygløçk",
+      "spam": {
+        "lastMessage": 1771105488040,
+        "count": 1
+      },
+      "xp": 80,
+      "invPurchases": 2,
+      "winGame": 500,
+      "level": 500,
+      "robSuccess": 500,
+      "robbed": 500,
+      "rpgwin": 500,
+      "rpgGather": 500,
+      "rpgtrades": 500,
+      "rpgcrafted": 500,
+      "rpgmonsterfight": 500,
+      "yugiohviewcard": 500,
+      "onepiceviewcard": 500,
+      "dragonballviewcard": 500,
+      "pokemonviewcard": 500,
+      "vipgameviewcard": 500,
+      "weedcooked": 500,
+      "weedgather": 500,
+      "weedsell": 500,
+      "weedtrades": 500,
+      "lastAddInv": 1771105443282,
+      "lastBulkInv": 1771105443282
     }
   },
   "clan": {
@@ -3625,5 +3656,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771105470419
+  "savedAt": 1771105490095
 }
