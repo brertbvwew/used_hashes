@@ -1465,46 +1465,47 @@
       }
     },
     "198449416917151": {
-      "coin": 145663519,
+      "coin": 255926670,
       "uid": "364664be-31_b-nebula",
       "username": "@dickridder_👅",
-      "xp": 290,
+      "xp": 920,
       "lastRansom": 1770580093556,
-      "robSuccess": 41,
-      "received_total": 144288000,
-      "lastSpin": 1769610230416,
-      "lastMine": 1770582153640,
+      "robSuccess": 50,
+      "received_total": 254286000,
+      "lastSpin": 1771071024265,
+      "lastMine": 1771070760686,
       "lastRoulette": 1767821716253,
       "lastFlip": 1767824111645,
       "autolevelup": true,
       "lastPhish": 1769327049948,
-      "lastRob": 1770582025459,
-      "lastWork": 1770580179270,
+      "lastRob": 1771074924552,
+      "lastWork": 1771070806561,
       "workSuccess": 6,
-      "lastSpins": 1770582039548,
+      "lastSpins": 1771070753211,
       "hasSentMsg": {
         "cooldown": true,
-        "owner": true
+        "owner": true,
+        "premium": true
       },
-      "lastRobBank": 1770580082843,
-      "lastHack": 1770580127624,
-      "lastTagAllTime": 1769259237978,
+      "lastRobBank": 1771070699300,
+      "lastHack": 1771074011075,
+      "lastTagAllTime": 1771068987425,
       "tagAllCount": 1,
-      "level": 7,
-      "violations": 2,
+      "level": 9,
+      "violations": 3,
       "lastFreelance": 1770582139012,
       "lastClaim": {
-        "daily": 1770972658407
+        "daily": 1771070685490
       },
       "robbed": 3,
       "spam": {
-        "lastMessage": 1770974267140,
+        "lastMessage": 1771074929434,
         "count": 1
       },
-      "lastBlackjack": 1770580024710,
-      "winGame": 1,
+      "lastBlackjack": 1770982333180,
+      "winGame": 2,
       "lastDeliver": 1770582072030,
-      "lastCode": 1770582076059,
+      "lastCode": 1770982379362,
       "lastClean": 1770582080982,
       "lastSteal": 1770582148355,
       "StealSuccess": 1
@@ -3367,5 +3368,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771073944310
+  "savedAt": 1771074931712
 }
