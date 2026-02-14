@@ -3252,14 +3252,14 @@
       "clanId": "ac5c8c"
     },
     "161328232681649": {
-      "coin": 425357332180,
+      "coin": 3140334737,
       "uid": "7c1202a-39_b-nebula",
       "username": "@𝑹𝒂𝒊𝒏𝒃𝒆𝒂𝒓",
       "spam": {
-        "lastMessage": 1771108483855,
+        "lastMessage": 1771108688333,
         "count": 1
       },
-      "xp": 60,
+      "xp": 240,
       "invPurchases": 3,
       "winGame": 751,
       "level": 751,
@@ -3286,13 +3286,13 @@
       },
       "clanId": "ac5c8c",
       "club": {
-        "level": 128,
+        "level": 135,
         "upgrades": {
           "music": 169,
-          "djs": 79,
-          "security": 50,
-          "bikegang": 46,
-          "carfleet": 39
+          "djs": 82,
+          "security": 61,
+          "bikegang": 50,
+          "carfleet": 42
         },
         "lastRentCollected": 1771108232471,
         "upgradesBoughtSinceLevel": 2
@@ -3742,5 +3742,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771108618014
+  "savedAt": 1771108690354
 }
