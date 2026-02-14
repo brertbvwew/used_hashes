@@ -11,13 +11,13 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 2170445558472,
+      "coin": 2170446557972,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 960,
+      "xp": 20,
       "invPurchases": 3,
       "winGame": 796,
-      "level": 762,
+      "level": 763,
       "robSuccess": 750,
       "robbed": 753,
       "rpgwin": 750,
@@ -311,10 +311,15 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1770986630154,
-        "count": 2
+        "lastMessage": 1771094157137,
+        "count": 1
       },
-      "clanId": "ac5c8c"
+      "clanId": "ac5c8c",
+      "isHelper": true,
+      "helperXP": 0,
+      "helpedCount": 0,
+      "helperLevel": 1,
+      "helperGauge": 0
     },
     "254511792803874": {
       "coin": 1236167429636,
@@ -3210,7 +3215,7 @@
       "lastIncome": 1770969126179,
       "lastBattle": 1771018852624,
       "lastMission": 1771019236852,
-      "lastAmbush": 1771018946883,
+      "lastAmbush": 1771094155904,
       "lastCollect": 1770969126179,
       "lastChallenge": 1771019170066,
       "lastScavenge": 1771019278216,
@@ -3242,7 +3247,7 @@
         "projectType": null
       },
       "maxMembers": 5,
-      "lastTrain": 1771019275964,
+      "lastTrain": 1771094142903,
       "welcomeMessage": "Always the best when comparing to the weak",
       "tempPowerBoost": 10
     },
@@ -3371,5 +3376,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771093489145
+  "savedAt": 1771094158967
 }
