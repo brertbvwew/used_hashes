@@ -1097,10 +1097,10 @@
       "received_total": 99999000
     },
     "93939944173798": {
-      "coin": 1723461,
+      "coin": 1923461,
       "uid": "232d457b-38_b-nebula",
       "username": "@user_232d457b-38",
-      "xp": 360,
+      "xp": 460,
       "robbed": 9,
       "lastMine": 1769957283765,
       "lastHack": 1769922176746,
@@ -1119,7 +1119,7 @@
       "autolevelup": true,
       "level": 4,
       "lastClaim": {
-        "daily": 1770665233816
+        "daily": 1771081529780
       },
       "invPurchases": 0,
       "lastFreelance": 1769357371035,
@@ -1128,7 +1128,7 @@
       "lastPhish": 1769357528845,
       "lastRansom": 1767806081955,
       "spam": {
-        "lastMessage": 1770665255851,
+        "lastMessage": 1771081551376,
         "count": 1
       },
       "winGame": 1
@@ -3371,5 +3371,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771079290753
+  "savedAt": 1771081554062
 }
