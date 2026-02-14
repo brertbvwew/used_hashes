@@ -2035,14 +2035,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1017172119626,
+      "coin": 1017173619626,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771103929945,
+        "lastMessage": 1771104243246,
         "count": 1
       },
-      "xp": 270,
+      "xp": 390,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 948,
@@ -3454,7 +3454,7 @@
         "eta": 0,
         "projectType": null
       },
-      "maxMembers": 9,
+      "maxMembers": 10,
       "lastTrain": 1771103385534,
       "welcomeMessage": "Always the best when comparing to the weak"
     },
@@ -3583,5 +3583,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771104145552
+  "savedAt": 1771104244677
 }
