@@ -3165,14 +3165,14 @@
       "xp": 60
     },
     "82734609395920": {
-      "coin": 1500005000,
+      "coin": 34243,
       "uid": "1250d17-30_b-nebula",
       "username": "@user_1250d17-30",
       "spam": {
-        "lastMessage": 1771104464343,
+        "lastMessage": 1771111074571,
         "count": 1
       },
-      "xp": 600,
+      "xp": 840,
       "invPurchases": 3,
       "winGame": 750,
       "level": 750,
@@ -3196,7 +3196,21 @@
       "lastBulkInv": 1771104406709,
       "hasSentMsg": {
         "cooldown": true
-      }
+      },
+      "received_total": 99999000,
+      "club": {
+        "level": 52,
+        "upgrades": {
+          "music": 73,
+          "djs": 30,
+          "security": 34,
+          "bikegang": 7,
+          "carfleet": 10
+        },
+        "lastRentCollected": 0,
+        "upgradesBoughtSinceLevel": 1
+      },
+      "clanId": "ac5c8c"
     },
     "188519586758864": {
       "coin": 1500005000,
@@ -3591,7 +3605,8 @@
         "114435796508833",
         "271627354902618",
         "254511792803874",
-        "230880849186992"
+        "230880849186992",
+        "82734609395920"
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1771108057984,
@@ -3757,5 +3772,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771110876932
+  "savedAt": 1771111075960
 }
