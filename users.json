@@ -1613,11 +1613,35 @@
       "received_total": 199998000
     },
     "230880849186992": {
-      "coin": 500000000,
+      "coin": 500005000,
       "uid": "2a529a18-32_b-nebula",
       "username": "@user_2a529a18-32",
+      "spam": {
+        "lastMessage": 1771100675563,
+        "count": 1
+      },
       "xp": 80,
-      "received_total": 499995000
+      "invPurchases": 1,
+      "winGame": 250,
+      "level": 250,
+      "robSuccess": 250,
+      "robbed": 250,
+      "rpgwin": 250,
+      "rpgGather": 250,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 250,
+      "yugiohviewcard": 250,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 250,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 250,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1771100651480,
+      "lastBulkInv": 1771100651480
     },
     "65198425669680": {
       "coin": 5000,
@@ -3404,5 +3428,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771100549494
+  "savedAt": 1771100677391
 }
