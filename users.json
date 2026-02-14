@@ -3111,10 +3111,10 @@
       "uid": "2910ff4a-34_b-nebula",
       "username": "@user_2910ff4a-34",
       "spam": {
-        "lastMessage": 1771103472179,
+        "lastMessage": 1771103577967,
         "count": 1
       },
-      "xp": 590,
+      "xp": 650,
       "lastOwnerReport": 1771091597719,
       "invPurchases": 3,
       "winGame": 751,
@@ -3171,7 +3171,8 @@
         "isStarter": false,
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/178.png"
-      }
+      },
+      "clanId": "ac5c8c"
     }
   },
   "clan": {
@@ -3580,5 +3581,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771103533313
+  "savedAt": 1771103579484
 }
