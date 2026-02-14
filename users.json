@@ -1934,18 +1934,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 513447067595,
+      "coin": 513447067594,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771098877762,
+        "lastMessage": 1771099782032,
         "count": 1
       },
-      "xp": 890,
+      "xp": 3750,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 947,
-      "level": 873,
+      "level": 877,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2362,9 +2362,14 @@
           "hash": "QWxtTW9ZRU06YmUzNGQ5ZDgzZGUyZTRkNGMzNGIyNTdkMTJkZmE3NjU6MTc3MDc2MTY5Mzg3MTpkdWU2MENSUjo0ZDUzNjg0NDBiZDZkNDZjMTUzZTkzM2Q4NDkxODQ0NQ==",
           "md5": "404157fcdedfa573df881b1a12375530",
           "time": 1770781031583
+        },
+        {
+          "hash": "dnRVT0w0Wk06Yjc2ZmRjYzg4ZDhkMjQ3ZmE4NjIyMzA2Y2Y1MDQ1MDE6MTc3MTA5ODI4NDc0NTozZVlTbnBrVjo0OTVhMTY2OWI2MjczY2ZlODY5ZTRjMTJhN2E3ZTQ3Yg==",
+          "md5": "3a3c7a81478af73b8a86664941d8d810",
+          "time": 1771099687305
         }
       ],
-      "lastBuyXP": 1770781031583,
+      "lastBuyXP": 1771099687305,
       "club": {
         "level": 154,
         "upgrades": {
@@ -3246,9 +3251,10 @@
         "eta": 0,
         "projectType": null
       },
-      "maxMembers": 6,
-      "lastTrain": 1771098835141,
-      "welcomeMessage": "Always the best when comparing to the weak"
+      "maxMembers": 7,
+      "lastTrain": 1771099170614,
+      "welcomeMessage": "Always the best when comparing to the weak",
+      "tempPowerBoost": 10
     },
     "94483a": {
       "name": "Rainzclan",
@@ -3375,5 +3381,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771098879383
+  "savedAt": 1771099783355
 }
