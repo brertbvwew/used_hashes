@@ -516,10 +516,10 @@
       }
     },
     "148529213390986": {
-      "coin": 30757842275,
+      "coin": 30744842275,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 2610,
+      "xp": 770,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -528,7 +528,7 @@
       },
       "invPurchases": 3,
       "winGame": 812,
-      "level": 789,
+      "level": 792,
       "robSuccess": 752,
       "robbed": 754,
       "rpgwin": 750,
@@ -603,7 +603,7 @@
       "StealSuccess": 3,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1771002104937,
+        "lastMessage": 1771071324612,
         "count": 1
       },
       "usedCoupons": [
@@ -652,17 +652,16 @@
       "clanId": "10cbff",
       "gear": {
         "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": null
-        },
-        "inventory": {
-          "1164": {
+          "weapon": {
             "name": "WEAPON T1",
             "type": "weapon",
             "power": 500,
             "tier": 1
           },
+          "armor": null,
+          "accessory": null
+        },
+        "inventory": {
           "c0e8": {
             "name": "ACCESSORY T1",
             "type": "accessory",
@@ -3368,5 +3367,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771057161545
+  "savedAt": 1771071326929
 }
