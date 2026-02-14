@@ -3189,10 +3189,10 @@
       "uid": "7c1202a-39_b-nebula",
       "username": "@𝑹𝒂𝒊𝒏𝒃𝒆𝒂𝒓",
       "spam": {
-        "lastMessage": 1771105441940,
+        "lastMessage": 1771105468207,
         "count": 1
       },
-      "xp": 180,
+      "xp": 240,
       "invPurchases": 1,
       "winGame": 250,
       "level": 250,
@@ -3213,7 +3213,10 @@
       "weedsell": 250,
       "weedtrades": 250,
       "lastAddInv": 1771105128908,
-      "lastBulkInv": 1771105128908
+      "lastBulkInv": 1771105128908,
+      "hasSentMsg": {
+        "cooldown": true
+      }
     }
   },
   "clan": {
@@ -3622,5 +3625,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771105443694
+  "savedAt": 1771105470419
 }
