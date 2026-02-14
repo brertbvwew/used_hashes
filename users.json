@@ -2957,13 +2957,13 @@
       "uid": "eb43751-33_b-nebula",
       "username": "@Xx_🎅©|S^A∆N∆T^A|®❄️_xX",
       "spam": {
-        "lastMessage": 1771107998498,
+        "lastMessage": 1771108195187,
         "count": 1
       },
-      "xp": 940,
+      "xp": 0,
       "invPurchases": 3,
       "winGame": 751,
-      "level": 750,
+      "level": 751,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -3741,5 +3741,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771108063187
+  "savedAt": 1771108196911
 }
