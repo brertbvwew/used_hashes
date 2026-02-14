@@ -2797,49 +2797,14 @@
       "robSuccess": 1
     },
     "66701597106413": {
-      "coin": 1490001606,
+      "coin": 5000,
       "uid": "eb43751-33_b-nebula",
-      "username": "@Xx_|❄️|©-Santa-®|🎅|_xX",
+      "username": "@user_eb43751-33",
       "spam": {
-        "lastMessage": 1770881613093,
+        "lastMessage": 1771100402366,
         "count": 1
       },
-      "xp": 640,
-      "lastBuyUnban": 1770762053638,
-      "invPurchases": 3,
-      "winGame": 750,
-      "level": 751,
-      "robSuccess": 750,
-      "robbed": 751,
-      "rpgwin": 750,
-      "rpgGather": 750,
-      "rpgtrades": 750,
-      "rpgcrafted": 750,
-      "rpgmonsterfight": 750,
-      "yugiohviewcard": 750,
-      "onepiceviewcard": 750,
-      "dragonballviewcard": 750,
-      "pokemonviewcard": 750,
-      "vipgameviewcard": 750,
-      "weedcooked": 750,
-      "weedgather": 750,
-      "weedsell": 750,
-      "weedtrades": 750,
-      "lastAddInv": 1770746912027,
-      "lastBulkInv": 1770746912027,
-      "hasSentMsg": {
-        "cooldown": true
-      },
-      "clanId": "1a097e",
-      "gear": {
-        "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": null
-        },
-        "inventory": {}
-      },
-      "lastOwnerReport": 1770752002154
+      "xp": 20
     },
     "173534512988169": {
       "coin": 5000,
@@ -3434,5 +3399,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771100342954
+  "savedAt": 1771100404888
 }
