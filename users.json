@@ -2035,14 +2035,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1017173619626,
+      "coin": 1017175119626,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771104243246,
+        "lastMessage": 1771104935584,
         "count": 1
       },
-      "xp": 390,
+      "xp": 490,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 948,
@@ -3421,7 +3421,7 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1770969126179,
-      "lastBattle": 1771102065766,
+      "lastBattle": 1771104724533,
       "lastMission": 1771019236852,
       "lastAmbush": 1771094155904,
       "lastCollect": 1770969126179,
@@ -3442,7 +3442,7 @@
         "stealth": 100
       },
       "coin": 15640803899,
-      "glory": 23278,
+      "glory": 23328,
       "essence": 70,
       "roles": {
         "treasurer": "249216148455505",
@@ -3454,7 +3454,7 @@
         "eta": 0,
         "projectType": null
       },
-      "maxMembers": 10,
+      "maxMembers": 11,
       "lastTrain": 1771103385534,
       "welcomeMessage": "Always the best when comparing to the weak"
     },
@@ -3583,5 +3583,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771104466169
+  "savedAt": 1771104937728
 }
