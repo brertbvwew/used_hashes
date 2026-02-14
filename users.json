@@ -2972,6 +2972,40 @@
         "count": 1
       },
       "xp": 60
+    },
+    "82734609395920": {
+      "coin": 1000005000,
+      "uid": "1250d17-30_b-nebula",
+      "username": "@user_1250d17-30",
+      "spam": {
+        "lastMessage": 1771099817366,
+        "count": 1
+      },
+      "xp": 220,
+      "invPurchases": 2,
+      "winGame": 500,
+      "level": 500,
+      "robSuccess": 500,
+      "robbed": 500,
+      "rpgwin": 500,
+      "rpgGather": 500,
+      "rpgtrades": 500,
+      "rpgcrafted": 500,
+      "rpgmonsterfight": 500,
+      "yugiohviewcard": 500,
+      "onepiceviewcard": 500,
+      "dragonballviewcard": 500,
+      "pokemonviewcard": 500,
+      "vipgameviewcard": 500,
+      "weedcooked": 500,
+      "weedgather": 500,
+      "weedsell": 500,
+      "weedtrades": 500,
+      "lastAddInv": 1771099688431,
+      "lastBulkInv": 1771099688431,
+      "hasSentMsg": {
+        "cooldown": true
+      }
     }
   },
   "clan": {
@@ -3381,5 +3415,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771099783355
+  "savedAt": 1771099819091
 }
