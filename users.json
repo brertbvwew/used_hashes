@@ -2687,10 +2687,10 @@
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "spam": {
-        "lastMessage": 1771076260212,
+        "lastMessage": 1771090985487,
         "count": 1
       },
-      "xp": 20,
+      "xp": 160,
       "hasSentMsg": {
         "premium": false,
         "banned": false
@@ -3371,5 +3371,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771081568590
+  "savedAt": 1771090987211
 }
