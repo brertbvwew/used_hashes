@@ -11,10 +11,10 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 2170446557972,
+      "coin": 1360029454659,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 20,
+      "xp": 360,
       "invPurchases": 3,
       "winGame": 796,
       "level": 763,
@@ -311,7 +311,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1771094157137,
+        "lastMessage": 1771102146064,
         "count": 1
       },
       "clanId": "ac5c8c",
@@ -319,7 +319,20 @@
       "helperXP": 0,
       "helpedCount": 0,
       "helperLevel": 1,
-      "helperGauge": 0
+      "helperGauge": 0,
+      "donated_total": 100000000,
+      "club": {
+        "level": 1,
+        "upgrades": {
+          "music": 0,
+          "djs": 0,
+          "security": 0,
+          "bikegang": 0,
+          "carfleet": 0
+        },
+        "lastRentCollected": 0
+      },
+      "lastBuyCoin": 1771102128867
     },
     "254511792803874": {
       "coin": 1236167429636,
@@ -3377,7 +3390,7 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1770969126179,
-      "lastBattle": 1771099900182,
+      "lastBattle": 1771102065766,
       "lastMission": 1771019236852,
       "lastAmbush": 1771094155904,
       "lastCollect": 1770969126179,
@@ -3523,7 +3536,7 @@
         "income": 550
       },
       "coin": 101849752986,
-      "glory": 8491,
+      "glory": 8516,
       "essence": 28,
       "roles": {
         "treasurer": "246179539501140",
@@ -3539,5 +3552,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771101905391
+  "savedAt": 1771102148002
 }
