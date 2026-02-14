@@ -1620,12 +1620,12 @@
     "230880849186992": {
       "coin": 1000005000,
       "uid": "2a529a18-32_b-nebula",
-      "username": "@user_2a529a18-32",
+      "username": "@𝑩𝒊𝒈𝑫𝒂𝒅𝒂",
       "spam": {
-        "lastMessage": 1771101054540,
+        "lastMessage": 1771101316077,
         "count": 1
       },
-      "xp": 160,
+      "xp": 420,
       "invPurchases": 2,
       "winGame": 500,
       "level": 500,
@@ -1646,7 +1646,10 @@
       "weedsell": 500,
       "weedtrades": 500,
       "lastAddInv": 1771101032408,
-      "lastBulkInv": 1771101032408
+      "lastBulkInv": 1771101032408,
+      "hasSentMsg": {
+        "cooldown": true
+      }
     },
     "65198425669680": {
       "coin": 5000,
@@ -3486,5 +3489,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771101271721
+  "savedAt": 1771101317802
 }
