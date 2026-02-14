@@ -1653,36 +1653,36 @@
       "level": 1
     },
     "114435796508833": {
-      "coin": 1309999000,
+      "coin": 12625409980,
       "received_total": 99999000,
       "uid": "1f26dc08-33_b-nebula",
       "username": "@user_1f26dc08-33",
       "spam": {
-        "lastMessage": 1771107638998,
+        "lastMessage": 1771109148074,
         "count": 1
       },
-      "xp": 400,
-      "invPurchases": 2,
-      "winGame": 515,
-      "level": 507,
-      "robSuccess": 500,
-      "robbed": 500,
-      "rpgwin": 500,
-      "rpgGather": 500,
-      "rpgtrades": 500,
-      "rpgcrafted": 500,
-      "rpgmonsterfight": 500,
-      "yugiohviewcard": 500,
-      "onepiceviewcard": 500,
-      "dragonballviewcard": 500,
-      "pokemonviewcard": 500,
-      "vipgameviewcard": 500,
-      "weedcooked": 500,
-      "weedgather": 500,
-      "weedsell": 500,
-      "weedtrades": 500,
-      "lastAddInv": 1771107279585,
-      "lastBulkInv": 1771107279585,
+      "xp": 960,
+      "invPurchases": 3,
+      "winGame": 765,
+      "level": 757,
+      "robSuccess": 750,
+      "robbed": 750,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1771109140079,
+      "lastBulkInv": 1771109140079,
       "hasSentMsg": {
         "cooldown": true
       },
@@ -1704,7 +1704,20 @@
       ],
       "lastBuyXP": 1771106617255,
       "lastBuyWin": 1771106665259,
-      "clanId": "ac5c8c"
+      "clanId": "ac5c8c",
+      "donated_total": 100000000,
+      "club": {
+        "level": 54,
+        "upgrades": {
+          "music": 100,
+          "djs": 0,
+          "security": 60,
+          "bikegang": 0,
+          "carfleet": 0
+        },
+        "lastRentCollected": 0,
+        "upgradesBoughtSinceLevel": 1
+      }
     },
     "230880849186992": {
       "coin": 148394017728,
@@ -3742,5 +3755,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771108690354
+  "savedAt": 1771109149298
 }
