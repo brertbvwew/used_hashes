@@ -337,13 +337,13 @@
       "clublastRobTime": 1771102437490
     },
     "254511792803874": {
-      "coin": 1104756859753,
+      "coin": 1104758359753,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
-      "xp": 120,
+      "xp": 860,
       "invPurchases": 3,
       "winGame": 750,
-      "level": 755,
+      "level": 761,
       "robSuccess": 762,
       "robbed": 754,
       "rpgwin": 750,
@@ -376,8 +376,8 @@
       "lastRob": 1767725762129,
       "lastRobBank": 1767725764342,
       "premium": true,
-      "premiumUntil": 1770284136285,
-      "lastBuyPremium": 1767692136285,
+      "premiumUntil": 1773697140795,
+      "lastBuyPremium": 1771105140795,
       "lastFlip": 1767691874168,
       "lastClaim": {
         "ultimate": 1767694785786,
@@ -520,7 +520,7 @@
       "spacelastSalvage": 1767774631129,
       "spacesalvage": 1,
       "spam": {
-        "lastMessage": 1771104090671,
+        "lastMessage": 1771105221290,
         "count": 1
       },
       "club": {
@@ -534,7 +534,15 @@
         },
         "lastRentCollected": 0,
         "upgradesBoughtSinceLevel": 2
-      }
+      },
+      "usedCoupons": [
+        {
+          "hash": "SFNsekFhTTE6NTNiNWE1OWZjYWJiNDNiOWEzMTQ4YjM4NDY0MGYzMDA6MTc3MTA5ODQyODM2OTppU3poeTR4ejpkZTBlNWJjOWE2ZTUwZmIzMDRiZDA4M2Q1NTdiMTNiNQ==",
+          "md5": "a10a8833e59dfa5bb8bc46dba92d5b3d",
+          "time": 1771105153097
+        }
+      ],
+      "lastBuyXP": 1771105153097
     },
     "148529213390986": {
       "coin": 30765842275,
@@ -3583,5 +3591,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771105174401
+  "savedAt": 1771105221889
 }
