@@ -1653,13 +1653,13 @@
       "uid": "1f26dc08-33_b-nebula",
       "username": "@user_1f26dc08-33",
       "spam": {
-        "lastMessage": 1771106707090,
+        "lastMessage": 1771107054911,
         "count": 1
       },
-      "xp": 3960,
+      "xp": 40,
       "invPurchases": 1,
       "winGame": 265,
-      "level": 253,
+      "level": 257,
       "robSuccess": 250,
       "robbed": 250,
       "rpgwin": 250,
@@ -3559,7 +3559,7 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1770969126179,
-      "lastBattle": 1771106089654,
+      "lastBattle": 1771107036569,
       "lastMission": 1771106021145,
       "lastAmbush": 1771105875118,
       "lastCollect": 1770969126179,
@@ -3580,7 +3580,7 @@
         "stealth": 100
       },
       "coin": 17297411136,
-      "glory": 24759,
+      "glory": 24859,
       "essence": 75,
       "roles": {
         "treasurer": "249216148455505",
@@ -3593,8 +3593,9 @@
         "projectType": null
       },
       "maxMembers": 12,
-      "lastTrain": 1771105837741,
-      "welcomeMessage": "Always the best when comparing to the weak"
+      "lastTrain": 1771107045835,
+      "welcomeMessage": "Always the best when comparing to the weak",
+      "tempPowerBoost": 10
     },
     "94483a": {
       "name": "Rainzclan",
@@ -3721,5 +3722,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771106982709
+  "savedAt": 1771107057578
 }
