@@ -1929,14 +1929,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1299378534144,
+      "coin": 1299378534143,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771092563586,
+        "lastMessage": 1771092921874,
         "count": 1
       },
-      "xp": 300,
+      "xp": 540,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 945,
@@ -3214,7 +3214,7 @@
       "lastCollect": 1770969126179,
       "lastChallenge": 1771019170066,
       "lastScavenge": 1771019278216,
-      "lastResearch": 1770873714328,
+      "lastResearch": 1771092913734,
       "upgrades": {
         "defense": 18,
         "attack": 13,
@@ -3222,13 +3222,13 @@
         "vault_storage": 50000000
       },
       "perks": {
-        "income": 600,
+        "income": 650,
         "defense": 500,
         "attack": 500,
         "speed": 250,
         "stealth": 100
       },
-      "coin": 60883647012,
+      "coin": 60883647013,
       "glory": 23220,
       "essence": 68,
       "roles": {
@@ -3237,9 +3237,9 @@
         "spy": "63046378635471"
       },
       "research": {
-        "project": "income_boost",
-        "eta": 1770997246313,
-        "projectType": "income_boost"
+        "project": null,
+        "eta": 0,
+        "projectType": null
       },
       "maxMembers": 5,
       "lastTrain": 1771019275964,
@@ -3371,5 +3371,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771092566563
+  "savedAt": 1771092924004
 }
