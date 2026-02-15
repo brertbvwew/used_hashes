@@ -2111,14 +2111,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1428527372380,
+      "coin": 1428428872380,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771143690141,
+        "lastMessage": 1771145434009,
         "count": 1
       },
-      "xp": 130,
+      "xp": 250,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 952,
@@ -2591,7 +2591,7 @@
         "lastRentCollected": 1771105005309,
         "upgradesBoughtSinceLevel": 1
       },
-      "donated_total": 1200000000,
+      "donated_total": 1300000000,
       "lastRob": 1770324373183,
       "lastBuyWin": 1770412792468,
       "banned": false,
@@ -3658,7 +3658,8 @@
         "271627354902618",
         "254511792803874",
         "230880849186992",
-        "82734609395920"
+        "82734609395920",
+        "126882712432848"
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1771108057984,
@@ -3824,5 +3825,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771144490550
+  "savedAt": 1771145435514
 }
