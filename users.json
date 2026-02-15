@@ -3379,14 +3379,14 @@
       "clublastRobTime": 1771108471626
     },
     "271627354902618": {
-      "coin": 1000005000,
+      "coin": 82277973750,
       "uid": "89e2e64-38_b-nebula",
       "username": "@Dædygløçk",
       "spam": {
-        "lastMessage": 1771107708745,
+        "lastMessage": 1771153866051,
         "count": 1
       },
-      "xp": 140,
+      "xp": 200,
       "invPurchases": 2,
       "winGame": 500,
       "level": 500,
@@ -3408,7 +3408,8 @@
       "weedtrades": 500,
       "lastAddInv": 1771105443282,
       "lastBulkInv": 1771105443282,
-      "clanId": "ac5c8c"
+      "clanId": "ac5c8c",
+      "donated_total": 100000000
     },
     "126882712432848": {
       "coin": 1500008579,
@@ -3858,5 +3859,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771153148639
+  "savedAt": 1771153868189
 }
