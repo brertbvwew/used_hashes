@@ -346,13 +346,13 @@
       "lastBuyXP": 1771158413504
     },
     "254511792803874": {
-      "coin": 2723049299386,
+      "coin": 427156736099,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
-      "xp": 980,
+      "xp": 340,
       "invPurchases": 3,
-      "winGame": 755,
-      "level": 762,
+      "winGame": 756,
+      "level": 763,
       "robSuccess": 762,
       "robbed": 754,
       "rpgwin": 750,
@@ -529,20 +529,23 @@
       "spacelastSalvage": 1767774631129,
       "spacesalvage": 1,
       "spam": {
-        "lastMessage": 1771176817504,
+        "lastMessage": 1771177331754,
         "count": 1
       },
       "club": {
-        "level": 134,
+        "level": 144,
         "upgrades": {
           "music": 197,
           "djs": 75,
           "security": 53,
           "bikegang": 44,
-          "carfleet": 30
+          "carfleet": 30,
+          "militia": 10,
+          "safehouse": 19,
+          "heli": 2
         },
         "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 0
+        "upgradesBoughtSinceLevel": 1
       },
       "usedCoupons": [
         {
@@ -552,7 +555,18 @@
         }
       ],
       "lastBuyXP": 1771105153097,
-      "clublastRobTime": 1771169813794
+      "clublastRobTime": 1771177320616,
+      "clanId": "1462e7",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
+      }
     },
     "148529213390986": {
       "coin": 230545113285,
@@ -4035,5 +4049,5 @@
       }
     }
   },
-  "savedAt": 1771177305739
+  "savedAt": 1771177334016
 }
