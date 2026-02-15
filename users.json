@@ -3055,24 +3055,25 @@
       ]
     },
     "168419274039524": {
-      "coin": 1000000000,
+      "coin": 999997929,
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "spam": {
-        "lastMessage": 1771090985487,
+        "lastMessage": 1771182383550,
         "count": 1
       },
-      "xp": 160,
+      "xp": 980,
       "hasSentMsg": {
         "premium": false,
-        "banned": false
+        "banned": true
       },
       "premium": true,
       "premiumUntil": 3093500289381,
       "lastBuyPremium": 1769787809099,
-      "level": 700,
+      "level": 701,
       "banned": false,
-      "permanent": false
+      "permanent": false,
+      "robbed": 1
     },
     "269505624326383": {
       "coin": 300029147,
@@ -4150,5 +4151,5 @@
       }
     }
   },
-  "savedAt": 1771181959659
+  "savedAt": 1771182385995
 }
