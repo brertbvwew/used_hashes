@@ -337,12 +337,12 @@
       "clanId": "ac5c8c"
     },
     "254511792803874": {
-      "coin": 1104803327344,
+      "coin": 1350980881703,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
-      "xp": 40,
+      "xp": 100,
       "invPurchases": 3,
-      "winGame": 751,
+      "winGame": 752,
       "level": 762,
       "robSuccess": 762,
       "robbed": 754,
@@ -520,7 +520,7 @@
       "spacelastSalvage": 1767774631129,
       "spacesalvage": 1,
       "spam": {
-        "lastMessage": 1771110236061,
+        "lastMessage": 1771151301911,
         "count": 1
       },
       "club": {
@@ -543,7 +543,7 @@
         }
       ],
       "lastBuyXP": 1771105153097,
-      "clublastRobTime": 1771110148158
+      "clublastRobTime": 1771151284577
     },
     "148529213390986": {
       "coin": 230545113285,
@@ -3814,5 +3814,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771151272275
+  "savedAt": 1771151302900
 }
