@@ -558,7 +558,7 @@
       "coin": 230545113285,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 450,
+      "xp": 550,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -642,7 +642,7 @@
       "StealSuccess": 3,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1771146178269,
+        "lastMessage": 1771177104739,
         "count": 1
       },
       "usedCoupons": [
@@ -688,7 +688,6 @@
         "upgradesBoughtSinceLevel": 0
       },
       "clublastRobTime": 1771146103087,
-      "clanId": "10cbff",
       "gear": {
         "equipped": {
           "weapon": {
@@ -3971,7 +3970,65 @@
       },
       "maxMembers": 5,
       "lastTrain": 1770969681505
+    },
+    "1462e7": {
+      "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
+      "leader": "249216148455505",
+      "members": [
+        "249216148455505",
+        "254511792803874",
+        "106077605646392"
+      ],
+      "createdAt": 1771176872249,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "renown": 0,
+      "xp": 0,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {},
+      "lastQuestReset": 1771176872249,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [],
+      "stats": {
+        "missionCount": 0,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
+      }
     }
   },
-  "savedAt": 1771176819335
+  "savedAt": 1771177107154
 }
