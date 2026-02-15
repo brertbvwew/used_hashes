@@ -349,7 +349,7 @@
       "coin": 2723049299386,
       "uid": "403e88-34_b-nebula",
       "username": "@AgentNLS",
-      "xp": 900,
+      "xp": 980,
       "invPurchases": 3,
       "winGame": 755,
       "level": 762,
@@ -529,7 +529,7 @@
       "spacelastSalvage": 1767774631129,
       "spacesalvage": 1,
       "spam": {
-        "lastMessage": 1771169833359,
+        "lastMessage": 1771176817504,
         "count": 1
       },
       "club": {
@@ -3973,5 +3973,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771176768033
+  "savedAt": 1771176819335
 }
