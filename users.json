@@ -14,7 +14,7 @@
       "coin": 5210361757403,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 820,
+      "xp": 840,
       "invPurchases": 3,
       "winGame": 806,
       "level": 772,
@@ -311,7 +311,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1771178022964,
+        "lastMessage": 1771178109418,
         "count": 1
       },
       "isHelper": true,
@@ -4059,5 +4059,5 @@
       }
     }
   },
-  "savedAt": 1771178025206
+  "savedAt": 1771178111454
 }
