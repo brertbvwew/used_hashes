@@ -3017,16 +3017,16 @@
       "robSuccess": 1
     },
     "66701597106413": {
-      "coin": 1126083887110,
+      "coin": 1369094348663,
       "uid": "eb43751-33_b-nebula",
       "username": "@Xx_🎅©|S^A∆N∆T^A|®❄️_xX",
       "spam": {
-        "lastMessage": 1771148177176,
-        "count": 2
+        "lastMessage": 1771152955223,
+        "count": 1
       },
-      "xp": 220,
+      "xp": 280,
       "invPurchases": 3,
-      "winGame": 753,
+      "winGame": 754,
       "level": 751,
       "robSuccess": 750,
       "robbed": 750,
@@ -3059,7 +3059,7 @@
         "lastRentCollected": 1771102602258,
         "upgradesBoughtSinceLevel": 2
       },
-      "clublastRobTime": 1771148167429
+      "clublastRobTime": 1771152915789
     },
     "173534512988169": {
       "coin": 5000,
@@ -3700,7 +3700,7 @@
       "lastAmbush": 1771148985739,
       "lastCollect": 1771108057984,
       "lastChallenge": 1771105976190,
-      "lastScavenge": 1771149003966,
+      "lastScavenge": 1771152887528,
       "lastResearch": 1771092913734,
       "upgrades": {
         "defense": 20,
@@ -3715,9 +3715,9 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 248192739152,
-      "glory": 30654,
-      "essence": 45,
+      "coin": 248193849586,
+      "glory": 30666,
+      "essence": 47,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -3858,5 +3858,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771152676951
+  "savedAt": 1771152957264
 }
