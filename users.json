@@ -2111,18 +2111,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1593525142446,
+      "coin": 1593531142446,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771112502066,
-        "count": 2
+        "lastMessage": 1771125700760,
+        "count": 1
       },
-      "xp": 210,
+      "xp": 450,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 950,
-      "level": 910,
+      "level": 911,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2418,6 +2418,18 @@
             "tier": 1
           },
           "365c": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "0181": {
+            "name": "WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1
+          },
+          "4b94": {
             "name": "WEAPON T1",
             "type": "weapon",
             "power": 500,
@@ -3616,12 +3628,12 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1771108057984,
-      "lastBattle": 1771111870739,
-      "lastMission": 1771111258066,
+      "lastBattle": 1771113886325,
+      "lastMission": 1771125554414,
       "lastAmbush": 1771105875118,
       "lastCollect": 1771108057984,
       "lastChallenge": 1771105976190,
-      "lastScavenge": 1771106266300,
+      "lastScavenge": 1771125678422,
       "lastResearch": 1771092913734,
       "upgrades": {
         "defense": 20,
@@ -3636,18 +3648,18 @@
         "speed": 250,
         "stealth": 100
       },
-      "coin": 759708983689,
-      "glory": 29480,
-      "essence": 75,
+      "coin": 760204034178,
+      "glory": 29902,
+      "essence": 25,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
         "spy": "63046378635471"
       },
       "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
+        "project": "income_boost",
+        "eta": 1771168892145,
+        "projectType": "income_boost"
       },
       "maxMembers": 12,
       "lastTrain": 1771111287657,
@@ -3778,5 +3790,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771112503702
+  "savedAt": 1771125703105
 }
