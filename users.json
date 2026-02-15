@@ -11,12 +11,12 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 575610542284,
+      "coin": 625521162728,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 820,
+      "xp": 900,
       "invPurchases": 3,
-      "winGame": 799,
+      "winGame": 800,
       "level": 764,
       "robSuccess": 750,
       "robbed": 753,
@@ -311,7 +311,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1771110872853,
+        "lastMessage": 1771144488310,
         "count": 1
       },
       "clanId": "ac5c8c",
@@ -334,7 +334,7 @@
         "upgradesBoughtSinceLevel": 1
       },
       "lastBuyCoin": 1771102128867,
-      "clublastRobTime": 1771110863922
+      "clublastRobTime": 1771144472372
     },
     "254511792803874": {
       "coin": 1104803327344,
@@ -3662,7 +3662,7 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1771108057984,
-      "lastBattle": 1771113886325,
+      "lastBattle": 1771144441699,
       "lastMission": 1771142095585,
       "lastAmbush": 1771105875118,
       "lastCollect": 1771108057984,
@@ -3683,7 +3683,7 @@
         "stealth": 100
       },
       "coin": 248186198012,
-      "glory": 29988,
+      "glory": 30038,
       "essence": 25,
       "roles": {
         "treasurer": "249216148455505",
@@ -3697,8 +3697,7 @@
       },
       "maxMembers": 13,
       "lastTrain": 1771142425008,
-      "welcomeMessage": "Always the best when comparing to the weak",
-      "tempPowerBoost": 10
+      "welcomeMessage": "Always the best when comparing to the weak"
     },
     "94483a": {
       "name": "Rainzclan",
@@ -3825,5 +3824,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771144313913
+  "savedAt": 1771144490550
 }
