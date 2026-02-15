@@ -11,13 +11,13 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 625521162728,
+      "coin": 13772302707,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 900,
+      "xp": 420,
       "invPurchases": 3,
       "winGame": 800,
-      "level": 764,
+      "level": 765,
       "robSuccess": 750,
       "robbed": 753,
       "rpgwin": 750,
@@ -311,10 +311,9 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1771144488310,
+        "lastMessage": 1771147560017,
         "count": 1
       },
-      "clanId": "ac5c8c",
       "isHelper": true,
       "helperXP": 0,
       "helpedCount": 0,
@@ -322,19 +321,20 @@
       "helperGauge": 0,
       "donated_total": 100000000,
       "club": {
-        "level": 134,
+        "level": 136,
         "upgrades": {
           "music": 144,
           "djs": 100,
-          "security": 62,
+          "security": 69,
           "bikegang": 50,
           "carfleet": 44
         },
         "lastRentCollected": 1771108057350,
-        "upgradesBoughtSinceLevel": 1
+        "upgradesBoughtSinceLevel": 2
       },
-      "lastBuyCoin": 1771102128867,
-      "clublastRobTime": 1771144472372
+      "lastBuyCoin": 1771146659020,
+      "clublastRobTime": 1771144472372,
+      "clanId": "ac5c8c"
     },
     "254511792803874": {
       "coin": 1104803327344,
@@ -3814,5 +3814,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771147545049
+  "savedAt": 1771147562146
 }
