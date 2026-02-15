@@ -3107,16 +3107,16 @@
       "robSuccess": 1
     },
     "66701597106413": {
-      "coin": 2296261253324,
+      "coin": 3369502858343,
       "uid": "eb43751-33_b-nebula",
       "username": "@Xx_🎅©|S^A∆N∆T^A|®❄️_xX",
       "spam": {
-        "lastMessage": 1771162154342,
+        "lastMessage": 1771167596314,
         "count": 1
       },
-      "xp": 500,
+      "xp": 620,
       "invPurchases": 3,
-      "winGame": 756,
+      "winGame": 757,
       "level": 751,
       "robSuccess": 750,
       "robbed": 750,
@@ -3149,7 +3149,7 @@
         "lastRentCollected": 1771102602258,
         "upgradesBoughtSinceLevel": 2
       },
-      "clublastRobTime": 1771162145206,
+      "clublastRobTime": 1771167586412,
       "hasSentMsg": {
         "cooldown": true
       }
@@ -3974,5 +3974,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771167413670
+  "savedAt": 1771167598254
 }
