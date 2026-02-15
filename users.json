@@ -579,10 +579,10 @@
       }
     },
     "148529213390986": {
-      "coin": 230545113285,
+      "coin": 198427143613,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 550,
+      "xp": 630,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -666,7 +666,7 @@
       "StealSuccess": 3,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1771177104739,
+        "lastMessage": 1771178271728,
         "count": 1
       },
       "usedCoupons": [
@@ -4059,5 +4059,5 @@
       }
     }
   },
-  "savedAt": 1771178188053
+  "savedAt": 1771178274178
 }
