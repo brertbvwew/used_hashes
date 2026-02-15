@@ -2191,14 +2191,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771168004605,
+        "lastMessage": 1771176765793,
         "count": 1
       },
-      "xp": 9210,
+      "xp": 650,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 957,
-      "level": 963,
+      "level": 972,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2224,7 +2224,6 @@
       "premium": true,
       "premiumUntil": 1772826347250,
       "lastBuyPremium": 1770234347250,
-      "clanId": "ac5c8c",
       "gear": {
         "equipped": {
           "weapon": {
@@ -3974,5 +3973,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771169837829
+  "savedAt": 1771176768033
 }
