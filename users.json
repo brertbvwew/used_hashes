@@ -3379,18 +3379,38 @@
       "clanId": "ac5c8c"
     },
     "126882712432848": {
-      "coin": 8579,
+      "coin": 1500008579,
       "uid": "13cccf94-38_b-nebula",
       "username": "@》☆♤♡♧《☆》☆♤♡♧《☆》☆♤♡♧《",
       "spam": {
-        "lastMessage": 1771143712985,
+        "lastMessage": 1771144312582,
         "count": 1
       },
-      "xp": 210,
+      "xp": 370,
       "lastWork": 1771143700977,
       "workSuccess": 1,
       "lastRobBank": 1771143707360,
-      "robSuccess": 1
+      "robSuccess": 751,
+      "invPurchases": 3,
+      "winGame": 750,
+      "level": 750,
+      "robbed": 750,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1771144074199,
+      "lastBulkInv": 1771144074199
     }
   },
   "clan": {
@@ -3805,5 +3825,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771144166986
+  "savedAt": 1771144313913
 }
