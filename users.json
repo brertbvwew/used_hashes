@@ -3379,14 +3379,18 @@
       "clanId": "ac5c8c"
     },
     "126882712432848": {
-      "coin": 5000,
+      "coin": 8579,
       "uid": "13cccf94-38_b-nebula",
       "username": "@》☆♤♡♧《☆》☆♤♡♧《☆》☆♤♡♧《",
       "spam": {
-        "lastMessage": 1771143551844,
+        "lastMessage": 1771143712985,
         "count": 1
       },
-      "xp": 80
+      "xp": 210,
+      "lastWork": 1771143700977,
+      "workSuccess": 1,
+      "lastRobBank": 1771143707360,
+      "robSuccess": 1
     }
   },
   "clan": {
@@ -3801,5 +3805,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771143691730
+  "savedAt": 1771143716990
 }
