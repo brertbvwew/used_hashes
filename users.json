@@ -3041,14 +3041,14 @@
       "xp": 120
     },
     "246179539501140": {
-      "coin": 667721018776,
+      "coin": 7104292396,
       "uid": "559041e-30_b-nebula",
       "username": "@its_to_coldd",
       "spam": {
-        "lastMessage": 1770968477497,
-        "count": 2
+        "lastMessage": 1771147339140,
+        "count": 1
       },
-      "xp": 490,
+      "xp": 730,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
@@ -3072,37 +3072,25 @@
       "weedtrades": 750,
       "lastAddInv": 1770735495564,
       "lastBulkInv": 1770735495564,
-      "clanId": "10cbff",
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
         "banned": true
       },
       "club": {
-        "level": 121,
+        "level": 137,
         "upgrades": {
-          "music": 130,
+          "music": 179,
           "djs": 93,
           "security": 61,
           "bikegang": 38,
           "carfleet": 38
         },
         "lastRentCollected": 1770964478787,
-        "upgradesBoughtSinceLevel": 0
+        "upgradesBoughtSinceLevel": 1
       },
       "banned": false,
       "permanent": false,
-      "gear": {
-        "equipped": {},
-        "inventory": {
-          "5f8c": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          }
-        }
-      },
       "lastClaim": {
         "daily": 1770912006268
       },
@@ -3663,9 +3651,9 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1771108057984,
-      "lastBattle": 1771146169751,
+      "lastBattle": 1771147284750,
       "lastMission": 1771142095585,
-      "lastAmbush": 1771105875118,
+      "lastAmbush": 1771147265281,
       "lastCollect": 1771108057984,
       "lastChallenge": 1771105976190,
       "lastScavenge": 1771125678422,
@@ -3684,7 +3672,7 @@
         "stealth": 100
       },
       "coin": 248186198012,
-      "glory": 30488,
+      "glory": 30588,
       "essence": 25,
       "roles": {
         "treasurer": "249216148455505",
@@ -3697,8 +3685,9 @@
         "projectType": "income_boost"
       },
       "maxMembers": 13,
-      "lastTrain": 1771146148963,
-      "welcomeMessage": "Always the best when comparing to the weak"
+      "lastTrain": 1771147292430,
+      "welcomeMessage": "Always the best when comparing to the weak",
+      "tempPowerBoost": 10
     },
     "94483a": {
       "name": "Rainzclan",
@@ -3825,5 +3814,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771147263658
+  "savedAt": 1771147341071
 }
