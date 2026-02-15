@@ -975,20 +975,20 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 6803972641,
+      "coin": 7548227641,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1771147700513,
+        "lastMessage": 1771152390614,
         "count": 1
       },
-      "xp": 450,
+      "xp": 370,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
       "winGame": 825,
-      "level": 817,
+      "level": 818,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1117,6 +1117,18 @@
             "type": "weapon",
             "power": 500,
             "tier": 1
+          },
+          "0493": {
+            "name": "ACCESSORY T1",
+            "type": "accessory",
+            "power": 200,
+            "tier": 1
+          },
+          "e1c9": {
+            "name": "ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1
           }
         }
       },
@@ -1172,7 +1184,21 @@
         "lastRentCollected": 1771105119077,
         "upgradesBoughtSinceLevel": 2
       },
-      "clublastRobTime": 1771146004577
+      "clublastRobTime": 1771146004577,
+      "lastClaim": {
+        "daily": 1771148083256,
+        "weekly": 1771148093803,
+        "monthly": 1771148103038,
+        "quarterly": 1771148115104,
+        "yearly": 1771148123090,
+        "ultimate": 1771148132306,
+        "immortal": 1771148159339,
+        "maxLevel200": 1771148174904,
+        "divine": 1771148193644,
+        "mythical": 1771148199992,
+        "legendary": 1771148226514,
+        "biannual": 1771148234501
+      }
     },
     "93939944173798": {
       "coin": 1923461,
@@ -3832,5 +3858,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771152363565
+  "savedAt": 1771152392954
 }
