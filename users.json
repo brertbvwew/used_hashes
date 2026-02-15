@@ -546,10 +546,10 @@
       "clublastRobTime": 1771110148158
     },
     "148529213390986": {
-      "coin": 737359446,
+      "coin": 230545113285,
       "uid": "3272c271-36_b-nebula",
       "username": "@𓅓𝕽𝖆𝖎𝖓𝖌𝖔𝖐𝖚",
-      "xp": 370,
+      "xp": 450,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
@@ -557,7 +557,7 @@
         "banned": true
       },
       "invPurchases": 3,
-      "winGame": 813,
+      "winGame": 814,
       "level": 793,
       "robSuccess": 752,
       "robbed": 754,
@@ -633,7 +633,7 @@
       "StealSuccess": 3,
       "donated_total": 3400000000,
       "spam": {
-        "lastMessage": 1771105345297,
+        "lastMessage": 1771146178269,
         "count": 1
       },
       "usedCoupons": [
@@ -678,7 +678,7 @@
         "lastRentCollected": 1770964415927,
         "upgradesBoughtSinceLevel": 0
       },
-      "clublastRobTime": 1771105243200,
+      "clublastRobTime": 1771146103087,
       "clanId": "10cbff",
       "gear": {
         "equipped": {
@@ -3663,7 +3663,7 @@
       ],
       "createdAt": 1770245717447,
       "lastIncome": 1771108057984,
-      "lastBattle": 1771144441699,
+      "lastBattle": 1771146169751,
       "lastMission": 1771142095585,
       "lastAmbush": 1771105875118,
       "lastCollect": 1771108057984,
@@ -3684,7 +3684,7 @@
         "stealth": 100
       },
       "coin": 248186198012,
-      "glory": 30038,
+      "glory": 30488,
       "essence": 25,
       "roles": {
         "treasurer": "249216148455505",
@@ -3697,7 +3697,7 @@
         "projectType": "income_boost"
       },
       "maxMembers": 13,
-      "lastTrain": 1771142425008,
+      "lastTrain": 1771146148963,
       "welcomeMessage": "Always the best when comparing to the weak"
     },
     "94483a": {
@@ -3825,5 +3825,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771146023826
+  "savedAt": 1771146180450
 }
