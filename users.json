@@ -3219,14 +3219,14 @@
       "clanId": "ac5c8c"
     },
     "188519586758864": {
-      "coin": 1500005000,
+      "coin": 900,
       "uid": "2910ff4a-34_b-nebula",
       "username": "@user_2910ff4a-34",
       "spam": {
-        "lastMessage": 1771103577967,
+        "lastMessage": 1771152111694,
         "count": 1
       },
-      "xp": 650,
+      "xp": 770,
       "lastOwnerReport": 1771091597719,
       "invPurchases": 3,
       "winGame": 751,
@@ -3284,7 +3284,20 @@
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/178.png"
       },
-      "clanId": "ac5c8c"
+      "clanId": "ac5c8c",
+      "club": {
+        "level": 1,
+        "upgrades": {
+          "music": 0,
+          "djs": 0,
+          "security": 0,
+          "bikegang": 1,
+          "carfleet": 0
+        },
+        "lastRentCollected": 0,
+        "upgradesBoughtSinceLevel": 1
+      },
+      "clublastRobTime": 1771152076630
     },
     "161328232681649": {
       "coin": 3140334737,
@@ -3814,5 +3827,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771151302900
+  "savedAt": 1771152113603
 }
