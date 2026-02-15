@@ -3377,6 +3377,16 @@
       "lastAddInv": 1771105443282,
       "lastBulkInv": 1771105443282,
       "clanId": "ac5c8c"
+    },
+    "126882712432848": {
+      "coin": 5000,
+      "uid": "13cccf94-38_b-nebula",
+      "username": "@user_13cccf94-38",
+      "spam": {
+        "lastMessage": 1771143406539,
+        "count": 1
+      },
+      "xp": 40
     }
   },
   "clan": {
@@ -3649,7 +3659,7 @@
         "stealth": 100
       },
       "coin": 248186198012,
-      "glory": 29938,
+      "glory": 29988,
       "essence": 25,
       "roles": {
         "treasurer": "249216148455505",
@@ -3662,8 +3672,9 @@
         "projectType": "income_boost"
       },
       "maxMembers": 12,
-      "lastTrain": 1771111287657,
-      "welcomeMessage": "Always the best when comparing to the weak"
+      "lastTrain": 1771142425008,
+      "welcomeMessage": "Always the best when comparing to the weak",
+      "tempPowerBoost": 10
     },
     "94483a": {
       "name": "Rainzclan",
@@ -3754,7 +3765,7 @@
       ],
       "createdAt": 1770733283679,
       "lastIncome": 1770969720046,
-      "lastBattle": 1771105874317,
+      "lastBattle": 1771142440676,
       "lastMission": 1771106371342,
       "lastAmbush": 1770986932073,
       "lastCollect": 1770969720046,
@@ -3790,5 +3801,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771142107061
+  "savedAt": 1771143407455
 }
