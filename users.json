@@ -3059,10 +3059,10 @@
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "spam": {
-        "lastMessage": 1771182383550,
+        "lastMessage": 1771183795513,
         "count": 1
       },
-      "xp": 980,
+      "xp": 60,
       "hasSentMsg": {
         "premium": false,
         "banned": true
@@ -3070,7 +3070,7 @@
       "premium": true,
       "premiumUntil": 3093500289381,
       "lastBuyPremium": 1769787809099,
-      "level": 701,
+      "level": 702,
       "banned": false,
       "permanent": false,
       "robbed": 1
@@ -4151,5 +4151,5 @@
       }
     }
   },
-  "savedAt": 1771183599196
+  "savedAt": 1771183797852
 }
