@@ -3444,6 +3444,19 @@
       "weedtrades": 750,
       "lastAddInv": 1771144074199,
       "lastBulkInv": 1771144074199
+    },
+    "59155272470774": {
+      "coin": 5000,
+      "uid": "544a664-34_b-nebula",
+      "username": "@user_544a664-34",
+      "spam": {
+        "lastMessage": 1771156315515,
+        "count": 1
+      },
+      "xp": 60,
+      "hasSentMsg": {
+        "premium": true
+      }
     }
   },
   "clan": {
@@ -3859,5 +3872,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771153868189
+  "savedAt": 1771156316641
 }
