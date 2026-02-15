@@ -984,20 +984,20 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 1054486808865,
+      "coin": 1054786808865,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1771157906117,
+        "lastMessage": 1771158708572,
         "count": 1
       },
-      "xp": 490,
+      "xp": 5210,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
       "winGame": 827,
-      "level": 818,
+      "level": 820,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1077,9 +1077,14 @@
           "hash": "MnJhekFnQng6MWFkYzcwZWRkZGYzOGM4YjBmOTdhNjhmZWNmZDkyMjU6MTc3MTA5ODI4ODM5NTp4VFVyVEwzMjplNWY1ZWMxMzIwMDg5NTg0OGMyYjhhNDU3NWY5ZDFiYw==",
           "md5": "dbf2dcdc825fb308667a0c939031b1ee",
           "time": 1771106352418
+        },
+        {
+          "hash": "ODZLSnFxTTk6NjE0OWJlZWE0NzBiZTdkZjg1NTQ2NmYxYzEwOTc4NmM6MTc3MTE1ODA4NDUyMTpBNDN4Ykt5ZDowZmYxNGY5OTlmMzhkZTEwNGQzYTZlZDA3MzJmZmY4Ng==",
+          "md5": "15d467def783c0882dacf9795ff71eb3",
+          "time": 1771158464603
         }
       ],
-      "lastBuyXP": 1771106352418,
+      "lastBuyXP": 1771158464603,
       "lastBuyWin": 1770485555998,
       "hasSentMsg": {
         "admin": true,
@@ -1207,7 +1212,8 @@
         "mythical": 1771148199992,
         "legendary": 1771148226514,
         "biannual": 1771148234501
-      }
+      },
+      "lastBuyCoin": 1771158592604
     },
     "93939944173798": {
       "coin": 1923461,
@@ -3891,5 +3897,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771158702337
+  "savedAt": 1771158709849
 }
