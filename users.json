@@ -988,16 +988,16 @@
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1771162201054,
+        "lastMessage": 1771167846411,
         "count": 1
       },
-      "xp": 18730,
+      "xp": 16770,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
       "winGame": 843,
-      "level": 846,
+      "level": 848,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -3974,5 +3974,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771167721758
+  "savedAt": 1771167850200
 }
