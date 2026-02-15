@@ -1857,10 +1857,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 2337048510777,
+      "coin": 3141527361760,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 120,
+      "xp": 180,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1897,11 +1897,11 @@
       "robbed": 759,
       "lastBuyCoin": 1771057072829,
       "spam": {
-        "lastMessage": 1771162927334,
-        "count": 2
+        "lastMessage": 1771167718022,
+        "count": 1
       },
       "donated_total": 120000000,
-      "winGame": 764,
+      "winGame": 765,
       "lastClean": 1770663269641,
       "lastWork": 1770662798274,
       "workSuccess": 4,
@@ -2125,7 +2125,7 @@
       "rpgmonsterHealth": 173,
       "rpglastFight": 1770888990592,
       "rpghealth": 100,
-      "clublastRobTime": 1771162863228
+      "clublastRobTime": 1771167704403
     },
     "27618605148": {
       "coin": 5000,
@@ -3974,5 +3974,5 @@
       "lastTrain": 1770969681505
     }
   },
-  "savedAt": 1771167598254
+  "savedAt": 1771167721758
 }
