@@ -3541,21 +3541,21 @@
       "donated_total": 100000000
     },
     "126882712432848": {
-      "coin": 1500008579,
+      "coin": 32890859,
       "uid": "13cccf94-38_b-nebula",
       "username": "@》☆♤♡♧《☆》☆♤♡♧《☆》☆♤♡♧《",
       "spam": {
-        "lastMessage": 1771144312582,
+        "lastMessage": 1771178448062,
         "count": 1
       },
-      "xp": 370,
+      "xp": 150,
       "lastWork": 1771143700977,
       "workSuccess": 1,
       "lastRobBank": 1771143707360,
       "robSuccess": 751,
       "invPurchases": 3,
       "winGame": 750,
-      "level": 750,
+      "level": 751,
       "robbed": 750,
       "rpgwin": 750,
       "rpgGather": 750,
@@ -3572,7 +3572,37 @@
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1771144074199,
-      "lastBulkInv": 1771144074199
+      "lastBulkInv": 1771144074199,
+      "club": {
+        "level": 71,
+        "upgrades": {
+          "music": 73,
+          "djs": 50,
+          "security": 32,
+          "bikegang": 28,
+          "carfleet": 27
+        },
+        "lastRentCollected": 0,
+        "upgradesBoughtSinceLevel": 0
+      },
+      "lastClaim": {
+        "ultimate": 1771144971040,
+        "immortal": 1771144981076,
+        "divine": 1771144993773,
+        "mythical": 1771145061262,
+        "legendary": 1771145081933,
+        "maxLevel200": 1771145094842,
+        "yearly": 1771145113788,
+        "biannual": 1771145139594,
+        "quarterly": 1771145152806,
+        "monthly": 1771145173596,
+        "weekly": 1771145199910,
+        "daily": 1771145221417
+      },
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "received_total": 99999000
     },
     "59155272470774": {
       "coin": 5000,
@@ -4057,7 +4087,63 @@
         "territoryClaims": 0,
         "totalDeposited": 0
       }
+    },
+    "5d07dc": {
+      "name": "CODERXSA",
+      "leader": "168419274039524",
+      "members": [
+        "168419274039524"
+      ],
+      "createdAt": 1771178396755,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "renown": 0,
+      "xp": 0,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {},
+      "lastQuestReset": 1771178396755,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [],
+      "stats": {
+        "missionCount": 0,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
+      }
     }
   },
-  "savedAt": 1771178274178
+  "savedAt": 1771178449698
 }
