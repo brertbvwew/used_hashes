@@ -1982,14 +1982,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 2763660661868,
+      "coin": 2763217661868,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771184018760,
+        "lastMessage": 1771224213226,
         "count": 1
       },
-      "xp": 430,
+      "xp": 830,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
@@ -2519,7 +2519,18 @@
         "luxuryyacht",
         "dragonpet",
         "goldbadge"
-      ]
+      ],
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
+      }
     },
     "168419274039524": {
       "coin": 999997929,
@@ -3013,5 +3024,75 @@
       }
     }
   },
-  "savedAt": 1771184033988
+  "savedAt": 1771224216018,
+  "clan": {
+    "b69826": {
+      "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
+      "leader": "249216148455505",
+      "members": [
+        "249216148455505"
+      ],
+      "createdAt": 1771224029611,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {
+        "income": 40,
+        "defense": 60,
+        "attack": 80,
+        "speed": 40,
+        "stealth": 20,
+        "luck": 15,
+        "morale": 12,
+        "salvage": 20,
+        "medic": 8,
+        "intel": 25
+      },
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "renown": 0,
+      "xp": 0,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {},
+      "lastQuestReset": 1771224029611,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [],
+      "stats": {
+        "missionCount": 0,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
+      },
+      "welcomeMessage": "🌹Dangerous with good looks🌹"
+    }
+  }
 }
