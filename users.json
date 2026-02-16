@@ -2014,10 +2014,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771239251879,
+        "lastMessage": 1771239481455,
         "count": 1
       },
-      "xp": 470,
+      "xp": 830,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
@@ -2609,6 +2609,13 @@
             "power": 2100,
             "tier": 7,
             "rarity": "common"
+          },
+          "4d47": {
+            "name": "COMMON WEAPON T2",
+            "type": "weapon",
+            "power": 1000,
+            "tier": 2,
+            "rarity": "common"
           }
         }
       }
@@ -3116,7 +3123,7 @@
       }
     }
   },
-  "savedAt": 1771239254013,
+  "savedAt": 1771239483180,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3133,12 +3140,12 @@
       "lastAmbush": 0,
       "lastCollect": 0,
       "lastChallenge": 0,
-      "lastScavenge": 1771239239672,
+      "lastScavenge": 1771239358762,
       "lastResearch": 0,
       "lastTrain": 1771233269352,
       "upgrades": {
         "defense": 10,
-        "attack": 5,
+        "attack": 10,
         "vault": 15,
         "morale": 15,
         "logistics": 15
@@ -3155,17 +3162,17 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 158076211256,
-      "glory": 6195,
-      "essence": 436,
+      "coin": 131850637291,
+      "glory": 6381,
+      "essence": 726,
       "renown": 250,
-      "xp": 4610,
+      "xp": 5266,
       "level": 4,
       "roles": {
-        "treasurer": null,
+        "treasurer": "249216148455505",
         "warlord": null,
         "spy": null,
-        "scout": null,
+        "scout": "106077605646392",
         "quartermaster": null
       },
       "research": {
@@ -3175,7 +3182,7 @@
       },
       "maxMembers": 8,
       "questProgress": {
-        "scavenge_3": 53,
+        "scavenge_3": 71,
         "deposit_5m": 5000000,
         "mission_2": 32
       },
