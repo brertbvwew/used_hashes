@@ -2014,10 +2014,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771233049615,
+        "lastMessage": 1771233084130,
         "count": 1
       },
-      "xp": 510,
+      "xp": 610,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
@@ -3063,7 +3063,7 @@
       }
     }
   },
-  "savedAt": 1771233050845,
+  "savedAt": 1771233086364,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3079,7 +3079,7 @@
       "lastAmbush": 0,
       "lastCollect": 0,
       "lastChallenge": 0,
-      "lastScavenge": 0,
+      "lastScavenge": 1771233080011,
       "lastResearch": 0,
       "lastTrain": 0,
       "upgrades": {
@@ -3101,11 +3101,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 0,
-      "glory": 0,
-      "essence": 0,
+      "coin": 2198973,
+      "glory": 21,
+      "essence": 8,
       "renown": 0,
-      "xp": 0,
+      "xp": 88,
       "level": 1,
       "roles": {
         "treasurer": null,
@@ -3120,7 +3120,9 @@
         "projectType": null
       },
       "maxMembers": 7,
-      "questProgress": {},
+      "questProgress": {
+        "scavenge_3": 3
+      },
       "lastQuestReset": 1771224029611,
       "consumables": {},
       "activeConsumable": {},
