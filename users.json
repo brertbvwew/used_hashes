@@ -2014,10 +2014,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771233114230,
+        "lastMessage": 1771233153889,
         "count": 1
       },
-      "xp": 770,
+      "xp": 910,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
@@ -2551,25 +2551,37 @@
       "clanId": "b69826",
       "gear": {
         "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": null,
-          "boots": null,
-          "helmet": null
-        },
-        "inventory": {
-          "fabf": {
+          "weapon": {
             "name": "COMMON WEAPON T6",
             "type": "weapon",
             "power": 3000,
             "tier": 6,
             "rarity": "common"
           },
-          "b0de": {
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": {
             "name": "COMMON HELMET T8",
             "type": "helmet",
             "power": 2000,
             "tier": 8,
+            "rarity": "common"
+          }
+        },
+        "inventory": {
+          "e042": {
+            "name": "COMMON BOOTS T1",
+            "type": "boots",
+            "power": 150,
+            "tier": 1,
+            "rarity": "common"
+          },
+          "5b82": {
+            "name": "COMMON WEAPON T10",
+            "type": "weapon",
+            "power": 5000,
+            "tier": 10,
             "rarity": "common"
           }
         }
@@ -3078,7 +3090,7 @@
       }
     }
   },
-  "savedAt": 1771233115958,
+  "savedAt": 1771233155995,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3094,7 +3106,7 @@
       "lastAmbush": 0,
       "lastCollect": 0,
       "lastChallenge": 0,
-      "lastScavenge": 1771233111243,
+      "lastScavenge": 1771233150566,
       "lastResearch": 0,
       "lastTrain": 0,
       "upgrades": {
@@ -3116,11 +3128,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 10709025,
-      "glory": 75,
-      "essence": 34,
+      "coin": 17704980,
+      "glory": 120,
+      "essence": 72,
       "renown": 0,
-      "xp": 296,
+      "xp": 456,
       "level": 1,
       "roles": {
         "treasurer": null,
@@ -3136,7 +3148,7 @@
       },
       "maxMembers": 7,
       "questProgress": {
-        "scavenge_3": 9
+        "scavenge_3": 13
       },
       "lastQuestReset": 1771224029611,
       "consumables": {},
