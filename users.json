@@ -1982,18 +1982,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 2763217661868,
+      "coin": 2762142661868,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771224213226,
+        "lastMessage": 1771224371782,
         "count": 1
       },
-      "xp": 830,
+      "xp": 230,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
-      "level": 980,
+      "level": 981,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -3024,7 +3024,7 @@
       }
     }
   },
-  "savedAt": 1771224216018,
+  "savedAt": 1771224373884,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3056,10 +3056,10 @@
         "speed": 40,
         "stealth": 20,
         "luck": 15,
-        "morale": 12,
-        "salvage": 20,
-        "medic": 8,
-        "intel": 25
+        "morale": 72,
+        "salvage": 100,
+        "medic": 32,
+        "intel": 80
       },
       "coin": 0,
       "glory": 0,
