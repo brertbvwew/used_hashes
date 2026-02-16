@@ -884,20 +884,20 @@
       "donated_total": 200000
     },
     "106077605646392": {
-      "coin": 5554530802101,
+      "coin": 5553030802101,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1771178466811,
+        "lastMessage": 1771229718636,
         "count": 1
       },
-      "xp": 9910,
+      "xp": 3050,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
       "winGame": 845,
-      "level": 855,
+      "level": 862,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -1082,7 +1082,35 @@
         "legendary": 1771148226514,
         "biannual": 1771148234501
       },
-      "lastBuyCoin": 1771158592604
+      "lastBuyCoin": 1771158592604,
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
+      },
+      "club": {
+        "level": 1,
+        "upgrades": {
+          "music": 0,
+          "djs": 0,
+          "security": 0,
+          "bikegang": 0,
+          "carfleet": 0,
+          "heli": 0,
+          "armory": 0,
+          "safehouse": 0,
+          "militia": 0,
+          "elite": 0
+        },
+        "lastRentCollected": 0,
+        "upgradesBoughtSinceLevel": 0
+      }
     },
     "93939944173798": {
       "coin": 1923461,
@@ -3024,7 +3052,7 @@
       }
     }
   },
-  "savedAt": 1771224888242,
+  "savedAt": 1771229720366,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
