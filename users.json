@@ -2010,14 +2010,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 2759583661868,
+      "coin": 2759578661868,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771233272033,
-        "count": 2
+        "lastMessage": 1771233383635,
+        "count": 1
       },
-      "xp": 250,
+      "xp": 290,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
@@ -3089,7 +3089,7 @@
       }
     }
   },
-  "savedAt": 1771233273961,
+  "savedAt": 1771233385981,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3159,7 +3159,7 @@
         "battleWins": 0,
         "eventWins": 0,
         "territoryClaims": 0,
-        "totalDeposited": 5000000
+        "totalDeposited": 10000000
       },
       "welcomeMessage": "🌹Dangerous with good looks🌹",
       "tempPowerBoost": 10
