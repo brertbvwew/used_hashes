@@ -2014,14 +2014,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771238941191,
+        "lastMessage": 1771238995159,
         "count": 1
       },
-      "xp": 910,
+      "xp": 30,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
-      "level": 985,
+      "level": 986,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -3109,7 +3109,7 @@
       }
     }
   },
-  "savedAt": 1771238942930,
+  "savedAt": 1771238997196,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3131,9 +3131,9 @@
       "upgrades": {
         "defense": 10,
         "attack": 5,
-        "vault": 10,
-        "morale": 10,
-        "logistics": 10
+        "vault": 15,
+        "morale": 15,
+        "logistics": 15
       },
       "perks": {
         "income": 500,
@@ -3147,7 +3147,7 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 107399194040,
+      "coin": 29893374047,
       "glory": 4143,
       "essence": 368,
       "renown": 250,
