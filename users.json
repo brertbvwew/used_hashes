@@ -320,18 +320,6 @@
       "helperLevel": 1,
       "helperGauge": 0,
       "donated_total": 100000000,
-      "club": {
-        "level": 136,
-        "upgrades": {
-          "music": 144,
-          "djs": 100,
-          "security": 69,
-          "bikegang": 50,
-          "carfleet": 44
-        },
-        "lastRentCollected": 1771108057350,
-        "upgradesBoughtSinceLevel": 2
-      },
       "lastBuyCoin": 1771158388314,
       "clublastRobTime": 1771178013695,
       "lastBuyUnban": 1771153784422,
@@ -342,18 +330,7 @@
           "time": 1771158413504
         }
       ],
-      "lastBuyXP": 1771158413504,
-      "clanId": "1462e7",
-      "gear": {
-        "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": null,
-          "boots": null,
-          "helmet": null
-        },
-        "inventory": {}
-      }
+      "lastBuyXP": 1771158413504
     },
     "254511792803874": {
       "coin": 427156736099,
@@ -542,21 +519,6 @@
         "lastMessage": 1771177331754,
         "count": 1
       },
-      "club": {
-        "level": 144,
-        "upgrades": {
-          "music": 197,
-          "djs": 75,
-          "security": 53,
-          "bikegang": 44,
-          "carfleet": 30,
-          "militia": 10,
-          "safehouse": 19,
-          "heli": 2
-        },
-        "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 1
-      },
       "usedCoupons": [
         {
           "hash": "SFNsekFhTTE6NTNiNWE1OWZjYWJiNDNiOWEzMTQ4YjM4NDY0MGYzMDA6MTc3MTA5ODQyODM2OTppU3poeTR4ejpkZTBlNWJjOWE2ZTUwZmIzMDRiZDA4M2Q1NTdiMTNiNQ==",
@@ -565,18 +527,7 @@
         }
       ],
       "lastBuyXP": 1771105153097,
-      "clublastRobTime": 1771177320616,
-      "clanId": "1462e7",
-      "gear": {
-        "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": null,
-          "boots": null,
-          "helmet": null
-        },
-        "inventory": {}
-      }
+      "clublastRobTime": 1771177320616
     },
     "148529213390986": {
       "coin": 198427143613,
@@ -699,81 +650,7 @@
       "lastBuyXP": 1770999680286,
       "lastBuyCoin": 1770043755011,
       "lastBuyWin": 1770488241856,
-      "club": {
-        "level": 139,
-        "upgrades": {
-          "music": 186,
-          "djs": 91,
-          "security": 55,
-          "bikegang": 39,
-          "carfleet": 43
-        },
-        "lastRentCollected": 1770964415927,
-        "upgradesBoughtSinceLevel": 0
-      },
       "clublastRobTime": 1771146103087,
-      "gear": {
-        "equipped": {
-          "weapon": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "armor": null,
-          "accessory": null
-        },
-        "inventory": {
-          "c0e8": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "edec": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "18bb": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "5c2d": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "9e68": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "cf0d": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "74d2": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "b2b5": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          }
-        }
-      },
       "banned": false,
       "permanent": false,
       "lastRob": 1770968090158
@@ -1039,7 +916,6 @@
       "weedtrades": 750,
       "lastAddInv": 1770473262982,
       "lastBulkInv": 1770473262982,
-      "clanId": "ac5c8c",
       "usedCoupons": [
         {
           "hash": "dGRIeDFXR0E6ODY5NTVhZWE1MzU2Mzg5YTM2Y2E0ODM3NTkzZTcxZmI6MTc3MDMwODU5NjA2NTpqdFk1V2ZyQjoyMzZmYjBiNzExYmQ1Y2FjZGRhYTY3NDdjYzkwODA1OQ==",
@@ -1151,59 +1027,6 @@
       },
       "tokens": 34,
       "lastBuyTokens": 1770412760749,
-      "gear": {
-        "equipped": {},
-        "inventory": {
-          "3849": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "d1b1": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "3e29": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "90ca": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "b566": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "1bd3": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "0493": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "e1c9": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          }
-        }
-      },
       "lastBuyUnban": 1771146603002,
       "lastPokemon": {
         "id": 336,
@@ -1244,18 +1067,6 @@
       "banned": false,
       "permanent": false,
       "received_total": 99999000,
-      "club": {
-        "level": 143,
-        "upgrades": {
-          "music": 176,
-          "djs": 97,
-          "security": 60,
-          "bikegang": 50,
-          "carfleet": 45
-        },
-        "lastRentCollected": 1771105119077,
-        "upgradesBoughtSinceLevel": 2
-      },
       "clublastRobTime": 1771178405151,
       "lastClaim": {
         "daily": 1771148083256,
@@ -1804,20 +1615,7 @@
       ],
       "lastBuyXP": 1771106617255,
       "lastBuyWin": 1771106665259,
-      "clanId": "ac5c8c",
       "donated_total": 100000000,
-      "club": {
-        "level": 99,
-        "upgrades": {
-          "music": 115,
-          "djs": 50,
-          "security": 60,
-          "bikegang": 37,
-          "carfleet": 34
-        },
-        "lastRentCollected": 1771109498273,
-        "upgradesBoughtSinceLevel": 2
-      },
       "clublastRobTime": 1771110994494
     },
     "230880849186992": {
@@ -1855,20 +1653,7 @@
       },
       "received_total": 99999000,
       "lastBuyCoin": 1771102596421,
-      "club": {
-        "level": 117,
-        "upgrades": {
-          "music": 140,
-          "djs": 75,
-          "security": 62,
-          "bikegang": 37,
-          "carfleet": 35
-        },
-        "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 1
-      },
-      "clublastRobTime": 1771102813922,
-      "clanId": "ac5c8c"
+      "clublastRobTime": 1771102813922
     },
     "65198425669680": {
       "coin": 5000,
@@ -1967,19 +1752,6 @@
         "immortal": 1770582707676
       },
       "received_total": 799992000,
-      "clanId": "ac5c8c",
-      "club": {
-        "level": 126,
-        "upgrades": {
-          "music": 171,
-          "djs": 65,
-          "security": 68,
-          "bikegang": 38,
-          "carfleet": 34
-        },
-        "lastRentCollected": 1771144140339,
-        "upgradesBoughtSinceLevel": 1
-      },
       "lastRob": 1771021440524,
       "lastSpins": 1770663243451,
       "weedinventory": {
@@ -2247,294 +2019,6 @@
       "premium": true,
       "premiumUntil": 1772826347250,
       "lastBuyPremium": 1770234347250,
-      "gear": {
-        "equipped": {
-          "weapon": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "armor": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "accessory": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          }
-        },
-        "inventory": {
-          "1810": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "2561": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "3818": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "5108": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "5684": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "3d2c": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "50ce": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "793e": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "ef6a": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "e4b8": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "ff72": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "29d5": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "7a40": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "dc05": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "35c6": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "7f6b": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "1f45": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "2bae": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "e189": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "6ba6": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "a691": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "4c96": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "bb24": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "8e4e": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "5ce6": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "3caf": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "dce4": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "47c4": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "363f": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "254b": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "d5af": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "7e50": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "5a96": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "6cd1": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "30f7": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "1af1": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "d1bc": {
-            "name": "ARMOR T1",
-            "type": "armor",
-            "power": 300,
-            "tier": 1
-          },
-          "0dca": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "fc30": {
-            "name": "ACCESSORY T1",
-            "type": "accessory",
-            "power": 200,
-            "tier": 1
-          },
-          "333f": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "af7f": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "365c": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "0181": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          },
-          "4b94": {
-            "name": "WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1
-          }
-        }
-      },
       "vipgameLastCard": {
         "id": 76,
         "name": "VIP CARD COLLECTION - CODERXSA",
@@ -2727,23 +2211,6 @@
         }
       ],
       "lastBuyXP": 1771181934365,
-      "club": {
-        "level": 182,
-        "upgrades": {
-          "music": 190,
-          "djs": 100,
-          "security": 70,
-          "bikegang": 55,
-          "carfleet": 45,
-          "militia": 18,
-          "elite": 19,
-          "armory": 16,
-          "heli": 15,
-          "safehouse": 16
-        },
-        "lastRentCollected": 1771105005309,
-        "upgradesBoughtSinceLevel": 1
-      },
       "donated_total": 1300000000,
       "lastRob": 1770324373183,
       "lastBuyWin": 1770412792468,
@@ -3169,19 +2636,6 @@
       "weedtrades": 750,
       "lastAddInv": 1771101650203,
       "lastBulkInv": 1771101650203,
-      "clanId": "ac5c8c",
-      "club": {
-        "level": 132,
-        "upgrades": {
-          "music": 175,
-          "djs": 80,
-          "security": 55,
-          "bikegang": 45,
-          "carfleet": 40
-        },
-        "lastRentCollected": 1771102602258,
-        "upgradesBoughtSinceLevel": 2
-      },
       "clublastRobTime": 1771183219085,
       "hasSentMsg": {
         "cooldown": true
@@ -3243,18 +2697,6 @@
         "premium": true,
         "banned": true
       },
-      "club": {
-        "level": 137,
-        "upgrades": {
-          "music": 179,
-          "djs": 93,
-          "security": 61,
-          "bikegang": 38,
-          "carfleet": 38
-        },
-        "lastRentCollected": 1770964478787,
-        "upgradesBoughtSinceLevel": 1
-      },
       "banned": false,
       "permanent": false,
       "lastClaim": {
@@ -3293,8 +2735,7 @@
       "weedsell": 500,
       "weedtrades": 500,
       "lastAddInv": 1770538807884,
-      "lastBulkInv": 1770538807884,
-      "clanId": "ac5c8c"
+      "lastBulkInv": 1770538807884
     },
     "70244391493882": {
       "coin": 5000,
@@ -3369,20 +2810,7 @@
       "hasSentMsg": {
         "cooldown": true
       },
-      "received_total": 299997000,
-      "club": {
-        "level": 71,
-        "upgrades": {
-          "music": 81,
-          "djs": 43,
-          "security": 39,
-          "bikegang": 24,
-          "carfleet": 23
-        },
-        "lastRentCollected": 1771111777354,
-        "upgradesBoughtSinceLevel": 0
-      },
-      "clanId": "ac5c8c"
+      "received_total": 299997000
     },
     "188519586758864": {
       "coin": 900,
@@ -3450,19 +2878,6 @@
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/178.png"
       },
-      "clanId": "ac5c8c",
-      "club": {
-        "level": 1,
-        "upgrades": {
-          "music": 0,
-          "djs": 0,
-          "security": 0,
-          "bikegang": 1,
-          "carfleet": 0
-        },
-        "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 1
-      },
       "clublastRobTime": 1771152076630
     },
     "161328232681649": {
@@ -3498,19 +2913,6 @@
       "hasSentMsg": {
         "cooldown": true
       },
-      "clanId": "ac5c8c",
-      "club": {
-        "level": 135,
-        "upgrades": {
-          "music": 169,
-          "djs": 82,
-          "security": 61,
-          "bikegang": 50,
-          "carfleet": 42
-        },
-        "lastRentCollected": 1771108232471,
-        "upgradesBoughtSinceLevel": 2
-      },
       "clublastRobTime": 1771108471626
     },
     "271627354902618": {
@@ -3543,7 +2945,6 @@
       "weedtrades": 500,
       "lastAddInv": 1771105443282,
       "lastBulkInv": 1771105443282,
-      "clanId": "ac5c8c",
       "donated_total": 100000000
     },
     "126882712432848": {
@@ -3579,18 +2980,6 @@
       "weedtrades": 750,
       "lastAddInv": 1771144074199,
       "lastBulkInv": 1771144074199,
-      "club": {
-        "level": 71,
-        "upgrades": {
-          "music": 73,
-          "djs": 50,
-          "security": 32,
-          "bikegang": 28,
-          "carfleet": 27
-        },
-        "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 0
-      },
       "lastClaim": {
         "ultimate": 1771144971040,
         "immortal": 1771144981076,
@@ -3621,533 +3010,6 @@
       "xp": 60,
       "hasSentMsg": {
         "premium": true
-      }
-    }
-  },
-  "clan": {
-    "713943": {
-      "name": "Rainzfaze",
-      "leader": "148529213390986",
-      "members": [
-        "148529213390986"
-      ],
-      "createdAt": 1770491533522,
-      "lastIncome": 1770645886084,
-      "lastBattle": 0,
-      "lastMission": 1770645864556,
-      "lastAmbush": 0,
-      "lastCollect": 1770645886084,
-      "lastChallenge": 1770646120271,
-      "lastScavenge": 1770645870799,
-      "lastResearch": 0,
-      "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0
-      },
-      "perks": {
-        "attack": 500,
-        "income": 500,
-        "defense": 500,
-        "stealth": 100
-      },
-      "coin": 598628700,
-      "glory": 97,
-      "essence": 6,
-      "roles": {
-        "treasurer": null,
-        "warlord": null,
-        "spy": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5,
-      "lastTrain": 1770646143987,
-      "tempPowerBoost": 10
-    },
-    "a287cb": {
-      "name": "زنجي",
-      "leader": "202095793848538",
-      "members": [
-        "202095793848538"
-      ],
-      "createdAt": 1767683717690,
-      "lastIncome": 1767686089927,
-      "lastBattle": 0,
-      "lastMission": 0,
-      "lastAmbush": 0,
-      "lastCollect": 1767686089927,
-      "lastChallenge": 1767686149451,
-      "lastScavenge": 0,
-      "lastResearch": 0,
-      "upgrades": {
-        "defense": 1,
-        "attack": 1,
-        "vault": 0
-      },
-      "perks": {
-        "income": 500,
-        "defense": 500,
-        "attack": 500,
-        "speed": 250,
-        "stealth": 100
-      },
-      "coin": 7500000,
-      "glory": 0,
-      "essence": 0,
-      "roles": {
-        "treasurer": null,
-        "warlord": null,
-        "spy": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5
-    },
-    "fc49b0": {
-      "name": "poker's bar",
-      "leader": "254511792803874",
-      "members": [
-        "254511792803874"
-      ],
-      "createdAt": 1767691935317,
-      "lastIncome": 0,
-      "lastBattle": 0,
-      "lastMission": 0,
-      "lastAmbush": 0,
-      "lastCollect": 0,
-      "lastChallenge": 0,
-      "lastScavenge": 0,
-      "lastResearch": 0,
-      "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0
-      },
-      "perks": {},
-      "coin": 0,
-      "glory": 0,
-      "essence": 0,
-      "roles": {
-        "treasurer": null,
-        "warlord": null,
-        "spy": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5
-    },
-    "8fbf3f": {
-      "name": "poker's bar",
-      "leader": "254511792803874",
-      "members": [
-        "254511792803874"
-      ],
-      "createdAt": 1767696273536,
-      "lastIncome": 0,
-      "lastBattle": 0,
-      "lastMission": 0,
-      "lastAmbush": 0,
-      "lastCollect": 0,
-      "lastChallenge": 0,
-      "lastScavenge": 0,
-      "lastResearch": 0,
-      "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0
-      },
-      "perks": {},
-      "coin": 0,
-      "glory": 0,
-      "essence": 0,
-      "roles": {
-        "treasurer": null,
-        "warlord": null,
-        "spy": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5
-    },
-    "5b8093": {
-      "name": "poker's bar",
-      "leader": "254511792803874",
-      "members": [
-        "254511792803874"
-      ],
-      "createdAt": 1769632121723,
-      "lastIncome": 0,
-      "lastBattle": 0,
-      "lastMission": 0,
-      "lastAmbush": 0,
-      "lastCollect": 0,
-      "lastChallenge": 0,
-      "lastScavenge": 0,
-      "lastResearch": 0,
-      "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0
-      },
-      "perks": {},
-      "coin": 0,
-      "glory": 0,
-      "essence": 0,
-      "roles": {
-        "treasurer": null,
-        "warlord": null,
-        "spy": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5
-    },
-    "894ee3": {
-      "name": "༓༺༽༴༈ྈྍྉྎྌྏྈྍ༈༴༼༻༓",
-      "leader": "249216148455505",
-      "members": [
-        "249216148455505"
-      ],
-      "createdAt": 1769941493159,
-      "lastIncome": 1769942831983,
-      "lastBattle": 0,
-      "lastMission": 0,
-      "lastAmbush": 0,
-      "lastCollect": 1769942831983,
-      "lastChallenge": 0,
-      "lastScavenge": 0,
-      "lastResearch": 0,
-      "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0
-      },
-      "perks": {
-        "income": 500
-      },
-      "coin": 0,
-      "glory": 0,
-      "essence": 0,
-      "roles": {
-        "treasurer": "249216148455505",
-        "warlord": null,
-        "spy": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5
-    },
-    "ac5c8c": {
-      "name": "༽࿂༜།S༴PཽI༆DཽE༴R།༜࿂༼",
-      "leader": "249216148455505",
-      "members": [
-        "249216148455505",
-        "106077605646392",
-        "63046378635471",
-        "151994715099391",
-        "161328232681649",
-        "114435796508833",
-        "271627354902618",
-        "254511792803874",
-        "230880849186992",
-        "82734609395920",
-        "126882712432848"
-      ],
-      "createdAt": 1770245717447,
-      "lastIncome": 1771108057984,
-      "lastBattle": 1771147284750,
-      "lastMission": 1771142095585,
-      "lastAmbush": 1771148985739,
-      "lastCollect": 1771108057984,
-      "lastChallenge": 1771105976190,
-      "lastScavenge": 1771152887528,
-      "lastResearch": 1771092913734,
-      "upgrades": {
-        "defense": 20,
-        "attack": 15,
-        "vault": 25,
-        "vault_storage": 50000000
-      },
-      "perks": {
-        "income": 650,
-        "defense": 500,
-        "attack": 500,
-        "speed": 250,
-        "stealth": 100
-      },
-      "coin": 248193849586,
-      "glory": 30666,
-      "essence": 47,
-      "roles": {
-        "treasurer": "249216148455505",
-        "warlord": "106077605646392",
-        "spy": "63046378635471"
-      },
-      "research": {
-        "project": "income_boost",
-        "eta": 1771168892145,
-        "projectType": "income_boost"
-      },
-      "maxMembers": 13,
-      "lastTrain": 1771147292430,
-      "welcomeMessage": "Always the best when comparing to the weak",
-      "tempPowerBoost": 10
-    },
-    "94483a": {
-      "name": "Rainzclan",
-      "leader": "148529213390986",
-      "members": [
-        "148529213390986"
-      ],
-      "createdAt": 1770430922258,
-      "lastIncome": 0,
-      "lastBattle": 0,
-      "lastMission": 0,
-      "lastAmbush": 0,
-      "lastCollect": 0,
-      "lastChallenge": 0,
-      "lastScavenge": 0,
-      "lastResearch": 0,
-      "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0
-      },
-      "perks": {
-        "speed": 250
-      },
-      "coin": 0,
-      "glory": 0,
-      "essence": 0,
-      "roles": {
-        "treasurer": null,
-        "warlord": null,
-        "spy": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5
-    },
-    "29c359": {
-      "name": "Rainzfaze",
-      "leader": "148529213390986",
-      "members": [
-        "148529213390986"
-      ],
-      "createdAt": 1770488405651,
-      "lastIncome": 0,
-      "lastBattle": 0,
-      "lastMission": 1770488807761,
-      "lastAmbush": 0,
-      "lastCollect": 0,
-      "lastChallenge": 1770488828489,
-      "lastScavenge": 1770488817810,
-      "lastResearch": 0,
-      "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0
-      },
-      "perks": {
-        "speed": 250,
-        "stealth": 100,
-        "income": 500,
-        "defense": 500,
-        "attack": 500
-      },
-      "coin": 21127750,
-      "glory": 115,
-      "essence": 4,
-      "roles": {
-        "treasurer": null,
-        "warlord": null,
-        "spy": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5
-    },
-    "10cbff": {
-      "name": "Rainzfaze",
-      "leader": "148529213390986",
-      "members": [
-        "148529213390986",
-        "246179539501140"
-      ],
-      "createdAt": 1770733283679,
-      "lastIncome": 1770969720046,
-      "lastBattle": 1771142440676,
-      "lastMission": 1771106371342,
-      "lastAmbush": 1770986932073,
-      "lastCollect": 1770969720046,
-      "lastChallenge": 1771105728271,
-      "lastScavenge": 1771106364398,
-      "lastResearch": 1771073204056,
-      "upgrades": {
-        "defense": 20,
-        "attack": 15,
-        "vault": 22
-      },
-      "perks": {
-        "speed": 250,
-        "attack": 500,
-        "defense": 500,
-        "stealth": 100,
-        "income": 550
-      },
-      "coin": 158139113462,
-      "glory": 10807,
-      "essence": 66,
-      "roles": {
-        "treasurer": "246179539501140",
-        "warlord": null,
-        "spy": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5,
-      "lastTrain": 1770969681505
-    },
-    "1462e7": {
-      "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
-      "leader": "249216148455505",
-      "members": [
-        "249216148455505",
-        "254511792803874",
-        "106077605646392"
-      ],
-      "createdAt": 1771176872249,
-      "lastIncome": 0,
-      "lastBattle": 0,
-      "lastMission": 0,
-      "lastAmbush": 0,
-      "lastCollect": 0,
-      "lastChallenge": 0,
-      "lastScavenge": 0,
-      "lastResearch": 0,
-      "lastTrain": 0,
-      "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0,
-        "morale": 0,
-        "logistics": 0
-      },
-      "perks": {},
-      "coin": 0,
-      "glory": 0,
-      "essence": 0,
-      "renown": 0,
-      "xp": 0,
-      "level": 1,
-      "roles": {
-        "treasurer": null,
-        "warlord": null,
-        "spy": null,
-        "scout": null,
-        "quartermaster": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5,
-      "questProgress": {},
-      "lastQuestReset": 1771176872249,
-      "consumables": {},
-      "activeConsumable": {},
-      "achievements": [],
-      "stats": {
-        "missionCount": 0,
-        "battleWins": 0,
-        "eventWins": 0,
-        "territoryClaims": 0,
-        "totalDeposited": 0
-      }
-    },
-    "5d07dc": {
-      "name": "CODERXSA",
-      "leader": "168419274039524",
-      "members": [
-        "168419274039524"
-      ],
-      "createdAt": 1771178396755,
-      "lastIncome": 0,
-      "lastBattle": 0,
-      "lastMission": 0,
-      "lastAmbush": 0,
-      "lastCollect": 0,
-      "lastChallenge": 0,
-      "lastScavenge": 0,
-      "lastResearch": 0,
-      "lastTrain": 0,
-      "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0,
-        "morale": 0,
-        "logistics": 0
-      },
-      "perks": {},
-      "coin": 0,
-      "glory": 0,
-      "essence": 0,
-      "renown": 0,
-      "xp": 0,
-      "level": 1,
-      "roles": {
-        "treasurer": null,
-        "warlord": null,
-        "spy": null,
-        "scout": null,
-        "quartermaster": null
-      },
-      "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
-      },
-      "maxMembers": 5,
-      "questProgress": {},
-      "lastQuestReset": 1771178396755,
-      "consumables": {},
-      "activeConsumable": {},
-      "achievements": [],
-      "stats": {
-        "missionCount": 0,
-        "battleWins": 0,
-        "eventWins": 0,
-        "territoryClaims": 0,
-        "totalDeposited": 0
       }
     }
   },
