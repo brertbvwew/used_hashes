@@ -2010,14 +2010,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 2759588661868,
+      "coin": 2759583661868,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771233233839,
-        "count": 1
+        "lastMessage": 1771233272033,
+        "count": 2
       },
-      "xp": 170,
+      "xp": 250,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
@@ -3089,7 +3089,7 @@
       }
     }
   },
-  "savedAt": 1771233236074,
+  "savedAt": 1771233273961,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3107,7 +3107,7 @@
       "lastChallenge": 0,
       "lastScavenge": 1771233228695,
       "lastResearch": 0,
-      "lastTrain": 0,
+      "lastTrain": 1771233269352,
       "upgrades": {
         "defense": 0,
         "attack": 0,
@@ -3147,7 +3147,8 @@
       },
       "maxMembers": 7,
       "questProgress": {
-        "scavenge_3": 21
+        "scavenge_3": 21,
+        "deposit_5m": 5000000
       },
       "lastQuestReset": 1771224029611,
       "consumables": {},
@@ -3158,9 +3159,10 @@
         "battleWins": 0,
         "eventWins": 0,
         "territoryClaims": 0,
-        "totalDeposited": 0
+        "totalDeposited": 5000000
       },
-      "welcomeMessage": "🌹Dangerous with good looks🌹"
+      "welcomeMessage": "🌹Dangerous with good looks🌹",
+      "tempPowerBoost": 10
     },
     "19e199": {
       "name": "زنجي",
