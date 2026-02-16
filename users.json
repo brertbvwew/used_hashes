@@ -2014,14 +2014,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771240337090,
+        "lastMessage": 1771240639508,
         "count": 1
       },
-      "xp": 670,
+      "xp": 590,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 960,
-      "level": 987,
+      "level": 988,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2582,6 +2582,13 @@
           }
         },
         "inventory": {
+          "5209": {
+            "name": "COMMON ARMOR T5",
+            "type": "armor",
+            "power": 1500,
+            "tier": 5,
+            "rarity": "common"
+          },
           "a8e3": {
             "name": "COMMON WEAPON T6",
             "type": "weapon",
@@ -3140,7 +3147,7 @@
       }
     }
   },
-  "savedAt": 1771240339362,
+  "savedAt": 1771240641848,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3156,7 +3163,7 @@
       "lastAmbush": 0,
       "lastCollect": 0,
       "lastChallenge": 0,
-      "lastScavenge": 1771239358762,
+      "lastScavenge": 1771240633037,
       "lastResearch": 0,
       "lastTrain": 1771233269352,
       "upgrades": {
@@ -3178,11 +3185,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 533693552574,
-      "glory": 8349,
-      "essence": 726,
+      "coin": 533749389612,
+      "glory": 8781,
+      "essence": 1412,
       "renown": 550,
-      "xp": 6031,
+      "xp": 7735,
       "level": 5,
       "roles": {
         "treasurer": "249216148455505",
@@ -3198,7 +3205,7 @@
       },
       "maxMembers": 8,
       "questProgress": {
-        "scavenge_3": 71,
+        "scavenge_3": 116,
         "deposit_5m": 5000000,
         "mission_2": 41
       },
