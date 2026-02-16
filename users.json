@@ -2014,10 +2014,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771238116556,
+        "lastMessage": 1771238301290,
         "count": 1
       },
-      "xp": 490,
+      "xp": 870,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
@@ -2558,7 +2558,13 @@
             "tier": 10,
             "rarity": "common"
           },
-          "armor": null,
+          "armor": {
+            "name": "COMMON ARMOR T7",
+            "type": "armor",
+            "power": 2100,
+            "tier": 7,
+            "rarity": "common"
+          },
           "accessory": null,
           "boots": {
             "name": "COMMON BOOTS T1",
@@ -2581,6 +2587,13 @@
             "type": "weapon",
             "power": 3000,
             "tier": 6,
+            "rarity": "common"
+          },
+          "d90b": {
+            "name": "COMMON WEAPON T4",
+            "type": "weapon",
+            "power": 2000,
+            "tier": 4,
             "rarity": "common"
           }
         }
@@ -3089,7 +3102,7 @@
       }
     }
   },
-  "savedAt": 1771238118292,
+  "savedAt": 1771238303425,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3105,7 +3118,7 @@
       "lastAmbush": 0,
       "lastCollect": 0,
       "lastChallenge": 0,
-      "lastScavenge": 1771233228695,
+      "lastScavenge": 1771238295949,
       "lastResearch": 0,
       "lastTrain": 1771233269352,
       "upgrades": {
@@ -3127,11 +3140,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 1566134292,
-      "glory": 567,
-      "essence": 154,
+      "coin": 1583969583,
+      "glory": 726,
+      "essence": 258,
       "renown": 250,
-      "xp": 1014,
+      "xp": 1582,
       "level": 2,
       "roles": {
         "treasurer": null,
@@ -3147,7 +3160,7 @@
       },
       "maxMembers": 8,
       "questProgress": {
-        "scavenge_3": 21,
+        "scavenge_3": 36,
         "deposit_5m": 5000000,
         "mission_2": 3
       },
