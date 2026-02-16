@@ -2014,10 +2014,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771239170669,
+        "lastMessage": 1771239251879,
         "count": 1
       },
-      "xp": 390,
+      "xp": 470,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
@@ -2559,11 +2559,11 @@
             "rarity": "common"
           },
           "armor": {
-            "name": "COMMON ARMOR T7",
+            "name": "EPIC ARMOR T5",
             "type": "armor",
-            "power": 2100,
-            "tier": 7,
-            "rarity": "common"
+            "power": 2250,
+            "tier": 5,
+            "rarity": "epic"
           },
           "accessory": null,
           "boots": {
@@ -2603,12 +2603,12 @@
             "tier": 4,
             "rarity": "common"
           },
-          "c91f": {
-            "name": "EPIC ARMOR T5",
+          "48e0": {
+            "name": "COMMON ARMOR T7",
             "type": "armor",
-            "power": 2250,
-            "tier": 5,
-            "rarity": "epic"
+            "power": 2100,
+            "tier": 7,
+            "rarity": "common"
           }
         }
       }
@@ -3116,7 +3116,7 @@
       }
     }
   },
-  "savedAt": 1771239172299,
+  "savedAt": 1771239254013,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3129,11 +3129,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 0,
       "lastBattle": 0,
-      "lastMission": 1771239110344,
+      "lastMission": 1771239225132,
       "lastAmbush": 0,
       "lastCollect": 0,
       "lastChallenge": 0,
-      "lastScavenge": 1771239130855,
+      "lastScavenge": 1771239239672,
       "lastResearch": 0,
       "lastTrain": 1771233269352,
       "upgrades": {
@@ -3155,11 +3155,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 142491349121,
-      "glory": 5985,
-      "essence": 392,
+      "coin": 158076211256,
+      "glory": 6195,
+      "essence": 436,
       "renown": 250,
-      "xp": 4290,
+      "xp": 4610,
       "level": 4,
       "roles": {
         "treasurer": null,
@@ -3175,9 +3175,9 @@
       },
       "maxMembers": 8,
       "questProgress": {
-        "scavenge_3": 47,
+        "scavenge_3": 53,
         "deposit_5m": 5000000,
-        "mission_2": 31
+        "mission_2": 32
       },
       "lastQuestReset": 1771224029611,
       "consumables": {},
@@ -3187,7 +3187,7 @@
         "vault_1b"
       ],
       "stats": {
-        "missionCount": 37,
+        "missionCount": 38,
         "battleWins": 0,
         "eventWins": 0,
         "territoryClaims": 0,
