@@ -2650,10 +2650,10 @@
       "uid": "eb43751-33_b-nebula",
       "username": "@Xx_🎅©|S^A∆N∆T^A|®❄️_xX",
       "spam": {
-        "lastMessage": 1771183229434,
+        "lastMessage": 1771229781416,
         "count": 1
       },
-      "xp": 780,
+      "xp": 820,
       "invPurchases": 3,
       "winGame": 759,
       "level": 751,
@@ -2678,6 +2678,17 @@
       "clublastRobTime": 1771183219085,
       "hasSentMsg": {
         "cooldown": true
+      },
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
       }
     },
     "173534512988169": {
@@ -3052,13 +3063,14 @@
       }
     }
   },
-  "savedAt": 1771229720366,
+  "savedAt": 1771229783548,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
       "leader": "249216148455505",
       "members": [
-        "249216148455505"
+        "249216148455505",
+        "66701597106413"
       ],
       "createdAt": 1771224029611,
       "lastIncome": 0,
