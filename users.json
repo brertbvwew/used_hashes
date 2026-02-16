@@ -2014,10 +2014,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1771233153889,
-        "count": 1
+        "lastMessage": 1771233197173,
+        "count": 2
       },
-      "xp": 910,
+      "xp": 990,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 959,
@@ -2552,15 +2552,21 @@
       "gear": {
         "equipped": {
           "weapon": {
-            "name": "COMMON WEAPON T6",
+            "name": "COMMON WEAPON T10",
             "type": "weapon",
-            "power": 3000,
-            "tier": 6,
+            "power": 5000,
+            "tier": 10,
             "rarity": "common"
           },
           "armor": null,
           "accessory": null,
-          "boots": null,
+          "boots": {
+            "name": "COMMON BOOTS T1",
+            "type": "boots",
+            "power": 150,
+            "tier": 1,
+            "rarity": "common"
+          },
           "helmet": {
             "name": "COMMON HELMET T8",
             "type": "helmet",
@@ -2570,18 +2576,11 @@
           }
         },
         "inventory": {
-          "e042": {
-            "name": "COMMON BOOTS T1",
-            "type": "boots",
-            "power": 150,
-            "tier": 1,
-            "rarity": "common"
-          },
-          "5b82": {
-            "name": "COMMON WEAPON T10",
+          "a8e3": {
+            "name": "COMMON WEAPON T6",
             "type": "weapon",
-            "power": 5000,
-            "tier": 10,
+            "power": 3000,
+            "tier": 6,
             "rarity": "common"
           }
         }
@@ -3090,7 +3089,7 @@
       }
     }
   },
-  "savedAt": 1771233155995,
+  "savedAt": 1771233199517,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
