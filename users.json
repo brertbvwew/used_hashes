@@ -14,10 +14,10 @@
       "coin": 5210361757403,
       "uid": "132dec0a-31_b-nebula",
       "username": "@𝔟𝔞𝔟𝔶𝔟𝔢𝔞𝔯",
-      "xp": 840,
+      "xp": 120,
       "invPurchases": 3,
       "winGame": 806,
-      "level": 772,
+      "level": 773,
       "robSuccess": 750,
       "robbed": 753,
       "rpgwin": 750,
@@ -311,7 +311,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1771178109418,
+        "lastMessage": 1771424518183,
         "count": 1
       },
       "isHelper": true,
@@ -330,7 +330,18 @@
           "time": 1771158413504
         }
       ],
-      "lastBuyXP": 1771158413504
+      "lastBuyXP": 1771158413504,
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
+      }
     },
     "254511792803874": {
       "coin": 427156736099,
@@ -3147,14 +3158,15 @@
       }
     }
   },
-  "savedAt": 1771241118449,
+  "savedAt": 1771424518826,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
       "leader": "249216148455505",
       "members": [
         "249216148455505",
-        "106077605646392"
+        "106077605646392",
+        "151994715099391"
       ],
       "createdAt": 1771224029611,
       "lastIncome": 0,
