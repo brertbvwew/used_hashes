@@ -2562,18 +2562,18 @@
       "robbed": 1
     },
     "269505624326383": {
-      "coin": 300029147,
+      "coin": 300033141,
       "uid": "f9f673c-33_b-nebula",
       "username": "@user_f9f673c-33",
       "spam": {
-        "lastMessage": 1771030464609,
+        "lastMessage": 1771528157988,
         "count": 1
       },
-      "xp": 330,
-      "lastWork": 1770973473300,
-      "workSuccess": 2,
-      "lastBeg": 1770973489091,
-      "begSuccess": 3,
+      "xp": 420,
+      "lastWork": 1771528140456,
+      "workSuccess": 3,
+      "lastBeg": 1771528144799,
+      "begSuccess": 4,
       "robbed": 1,
       "received_total": 299997000,
       "usedCoupons": [
@@ -3048,7 +3048,7 @@
       }
     }
   },
-  "savedAt": 1771520267042,
+  "savedAt": 1771528158843,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
