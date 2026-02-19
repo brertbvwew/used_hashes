@@ -1377,41 +1377,41 @@
       }
     },
     "198449416917151": {
-      "coin": 345927542,
+      "coin": 547133772,
       "uid": "364664be-31_b-nebula",
       "username": "@dickridder_👅",
-      "xp": 20,
-      "lastRansom": 1770580093556,
-      "robSuccess": 50,
-      "received_total": 344285000,
-      "lastSpin": 1771071024265,
-      "lastMine": 1771075198039,
+      "xp": 110,
+      "lastRansom": 1771533651184,
+      "robSuccess": 55,
+      "received_total": 545282000,
+      "lastSpin": 1771533818478,
+      "lastMine": 1771533641267,
       "lastRoulette": 1767821716253,
       "lastFlip": 1767824111645,
       "autolevelup": true,
       "lastPhish": 1769327049948,
-      "lastRob": 1771074924552,
-      "lastWork": 1771070806561,
-      "workSuccess": 6,
-      "lastSpins": 1771070753211,
+      "lastRob": 1771533513060,
+      "lastWork": 1771533693183,
+      "workSuccess": 7,
+      "lastSpins": 1771533585111,
       "hasSentMsg": {
         "cooldown": true,
         "owner": true,
         "premium": true
       },
-      "lastRobBank": 1771070699300,
-      "lastHack": 1771074011075,
+      "lastRobBank": 1771533678559,
+      "lastHack": 1771533654768,
       "lastTagAllTime": 1771068987425,
       "tagAllCount": 1,
-      "level": 10,
-      "violations": 3,
+      "level": 11,
+      "violations": 5,
       "lastFreelance": 1770582139012,
       "lastClaim": {
-        "daily": 1771070685490
+        "daily": 1771533311701
       },
-      "robbed": 4,
+      "robbed": 5,
       "spam": {
-        "lastMessage": 1771075198865,
+        "lastMessage": 1771533839617,
         "count": 1
       },
       "lastBlackjack": 1770982333180,
@@ -3048,7 +3048,7 @@
       }
     }
   },
-  "savedAt": 1771528158843,
+  "savedAt": 1771533840511,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
