@@ -1600,7 +1600,7 @@
       "coin": 3815481818707,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 260,
+      "xp": 760,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1637,7 +1637,7 @@
       "robbed": 759,
       "lastBuyCoin": 1771057072829,
       "spam": {
-        "lastMessage": 1771183597270,
+        "lastMessage": 1771564058581,
         "count": 1
       },
       "donated_total": 120000000,
@@ -1852,7 +1852,18 @@
       "rpgmonsterHealth": 173,
       "rpglastFight": 1770888990592,
       "rpghealth": 100,
-      "clublastRobTime": 1771183578916
+      "clublastRobTime": 1771183578916,
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
+      }
     },
     "27618605148": {
       "coin": 5000,
@@ -3056,7 +3067,7 @@
       }
     }
   },
-  "savedAt": 1771558456775,
+  "savedAt": 1771564059203,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3064,7 +3075,8 @@
       "members": [
         "249216148455505",
         "106077605646392",
-        "151994715099391"
+        "151994715099391",
+        "63046378635471"
       ],
       "createdAt": 1771224029611,
       "lastIncome": 0,
