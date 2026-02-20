@@ -741,33 +741,33 @@
       "received_total": 699993000
     },
     "174891739418636": {
-      "coin": 1200111364,
+      "coin": 799321996,
       "uid": "113705af-36_b-nebula",
       "username": "@user_113705af-36",
-      "xp": 840,
+      "xp": 400,
       "lastSpin": 1767815886935,
       "lastSpins": 1767816242728,
-      "lastMine": 1767816712876,
+      "lastMine": 1771558389813,
       "lastDecrypt": 1767816388219,
-      "robSuccess": 55,
+      "robSuccess": 61,
       "lastFreelance": 1767816393565,
-      "lastRob": 1767816814008,
-      "lastPhish": 1767816721498,
-      "lastRansom": 1767816717271,
+      "lastRob": 1771558425052,
+      "lastPhish": 1771558405958,
+      "lastRansom": 1771558397854,
       "autolevelup": false,
-      "lastRobBank": 1767816684887,
-      "lastHack": 1767816235101,
+      "lastRobBank": 1771558419335,
+      "lastHack": 1771558400171,
       "lastSteal": 1767794521343,
       "StealSuccess": 2,
-      "lastWork": 1767816674003,
-      "workSuccess": 7,
-      "level": 6,
+      "lastWork": 1771558410158,
+      "workSuccess": 8,
+      "level": 7,
       "lastClaim": {
-        "daily": 1767793506238
+        "daily": 1771533544432
       },
       "violations": 8,
       "lastClean": 1767805718452,
-      "robbed": 8,
+      "robbed": 9,
       "received_total": 1199988000,
       "lastCode": 1767816411089,
       "lastBeg": 1767805756411,
@@ -777,7 +777,11 @@
         "cooldown": true
       },
       "invPurchases": 0,
-      "donated_total": 200000
+      "donated_total": 401200000,
+      "spam": {
+        "lastMessage": 1771558427424,
+        "count": 2
+      }
     },
     "106077605646392": {
       "coin": 8543884169490,
@@ -3048,7 +3052,7 @@
       }
     }
   },
-  "savedAt": 1771533840511,
+  "savedAt": 1771558428150,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
