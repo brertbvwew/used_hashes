@@ -1381,50 +1381,54 @@
       }
     },
     "198449416917151": {
-      "coin": 547133772,
+      "coin": 747164355,
       "uid": "364664be-31_b-nebula",
       "username": "@dickridder_👅",
-      "xp": 110,
-      "lastRansom": 1771533651184,
-      "robSuccess": 55,
-      "received_total": 545282000,
-      "lastSpin": 1771533818478,
-      "lastMine": 1771533641267,
+      "xp": 725,
+      "lastRansom": 1771534185202,
+      "robSuccess": 60,
+      "received_total": 745280000,
+      "lastSpin": 1771534088334,
+      "lastMine": 1771534117778,
       "lastRoulette": 1767821716253,
       "lastFlip": 1767824111645,
       "autolevelup": true,
-      "lastPhish": 1769327049948,
-      "lastRob": 1771533513060,
-      "lastWork": 1771533693183,
-      "workSuccess": 7,
-      "lastSpins": 1771533585111,
+      "lastPhish": 1771534130995,
+      "lastRob": 1771534121389,
+      "lastWork": 1771534175995,
+      "workSuccess": 8,
+      "lastSpins": 1771534279811,
       "hasSentMsg": {
         "cooldown": true,
         "owner": true,
         "premium": true
       },
-      "lastRobBank": 1771533678559,
+      "lastRobBank": 1771534125700,
       "lastHack": 1771533654768,
       "lastTagAllTime": 1771068987425,
       "tagAllCount": 1,
       "level": 11,
       "violations": 5,
-      "lastFreelance": 1770582139012,
+      "lastFreelance": 1771534400855,
       "lastClaim": {
         "daily": 1771533311701
       },
       "robbed": 5,
       "spam": {
-        "lastMessage": 1771533839617,
+        "lastMessage": 1771558456034,
         "count": 1
       },
-      "lastBlackjack": 1770982333180,
+      "lastBlackjack": 1771534290785,
       "winGame": 2,
-      "lastDeliver": 1770582072030,
-      "lastCode": 1770982379362,
-      "lastClean": 1770582080982,
+      "lastDeliver": 1771534199763,
+      "lastCode": 1771534207724,
+      "lastClean": 1771534214911,
       "lastSteal": 1770582148355,
-      "StealSuccess": 1
+      "StealSuccess": 1,
+      "lastRepair": 1771534181826,
+      "lastDecrypt": 1771534195109,
+      "lastBeg": 1771534222715,
+      "begSuccess": 1
     },
     "92612597956617": {
       "coin": 3399966000,
@@ -3052,7 +3056,7 @@
       }
     }
   },
-  "savedAt": 1771558428150,
+  "savedAt": 1771558456775,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
