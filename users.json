@@ -1381,30 +1381,30 @@
       }
     },
     "198449416917151": {
-      "coin": 747420208,
+      "coin": 847436281,
       "uid": "364664be-31_b-nebula",
       "username": "@dickridder_👅",
-      "xp": 520,
+      "xp": 890,
       "lastRansom": 1772833926159,
-      "robSuccess": 68,
-      "received_total": 745280000,
+      "robSuccess": 72,
+      "received_total": 845279000,
       "lastSpin": 1772834170914,
-      "lastMine": 1772834124834,
+      "lastMine": 1772834537918,
       "lastRoulette": 1767821716253,
       "lastFlip": 1767824111645,
       "autolevelup": true,
       "lastPhish": 1772833893882,
-      "lastRob": 1772827755431,
-      "lastWork": 1772833932813,
-      "workSuccess": 9,
+      "lastRob": 1772834380697,
+      "lastWork": 1772834386544,
+      "workSuccess": 10,
       "lastSpins": 1772833851570,
       "hasSentMsg": {
         "cooldown": true,
         "owner": true,
         "premium": true
       },
-      "lastRobBank": 1772833802186,
-      "lastHack": 1772826106232,
+      "lastRobBank": 1772834373185,
+      "lastHack": 1772834424729,
       "lastTagAllTime": 1771068987425,
       "tagAllCount": 1,
       "level": 13,
@@ -1415,20 +1415,20 @@
       },
       "robbed": 5,
       "spam": {
-        "lastMessage": 1772834314282,
+        "lastMessage": 1772834730658,
         "count": 1
       },
       "lastBlackjack": 1772834217855,
       "winGame": 3,
       "lastDeliver": 1772833943698,
       "lastCode": 1772834078002,
-      "lastClean": 1772834070314,
+      "lastClean": 1772834361478,
       "lastSteal": 1770582148355,
       "StealSuccess": 1,
       "lastRepair": 1772834057706,
-      "lastDecrypt": 1772834097623,
-      "lastBeg": 1771534222715,
-      "begSuccess": 1
+      "lastDecrypt": 1772834417981,
+      "lastBeg": 1772834367439,
+      "begSuccess": 2
     },
     "92612597956617": {
       "coin": 3399966000,
@@ -3067,7 +3067,7 @@
       }
     }
   },
-  "savedAt": 1772834317299,
+  "savedAt": 1772834733305,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
