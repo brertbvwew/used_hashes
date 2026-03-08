@@ -3067,14 +3067,15 @@
       }
     },
     "115560826282077": {
-      "coin": 5000,
+      "coin": 100004000,
       "uid": "1c409e5b-37_b-nebula",
       "username": "@user_1c409e5b-37",
       "spam": {
-        "lastMessage": 1772976735190,
+        "lastMessage": 1772985022832,
         "count": 1
       },
-      "xp": 260
+      "xp": 500,
+      "received_total": 99999000
     },
     "126139028787226": {
       "coin": 30082,
@@ -3125,7 +3126,7 @@
       "lastSpin": 1772983876231
     }
   },
-  "savedAt": 1772984081967,
+  "savedAt": 1772985024185,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
