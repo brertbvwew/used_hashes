@@ -784,14 +784,14 @@
       }
     },
     "106077605646392": {
-      "coin": 13751951290906,
+      "coin": 12769666589112,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1773005083931,
+        "lastMessage": 1773005211667,
         "count": 1
       },
-      "xp": 350,
+      "xp": 530,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
@@ -995,21 +995,21 @@
         "inventory": {}
       },
       "club": {
-        "level": 138,
+        "level": 144,
         "upgrades": {
           "music": 100,
           "djs": 100,
           "security": 65,
           "bikegang": 50,
           "carfleet": 40,
-          "heli": 10,
-          "armory": 12,
-          "safehouse": 12,
-          "militia": 12,
-          "elite": 12
+          "heli": 15,
+          "armory": 15,
+          "safehouse": 15,
+          "militia": 15,
+          "elite": 15
         },
         "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 2
+        "upgradesBoughtSinceLevel": 1
       }
     },
     "93939944173798": {
@@ -3126,7 +3126,7 @@
       "lastSpin": 1772983876231
     }
   },
-  "savedAt": 1773005085980,
+  "savedAt": 1773005213263,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
