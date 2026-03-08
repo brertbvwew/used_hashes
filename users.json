@@ -1600,7 +1600,7 @@
       "coin": 3815481818707,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 760,
+      "xp": 20,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1629,7 +1629,7 @@
         }
       ],
       "lastBuyXP": 1770662600429,
-      "level": 782,
+      "level": 783,
       "autolevelup": true,
       "premium": true,
       "premiumUntil": 1773697555820,
@@ -1637,7 +1637,7 @@
       "robbed": 759,
       "lastBuyCoin": 1771057072829,
       "spam": {
-        "lastMessage": 1771564058581,
+        "lastMessage": 1772993351677,
         "count": 1
       },
       "donated_total": 120000000,
@@ -3126,7 +3126,7 @@
       "lastSpin": 1772983876231
     }
   },
-  "savedAt": 1772985024185,
+  "savedAt": 1772993355562,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
