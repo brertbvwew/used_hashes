@@ -3106,9 +3106,26 @@
       "lastRansom": 1772976391273,
       "lastWork": 1772976395741,
       "workSuccess": 1
+    },
+    "94747515465862": {
+      "coin": 10389,
+      "uid": "1404888a-32_b-nebula",
+      "username": "@user_1404888a-32",
+      "spam": {
+        "lastMessage": 1772984080173,
+        "count": 1
+      },
+      "xp": 350,
+      "lastRob": 1772983757327,
+      "robSuccess": 2,
+      "lastBlackjack": 1772983806627,
+      "lastSteal": 1772983834502,
+      "StealSuccess": 1,
+      "lastRobBank": 1772983864668,
+      "lastSpin": 1772983876231
     }
   },
-  "savedAt": 1772977187351,
+  "savedAt": 1772984081967,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
