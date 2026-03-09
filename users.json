@@ -3078,35 +3078,37 @@
       "received_total": 99999000
     },
     "126139028787226": {
-      "coin": 30082,
+      "coin": 101380,
       "uid": "38173d59-36_b-nebula",
       "username": "@user_38173d59-36",
       "spam": {
-        "lastMessage": 1772977184915,
+        "lastMessage": 1773076923477,
         "count": 1
       },
-      "xp": 695,
+      "xp": 350,
       "lastTagAllTime": 1772968160902,
       "tagAllCount": 1,
-      "lastCode": 1772976263445,
-      "lastBeg": 1772976234206,
-      "begSuccess": 1,
-      "lastClean": 1772976241032,
-      "lastDeliver": 1772976289920,
-      "lastDecrypt": 1772976300715,
-      "robSuccess": 6,
+      "lastCode": 1773073231195,
+      "lastBeg": 1772999424012,
+      "begSuccess": 2,
+      "lastClean": 1772999419667,
+      "lastDeliver": 1773073965613,
+      "lastDecrypt": 1773073235357,
+      "robSuccess": 23,
       "violations": 1,
-      "lastFreelance": 1772976329838,
-      "lastHack": 1772976354307,
-      "lastRob": 1772976359732,
-      "lastRobBank": 1772976364181,
-      "lastSteal": 1772976368528,
-      "StealSuccess": 1,
-      "lastPhish": 1772976373988,
-      "lastMine": 1772976386781,
-      "lastRansom": 1772976391273,
-      "lastWork": 1772976395741,
-      "workSuccess": 1
+      "lastFreelance": 1772999487008,
+      "lastHack": 1773073238519,
+      "lastRob": 1772999446833,
+      "lastRobBank": 1772990932917,
+      "lastSteal": 1772999452547,
+      "StealSuccess": 4,
+      "lastPhish": 1772999432712,
+      "lastMine": 1773074067446,
+      "lastRansom": 1772999482846,
+      "lastWork": 1772999411397,
+      "workSuccess": 3,
+      "level": 3,
+      "robbed": 1
     },
     "94747515465862": {
       "coin": 10389,
@@ -3126,7 +3128,7 @@
       "lastSpin": 1772983876231
     }
   },
-  "savedAt": 1773068418107,
+  "savedAt": 1773076925754,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
