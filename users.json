@@ -1929,10 +1929,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773082895873,
+        "lastMessage": 1773083280151,
         "count": 1
       },
-      "xp": 280,
+      "xp": 920,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 967,
@@ -3185,7 +3185,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773082898260,
+  "savedAt": 1773083282037,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3201,7 +3201,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773082835676,
+      "lastMission": 1773083253997,
       "lastAmbush": 0,
       "lastCollect": 1773081576117,
       "lastChallenge": 1773082183811,
@@ -3227,11 +3227,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 1009401481144,
-      "glory": 15897,
+      "coin": 1519813907985,
+      "glory": 19443,
       "essence": 1100,
       "renown": 900,
-      "xp": 11065,
+      "xp": 12595,
       "level": 6,
       "roles": {
         "treasurer": "249216148455505",
@@ -3250,7 +3250,7 @@
         "event_1": 1,
         "deposit_5m": 5000000,
         "scavenge_3": 5,
-        "mission_2": 19
+        "mission_2": 37
       },
       "lastQuestReset": 1773082088917,
       "consumables": {},
@@ -3262,7 +3262,7 @@
         "boss_slayer"
       ],
       "stats": {
-        "missionCount": 83,
+        "missionCount": 107,
         "battleWins": 0,
         "eventWins": 1,
         "territoryClaims": 0,
