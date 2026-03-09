@@ -3171,10 +3171,10 @@
       "uid": "38173d59-36_b-nebula",
       "username": "@user_38173d59-36",
       "spam": {
-        "lastMessage": 1773078641220,
+        "lastMessage": 1773089262853,
         "count": 1
       },
-      "xp": 815,
+      "xp": 195,
       "lastTagAllTime": 1772968160902,
       "tagAllCount": 1,
       "lastCode": 1773076935131,
@@ -3196,7 +3196,7 @@
       "lastRansom": 1773076994542,
       "lastWork": 1773076966452,
       "workSuccess": 4,
-      "level": 3,
+      "level": 4,
       "robbed": 1
     },
     "94747515465862": {
@@ -3249,7 +3249,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773089060829,
+  "savedAt": 1773089264632,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
