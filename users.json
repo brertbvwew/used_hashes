@@ -1925,18 +1925,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 29404685207247,
+      "coin": 28325566833383,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773080331266,
+        "lastMessage": 1773081542285,
         "count": 1
       },
-      "xp": 850,
+      "xp": 10,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 967,
-      "level": 989,
+      "level": 990,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2542,21 +2542,21 @@
         }
       },
       "club": {
-        "level": 149,
+        "level": 157,
         "upgrades": {
           "music": 150,
           "djs": 90,
           "security": 70,
           "bikegang": 45,
           "carfleet": 40,
-          "heli": 10,
-          "armory": 10,
-          "safehouse": 10,
-          "militia": 10,
-          "elite": 10
+          "heli": 15,
+          "armory": 15,
+          "safehouse": 15,
+          "militia": 15,
+          "elite": 15
         },
         "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 1
+        "upgradesBoughtSinceLevel": 2
       }
     },
     "168419274039524": {
@@ -3160,7 +3160,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773081438840,
+  "savedAt": 1773081544274,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
