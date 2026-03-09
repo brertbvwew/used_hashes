@@ -1925,14 +1925,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 28325566833383,
+      "coin": 28336321783383,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773081542285,
+        "lastMessage": 1773081586360,
         "count": 1
       },
-      "xp": 10,
+      "xp": 110,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 967,
@@ -2555,7 +2555,7 @@
           "militia": 15,
           "elite": 15
         },
-        "lastRentCollected": 0,
+        "lastRentCollected": 1773081562522,
         "upgradesBoughtSinceLevel": 2
       }
     },
@@ -3160,7 +3160,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773081544274,
+  "savedAt": 1773081588791,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3172,11 +3172,11 @@
         "63046378635471"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 0,
+      "lastIncome": 1773081576117,
       "lastBattle": 0,
       "lastMission": 1771241095301,
       "lastAmbush": 0,
-      "lastCollect": 0,
+      "lastCollect": 1773081576117,
       "lastChallenge": 0,
       "lastScavenge": 1771240633037,
       "lastResearch": 0,
@@ -3204,7 +3204,7 @@
       "glory": 11262,
       "essence": 1412,
       "renown": 550,
-      "xp": 8550,
+      "xp": 8580,
       "level": 5,
       "roles": {
         "treasurer": "249216148455505",
