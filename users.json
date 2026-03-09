@@ -1929,10 +1929,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773082263738,
+        "lastMessage": 1773082640633,
         "count": 1
       },
-      "xp": 360,
+      "xp": 940,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 967,
@@ -2556,6 +2556,13 @@
             "power": 2000,
             "tier": 4,
             "rarity": "common"
+          },
+          "5b2f": {
+            "name": "COMMON BOOTS T1",
+            "type": "boots",
+            "power": 150,
+            "tier": 1,
+            "rarity": "common"
           }
         }
       },
@@ -3178,7 +3185,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773082266000,
+  "savedAt": 1773082642800,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3193,17 +3200,17 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1771241095301,
+      "lastMission": 1773082635236,
       "lastAmbush": 0,
       "lastCollect": 1773081576117,
       "lastChallenge": 1773082183811,
-      "lastScavenge": 1773082222118,
+      "lastScavenge": 1773082508452,
       "lastResearch": 0,
       "lastTrain": 1773082258181,
       "upgrades": {
         "defense": 15,
         "attack": 10,
-        "vault": 15,
+        "vault": 20,
         "morale": 15,
         "logistics": 20
       },
@@ -3219,12 +3226,12 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 646937075883,
-      "glory": 11469,
-      "essence": 1080,
+      "coin": 658607746285,
+      "glory": 14436,
+      "essence": 1100,
       "renown": 900,
-      "xp": 9420,
-      "level": 5,
+      "xp": 10490,
+      "level": 6,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "106077605646392",
@@ -3241,7 +3248,8 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "scavenge_3": 3
+        "scavenge_3": 5,
+        "mission_2": 12
       },
       "lastQuestReset": 1773082088917,
       "consumables": {},
@@ -3253,7 +3261,7 @@
         "boss_slayer"
       ],
       "stats": {
-        "missionCount": 61,
+        "missionCount": 75,
         "battleWins": 0,
         "eventWins": 1,
         "territoryClaims": 0,
