@@ -1929,10 +1929,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773081586360,
+        "lastMessage": 1773081686307,
         "count": 1
       },
-      "xp": 110,
+      "xp": 230,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 967,
@@ -3160,7 +3160,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773081588791,
+  "savedAt": 1773081688231,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3208,9 +3208,9 @@
       "level": 5,
       "roles": {
         "treasurer": "249216148455505",
-        "warlord": null,
-        "spy": null,
-        "scout": "106077605646392",
+        "warlord": "106077605646392",
+        "spy": "151994715099391",
+        "scout": null,
         "quartermaster": null
       },
       "research": {
