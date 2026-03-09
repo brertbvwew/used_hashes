@@ -1929,10 +1929,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773081686307,
+        "lastMessage": 1773081746838,
         "count": 1
       },
-      "xp": 230,
+      "xp": 290,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 967,
@@ -3160,7 +3160,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773081688231,
+  "savedAt": 1773081748870,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3202,7 +3202,7 @@
       },
       "coin": 646914445239,
       "glory": 11262,
-      "essence": 1412,
+      "essence": 812,
       "renown": 550,
       "xp": 8580,
       "level": 5,
@@ -3214,9 +3214,9 @@
         "quartermaster": null
       },
       "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
+        "project": "income_boost_3",
+        "eta": 1773189742186,
+        "projectType": "income_boost_3"
       },
       "maxMembers": 8,
       "questProgress": {
