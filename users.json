@@ -1929,10 +1929,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773081746838,
+        "lastMessage": 1773081805800,
         "count": 1
       },
-      "xp": 290,
+      "xp": 370,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 967,
@@ -3160,7 +3160,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773081748870,
+  "savedAt": 1773081807597,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3178,7 +3178,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773081576117,
       "lastChallenge": 0,
-      "lastScavenge": 1771240633037,
+      "lastScavenge": 1773081773228,
       "lastResearch": 0,
       "lastTrain": 1771233269352,
       "upgrades": {
@@ -3200,11 +3200,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 646914445239,
-      "glory": 11262,
-      "essence": 812,
+      "coin": 646916814336,
+      "glory": 11286,
+      "essence": 860,
       "renown": 550,
-      "xp": 8580,
+      "xp": 8660,
       "level": 5,
       "roles": {
         "treasurer": "249216148455505",
@@ -3220,7 +3220,7 @@
       },
       "maxMembers": 8,
       "questProgress": {
-        "scavenge_3": 116,
+        "scavenge_3": 118,
         "deposit_5m": 5000000,
         "mission_2": 51
       },
