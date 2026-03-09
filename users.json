@@ -3126,9 +3126,41 @@
       "StealSuccess": 1,
       "lastRobBank": 1772983864668,
       "lastSpin": 1772983876231
+    },
+    "95408453877994": {
+      "coin": 37831,
+      "uid": "1af1811f-34_b-nebula",
+      "username": "@user_1af1811f-34",
+      "spam": {
+        "lastMessage": 1773078742418,
+        "count": 1
+      },
+      "xp": 885,
+      "lastTagAllTime": 1772970050671,
+      "tagAllCount": 1,
+      "lastRobBank": 1773074420712,
+      "robSuccess": 10,
+      "lastRob": 1773074399131,
+      "lastMine": 1773073156073,
+      "lastHack": 1773073039293,
+      "lastDecrypt": 1773073058169,
+      "lastCode": 1773073093131,
+      "lastWork": 1773072997330,
+      "robbed": 1,
+      "autolevelup": true,
+      "level": 1,
+      "workSuccess": 1,
+      "lastFreelance": 1773073022461,
+      "lastRepair": 1773073149495,
+      "lastPhish": 1773073178454,
+      "lastClean": 1773073879248,
+      "violations": 1,
+      "lastRansom": 1773074115184,
+      "lastSteal": 1773074163844,
+      "StealSuccess": 1
     }
   },
-  "savedAt": 1773078643603,
+  "savedAt": 1773078744372,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
