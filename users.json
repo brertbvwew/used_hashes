@@ -1925,14 +1925,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 86823725002427,
+      "coin": 86823625002157,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773116259902,
+        "lastMessage": 1773118878681,
         "count": 1
       },
-      "xp": 170,
+      "xp": 710,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 970,
@@ -1957,7 +1957,8 @@
       "lastBulkInv": 1770234154305,
       "hasSentMsg": {
         "cooldown": true,
-        "banned": true
+        "banned": true,
+        "admin": true
       },
       "premium": true,
       "premiumUntil": 1772826347250,
@@ -2154,7 +2155,7 @@
         }
       ],
       "lastBuyXP": 1771181934365,
-      "donated_total": 1300000000,
+      "donated_total": 1400000270,
       "lastRob": 1770324373183,
       "lastBuyWin": 1770412792468,
       "banned": false,
@@ -3249,7 +3250,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773116262195,
+  "savedAt": 1773118880506,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3269,7 +3270,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773081576117,
       "lastChallenge": 1773082183811,
-      "lastScavenge": 1773089044720,
+      "lastScavenge": 1773118866188,
       "lastResearch": 0,
       "lastTrain": 1773082258181,
       "upgrades": {
@@ -3291,11 +3292,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 3115260714367,
-      "glory": 30438,
-      "essence": 2320,
+      "coin": 3115264896412,
+      "glory": 30486,
+      "essence": 2370,
       "renown": 900,
-      "xp": 19183,
+      "xp": 19303,
       "level": 7,
       "roles": {
         "treasurer": "249216148455505",
@@ -3313,7 +3314,7 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "scavenge_3": 85,
+        "scavenge_3": 88,
         "mission_2": 81
       },
       "lastQuestReset": 1773082088917,
