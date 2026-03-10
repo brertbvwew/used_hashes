@@ -2852,17 +2852,17 @@
     "246179539501140": {
       "coin": 2559688595,
       "uid": "559041e-30_b-nebula",
-      "username": "@its_to_coldd",
+      "username": "@𖣂︎",
       "spam": {
-        "lastMessage": 1773153358504,
+        "lastMessage": 1773154861249,
         "count": 1
       },
-      "xp": 870,
+      "xp": 890,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
       "winGame": 753,
-      "level": 758,
+      "level": 759,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -2916,9 +2916,21 @@
         "equipped": {
           "weapon": null,
           "armor": null,
-          "accessory": null,
+          "accessory": {
+            "name": "COMMON ACCESSORY T3",
+            "type": "accessory",
+            "power": 600,
+            "tier": 3,
+            "rarity": "common"
+          },
           "boots": null,
-          "helmet": null
+          "helmet": {
+            "name": "COMMON HELMET T4",
+            "type": "helmet",
+            "power": 1000,
+            "tier": 4,
+            "rarity": "common"
+          }
         },
         "inventory": {}
       }
@@ -3323,7 +3335,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773154067038,
+  "savedAt": 1773154863678,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3335,11 +3347,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773154059207,
+      "lastMission": 1773154727834,
       "lastAmbush": 0,
       "lastCollect": 1773081576117,
       "lastChallenge": 1773082183811,
-      "lastScavenge": 1773154036972,
+      "lastScavenge": 1773154736668,
       "lastResearch": 0,
       "lastTrain": 1773134126795,
       "upgrades": {
@@ -3361,11 +3373,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 7235076263779,
-      "glory": 103317,
-      "essence": 3626,
+      "coin": 8895501478083,
+      "glory": 109380,
+      "essence": 3836,
       "renown": 900,
-      "xp": 47182,
+      "xp": 49560,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -3383,8 +3395,8 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "scavenge_3": 170,
-        "mission_2": 384
+        "scavenge_3": 182,
+        "mission_2": 407
       },
       "lastQuestReset": 1773082088917,
       "consumables": {},
@@ -3396,7 +3408,7 @@
         "boss_slayer"
       ],
       "stats": {
-        "missionCount": 499,
+        "missionCount": 528,
         "battleWins": 0,
         "eventWins": 1,
         "territoryClaims": 0,
