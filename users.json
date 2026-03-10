@@ -2854,10 +2854,10 @@
       "uid": "559041e-30_b-nebula",
       "username": "@its_to_coldd",
       "spam": {
-        "lastMessage": 1773083675025,
-        "count": 2
+        "lastMessage": 1773152972765,
+        "count": 1
       },
-      "xp": 310,
+      "xp": 610,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
@@ -2894,7 +2894,6 @@
       "clublastRobTime": 1770968170949,
       "lastSteal": 1770968140239,
       "StealSuccess": 1,
-      "clanId": "b69826",
       "gear": {
         "equipped": {
           "weapon": {
@@ -3329,7 +3328,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773146323637,
+  "savedAt": 1773152974677,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
