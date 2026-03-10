@@ -1929,14 +1929,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773125755110,
+        "lastMessage": 1773126711216,
         "count": 1
       },
-      "xp": 810,
+      "xp": 510,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 972,
-      "level": 1000,
+      "level": 1002,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2481,11 +2481,11 @@
             "rarity": "common"
           },
           "armor": {
-            "name": "EPIC ARMOR T5",
+            "name": "RARE ARMOR T7",
             "type": "armor",
-            "power": 2250,
-            "tier": 5,
-            "rarity": "epic"
+            "power": 2625,
+            "tier": 7,
+            "rarity": "rare"
           },
           "accessory": {
             "name": "RARE ACCESSORY T4",
@@ -2510,6 +2510,13 @@
           }
         },
         "inventory": {
+          "3787": {
+            "name": "COMMON BOOTS T3",
+            "type": "boots",
+            "power": 450,
+            "tier": 3,
+            "rarity": "common"
+          },
           "5209": {
             "name": "COMMON ARMOR T5",
             "type": "armor",
@@ -2613,6 +2620,34 @@
             "type": "boots",
             "power": 450,
             "tier": 3,
+            "rarity": "common"
+          },
+          "1e30": {
+            "name": "EPIC ARMOR T5",
+            "type": "armor",
+            "power": 2250,
+            "tier": 5,
+            "rarity": "epic"
+          },
+          "bf0a": {
+            "name": "COMMON ARMOR T6",
+            "type": "armor",
+            "power": 1800,
+            "tier": 6,
+            "rarity": "common"
+          },
+          "9b9c": {
+            "name": "COMMON WEAPON T3",
+            "type": "weapon",
+            "power": 1500,
+            "tier": 3,
+            "rarity": "common"
+          },
+          "1f32": {
+            "name": "COMMON ACCESSORY T2",
+            "type": "accessory",
+            "power": 400,
+            "tier": 2,
             "rarity": "common"
           }
         }
@@ -3270,7 +3305,7 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1773125757273,
+  "savedAt": 1773126712962,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3285,11 +3320,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773125695713,
+      "lastMission": 1773126605782,
       "lastAmbush": 0,
       "lastCollect": 1773081576117,
       "lastChallenge": 1773082183811,
-      "lastScavenge": 1773124423326,
+      "lastScavenge": 1773126608488,
       "lastResearch": 0,
       "lastTrain": 1773082258181,
       "upgrades": {
@@ -3311,11 +3346,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 3616692973343,
-      "glory": 59208,
-      "essence": 2866,
+      "coin": 5834593044678,
+      "glory": 71574,
+      "essence": 3224,
       "renown": 900,
-      "xp": 30039,
+      "xp": 35000,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -3333,8 +3368,8 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "scavenge_3": 114,
-        "mission_2": 200
+        "scavenge_3": 137,
+        "mission_2": 250
       },
       "lastQuestReset": 1773082088917,
       "consumables": {},
@@ -3346,7 +3381,7 @@
         "boss_slayer"
       ],
       "stats": {
-        "missionCount": 290,
+        "missionCount": 347,
         "battleWins": 0,
         "eventWins": 1,
         "territoryClaims": 0,
