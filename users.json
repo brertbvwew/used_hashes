@@ -3333,9 +3333,20 @@
       "lastRansom": 1773074115184,
       "lastSteal": 1773074163844,
       "StealSuccess": 1
+    },
+    "18675021181111": {
+      "coin": 150005000,
+      "uid": "2183026d-31_b-nebula",
+      "username": "@𓆰°•Raingoku⃟𓆪༑",
+      "spam": {
+        "lastMessage": 1773155249387,
+        "count": 1
+      },
+      "xp": 440,
+      "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773154863678,
+  "savedAt": 1773155251248,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3351,7 +3362,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773081576117,
       "lastChallenge": 1773082183811,
-      "lastScavenge": 1773154736668,
+      "lastScavenge": 1773154890420,
       "lastResearch": 0,
       "lastTrain": 1773134126795,
       "upgrades": {
@@ -3373,11 +3384,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 8895501478083,
-      "glory": 109380,
-      "essence": 3836,
+      "coin": 8895502799673,
+      "glory": 109386,
+      "essence": 3850,
       "renown": 900,
-      "xp": 49560,
+      "xp": 49600,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -3395,7 +3406,7 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "scavenge_3": 182,
+        "scavenge_3": 183,
         "mission_2": 407
       },
       "lastQuestReset": 1773082088917,
