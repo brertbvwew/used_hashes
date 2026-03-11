@@ -1925,14 +1925,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 845322436143139,
+      "coin": 844322436143139,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773258029753,
-        "count": 2
+        "lastMessage": 1773259269328,
+        "count": 1
       },
-      "xp": 230,
+      "xp": 310,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 980,
@@ -2165,7 +2165,7 @@
         }
       ],
       "lastBuyXP": 1773133627006,
-      "donated_total": 1001400001540,
+      "donated_total": 2001400001540,
       "lastRob": 1770324373183,
       "lastBuyWin": 1770412792468,
       "banned": false,
@@ -3695,7 +3695,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773258031687,
+  "savedAt": 1773259271180,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
