@@ -3357,17 +3357,17 @@
       "uid": "13cccf94-38_b-nebula",
       "username": "@》☆♤♡♧《☆》☆♤♡♧《☆》☆♤♡♧《",
       "spam": {
-        "lastMessage": 1771178448062,
+        "lastMessage": 1773252027874,
         "count": 1
       },
-      "xp": 150,
+      "xp": 10,
       "lastWork": 1771143700977,
       "workSuccess": 1,
       "lastRobBank": 1771143707360,
       "robSuccess": 751,
       "invPurchases": 3,
       "winGame": 750,
-      "level": 751,
+      "level": 754,
       "robbed": 750,
       "rpgwin": 750,
       "rpgGather": 750,
@@ -3402,7 +3402,85 @@
       "hasSentMsg": {
         "cooldown": true
       },
-      "received_total": 99999000
+      "received_total": 99999000,
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": {
+            "name": "COMMON WEAPON T2",
+            "type": "weapon",
+            "power": 1000,
+            "tier": 2,
+            "rarity": "common"
+          },
+          "armor": {
+            "name": "COMMON ARMOR T10",
+            "type": "armor",
+            "power": 3000,
+            "tier": 10,
+            "rarity": "common"
+          },
+          "accessory": null,
+          "boots": {
+            "name": "COMMON BOOTS T4",
+            "type": "boots",
+            "power": 600,
+            "tier": 4,
+            "rarity": "common"
+          },
+          "helmet": {
+            "name": "COMMON HELMET T3",
+            "type": "helmet",
+            "power": 750,
+            "tier": 3,
+            "rarity": "common"
+          }
+        },
+        "inventory": {
+          "1979": {
+            "name": "RARE BOOTS T2",
+            "type": "boots",
+            "power": 375,
+            "tier": 2,
+            "rarity": "rare"
+          },
+          "8525": {
+            "name": "COMMON ARMOR T4",
+            "type": "armor",
+            "power": 1200,
+            "tier": 4,
+            "rarity": "common"
+          },
+          "22f9": {
+            "name": "RARE HELMET T1",
+            "type": "helmet",
+            "power": 312,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "78d6": {
+            "name": "COMMON BOOTS T2",
+            "type": "boots",
+            "power": 300,
+            "tier": 2,
+            "rarity": "common"
+          },
+          "77ba": {
+            "name": "RARE HELMET T1",
+            "type": "helmet",
+            "power": 312,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "029e": {
+            "name": "RARE ARMOR T3",
+            "type": "armor",
+            "power": 1125,
+            "tier": 3,
+            "rarity": "rare"
+          }
+        }
+      }
     },
     "59155272470774": {
       "coin": 5000,
@@ -3522,7 +3600,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773248208672,
+  "savedAt": 1773252029514,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3535,11 +3613,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773248140838,
+      "lastMission": 1773252021886,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773177793045,
-      "lastScavenge": 1773248139152,
+      "lastScavenge": 1773252020961,
       "lastResearch": 1773239394904,
       "lastTrain": 1773246220516,
       "upgrades": {
@@ -3561,11 +3639,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 12215216204508,
-      "glory": 187884,
-      "essence": 8272,
+      "coin": 15152519885211,
+      "glory": 202017,
+      "essence": 9572,
       "renown": 1950,
-      "xp": 88422,
+      "xp": 96352,
       "level": 10,
       "roles": {
         "treasurer": "249216148455505",
@@ -3583,8 +3661,8 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "mission_2": 316,
-        "scavenge_3": 311
+        "mission_2": 370,
+        "scavenge_3": 404
       },
       "lastQuestReset": 1773177773516,
       "consumables": {},
@@ -3599,7 +3677,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 894,
+        "missionCount": 962,
         "battleWins": 0,
         "eventWins": 2,
         "territoryClaims": 3,
