@@ -2858,15 +2858,15 @@
       "uid": "559041e-30_b-nebula",
       "username": "@𖣂︎",
       "spam": {
-        "lastMessage": 1773154861249,
+        "lastMessage": 1773238112254,
         "count": 1
       },
-      "xp": 890,
+      "xp": 790,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
       "winGame": 753,
-      "level": 759,
+      "level": 760,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -2936,7 +2936,22 @@
             "rarity": "common"
           }
         },
-        "inventory": {}
+        "inventory": {
+          "2717": {
+            "name": "COMMON ACCESSORY T2",
+            "type": "accessory",
+            "power": 400,
+            "tier": 2,
+            "rarity": "common"
+          },
+          "4fa0": {
+            "name": "COMMON ACCESSORY T3",
+            "type": "accessory",
+            "power": 600,
+            "tier": 3,
+            "rarity": "common"
+          }
+        }
       }
     },
     "27645319912": {
@@ -3350,7 +3365,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773236783365,
+  "savedAt": 1773238114110,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
