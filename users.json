@@ -1929,14 +1929,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773245931199,
+        "lastMessage": 1773247946074,
         "count": 1
       },
-      "xp": 610,
+      "xp": 910,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 979,
-      "level": 1028,
+      "level": 1031,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2492,11 +2492,11 @@
       "gear": {
         "equipped": {
           "weapon": {
-            "name": "COMMON WEAPON T10",
+            "name": "LEGENDARY WEAPON T10",
             "type": "weapon",
-            "power": 5000,
+            "power": 10000,
             "tier": 10,
-            "rarity": "common"
+            "rarity": "legendary"
           },
           "armor": {
             "name": "RARE ARMOR T7",
@@ -2541,6 +2541,13 @@
             "power": 1500,
             "tier": 5,
             "rarity": "common"
+          },
+          "9834": {
+            "name": "RARE WEAPON T7",
+            "type": "weapon",
+            "power": 4375,
+            "tier": 7,
+            "rarity": "rare"
           },
           "a8e3": {
             "name": "COMMON WEAPON T6",
@@ -2693,6 +2700,69 @@
             "name": "RARE ARMOR T1",
             "type": "armor",
             "power": 375,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "0ed5": {
+            "name": "RARE WEAPON T6",
+            "type": "weapon",
+            "power": 3750,
+            "tier": 6,
+            "rarity": "rare"
+          },
+          "4f35": {
+            "name": "COMMON WEAPON T5",
+            "type": "weapon",
+            "power": 2500,
+            "tier": 5,
+            "rarity": "common"
+          },
+          "817f": {
+            "name": "COMMON WEAPON T10",
+            "type": "weapon",
+            "power": 5000,
+            "tier": 10,
+            "rarity": "common"
+          },
+          "b6a4": {
+            "name": "COMMON ACCESSORY T4",
+            "type": "accessory",
+            "power": 800,
+            "tier": 4,
+            "rarity": "common"
+          },
+          "4dbd": {
+            "name": "RARE WEAPON T2",
+            "type": "weapon",
+            "power": 1250,
+            "tier": 2,
+            "rarity": "rare"
+          },
+          "292d": {
+            "name": "COMMON ARMOR T4",
+            "type": "armor",
+            "power": 1200,
+            "tier": 4,
+            "rarity": "common"
+          },
+          "1f7f": {
+            "name": "EPIC WEAPON T1",
+            "type": "weapon",
+            "power": 750,
+            "tier": 1,
+            "rarity": "epic"
+          },
+          "fa7f": {
+            "name": "COMMON WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1,
+            "rarity": "common"
+          },
+          "518c": {
+            "name": "RARE WEAPON T1",
+            "type": "weapon",
+            "power": 625,
             "tier": 1,
             "rarity": "rare"
           }
@@ -3452,25 +3522,26 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773245932922,
+  "savedAt": 1773247948203,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
       "leader": "249216148455505",
       "members": [
         "249216148455505",
-        "246179539501140"
+        "246179539501140",
+        "151994715099391"
       ],
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773245856444,
+      "lastMission": 1773247927470,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773177793045,
-      "lastScavenge": 1773245856738,
+      "lastScavenge": 1773247944952,
       "lastResearch": 1773239394904,
-      "lastTrain": 1773177810742,
+      "lastTrain": 1773246220516,
       "upgrades": {
         "defense": 20,
         "attack": 15,
@@ -3490,11 +3561,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 9238236270887,
-      "glory": 176175,
-      "essence": 5756,
+      "coin": 11827249432818,
+      "glory": 186330,
+      "essence": 8168,
       "renown": 1950,
-      "xp": 78353,
+      "xp": 87622,
       "level": 10,
       "roles": {
         "treasurer": "249216148455505",
@@ -3512,8 +3583,8 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "mission_2": 277,
-        "scavenge_3": 124
+        "mission_2": 309,
+        "scavenge_3": 305
       },
       "lastQuestReset": 1773177773516,
       "consumables": {},
@@ -3528,14 +3599,15 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 852,
+        "missionCount": 887,
         "battleWins": 0,
         "eventWins": 2,
         "territoryClaims": 3,
         "totalDeposited": 220500000,
         "territoryCount": 8
       },
-      "welcomeMessage": "🌹Dangerous with good looks🌹"
+      "welcomeMessage": "🌹Dangerous with good looks🌹",
+      "tempPowerBoost": 10
     },
     "19e199": {
       "name": "زنجي",
