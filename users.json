@@ -786,12 +786,12 @@
     "106077605646392": {
       "coin": 970224263531522,
       "uid": "28d70f27-32_b-nebula",
-      "username": "@Kold",
+      "username": "@Kold<Fw>Asians",
       "spam": {
-        "lastMessage": 1773260378221,
+        "lastMessage": 1773261648224,
         "count": 1
       },
-      "xp": 330,
+      "xp": 410,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
@@ -3713,7 +3713,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773260483848,
+  "savedAt": 1773261650242,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3730,7 +3730,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773177793045,
-      "lastScavenge": 1773256779397,
+      "lastScavenge": 1773261239902,
       "lastResearch": 1773239394904,
       "lastTrain": 1773246220516,
       "upgrades": {
@@ -3752,11 +3752,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 15472346364165,
-      "glory": 204630,
-      "essence": 10712,
+      "coin": 15472349754903,
+      "glory": 204657,
+      "essence": 10728,
       "renown": 1950,
-      "xp": 99638,
+      "xp": 99718,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -3775,7 +3775,7 @@
         "event_1": 1,
         "deposit_5m": 5000000,
         "mission_2": 377,
-        "scavenge_3": 477
+        "scavenge_3": 479
       },
       "lastQuestReset": 1773177773516,
       "consumables": {},
