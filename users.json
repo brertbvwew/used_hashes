@@ -1929,14 +1929,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773255766952,
+        "lastMessage": 1773256798242,
         "count": 1
       },
-      "xp": 590,
+      "xp": 30,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 980,
-      "level": 1033,
+      "level": 1034,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2506,18 +2506,18 @@
             "rarity": "rare"
           },
           "accessory": {
-            "name": "RARE ACCESSORY T4",
+            "name": "RARE ACCESSORY T5",
             "type": "accessory",
-            "power": 1000,
-            "tier": 4,
+            "power": 1250,
+            "tier": 5,
             "rarity": "rare"
           },
           "boots": {
-            "name": "COMMON BOOTS T3",
+            "name": "RARE BOOTS T3",
             "type": "boots",
-            "power": 450,
+            "power": 562,
             "tier": 3,
-            "rarity": "common"
+            "rarity": "rare"
           },
           "helmet": {
             "name": "RARE HELMET T8",
@@ -2820,6 +2820,20 @@
             "type": "weapon",
             "power": 500,
             "tier": 1,
+            "rarity": "common"
+          },
+          "de08": {
+            "name": "RARE ACCESSORY T4",
+            "type": "accessory",
+            "power": 1000,
+            "tier": 4,
+            "rarity": "rare"
+          },
+          "6e09": {
+            "name": "COMMON BOOTS T3",
+            "type": "boots",
+            "power": 450,
+            "tier": 3,
             "rarity": "common"
           }
         }
@@ -3678,7 +3692,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773255769177,
+  "savedAt": 1773256799491,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3695,7 +3709,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773177793045,
-      "lastScavenge": 1773255760455,
+      "lastScavenge": 1773256779397,
       "lastResearch": 1773239394904,
       "lastTrain": 1773246220516,
       "upgrades": {
@@ -3717,11 +3731,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 15472334397231,
-      "glory": 204516,
-      "essence": 10550,
+      "coin": 15472346364165,
+      "glory": 204630,
+      "essence": 10712,
       "renown": 1950,
-      "xp": 99230,
+      "xp": 99638,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -3740,7 +3754,7 @@
         "event_1": 1,
         "deposit_5m": 5000000,
         "mission_2": 377,
-        "scavenge_3": 466
+        "scavenge_3": 477
       },
       "lastQuestReset": 1773177773516,
       "consumables": {},
