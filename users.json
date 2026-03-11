@@ -1929,14 +1929,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773241977685,
+        "lastMessage": 1773243085416,
         "count": 1
       },
-      "xp": 860,
+      "xp": 620,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 978,
-      "level": 1023,
+      "level": 1024,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -3365,7 +3365,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773241979513,
+  "savedAt": 1773243087265,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3377,11 +3377,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773240652435,
+      "lastMission": 1773243078777,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773177793045,
-      "lastScavenge": 1773241971474,
+      "lastScavenge": 1773243058090,
       "lastResearch": 1773239394904,
       "lastTrain": 1773177810742,
       "upgrades": {
@@ -3403,11 +3403,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 6430152523693,
-      "glory": 136563,
-      "essence": 4270,
+      "coin": 9906159515816,
+      "glory": 147132,
+      "essence": 4750,
       "renown": 1100,
-      "xp": 60586,
+      "xp": 65832,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -3425,8 +3425,8 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "mission_2": 106,
-        "scavenge_3": 30
+        "mission_2": 156,
+        "scavenge_3": 59
       },
       "lastQuestReset": 1773177773516,
       "consumables": {},
@@ -3438,7 +3438,7 @@
         "boss_slayer"
       ],
       "stats": {
-        "missionCount": 660,
+        "missionCount": 720,
         "battleWins": 0,
         "eventWins": 2,
         "territoryClaims": 0,
