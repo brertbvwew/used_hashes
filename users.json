@@ -2858,15 +2858,15 @@
       "uid": "559041e-30_b-nebula",
       "username": "@𖣂︎",
       "spam": {
-        "lastMessage": 1773238112254,
-        "count": 1
+        "lastMessage": 1773243234825,
+        "count": 2
       },
-      "xp": 790,
+      "xp": 570,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
       "winGame": 753,
-      "level": 760,
+      "level": 763,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -2918,22 +2918,34 @@
       "clanId": "b69826",
       "gear": {
         "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": {
-            "name": "COMMON ACCESSORY T3",
-            "type": "accessory",
-            "power": 600,
-            "tier": 3,
+          "weapon": {
+            "name": "COMMON WEAPON T9",
+            "type": "weapon",
+            "power": 4500,
+            "tier": 9,
             "rarity": "common"
+          },
+          "armor": {
+            "name": "LEGENDARY ARMOR T9",
+            "type": "armor",
+            "power": 5400,
+            "tier": 9,
+            "rarity": "legendary"
+          },
+          "accessory": {
+            "name": "EPIC ACCESSORY T5",
+            "type": "accessory",
+            "power": 1500,
+            "tier": 5,
+            "rarity": "epic"
           },
           "boots": null,
           "helmet": {
-            "name": "COMMON HELMET T4",
+            "name": "RARE HELMET T5",
             "type": "helmet",
-            "power": 1000,
-            "tier": 4,
-            "rarity": "common"
+            "power": 1562,
+            "tier": 5,
+            "rarity": "rare"
           }
         },
         "inventory": {
@@ -2944,12 +2956,68 @@
             "tier": 2,
             "rarity": "common"
           },
+          "4575": {
+            "name": "RARE ARMOR T2",
+            "type": "armor",
+            "power": 750,
+            "tier": 2,
+            "rarity": "rare"
+          },
           "4fa0": {
             "name": "COMMON ACCESSORY T3",
             "type": "accessory",
             "power": 600,
             "tier": 3,
             "rarity": "common"
+          },
+          "83ba": {
+            "name": "COMMON HELMET T4",
+            "type": "helmet",
+            "power": 1000,
+            "tier": 4,
+            "rarity": "common"
+          },
+          "bec6": {
+            "name": "EPIC WEAPON T2",
+            "type": "weapon",
+            "power": 1500,
+            "tier": 2,
+            "rarity": "epic"
+          },
+          "2c65": {
+            "name": "COMMON HELMET T3",
+            "type": "helmet",
+            "power": 750,
+            "tier": 3,
+            "rarity": "common"
+          },
+          "b8f1": {
+            "name": "RARE WEAPON T1",
+            "type": "weapon",
+            "power": 625,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "1ff3": {
+            "name": "COMMON WEAPON T6",
+            "type": "weapon",
+            "power": 3000,
+            "tier": 6,
+            "rarity": "common"
+          },
+          "5b0c": {
+            "name": "COMMON ACCESSORY T3",
+            "type": "accessory",
+            "power": 600,
+            "tier": 3,
+            "rarity": "common"
+          },
+          "96a5": {
+            "name": "RARE HELMET T4",
+            "type": "helmet",
+            "power": 1250,
+            "tier": 4,
+            "rarity": "rare"
           }
         }
       }
@@ -3365,7 +3433,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773243214746,
+  "savedAt": 1773243236222,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
