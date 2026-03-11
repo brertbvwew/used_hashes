@@ -1929,10 +1929,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773239306477,
+        "lastMessage": 1773239428356,
         "count": 1
       },
-      "xp": 640,
+      "xp": 720,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 977,
@@ -3365,7 +3365,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773239387684,
+  "savedAt": 1773239429848,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3379,10 +3379,10 @@
       "lastBattle": 0,
       "lastMission": 1773239172327,
       "lastAmbush": 0,
-      "lastCollect": 1773081576117,
+      "lastCollect": 1773239394904,
       "lastChallenge": 1773177793045,
       "lastScavenge": 1773239172836,
-      "lastResearch": 0,
+      "lastResearch": 1773239394904,
       "lastTrain": 1773177810742,
       "upgrades": {
         "defense": 20,
@@ -3392,7 +3392,7 @@
         "logistics": 25
       },
       "perks": {
-        "income": 500,
+        "income": 590,
         "defense": 500,
         "attack": 500,
         "speed": 300,
@@ -3417,9 +3417,9 @@
         "quartermaster": null
       },
       "research": {
-        "project": "income_boost_3",
-        "eta": 1773189742186,
-        "projectType": "income_boost_3"
+        "project": null,
+        "eta": 0,
+        "projectType": null
       },
       "maxMembers": 12,
       "questProgress": {
