@@ -1925,14 +1925,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 846322436144639,
+      "coin": 845322436143139,
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773256798242,
-        "count": 1
+        "lastMessage": 1773258029753,
+        "count": 2
       },
-      "xp": 30,
+      "xp": 230,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 980,
@@ -1960,9 +1960,9 @@
         "banned": true,
         "admin": true
       },
-      "premium": true,
-      "premiumUntil": 1772826347250,
-      "lastBuyPremium": 1770234347250,
+      "premium": false,
+      "premiumUntil": 0,
+      "lastBuyPremium": 1773257895690,
       "vipgameLastCard": {
         "id": 76,
         "name": "VIP CARD COLLECTION - CODERXSA",
@@ -2165,7 +2165,7 @@
         }
       ],
       "lastBuyXP": 1773133627006,
-      "donated_total": 1400001540,
+      "donated_total": 1001400001540,
       "lastRob": 1770324373183,
       "lastBuyWin": 1770412792468,
       "banned": false,
@@ -2855,7 +2855,10 @@
         "lastRentCollected": 1773081562522,
         "upgradesBoughtSinceLevel": 2
       },
-      "rpgmonsterHealth": 163
+      "rpgmonsterHealth": 163,
+      "uplimit": "5MB",
+      "limit": 5,
+      "give_limit_until": 1773862695690
     },
     "168419274039524": {
       "coin": 999997929,
@@ -3692,7 +3695,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773258021774,
+  "savedAt": 1773258031687,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
