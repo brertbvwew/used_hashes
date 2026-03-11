@@ -784,19 +784,19 @@
       }
     },
     "106077605646392": {
-      "coin": 687439450728954,
+      "coin": 970224263531522,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold",
       "spam": {
-        "lastMessage": 1773239385971,
+        "lastMessage": 1773260378221,
         "count": 1
       },
-      "xp": 270,
+      "xp": 330,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
-      "winGame": 869,
+      "winGame": 870,
       "level": 868,
       "robSuccess": 750,
       "robbed": 750,
@@ -967,7 +967,7 @@
       "banned": false,
       "permanent": false,
       "received_total": 99999000,
-      "clublastRobTime": 1773239321105,
+      "clublastRobTime": 1773260365355,
       "lastClaim": {
         "daily": 1771148083256,
         "weekly": 1771148093803,
@@ -3713,7 +3713,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773259797739,
+  "savedAt": 1773260380028,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
