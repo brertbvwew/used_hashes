@@ -2854,14 +2854,14 @@
       "level": 6
     },
     "246179539501140": {
-      "coin": 2559688595,
+      "coin": 140700490,
       "uid": "559041e-30_b-nebula",
       "username": "@𖣂︎",
       "spam": {
-        "lastMessage": 1773243234825,
-        "count": 2
+        "lastMessage": 1773243459765,
+        "count": 1
       },
-      "xp": 570,
+      "xp": 650,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
@@ -2899,9 +2899,9 @@
       "lastSteal": 1770968140239,
       "StealSuccess": 1,
       "club": {
-        "level": 6,
+        "level": 13,
         "upgrades": {
-          "music": 0,
+          "music": 20,
           "djs": 17,
           "security": 0,
           "bikegang": 0,
@@ -2913,7 +2913,7 @@
           "elite": 0
         },
         "lastRentCollected": 0,
-        "upgradesBoughtSinceLevel": 2
+        "upgradesBoughtSinceLevel": 1
       },
       "clanId": "b69826",
       "gear": {
@@ -3433,7 +3433,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773243236222,
+  "savedAt": 1773243461660,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3445,7 +3445,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773243197879,
+      "lastMission": 1773243449745,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773177793045,
@@ -3471,11 +3471,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 1392737708244,
-      "glory": 151248,
+      "coin": 3024072587673,
+      "glory": 157173,
       "essence": 4772,
       "renown": 1100,
-      "xp": 67392,
+      "xp": 69342,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -3493,7 +3493,7 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "mission_2": 174,
+        "mission_2": 198,
         "scavenge_3": 62
       },
       "lastQuestReset": 1773177773516,
@@ -3506,7 +3506,7 @@
         "boss_slayer"
       ],
       "stats": {
-        "missionCount": 738,
+        "missionCount": 764,
         "battleWins": 0,
         "eventWins": 2,
         "territoryClaims": 0,
