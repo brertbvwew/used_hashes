@@ -1929,14 +1929,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773243085416,
+        "lastMessage": 1773243212968,
         "count": 1
       },
-      "xp": 620,
+      "xp": 0,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 978,
-      "level": 1024,
+      "level": 1025,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -3365,7 +3365,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773243087265,
+  "savedAt": 1773243214746,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3377,17 +3377,17 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773243078777,
+      "lastMission": 1773243197879,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773177793045,
-      "lastScavenge": 1773243058090,
+      "lastScavenge": 1773243172439,
       "lastResearch": 1773239394904,
       "lastTrain": 1773177810742,
       "upgrades": {
         "defense": 20,
         "attack": 15,
-        "vault": 20,
+        "vault": 25,
         "morale": 20,
         "logistics": 25
       },
@@ -3403,11 +3403,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 9906159515816,
-      "glory": 147132,
-      "essence": 4750,
+      "coin": 1392737708244,
+      "glory": 151248,
+      "essence": 4772,
       "renown": 1100,
-      "xp": 65832,
+      "xp": 67392,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -3425,8 +3425,8 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "mission_2": 156,
-        "scavenge_3": 59
+        "mission_2": 174,
+        "scavenge_3": 62
       },
       "lastQuestReset": 1773177773516,
       "consumables": {},
@@ -3438,7 +3438,7 @@
         "boss_slayer"
       ],
       "stats": {
-        "missionCount": 720,
+        "missionCount": 738,
         "battleWins": 0,
         "eventWins": 2,
         "territoryClaims": 0,
