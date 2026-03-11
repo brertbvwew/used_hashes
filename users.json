@@ -1929,14 +1929,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773244919945,
+        "lastMessage": 1773245619488,
         "count": 1
       },
-      "xp": 850,
+      "xp": 510,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 979,
-      "level": 1027,
+      "level": 1028,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2680,6 +2680,20 @@
             "type": "armor",
             "power": 750,
             "tier": 2,
+            "rarity": "rare"
+          },
+          "4b09": {
+            "name": "COMMON ACCESSORY T1",
+            "type": "accessory",
+            "power": 200,
+            "tier": 1,
+            "rarity": "common"
+          },
+          "937f": {
+            "name": "RARE ARMOR T1",
+            "type": "armor",
+            "power": 375,
+            "tier": 1,
             "rarity": "rare"
           }
         }
@@ -3438,7 +3452,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773244921543,
+  "savedAt": 1773245620959,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3454,7 +3468,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773177793045,
-      "lastScavenge": 1773244305358,
+      "lastScavenge": 1773245598831,
       "lastResearch": 1773239394904,
       "lastTrain": 1773177810742,
       "upgrades": {
@@ -3476,11 +3490,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 8171972621553,
-      "glory": 172554,
-      "essence": 5332,
+      "coin": 8171978982021,
+      "glory": 172659,
+      "essence": 5510,
       "renown": 1950,
-      "xp": 76385,
+      "xp": 76705,
       "level": 10,
       "roles": {
         "treasurer": "249216148455505",
@@ -3499,7 +3513,7 @@
         "event_1": 1,
         "deposit_5m": 5000000,
         "mission_2": 263,
-        "scavenge_3": 102
+        "scavenge_3": 110
       },
       "lastQuestReset": 1773177773516,
       "consumables": {},
