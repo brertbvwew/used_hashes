@@ -2861,14 +2861,14 @@
       "give_limit_until": 1773862695690
     },
     "168419274039524": {
-      "coin": 999997929,
+      "coin": 999499996929,
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "spam": {
-        "lastMessage": 1773258019798,
+        "lastMessage": 1773259708536,
         "count": 1
       },
-      "xp": 700,
+      "xp": 0,
       "hasSentMsg": {
         "premium": false,
         "banned": true
@@ -2876,10 +2876,28 @@
       "premium": true,
       "premiumUntil": 3093500289381,
       "lastBuyPremium": 1769787809099,
-      "level": 702,
+      "level": 703,
       "banned": false,
       "permanent": false,
-      "robbed": 1
+      "robbed": 1,
+      "received_total": 999999999000,
+      "club": {
+        "level": 1,
+        "upgrades": {
+          "music": 0,
+          "djs": 0,
+          "security": 0,
+          "bikegang": 0,
+          "carfleet": 0,
+          "heli": 0,
+          "armory": 0,
+          "safehouse": 0,
+          "militia": 0,
+          "elite": 0
+        },
+        "lastRentCollected": 0,
+        "upgradesBoughtSinceLevel": 0
+      }
     },
     "269505624326383": {
       "coin": 300033141,
@@ -3695,7 +3713,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773259271180,
+  "savedAt": 1773259710105,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
