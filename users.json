@@ -2873,14 +2873,14 @@
       "level": 6
     },
     "246179539501140": {
-      "coin": 140700490,
+      "coin": 13883803,
       "uid": "559041e-30_b-nebula",
       "username": "@𖣂︎",
       "spam": {
-        "lastMessage": 1773243459765,
+        "lastMessage": 1773245675929,
         "count": 1
       },
-      "xp": 650,
+      "xp": 790,
       "lastBuyCoin": 1770452158687,
       "received_total": 199998000,
       "invPurchases": 3,
@@ -2918,13 +2918,13 @@
       "lastSteal": 1770968140239,
       "StealSuccess": 1,
       "club": {
-        "level": 13,
+        "level": 21,
         "upgrades": {
           "music": 20,
           "djs": 17,
-          "security": 0,
-          "bikegang": 0,
-          "carfleet": 0,
+          "security": 13,
+          "bikegang": 7,
+          "carfleet": 4,
           "heli": 0,
           "armory": 0,
           "safehouse": 0,
@@ -3452,7 +3452,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773245620959,
+  "savedAt": 1773245677347,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
