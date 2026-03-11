@@ -1929,14 +1929,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@Xx_🥵👻Mommy🕸️Issues👻🥵_xX",
       "spam": {
-        "lastMessage": 1773243816741,
+        "lastMessage": 1773243990513,
         "count": 1
       },
-      "xp": 520,
+      "xp": 180,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 978,
-      "level": 1026,
+      "level": 1027,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -3433,7 +3433,7 @@
       "lastBuyCoin": 1773075133471
     }
   },
-  "savedAt": 1773243818517,
+  "savedAt": 1773243992343,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3445,11 +3445,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773243799772,
+      "lastMission": 1773243980918,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773177793045,
-      "lastScavenge": 1773243794379,
+      "lastScavenge": 1773243981438,
       "lastResearch": 1773239394904,
       "lastTrain": 1773177810742,
       "upgrades": {
@@ -3471,11 +3471,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 5817059983797,
-      "glory": 165126,
-      "essence": 4906,
-      "renown": 1350,
-      "xp": 72624,
+      "coin": 8069008439433,
+      "glory": 171759,
+      "essence": 5218,
+      "renown": 1950,
+      "xp": 75705,
       "level": 10,
       "roles": {
         "treasurer": "249216148455505",
@@ -3493,8 +3493,8 @@
       "questProgress": {
         "event_1": 1,
         "deposit_5m": 5000000,
-        "mission_2": 233,
-        "scavenge_3": 75
+        "mission_2": 260,
+        "scavenge_3": 96
       },
       "lastQuestReset": 1773177773516,
       "consumables": {},
@@ -3504,17 +3504,19 @@
         "vault_1b",
         "missions_50",
         "boss_slayer",
-        "clan_level_10"
+        "clan_level_10",
+        "first_territory",
+        "full_territory"
       ],
       "stats": {
-        "missionCount": 805,
+        "missionCount": 835,
         "battleWins": 0,
         "eventWins": 2,
-        "territoryClaims": 0,
-        "totalDeposited": 220500000
+        "territoryClaims": 1,
+        "totalDeposited": 220500000,
+        "territoryCount": 6
       },
-      "welcomeMessage": "🌹Dangerous with good looks🌹",
-      "tempPowerBoost": 10
+      "welcomeMessage": "🌹Dangerous with good looks🌹"
     },
     "19e199": {
       "name": "زنجي",
