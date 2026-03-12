@@ -3982,27 +3982,45 @@
       "lastRob": 1773331015918
     },
     "268938537656366": {
-      "coin": 32285,
+      "coin": 114227,
       "uid": "38410412-36_b-nebula",
       "username": "@user_38410412-36",
       "spam": {
-        "lastMessage": 1773332819024,
-        "count": 2
+        "lastMessage": 1773344167011,
+        "count": 1
       },
-      "xp": 890,
-      "lastBeg": 1773332720419,
-      "begSuccess": 5,
-      "lastPhish": 1773332728084,
-      "robSuccess": 6,
-      "lastDeliver": 1773331670517,
+      "xp": 685,
+      "lastBeg": 1773344090043,
+      "begSuccess": 11,
+      "lastPhish": 1773343980053,
+      "robSuccess": 26,
+      "lastDeliver": 1773344117849,
       "invPurchases": 0,
       "hasSentMsg": {
-        "cooldown": true
+        "cooldown": true,
+        "banned": true
       },
-      "lastRob": 1773332729920
+      "lastRob": 1773343791237,
+      "lastHack": 1773343806194,
+      "level": 2,
+      "lastSteal": 1773344109326,
+      "StealSuccess": 5,
+      "lastMine": 1773343825021,
+      "lastFreelance": 1773343839202,
+      "lastDecrypt": 1773343868431,
+      "lastRepair": 1773341737411,
+      "lastRobBank": 1773343814513,
+      "banned": false,
+      "permanent": false,
+      "lastCode": 1773341885613,
+      "lastClean": 1773343832181,
+      "violations": 2,
+      "lastRansom": 1773343844571,
+      "lastWork": 1773343986998,
+      "workSuccess": 1
     }
   },
-  "savedAt": 1773344134572,
+  "savedAt": 1773344169148,
   "clan": {
     "201481": {
       "name": "fuh",
