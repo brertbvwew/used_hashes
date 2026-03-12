@@ -1929,14 +1929,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773313069695,
-        "count": 1
+        "lastMessage": 1773324203380,
+        "count": 2
       },
-      "xp": 910,
+      "xp": 630,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 982,
-      "level": 1037,
+      "level": 1038,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -3787,7 +3787,7 @@
       "lastBulkInv": 1773268871943
     }
   },
-  "savedAt": 1773313071532,
+  "savedAt": 1773324203458,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3800,7 +3800,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773313068919,
+      "lastMission": 1773323842937,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773300187326,
@@ -3826,11 +3826,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 2152756604107306,
-      "glory": 213969,
-      "essence": 7806,
+      "coin": 2254446655136861,
+      "glory": 214953,
+      "essence": 2806,
       "renown": 2000,
-      "xp": 104011,
+      "xp": 104346,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -3846,7 +3846,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 39,
+        "mission_2": 43,
         "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
@@ -3862,7 +3862,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1019,
+        "missionCount": 1023,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
@@ -3872,13 +3872,14 @@
       "welcomeMessage": "🌹Dangerous with good looks🌹",
       "tactic": "defensive",
       "lastPatrols": {
-        "249216148455505": 1773312564223
+        "249216148455505": 1773323945699
       },
       "buildings": {
         "market": 5,
         "barracks": 5,
         "armory": 5,
-        "intel": 5
+        "intel": 5,
+        "shrine": 10
       },
       "salvage": 72
     },
