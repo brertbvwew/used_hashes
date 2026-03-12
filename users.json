@@ -1928,32 +1928,32 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 75394293559476,
+      "coin": 75394293504842,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773345041178,
-        "count": 1
+        "lastMessage": 1773348412572,
+        "count": 3
       },
-      "xp": 460,
+      "xp": 920,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 1044,
-      "level": 1051,
+      "winGame": 1087,
+      "level": 1055,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
-      "rpgGather": 760,
+      "rpgGather": 761,
       "rpgtrades": 750,
       "rpgcrafted": 750,
-      "rpgmonsterfight": 758,
-      "yugiohviewcard": 751,
+      "rpgmonsterfight": 759,
+      "yugiohviewcard": 777,
       "onepiceviewcard": 766,
-      "dragonballviewcard": 768,
-      "pokemonviewcard": 937,
-      "vipgameviewcard": 752,
+      "dragonballviewcard": 783,
+      "pokemonviewcard": 980,
+      "vipgameviewcard": 753,
       "weedcooked": 750,
-      "weedgather": 760,
+      "weedgather": 761,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1770234154305,
@@ -1967,49 +1967,49 @@
       "premiumUntil": 1775857778874,
       "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
-        "id": 81,
+        "id": 76,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 85798,
+        "power": 16891,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/tT9fRrK9/vip-77.png",
-        "cost": 43584
+        "imageUrl": "https://i.ibb.co/XfjtdnGS/vip-72.png",
+        "cost": 46591
       },
       "lastPokemon": {
-        "id": 985,
-        "name": "scream-tail",
+        "id": 824,
+        "name": "blipbug",
         "stats": [
           {
             "name": "hp",
-            "value": 115
+            "value": 25
           },
           {
             "name": "attack",
-            "value": 65
+            "value": 20
           },
           {
             "name": "defense",
-            "value": 99
+            "value": 20
           },
           {
             "name": "special-attack",
-            "value": 65
+            "value": 25
           },
           {
             "name": "special-defense",
-            "value": 115
+            "value": 45
           },
           {
             "name": "speed",
-            "value": 111
+            "value": 45
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/985.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/824.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/824.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2291,24 +2291,24 @@
         ]
       },
       "rpginventory": {
-        "Apple": 21,
+        "Apple": 24,
         "Banana": 12,
         "Mushroom": 9,
         "Wood": 4,
-        "Coal": 7,
+        "Coal": 11,
         "Herb": 11,
         "Tomato": 3,
-        "Goblin Ear": 5,
+        "Goblin Ear": 6,
         "Elven Silk": 6,
         "Iron Shard": 2,
-        "Pumpkin": 6,
-        "Coconut": 8,
+        "Pumpkin": 7,
+        "Coconut": 9,
         "Iron Ore": 10,
         "Gold Nugget": 10,
-        "Dragon Bone": 3,
+        "Dragon Bone": 5,
         "Dragon Scale": 1,
-        "Cabbage": 6,
-        "Stone": 9,
+        "Cabbage": 9,
+        "Stone": 13,
         "Carrot": 16,
         "Pineapple": 2,
         "Bloodstone": 2,
@@ -2316,38 +2316,39 @@
         "Ancient Relic": 1,
         "Elemental Crystal": 2,
         "Thunder Gem": 4,
-        "Berries": 6,
-        "Silver Coin": 2,
+        "Berries": 7,
+        "Silver Coin": 5,
         "Leather": 3,
         "Dragonfruit": 1,
         "Dark Essence": 2,
         "Runestone": 3,
         "Giant’s Bone": 1,
         "Mystic Feather": 2,
-        "Glass Shard": 1
+        "Glass Shard": 2,
+        "Magic Crystal": 3
       },
-      "rpglastGather": 1773341815705,
+      "rpglastGather": 1773347356914,
       "weedinventory": {
         "Grinder Part": 15,
-        "Seed": 9,
+        "Seed": 14,
         "Perlite": 4,
         "Worm Castings": 11,
         "Sativa Nug": 28,
-        "Water Pipe": 4,
+        "Water Pipe": 6,
         "THC Oil": 8,
         "High-Grade Wax": 2,
-        "420 Pineapple": 2,
-        "Weed Leaf": 23,
-        "Rolling Paper": 9,
-        "Paper Crutch": 8,
+        "420 Pineapple": 3,
+        "Weed Leaf": 24,
+        "Rolling Paper": 12,
+        "Paper Crutch": 9,
         "Edible": 3,
-        "Lighter": 13,
+        "Lighter": 15,
         "Metal Lid": 15,
         "Rolling Tray": 2,
-        "Plastic Shard": 1,
+        "Plastic Shard": 4,
         "Compost": 5,
         "Dab Tool": 17,
-        "Canvas Sheet": 3,
+        "Canvas Sheet": 5,
         "Dank Dragonfruit": 1,
         "Rare Blue Strain": 7,
         "Grinder": 6,
@@ -2363,65 +2364,84 @@
         "Celestial Joint": 1,
         "THC Crystal": 1,
         "Buzz Crystal": 1,
-        "Vape Cartridge": 2
+        "Vape Cartridge": 2,
+        "Leaf Gold": 1,
+        "Sun-Kissed Bud": 1
       },
-      "weedlastGather": 1773341828741,
-      "rpglastFight": 1773341823371,
+      "weedlastGather": 1773347395780,
+      "rpglastFight": 1773347373126,
       "rpghealth": 100,
       "spaceinventory": {
-        "Scrap Metal": 34,
-        "Iron Ore": 22,
-        "Damaged Circuit": 20,
-        "Silicon Ore": 24,
-        "Copper Ore": 15,
-        "Copper Wire": 13,
-        "Biometric Data Pad": 10,
-        "Crystal Shard": 14,
-        "Quantum Chip": 10,
-        "Titanium Ore": 10,
-        "Advanced Sensor Array": 10,
-        "Quantum Processor": 10,
-        "Energy Cell": 10,
-        "Plasma Coils": 10,
-        "Fusion Core": 4,
+        "Scrap Metal": 35,
+        "Iron Ore": 23,
+        "Damaged Circuit": 21,
+        "Silicon Ore": 26,
+        "Copper Ore": 17,
+        "Copper Wire": 14,
+        "Biometric Data Pad": 11,
+        "Crystal Shard": 15,
+        "Quantum Chip": 11,
+        "Titanium Ore": 11,
+        "Advanced Sensor Array": 11,
+        "Quantum Processor": 11,
+        "Energy Cell": 11,
+        "Plasma Coils": 11,
+        "Fusion Core": 5,
         "Gold Ore": 2,
         "Neutronium Fragment": 1
       },
-      "spacelastSalvage": 1773341840272,
-      "spacesalvage": 10,
+      "spacelastSalvage": 1773347410849,
+      "spacesalvage": 11,
       "yugiohLastCard": {
-        "id": 60715406,
-        "name": "Tentacle Plant",
+        "id": 44481227,
+        "name": "Performapal Camelump",
         "typeline": [
-          "Plant",
-          "Normal"
+          "Beast",
+          "Pendulum",
+          "Effect"
         ],
-        "type": "Normal Monster",
-        "humanReadableCardType": "Normal Monster",
-        "frameType": "normal",
-        "desc": "''A carnivorous plant that has an outgrowth of tentacles. It attacks someone nearby by extending its tentacles.''",
-        "race": "Plant",
-        "atk": 500,
-        "def": 600,
-        "level": 2,
-        "attribute": "WATER",
-        "archetype": "Recolored counterpart",
-        "ygoprodeck_url": "https://ygoprodeck.com/card/tentacle-plant-5152",
+        "type": "Pendulum Effect Monster",
+        "humanReadableCardType": "Pendulum Effect Monster",
+        "frameType": "effect_pendulum",
+        "desc": "[ Pendulum Effect ] \nOnce per turn, during your Main Phase 1: You can target 1 face-up monster you control; the monsters your opponent currently controls lose 800 DEF until the end of this turn, and if they do, if the targeted monster attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. (These effects remain even if this card leaves the field.)\n\n[ Monster Effect ] \nIf this card is destroyed by battle: You can make the monster that destroyed this card lose 800 ATK.",
+        "race": "Beast",
+        "atk": 800,
+        "def": 1800,
+        "level": 4,
+        "attribute": "EARTH",
+        "archetype": "Performapal",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/performapal-camelump-3791",
+        "card_sets": [
+          {
+            "set_name": "2016 Mega-Tin Mega Pack",
+            "set_code": "MP16-EN051",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+          },
+          {
+            "set_name": "Clash of Rebellions",
+            "set_code": "CORE-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+          }
+        ],
         "card_images": [
           {
-            "id": 60715406,
-            "image_url": "https://images.ygoprodeck.com/images/cards/60715406.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60715406.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60715406.jpg"
+            "id": 44481227,
+            "image_url": "https://images.ygoprodeck.com/images/cards/44481227.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/44481227.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/44481227.jpg"
           }
         ],
         "card_prices": [
           {
-            "cardmarket_price": "0.00",
-            "tcgplayer_price": "0.00",
-            "ebay_price": "15.00",
-            "amazon_price": "1.02",
-            "coolstuffinc_price": "0.00"
+            "cardmarket_price": "0.04",
+            "tcgplayer_price": "0.09",
+            "ebay_price": "0.99",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.49"
           }
         ]
       },
@@ -2435,16 +2455,16 @@
         "imageUrl": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004.png?241220"
       },
       "dragonballLastCard": {
-        "id": "FS03-06",
-        "name": "Paragus",
-        "rarity": "C",
-        "color": "Green",
+        "id": "FS07-07",
+        "name": "Vegeta : DA",
+        "rarity": "SR",
+        "color": "Blue",
         "cardType": "BATTLE",
-        "power": 15000,
-        "effect": "[Activate Main][Once per turn] If your Leader is &lt;Broly&gt; and you have no &lt;Shamoian&gt; Battle Cards, play up to 1 &lt;Shamoian&gt; with a cost of 1 from your Drop.",
-        "set": "Starter Deck -Broly-",
-        "getIt": "STARTER DECK -BROLY- [FS03]",
-        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS03-06.webp"
+        "power": 35000,
+        "effect": "[Double Strike] (This card inflicts 2 damage instead of 1 when attacking.)\n[On Play] Choose up to 1 of your opponent's Battle Cards with a cost of 3 or less and place it at the bottom of its owner's deck. Then, if you have 7 or fewer cards in your hand, draw 1 card.",
+        "set": "STARTER DECK -VEGETA(MINI)- [FS07]",
+        "getIt": "STARTER DECK -VEGETA(MINI)- [FS07]",
+        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS07-07.webp"
       },
       "spacestationlastPassiveIncome": 1773081963785,
       "plots": 25,
@@ -2902,11 +2922,21 @@
         "lastRentCollected": 1773081562522,
         "upgradesBoughtSinceLevel": 2
       },
-      "rpgmonsterHealth": 80,
+      "rpgmonsterHealth": 40,
       "uplimit": "10MB",
       "limit": 10,
       "give_limit_until": 1773862695690,
-      "download_limit_until": 1773937000138
+      "download_limit_until": 1773937000138,
+      "cardopInventory": [],
+      "oplastBuy": 1773348365368,
+      "carddragonballInventory": [
+        "Vegeta : DA"
+      ],
+      "dblastBuy": 1773347571525,
+      "cardvipgameInventory": [
+        81
+      ],
+      "lastBuy": 1773348121747
     },
     "168419274039524": {
       "coin": 999499996929,
@@ -4020,7 +4050,7 @@
       "workSuccess": 1
     }
   },
-  "savedAt": 1773345042829,
+  "savedAt": 1773348415370,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4151,7 +4181,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773329390941,
       "lastBattle": 0,
-      "lastMission": 1773344112319,
+      "lastMission": 1773348015782,
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
@@ -4177,11 +4207,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 7464035062388191,
-      "glory": 226434,
+      "coin": 7471906411589944,
+      "glory": 226521,
       "essence": 6,
       "renown": 2000,
-      "xp": 108751,
+      "xp": 108861,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4197,7 +4227,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 96,
+        "mission_2": 97,
         "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
@@ -4213,7 +4243,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1084,
+        "missionCount": 1086,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
@@ -4223,7 +4253,7 @@
       "welcomeMessage": "🌹Dangerous with good looks🌹",
       "tactic": "defensive",
       "lastPatrols": {
-        "249216148455505": 1773329325675
+        "249216148455505": 1773347474548
       },
       "buildings": {
         "market": 5,
