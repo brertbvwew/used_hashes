@@ -1929,14 +1929,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773307436876,
+        "lastMessage": 1773311639394,
         "count": 1
       },
-      "xp": 270,
+      "xp": 110,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 982,
-      "level": 1035,
+      "level": 1036,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -3752,7 +3752,7 @@
       "lastBulkInv": 1773268871943
     }
   },
-  "savedAt": 1773307438411,
+  "savedAt": 1773311640889,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3765,7 +3765,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773300281022,
+      "lastMission": 1773311223628,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773300187326,
@@ -3791,11 +3791,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 15646957705725,
-      "glory": 205176,
-      "essence": 10860,
+      "coin": 34298210661385,
+      "glory": 205758,
+      "essence": 8010,
       "renown": 2000,
-      "xp": 100494,
+      "xp": 100684,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -3811,7 +3811,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 3,
+        "mission_2": 5,
         "scavenge_3": 4
       },
       "lastQuestReset": 1773300250931,
@@ -3827,14 +3827,24 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 974,
+        "missionCount": 977,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
         "totalDeposited": 225750000,
         "territoryCount": 8
       },
-      "welcomeMessage": "🌹Dangerous with good looks🌹"
+      "welcomeMessage": "🌹Dangerous with good looks🌹",
+      "tactic": "defensive",
+      "lastPatrols": {
+        "249216148455505": 1773311131684
+      },
+      "buildings": {
+        "market": 5,
+        "barracks": 5,
+        "armory": 5,
+        "intel": 5
+      }
     },
     "19e199": {
       "name": "زنجي",
@@ -3881,6 +3891,62 @@
       "maxMembers": 5,
       "questProgress": {},
       "lastQuestReset": 1771224461600,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [],
+      "stats": {
+        "missionCount": 0,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
+      }
+    },
+    "56ae9c": {
+      "name": "sex",
+      "leader": "168419274039524",
+      "members": [
+        "168419274039524"
+      ],
+      "createdAt": 1773310870999,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "renown": 0,
+      "xp": 0,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {},
+      "lastQuestReset": 1773310870999,
       "consumables": {},
       "activeConsumable": {},
       "achievements": [],
