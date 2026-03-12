@@ -1928,18 +1928,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 0,
+      "coin": 75394293559476,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773344132229,
+        "lastMessage": 1773345041178,
         "count": 1
       },
-      "xp": 630,
+      "xp": 460,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 1025,
-      "level": 1049,
+      "winGame": 1044,
+      "level": 1051,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1948,9 +1948,9 @@
       "rpgcrafted": 750,
       "rpgmonsterfight": 758,
       "yugiohviewcard": 751,
-      "onepiceviewcard": 751,
-      "dragonballviewcard": 751,
-      "pokemonviewcard": 918,
+      "onepiceviewcard": 766,
+      "dragonballviewcard": 768,
+      "pokemonviewcard": 937,
       "vipgameviewcard": 752,
       "weedcooked": 750,
       "weedgather": 760,
@@ -1977,39 +1977,39 @@
         "cost": 43584
       },
       "lastPokemon": {
-        "id": 320,
-        "name": "wailmer",
+        "id": 985,
+        "name": "scream-tail",
         "stats": [
           {
             "name": "hp",
-            "value": 130
+            "value": 115
           },
           {
             "name": "attack",
-            "value": 70
+            "value": 65
           },
           {
             "name": "defense",
-            "value": 35
+            "value": 99
           },
           {
             "name": "special-attack",
-            "value": 70
+            "value": 65
           },
           {
             "name": "special-defense",
-            "value": 35
+            "value": 115
           },
           {
             "name": "speed",
-            "value": 60
+            "value": 111
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/320.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/320.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/985.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/985.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2426,25 +2426,25 @@
         ]
       },
       "onepiceLastCard": {
-        "id": "OP02-080",
-        "name": "Dobon",
-        "rarity": "C",
-        "power": 4000,
-        "color": "Purple",
-        "attribute": "Strike",
-        "imageUrl": "https://en.onepiece-cardgame.com/images/cardlist/card/OP02-080.png"
+        "id": "OP09-004",
+        "name": "Shanks",
+        "rarity": "SR",
+        "power": 12000,
+        "color": "Red",
+        "attribute": "Slash",
+        "imageUrl": "https://en.onepiece-cardgame.com/images/cardlist/card/OP09-004.png?241220"
       },
       "dragonballLastCard": {
-        "id": "FB05-004",
-        "name": "Kibito (Mini) : DA",
-        "rarity": "R",
-        "color": "Red",
+        "id": "FS03-06",
+        "name": "Paragus",
+        "rarity": "C",
+        "color": "Green",
         "cardType": "BATTLE",
-        "power": 25000,
-        "effect": "[Critical] (When this card inflicts damage with an attack, the life is placed in the Drop.)\n[On Play] Add up to 1 card from your life to your hand.",
-        "set": "BOOSTER PACK -NEW ADVENTURE- [FB05]",
-        "getIt": "BOOSTER PACK -NEW ADVENTURE- [FB05]",
-        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB05-004.webp"
+        "power": 15000,
+        "effect": "[Activate Main][Once per turn] If your Leader is &lt;Broly&gt; and you have no &lt;Shamoian&gt; Battle Cards, play up to 1 &lt;Shamoian&gt; with a cost of 1 from your Drop.",
+        "set": "Starter Deck -Broly-",
+        "getIt": "STARTER DECK -BROLY- [FS03]",
+        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS03-06.webp"
       },
       "spacestationlastPassiveIncome": 1773081963785,
       "plots": 25,
@@ -4020,7 +4020,7 @@
       "workSuccess": 1
     }
   },
-  "savedAt": 1773344169148,
+  "savedAt": 1773345042829,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4177,7 +4177,7 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 7539429355947667,
+      "coin": 7464035062388191,
       "glory": 226434,
       "essence": 6,
       "renown": 2000,
