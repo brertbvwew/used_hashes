@@ -3980,22 +3980,27 @@
       "lastRob": 1773331015918
     },
     "268938537656366": {
-      "coin": 13999,
+      "coin": 32285,
       "uid": "38410412-36_b-nebula",
       "username": "@user_38410412-36",
       "spam": {
-        "lastMessage": 1773329411275,
-        "count": 1
+        "lastMessage": 1773332819024,
+        "count": 2
       },
-      "xp": 440,
-      "lastBeg": 1773329300566,
-      "begSuccess": 2,
-      "lastPhish": 1773329305289,
-      "robSuccess": 2,
-      "lastDeliver": 1773329294375
+      "xp": 890,
+      "lastBeg": 1773332720419,
+      "begSuccess": 5,
+      "lastPhish": 1773332728084,
+      "robSuccess": 6,
+      "lastDeliver": 1773331670517,
+      "invPurchases": 0,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastRob": 1773332729920
     }
   },
-  "savedAt": 1773332233113,
+  "savedAt": 1773332821128,
   "clan": {
     "243319": {
       "name": "problemchild⃤⃟⃝",
