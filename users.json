@@ -4058,9 +4058,36 @@
       "workSuccess": 4,
       "lastBlackjack": 1773344515292,
       "lastRoulette": 1773344642896
+    },
+    "119168850497699": {
+      "coin": 45899,
+      "uid": "38692e52-39_b-nebula",
+      "username": "@user_38692e52-39",
+      "robbed": 1,
+      "spam": {
+        "lastMessage": 1773352691049,
+        "count": 1
+      },
+      "xp": 805,
+      "lastFreelance": 1773350697362,
+      "lastClean": 1773352329273,
+      "lastRobBank": 1773352323210,
+      "robSuccess": 8,
+      "lastMine": 1773352365869,
+      "lastHack": 1773350793048,
+      "lastRansom": 1773350801708,
+      "lastWork": 1773352332496,
+      "workSuccess": 1,
+      "lastDeliver": 1773350828117,
+      "lastBeg": 1773350830908,
+      "begSuccess": 1,
+      "lastSteal": 1773352394688,
+      "StealSuccess": 2,
+      "lastRob": 1773351658457,
+      "lastPhish": 1773352365325
     }
   },
-  "savedAt": 1773350699621,
+  "savedAt": 1773352693190,
   "clan": {
     "201481": {
       "name": "fuh",
