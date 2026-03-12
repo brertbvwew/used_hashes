@@ -1932,10 +1932,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773332231377,
+        "lastMessage": 1773340299020,
         "count": 1
       },
-      "xp": 10,
+      "xp": 910,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 982,
@@ -4000,7 +4000,7 @@
       "lastRob": 1773332729920
     }
   },
-  "savedAt": 1773332821128,
+  "savedAt": 1773340301028,
   "clan": {
     "243319": {
       "name": "problemchild⃤⃟⃝",
@@ -4069,12 +4069,13 @@
         "249216148455505",
         "246179539501140",
         "151994715099391",
-        "6340076396679"
+        "6340076396679",
+        "106077605646392"
       ],
       "createdAt": 1771224029611,
       "lastIncome": 1773329390941,
       "lastBattle": 0,
-      "lastMission": 1773331101786,
+      "lastMission": 1773334722978,
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
@@ -4100,11 +4101,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 6277981109515227,
-      "glory": 218007,
-      "essence": 306,
+      "coin": 6287906860201947,
+      "glory": 218106,
+      "essence": 6,
       "renown": 2000,
-      "xp": 105491,
+      "xp": 105571,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4120,7 +4121,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 56,
+        "mission_2": 57,
         "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
@@ -4136,7 +4137,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1040,
+        "missionCount": 1041,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
@@ -4150,7 +4151,7 @@
       },
       "buildings": {
         "market": 5,
-        "barracks": 5,
+        "barracks": 8,
         "armory": 5,
         "intel": 5,
         "shrine": 15
@@ -4258,6 +4259,62 @@
       "maxMembers": 5,
       "questProgress": {},
       "lastQuestReset": 1773310870999,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [],
+      "stats": {
+        "missionCount": 0,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
+      }
+    },
+    "18aa8d": {
+      "name": "rains archive",
+      "leader": "18675021181111",
+      "members": [
+        "18675021181111"
+      ],
+      "createdAt": 1773334026421,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "renown": 0,
+      "xp": 0,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {},
+      "lastQuestReset": 1773334026421,
       "consumables": {},
       "activeConsumable": {},
       "achievements": [],
