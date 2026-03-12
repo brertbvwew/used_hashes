@@ -3925,10 +3925,81 @@
         "reason": null,
         "timestamp": 1773327925227
       }
+    },
+    "268938537656366": {
+      "coin": 13999,
+      "uid": "38410412-36_b-nebula",
+      "username": "@user_38410412-36",
+      "spam": {
+        "lastMessage": 1773329332453,
+        "count": 1
+      },
+      "xp": 400,
+      "lastBeg": 1773329300566,
+      "begSuccess": 2,
+      "lastPhish": 1773329305289,
+      "robSuccess": 2,
+      "lastDeliver": 1773329294375
     }
   },
-  "savedAt": 1773329293894,
+  "savedAt": 1773329334354,
   "clan": {
+    "243319": {
+      "name": "problemchild⃤⃟⃝",
+      "leader": "18675021181111",
+      "members": [
+        "18675021181111"
+      ],
+      "createdAt": 1773329302605,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "renown": 0,
+      "xp": 0,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {},
+      "lastQuestReset": 1773329302605,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [],
+      "stats": {
+        "missionCount": 0,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
+      }
+    },
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
       "leader": "249216148455505",
@@ -3970,7 +4041,7 @@
       "glory": 217221,
       "essence": 306,
       "renown": 2000,
-      "xp": 105081,
+      "xp": 105096,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4012,7 +4083,7 @@
       "welcomeMessage": "🌹Dangerous with good looks🌹",
       "tactic": "defensive",
       "lastPatrols": {
-        "249216148455505": 1773323945699
+        "249216148455505": 1773329325675
       },
       "buildings": {
         "market": 5,
