@@ -3899,25 +3899,25 @@
       "lastBulkInv": 1773268871943
     },
     "6340076396679": {
-      "coin": 1000038326,
+      "coin": 1500038326,
       "uid": "1640840b-39_b-nebula",
       "username": "@user_1640840b-39",
       "spam": {
-        "lastMessage": 1773329629513,
+        "lastMessage": 1773329756932,
         "count": 1
       },
-      "xp": 10,
+      "xp": 50,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true
       },
       "lastCode": 1773298364059,
       "lastHack": 1773298390311,
-      "robSuccess": 505,
+      "robSuccess": 755,
       "lastBeg": 1773328985336,
       "begSuccess": 6,
       "lastDeliver": 1773328993320,
-      "level": 502,
+      "level": 752,
       "lastWork": 1773327556925,
       "workSuccess": 2,
       "lastPhish": 1773329014544,
@@ -3925,25 +3925,25 @@
         "reason": null,
         "timestamp": 1773327925227
       },
-      "invPurchases": 2,
-      "winGame": 500,
-      "robbed": 500,
-      "rpgwin": 500,
-      "rpgGather": 500,
-      "rpgtrades": 500,
-      "rpgcrafted": 500,
-      "rpgmonsterfight": 500,
-      "yugiohviewcard": 500,
-      "onepiceviewcard": 500,
-      "dragonballviewcard": 500,
-      "pokemonviewcard": 500,
-      "vipgameviewcard": 500,
-      "weedcooked": 500,
-      "weedgather": 500,
-      "weedsell": 500,
-      "weedtrades": 500,
-      "lastAddInv": 1773329622595,
-      "lastBulkInv": 1773329622595
+      "invPurchases": 3,
+      "winGame": 750,
+      "robbed": 750,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1773329737121,
+      "lastBulkInv": 1773329737121
     },
     "268938537656366": {
       "coin": 13999,
@@ -3961,7 +3961,7 @@
       "lastDeliver": 1773329294375
     }
   },
-  "savedAt": 1773329631533,
+  "savedAt": 1773329759439,
   "clan": {
     "243319": {
       "name": "problemchild⃤⃟⃝",
