@@ -3903,10 +3903,10 @@
       "uid": "1640840b-39_b-nebula",
       "username": "@user_1640840b-39",
       "spam": {
-        "lastMessage": 1773329163992,
+        "lastMessage": 1773329291272,
         "count": 1
       },
-      "xp": 790,
+      "xp": 870,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true
@@ -3927,7 +3927,7 @@
       }
     }
   },
-  "savedAt": 1773329166340,
+  "savedAt": 1773329293894,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
