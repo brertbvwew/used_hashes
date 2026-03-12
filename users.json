@@ -1929,10 +1929,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773311639394,
+        "lastMessage": 1773311832474,
         "count": 1
       },
-      "xp": 110,
+      "xp": 430,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 982,
@@ -3752,7 +3752,7 @@
       "lastBulkInv": 1773268871943
     }
   },
-  "savedAt": 1773311640889,
+  "savedAt": 1773311834528,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3765,7 +3765,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773311223628,
+      "lastMission": 1773311824642,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773300187326,
@@ -3791,11 +3791,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 34298210661385,
-      "glory": 205758,
+      "coin": 169808293714750,
+      "glory": 207531,
       "essence": 8010,
       "renown": 2000,
-      "xp": 100684,
+      "xp": 101354,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -3811,7 +3811,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 5,
+        "mission_2": 13,
         "scavenge_3": 4
       },
       "lastQuestReset": 1773300250931,
@@ -3827,7 +3827,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 977,
+        "missionCount": 987,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
