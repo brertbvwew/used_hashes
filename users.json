@@ -1932,14 +1932,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773330203538,
+        "lastMessage": 1773332231377,
         "count": 1
       },
-      "xp": 350,
+      "xp": 10,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 982,
-      "level": 1040,
+      "level": 1041,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1965,7 +1965,7 @@
       },
       "premium": true,
       "premiumUntil": 1775857778874,
-      "lastBuyPremium": 1773265778874,
+      "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
         "id": 76,
         "name": "VIP CARD COLLECTION - CODERXSA",
@@ -2168,7 +2168,7 @@
         }
       ],
       "lastBuyXP": 1773133627006,
-      "donated_total": 7001401001540,
+      "donated_total": 8001401001540,
       "lastRob": 1770324373183,
       "lastBuyWin": 1770412792468,
       "banned": false,
@@ -2903,7 +2903,8 @@
       "rpgmonsterHealth": 163,
       "uplimit": "10MB",
       "limit": 10,
-      "give_limit_until": 1773862695690
+      "give_limit_until": 1773862695690,
+      "download_limit_until": 1773937000138
     },
     "168419274039524": {
       "coin": 999499996929,
@@ -3994,7 +3995,7 @@
       "lastDeliver": 1773329294375
     }
   },
-  "savedAt": 1773331083300,
+  "savedAt": 1773332233113,
   "clan": {
     "243319": {
       "name": "problemchild⃤⃟⃝",
@@ -4068,7 +4069,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773329390941,
       "lastBattle": 0,
-      "lastMission": 1773330177548,
+      "lastMission": 1773331101786,
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
@@ -4094,11 +4095,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 5669773045425912,
-      "glory": 217812,
+      "coin": 6277981109515227,
+      "glory": 218007,
       "essence": 306,
       "renown": 2000,
-      "xp": 105411,
+      "xp": 105491,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4114,7 +4115,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 55,
+        "mission_2": 56,
         "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
@@ -4130,11 +4131,11 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1039,
+        "missionCount": 1040,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
-        "totalDeposited": 13652380292880192,
+        "totalDeposited": 25910391030654496,
         "territoryCount": 8
       },
       "welcomeMessage": "🌹Dangerous with good looks🌹",
@@ -4219,7 +4220,7 @@
       "lastMission": 0,
       "lastAmbush": 0,
       "lastCollect": 0,
-      "lastChallenge": 0,
+      "lastChallenge": 1773331429650,
       "lastScavenge": 0,
       "lastResearch": 0,
       "lastTrain": 0,
@@ -4235,7 +4236,7 @@
       "glory": 0,
       "essence": 0,
       "renown": 0,
-      "xp": 0,
+      "xp": 30,
       "level": 1,
       "roles": {
         "treasurer": null,
