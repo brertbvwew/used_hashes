@@ -1925,18 +1925,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 0,
+      "coin": 2353974152603508,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773324203380,
-        "count": 2
+        "lastMessage": 1773324786627,
+        "count": 1
       },
-      "xp": 630,
+      "xp": 90,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 982,
-      "level": 1038,
+      "level": 1039,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -3787,7 +3787,7 @@
       "lastBulkInv": 1773268871943
     }
   },
-  "savedAt": 1773324203458,
+  "savedAt": 1773324789091,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3800,7 +3800,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773323842937,
+      "lastMission": 1773324649698,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773300187326,
@@ -3826,11 +3826,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 2254446655136861,
-      "glory": 214953,
-      "essence": 2806,
+      "coin": 0,
+      "glory": 215931,
+      "essence": 1306,
       "renown": 2000,
-      "xp": 104346,
+      "xp": 104666,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -3846,7 +3846,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 43,
+        "mission_2": 47,
         "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
@@ -3862,7 +3862,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1023,
+        "missionCount": 1027,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
@@ -3879,7 +3879,7 @@
         "barracks": 5,
         "armory": 5,
         "intel": 5,
-        "shrine": 10
+        "shrine": 13
       },
       "salvage": 72
     },
