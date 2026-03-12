@@ -3814,15 +3814,57 @@
       "StealSuccess": 1
     },
     "18675021181111": {
-      "coin": 150005000,
+      "coin": 1650008458,
       "uid": "2183026d-31_b-nebula",
       "username": "@𓆰°•Raingoku⃟𓆪༑",
       "spam": {
-        "lastMessage": 1773155249387,
+        "lastMessage": 1773329141741,
         "count": 1
       },
-      "xp": 440,
-      "lastBuyCoin": 1773075133471
+      "xp": 820,
+      "lastBuyCoin": 1773075133471,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "invPurchases": 3,
+      "winGame": 765,
+      "level": 757,
+      "robSuccess": 751,
+      "robbed": 750,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1773329126327,
+      "lastBulkInv": 1773329126327,
+      "usedCoupons": [
+        {
+          "hash": "dXNlcjo5NTE1YWMwMmQxOGM0ZjFmYWFhMjZjN2EwNzU4OTUwZjoxNzczMjY3MDczOjM4YThkYjg2OjVlZmY0N2U0ZTE5MmNjMTMwZDc0NWVmZTAxZWE3ZTg3",
+          "md5": "a19513fc609f0055a6b4d45f68debe25",
+          "time": 1773267346604
+        },
+        {
+          "hash": "dXNlcjo0NGVkZmIzZTk3MjgxNGJhYTFiOTgxYTE3Y2I0YThmMDoxNzczMjY3MDcwOjYzMGE3MzM1OmJhZGJmN2RmNjliNjhhMDVlZmQ4NmVmYmUwNGViMGFl",
+          "md5": "931ccade4082112e3863764eb0a33b24",
+          "time": 1773267366045
+        }
+      ],
+      "lastBuyXP": 1773267346604,
+      "lastBuyWin": 1773267366045,
+      "lastRob": 1773325257803,
+      "lastSteal": 1773325261430,
+      "StealSuccess": 1,
+      "lastBuyUnban": 1773327260192
     },
     "93879697203449": {
       "coin": 500005640,
@@ -3857,7 +3899,7 @@
       "lastBulkInv": 1773268871943
     }
   },
-  "savedAt": 1773328910819,
+  "savedAt": 1773329144273,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
