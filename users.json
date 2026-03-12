@@ -3902,28 +3902,28 @@
       "lastBulkInv": 1773268871943
     },
     "6340076396679": {
-      "coin": 1500038326,
+      "coin": 1000000149337,
       "uid": "1640840b-39_b-nebula",
       "username": "@user_1640840b-39",
       "spam": {
-        "lastMessage": 1773329756932,
+        "lastMessage": 1773331081304,
         "count": 1
       },
-      "xp": 50,
+      "xp": 730,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true
       },
       "lastCode": 1773298364059,
-      "lastHack": 1773298390311,
-      "robSuccess": 755,
-      "lastBeg": 1773328985336,
-      "begSuccess": 6,
-      "lastDeliver": 1773328993320,
+      "lastHack": 1773331031063,
+      "robSuccess": 759,
+      "lastBeg": 1773330998327,
+      "begSuccess": 8,
+      "lastDeliver": 1773331003963,
       "level": 752,
       "lastWork": 1773327556925,
       "workSuccess": 2,
-      "lastPhish": 1773329014544,
+      "lastPhish": 1773331009191,
       "afk": {
         "reason": null,
         "timestamp": 1773327925227
@@ -3946,7 +3946,37 @@
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1773329737121,
-      "lastBulkInv": 1773329737121
+      "lastBulkInv": 1773329737121,
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
+      },
+      "club": {
+        "level": 1,
+        "upgrades": {
+          "music": 0,
+          "djs": 0,
+          "security": 0,
+          "bikegang": 0,
+          "carfleet": 0,
+          "heli": 0,
+          "armory": 0,
+          "safehouse": 0,
+          "militia": 0,
+          "elite": 0
+        },
+        "lastRentCollected": 1773330086997,
+        "upgradesBoughtSinceLevel": 0
+      },
+      "received_total": 999999999000,
+      "lastRob": 1773331015918
     },
     "268938537656366": {
       "coin": 13999,
@@ -3964,7 +3994,7 @@
       "lastDeliver": 1773329294375
     }
   },
-  "savedAt": 1773330205914,
+  "savedAt": 1773331083300,
   "clan": {
     "243319": {
       "name": "problemchild⃤⃟⃝",
@@ -4064,7 +4094,7 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 2634528708676382,
+      "coin": 5669773045425912,
       "glory": 217812,
       "essence": 306,
       "renown": 2000,
@@ -4104,7 +4134,7 @@
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
-        "totalDeposited": 5216352103344079,
+        "totalDeposited": 13652380292880192,
         "territoryCount": 8
       },
       "welcomeMessage": "🌹Dangerous with good looks🌹",
