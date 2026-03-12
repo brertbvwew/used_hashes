@@ -3931,10 +3931,10 @@
       "uid": "38410412-36_b-nebula",
       "username": "@user_38410412-36",
       "spam": {
-        "lastMessage": 1773329332453,
+        "lastMessage": 1773329411275,
         "count": 1
       },
-      "xp": 400,
+      "xp": 440,
       "lastBeg": 1773329300566,
       "begSuccess": 2,
       "lastPhish": 1773329305289,
@@ -3942,7 +3942,7 @@
       "lastDeliver": 1773329294375
     }
   },
-  "savedAt": 1773329334354,
+  "savedAt": 1773329413799,
   "clan": {
     "243319": {
       "name": "problemchild⃤⃟⃝",
@@ -4009,11 +4009,11 @@
         "151994715099391"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 1773081576117,
+      "lastIncome": 1773329390941,
       "lastBattle": 0,
       "lastMission": 1773328726350,
       "lastAmbush": 0,
-      "lastCollect": 1773239394904,
+      "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
       "lastScavenge": 1773312426873,
       "lastResearch": 1773239394904,
@@ -4041,7 +4041,7 @@
       "glory": 217221,
       "essence": 306,
       "renown": 2000,
-      "xp": 105096,
+      "xp": 105126,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
