@@ -1929,14 +1929,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773312081645,
+        "lastMessage": 1773312941869,
         "count": 1
       },
-      "xp": 530,
+      "xp": 590,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 982,
-      "level": 1036,
+      "level": 1037,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2177,7 +2177,7 @@
       "helperGauge": 0,
       "lastXvideoDl": 1770487037507,
       "clublastRobTime": 1773269814114,
-      "tokens": 3,
+      "tokens": 2,
       "lastBuyTokens": 1770504670805,
       "lastBuyUnban": 1773244795468,
       "lastSMSSend": 1770842714439,
@@ -2842,6 +2842,41 @@
             "power": 625,
             "tier": 1,
             "rarity": "rare"
+          },
+          "3ec0": {
+            "name": "Master Sword (T3)",
+            "type": "weapon",
+            "power": 2250,
+            "tier": 3,
+            "rarity": "epic"
+          },
+          "bddb": {
+            "name": "Power Suit (T3)",
+            "type": "armor",
+            "power": 1350,
+            "tier": 3,
+            "rarity": "epic"
+          },
+          "c803": {
+            "name": "COMMON ARMOR T2",
+            "type": "armor",
+            "power": 600,
+            "tier": 2,
+            "rarity": "common"
+          },
+          "5c8b": {
+            "name": "COMMON WEAPON T6",
+            "type": "weapon",
+            "power": 3000,
+            "tier": 6,
+            "rarity": "common"
+          },
+          "dcdb": {
+            "name": "Cyber Helm (T3)",
+            "type": "helmet",
+            "power": 1125,
+            "tier": 3,
+            "rarity": "epic"
           }
         }
       },
@@ -3752,7 +3787,7 @@
       "lastBulkInv": 1773268871943
     }
   },
-  "savedAt": 1773312083140,
+  "savedAt": 1773312943924,
   "clan": {
     "b69826": {
       "name": "🌹👻🍃☆♤♧Baddie-Gangstas♧♤☆🍃👻🌹",
@@ -3765,11 +3800,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773081576117,
       "lastBattle": 0,
-      "lastMission": 1773311824642,
+      "lastMission": 1773312904082,
       "lastAmbush": 0,
       "lastCollect": 1773239394904,
       "lastChallenge": 1773300187326,
-      "lastScavenge": 1773300276973,
+      "lastScavenge": 1773312426873,
       "lastResearch": 1773239394904,
       "lastTrain": 1773246220516,
       "upgrades": {
@@ -3791,11 +3826,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 0,
-      "glory": 207531,
-      "essence": 8010,
+      "coin": 445859890543060,
+      "glory": 211605,
+      "essence": 7806,
       "renown": 2000,
-      "xp": 101354,
+      "xp": 103261,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -3811,8 +3846,8 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 13,
-        "scavenge_3": 4
+        "mission_2": 30,
+        "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
       "consumables": {},
@@ -3827,7 +3862,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 987,
+        "missionCount": 1008,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
@@ -3837,14 +3872,15 @@
       "welcomeMessage": "🌹Dangerous with good looks🌹",
       "tactic": "defensive",
       "lastPatrols": {
-        "249216148455505": 1773311131684
+        "249216148455505": 1773312564223
       },
       "buildings": {
         "market": 5,
         "barracks": 5,
         "armory": 5,
         "intel": 5
-      }
+      },
+      "salvage": 72
     },
     "19e199": {
       "name": "زنجي",
