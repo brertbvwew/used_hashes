@@ -1932,28 +1932,28 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773340299020,
+        "lastMessage": 1773342458716,
         "count": 1
       },
-      "xp": 910,
+      "xp": 870,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 982,
-      "level": 1041,
+      "winGame": 999,
+      "level": 1045,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
-      "rpgGather": 759,
+      "rpgGather": 760,
       "rpgtrades": 750,
       "rpgcrafted": 750,
-      "rpgmonsterfight": 757,
+      "rpgmonsterfight": 758,
       "yugiohviewcard": 751,
       "onepiceviewcard": 751,
       "dragonballviewcard": 751,
-      "pokemonviewcard": 879,
+      "pokemonviewcard": 896,
       "vipgameviewcard": 751,
       "weedcooked": 750,
-      "weedgather": 759,
+      "weedgather": 760,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1770234154305,
@@ -1977,39 +1977,39 @@
         "cost": 46591
       },
       "lastPokemon": {
-        "id": 930,
-        "name": "arboliva",
+        "id": 972,
+        "name": "houndstone",
         "stats": [
           {
             "name": "hp",
-            "value": 78
+            "value": 72
           },
           {
             "name": "attack",
-            "value": 69
+            "value": 101
           },
           {
             "name": "defense",
-            "value": 90
+            "value": 100
           },
           {
             "name": "special-attack",
-            "value": 125
+            "value": 50
           },
           {
             "name": "special-defense",
-            "value": 109
+            "value": 97
           },
           {
             "name": "speed",
-            "value": 39
+            "value": 68
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/930.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/930.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/972.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/972.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2296,29 +2296,29 @@
         "Mushroom": 9,
         "Wood": 4,
         "Coal": 7,
-        "Herb": 8,
+        "Herb": 11,
         "Tomato": 3,
         "Goblin Ear": 5,
-        "Elven Silk": 4,
+        "Elven Silk": 6,
         "Iron Shard": 2,
         "Pumpkin": 6,
-        "Coconut": 6,
+        "Coconut": 8,
         "Iron Ore": 10,
-        "Gold Nugget": 9,
+        "Gold Nugget": 10,
         "Dragon Bone": 3,
         "Dragon Scale": 1,
         "Cabbage": 6,
         "Stone": 9,
-        "Carrot": 13,
-        "Pineapple": 1,
+        "Carrot": 16,
+        "Pineapple": 2,
         "Bloodstone": 2,
         "Vampire Fang": 1,
         "Ancient Relic": 1,
         "Elemental Crystal": 2,
-        "Thunder Gem": 3,
+        "Thunder Gem": 4,
         "Berries": 6,
         "Silver Coin": 2,
-        "Leather": 2,
+        "Leather": 3,
         "Dragonfruit": 1,
         "Dark Essence": 2,
         "Runestone": 3,
@@ -2326,67 +2326,69 @@
         "Mystic Feather": 2,
         "Glass Shard": 1
       },
-      "rpglastGather": 1773244481884,
+      "rpglastGather": 1773341815705,
       "weedinventory": {
-        "Grinder Part": 14,
+        "Grinder Part": 15,
         "Seed": 9,
         "Perlite": 4,
         "Worm Castings": 11,
-        "Sativa Nug": 24,
+        "Sativa Nug": 28,
         "Water Pipe": 4,
         "THC Oil": 8,
         "High-Grade Wax": 2,
         "420 Pineapple": 2,
-        "Weed Leaf": 20,
+        "Weed Leaf": 23,
         "Rolling Paper": 9,
-        "Paper Crutch": 5,
+        "Paper Crutch": 8,
         "Edible": 3,
         "Lighter": 13,
         "Metal Lid": 15,
         "Rolling Tray": 2,
         "Plastic Shard": 1,
-        "Compost": 3,
+        "Compost": 5,
         "Dab Tool": 17,
         "Canvas Sheet": 3,
         "Dank Dragonfruit": 1,
-        "Rare Blue Strain": 5,
-        "Grinder": 4,
-        "Hybrid Nug": 1,
+        "Rare Blue Strain": 7,
+        "Grinder": 6,
+        "Hybrid Nug": 3,
         "Purple Haze": 2,
-        "Bud": 5,
+        "Bud": 7,
         "Moon Rock": 4,
         "Chillum": 1,
         "Hydro Pot": 3,
         "Cosmic Dab": 2,
-        "Indica Bud": 2,
+        "Indica Bud": 3,
         "Kief Dust": 2,
         "Celestial Joint": 1,
         "THC Crystal": 1,
-        "Buzz Crystal": 1
+        "Buzz Crystal": 1,
+        "Vape Cartridge": 2
       },
-      "weedlastGather": 1773244484668,
-      "rpglastFight": 1773244497031,
+      "weedlastGather": 1773341828741,
+      "rpglastFight": 1773341823371,
       "rpghealth": 100,
       "spaceinventory": {
-        "Scrap Metal": 30,
-        "Iron Ore": 19,
-        "Damaged Circuit": 19,
-        "Silicon Ore": 21,
-        "Copper Ore": 13,
-        "Copper Wire": 12,
-        "Biometric Data Pad": 9,
-        "Crystal Shard": 13,
-        "Quantum Chip": 9,
-        "Titanium Ore": 9,
-        "Advanced Sensor Array": 9,
-        "Quantum Processor": 9,
-        "Energy Cell": 9,
-        "Plasma Coils": 9,
+        "Scrap Metal": 34,
+        "Iron Ore": 22,
+        "Damaged Circuit": 20,
+        "Silicon Ore": 24,
+        "Copper Ore": 15,
+        "Copper Wire": 13,
+        "Biometric Data Pad": 10,
+        "Crystal Shard": 14,
+        "Quantum Chip": 10,
+        "Titanium Ore": 10,
+        "Advanced Sensor Array": 10,
+        "Quantum Processor": 10,
+        "Energy Cell": 10,
+        "Plasma Coils": 10,
         "Fusion Core": 4,
-        "Gold Ore": 1
+        "Gold Ore": 2,
+        "Neutronium Fragment": 1
       },
-      "spacelastSalvage": 1773244488890,
-      "spacesalvage": 9,
+      "spacelastSalvage": 1773341840272,
+      "spacesalvage": 10,
       "yugiohLastCard": {
         "id": 60715406,
         "name": "Tentacle Plant",
@@ -2900,7 +2902,7 @@
         "lastRentCollected": 1773081562522,
         "upgradesBoughtSinceLevel": 2
       },
-      "rpgmonsterHealth": 163,
+      "rpgmonsterHealth": 80,
       "uplimit": "10MB",
       "limit": 10,
       "give_limit_until": 1773862695690,
@@ -4000,8 +4002,64 @@
       "lastRob": 1773332729920
     }
   },
-  "savedAt": 1773340301028,
+  "savedAt": 1773342460811,
   "clan": {
+    "201481": {
+      "name": "fuh",
+      "leader": "168419274039524",
+      "members": [
+        "168419274039524"
+      ],
+      "createdAt": 1773341408982,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "renown": 0,
+      "xp": 0,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {},
+      "lastQuestReset": 1773341408982,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [],
+      "stats": {
+        "missionCount": 0,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
+      }
+    },
     "243319": {
       "name": "problemchild⃤⃟⃝",
       "leader": "18675021181111",
@@ -4075,7 +4133,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773329390941,
       "lastBattle": 0,
-      "lastMission": 1773334722978,
+      "lastMission": 1773342449276,
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
@@ -4101,11 +4159,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 6287906860201947,
-      "glory": 218106,
+      "coin": 7005833886157482,
+      "glory": 223911,
       "essence": 6,
       "renown": 2000,
-      "xp": 105571,
+      "xp": 107776,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4121,7 +4179,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 57,
+        "mission_2": 84,
         "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
@@ -4137,7 +4195,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1041,
+        "missionCount": 1071,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
