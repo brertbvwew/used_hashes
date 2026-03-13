@@ -1928,18 +1928,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 96654589966007,
+      "coin": 96654589964442,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773378837889,
+        "lastMessage": 1773379035749,
         "count": 1
       },
-      "xp": 240,
+      "xp": 370,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 1188,
-      "level": 1070,
+      "winGame": 1199,
+      "level": 1072,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1947,10 +1947,10 @@
       "rpgtrades": 750,
       "rpgcrafted": 750,
       "rpgmonsterfight": 760,
-      "yugiohviewcard": 877,
+      "yugiohviewcard": 888,
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
-      "pokemonviewcard": 1081,
+      "pokemonviewcard": 1092,
       "vipgameviewcard": 761,
       "weedcooked": 750,
       "weedgather": 762,
@@ -1977,39 +1977,39 @@
         "cost": 30779
       },
       "lastPokemon": {
-        "id": 422,
-        "name": "shellos",
+        "id": 389,
+        "name": "torterra",
         "stats": [
           {
             "name": "hp",
-            "value": 76
+            "value": 95
           },
           {
             "name": "attack",
-            "value": 48
+            "value": 109
           },
           {
             "name": "defense",
-            "value": 48
+            "value": 105
           },
           {
             "name": "special-attack",
-            "value": 57
+            "value": 75
           },
           {
             "name": "special-defense",
-            "value": 62
+            "value": 85
           },
           {
             "name": "speed",
-            "value": 34
+            "value": 56
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/422.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/389.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2395,61 +2395,68 @@
       "spacelastSalvage": 1773373990645,
       "spacesalvage": 12,
       "yugiohLastCard": {
-        "id": 24311595,
-        "name": "Rescueroid",
+        "id": 38528901,
+        "name": "Shock Troops of the Ice Barrier",
         "typeline": [
-          "Machine",
+          "Spellcaster",
           "Effect"
         ],
         "type": "Effect Monster",
         "humanReadableCardType": "Effect Monster",
         "frameType": "effect",
-        "desc": "When a \"roid\" monster you control is destroyed by battle and sent to the Graveyard, you can return that monster to its owner's hand.",
-        "race": "Machine",
-        "atk": 1600,
-        "def": 1800,
-        "level": 6,
-        "attribute": "FIRE",
-        "archetype": "Roid",
-        "ygoprodeck_url": "https://ygoprodeck.com/card/rescueroid-2100",
+        "desc": "You can Tribute this card to select 1 face-up WATER monster on the field, destroy it, and add 1 \"Ice Barrier\" monster from your Deck to your hand.",
+        "race": "Spellcaster",
+        "atk": 1500,
+        "def": 800,
+        "level": 3,
+        "attribute": "WATER",
+        "archetype": "Ice Barrier",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/shock-troops-of-the-ice-barrier-3267",
         "card_sets": [
           {
-            "set_name": "Power of the Duelist",
-            "set_code": "POTD-EN011",
+            "set_name": "Duel Terminal 3",
+            "set_code": "DT03-EN025",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "0"
+          },
+          {
+            "set_name": "Hidden Arsenal 3",
+            "set_code": "HA03-EN018",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+          },
+          {
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN037",
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "0"
           },
           {
-            "set_name": "Speed Duel GX: Midterm Paradox",
-            "set_code": "SGX2-ENB12",
-            "set_rarity": "Common",
-            "set_rarity_code": "(C)",
-            "set_price": "0"
-          },
-          {
-            "set_name": "Starter Deck: Syrus Truesdale",
-            "set_code": "YSDS-EN019",
-            "set_rarity": "Common",
-            "set_rarity_code": "(C)",
-            "set_price": "3.52"
+            "set_name": "Hidden Arsenal: Chapter 1",
+            "set_code": "HAC1-EN037",
+            "set_rarity": "Duel Terminal Normal Parallel Rare",
+            "set_rarity_code": "(DNPR)",
+            "set_price": "1.84"
           }
         ],
         "card_images": [
           {
-            "id": 24311595,
-            "image_url": "https://images.ygoprodeck.com/images/cards/24311595.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/24311595.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/24311595.jpg"
+            "id": 38528901,
+            "image_url": "https://images.ygoprodeck.com/images/cards/38528901.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38528901.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38528901.jpg"
           }
         ],
         "card_prices": [
           {
-            "cardmarket_price": "0.10",
-            "tcgplayer_price": "0.07",
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.11",
             "ebay_price": "0.99",
-            "amazon_price": "1.19",
-            "coolstuffinc_price": "0.39"
+            "amazon_price": "1.28",
+            "coolstuffinc_price": "0.25"
           }
         ]
       },
@@ -2943,9 +2950,10 @@
         "Vegeta : DA",
         "Vegeta : DA",
         "Vegeta : DA",
+        "Vegeta : DA",
         "Vegeta : DA"
       ],
-      "dblastBuy": 1773377850785,
+      "dblastBuy": 1773378848675,
       "cardvipgameInventory": [
         81,
         76,
@@ -4116,7 +4124,7 @@
       }
     }
   },
-  "savedAt": 1773378840264,
+  "savedAt": 1773379037892,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4247,7 +4255,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773329390941,
       "lastBattle": 0,
-      "lastMission": 1773378780071,
+      "lastMission": 1773379031162,
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
@@ -4273,11 +4281,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 9568804406634700,
-      "glory": 237459,
+      "coin": 9852923843077394,
+      "glory": 239364,
       "essence": 6,
       "renown": 2000,
-      "xp": 112901,
+      "xp": 113781,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4293,7 +4301,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 146,
+        "mission_2": 157,
         "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
@@ -4309,7 +4317,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1142,
+        "missionCount": 1153,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
