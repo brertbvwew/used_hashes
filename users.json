@@ -1928,18 +1928,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 168259177716480,
+      "coin": 169137685626230,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773430983258,
-        "count": 1
+        "lastMessage": 1773436688024,
+        "count": 2
       },
-      "xp": 580,
+      "xp": 750,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 1204,
-      "level": 1077,
+      "winGame": 1205,
+      "level": 1078,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1947,11 +1947,11 @@
       "rpgtrades": 750,
       "rpgcrafted": 750,
       "rpgmonsterfight": 760,
-      "yugiohviewcard": 893,
+      "yugiohviewcard": 894,
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
-      "pokemonviewcard": 1097,
-      "vipgameviewcard": 766,
+      "pokemonviewcard": 1098,
+      "vipgameviewcard": 769,
       "weedcooked": 750,
       "weedgather": 762,
       "weedsell": 750,
@@ -1967,14 +1967,14 @@
       "premiumUntil": 1775857778874,
       "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
-        "id": 29,
+        "id": 40,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 88441,
+        "power": 46685,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/VWCKrKTF/vip-3.png",
-        "cost": 17746
+        "imageUrl": "https://i.ibb.co/jPBN8FS4/vip-4.png",
+        "cost": 41371
       },
       "lastPokemon": {
         "id": 644,
@@ -2395,29 +2395,39 @@
       "spacelastSalvage": 1773373990645,
       "spacesalvage": 12,
       "yugiohLastCard": {
-        "id": 35268888,
-        "name": "Ghost Token",
-        "type": "Token",
-        "humanReadableCardType": "Token",
-        "frameType": "token",
-        "desc": "Special Summoned with the effect of \"Damage Translation\".",
-        "race": "Fiend",
-        "ygoprodeck_url": "https://ygoprodeck.com/card/ghost-token-2993",
+        "id": 28903523,
+        "name": "Eternal Sunshine",
+        "type": "Trap Card",
+        "humanReadableCardType": "Continuous Trap",
+        "frameType": "trap",
+        "desc": "Monsters you control gain 500 DEF for each \"Ancient Fairy Dragon\", and monsters that mention it, that you control. Once per Chain: You can target 1 face-up monster your opponent controls; until the end of this turn, its ATK/DEF become halved, also its effects are negated. You can use this effect of \"Eternal Sunshine\" a number of times per turn, up to the number of \"Ancient Fairy Dragon\", and monsters that mention it, that you control.",
+        "race": "Continuous",
+        "archetype": "Ancient Fairy Dragon",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/eternal-sunshine-14928",
+        "card_sets": [
+          {
+            "set_name": "Alliance Insight",
+            "set_code": "ALIN-EN071",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+          }
+        ],
         "card_images": [
           {
-            "id": 35268888,
-            "image_url": "https://images.ygoprodeck.com/images/cards/35268888.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/35268888.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/35268888.jpg"
+            "id": 28903523,
+            "image_url": "https://images.ygoprodeck.com/images/cards/28903523.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/28903523.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/28903523.jpg"
           }
         ],
         "card_prices": [
           {
-            "cardmarket_price": "44.43",
-            "tcgplayer_price": "8.63",
-            "ebay_price": "6.00",
-            "amazon_price": "0.78",
-            "coolstuffinc_price": "15.99"
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.05",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
           }
         ]
       },
@@ -2904,8 +2914,11 @@
       "give_limit_until": 1773862695690,
       "download_limit_until": 1773937000138,
       "cardopInventory": [],
-      "oplastBuy": 1773414747929,
+      "oplastBuy": 1773436616268,
       "carddragonballInventory": [
+        "Vegeta : DA",
+        "Vegeta : DA",
+        "Vegeta : DA",
         "Vegeta : DA",
         "Vegeta : DA",
         "Vegeta : DA",
@@ -2917,7 +2930,7 @@
         "Vegeta : DA",
         "Vegeta : DA"
       ],
-      "dblastBuy": 1773414746940,
+      "dblastBuy": 1773436617286,
       "cardvipgameInventory": [
         81,
         76,
@@ -2933,9 +2946,11 @@
         35,
         103,
         60,
-        29
+        29,
+        62,
+        24
       ],
-      "lastBuy": 1773430967382,
+      "lastBuy": 1773436536626,
       "lastDorn": 1773410298357,
       "lastWAGROUP": 1773426762551
     },
@@ -3982,7 +3997,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773430984865,
+  "savedAt": 1773436689134,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4111,15 +4126,15 @@
         "246179539501140"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 1773329390941,
+      "lastIncome": 1773431704838,
       "lastBattle": 0,
-      "lastMission": 1773407729160,
+      "lastMission": 1773431486510,
       "lastAmbush": 0,
-      "lastCollect": 1773329390941,
+      "lastCollect": 1773431704838,
       "lastChallenge": 1773300187326,
-      "lastScavenge": 1773410371506,
+      "lastScavenge": 1773433640773,
       "lastResearch": 1773239394904,
-      "lastTrain": 1773246220516,
+      "lastTrain": 1773431471569,
       "upgrades": {
         "defense": 20,
         "attack": 15,
@@ -4139,11 +4154,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 16855658595688432,
-      "glory": 249735,
-      "essence": 138,
+      "coin": 17019461195084034,
+      "glory": 250524,
+      "essence": 380,
       "renown": 2000,
-      "xp": 117774,
+      "xp": 118627,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4159,8 +4174,8 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 202,
-        "scavenge_3": 27
+        "mission_2": 206,
+        "scavenge_3": 40
       },
       "lastQuestReset": 1773300250931,
       "consumables": {},
@@ -4175,17 +4190,18 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1205,
+        "missionCount": 1209,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
         "totalDeposited": 97653390467341890,
-        "territoryCount": 8
+        "territoryCount": 8,
+        "mercenaryHired": 2
       },
       "welcomeMessage": "🌹Dangerous with good looks🌹",
-      "tactic": "defensive",
+      "tactic": "aggressive",
       "lastPatrols": {
-        "249216148455505": 1773378003271
+        "249216148455505": 1773433636437
       },
       "buildings": {
         "market": 5,
@@ -4194,7 +4210,11 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 208
+      "salvage": 448,
+      "mercenaries": {
+        "siege": true
+      },
+      "tempPowerBoost": 10
     },
     "19e199": {
       "name": "زنجي",
