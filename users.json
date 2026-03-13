@@ -1928,18 +1928,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 14494833293151130,
+      "coin": 16215151776507416,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773406885590,
+        "lastMessage": 1773409517000,
         "count": 1
       },
-      "xp": 810,
+      "xp": 120,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 1199,
-      "level": 1072,
+      "winGame": 1200,
+      "level": 1074,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1947,10 +1947,10 @@
       "rpgtrades": 750,
       "rpgcrafted": 750,
       "rpgmonsterfight": 760,
-      "yugiohviewcard": 888,
+      "yugiohviewcard": 889,
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
-      "pokemonviewcard": 1092,
+      "pokemonviewcard": 1093,
       "vipgameviewcard": 761,
       "weedcooked": 750,
       "weedgather": 762,
@@ -1977,39 +1977,39 @@
         "cost": 30779
       },
       "lastPokemon": {
-        "id": 389,
-        "name": "torterra",
+        "id": 789,
+        "name": "cosmog",
         "stats": [
           {
             "name": "hp",
-            "value": 95
+            "value": 43
           },
           {
             "name": "attack",
-            "value": 109
+            "value": 29
           },
           {
             "name": "defense",
-            "value": 105
+            "value": 31
           },
           {
             "name": "special-attack",
-            "value": 75
+            "value": 29
           },
           {
             "name": "special-defense",
-            "value": 85
+            "value": 31
           },
           {
             "name": "speed",
-            "value": 56
+            "value": 37
           }
         ],
-        "isLegendary": false,
+        "isLegendary": true,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/389.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/389.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/789.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/789.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2395,67 +2395,45 @@
       "spacelastSalvage": 1773373990645,
       "spacesalvage": 12,
       "yugiohLastCard": {
-        "id": 38528901,
-        "name": "Shock Troops of the Ice Barrier",
-        "typeline": [
-          "Spellcaster",
-          "Effect"
-        ],
-        "type": "Effect Monster",
-        "humanReadableCardType": "Effect Monster",
-        "frameType": "effect",
-        "desc": "You can Tribute this card to select 1 face-up WATER monster on the field, destroy it, and add 1 \"Ice Barrier\" monster from your Deck to your hand.",
-        "race": "Spellcaster",
-        "atk": 1500,
-        "def": 800,
-        "level": 3,
-        "attribute": "WATER",
-        "archetype": "Ice Barrier",
-        "ygoprodeck_url": "https://ygoprodeck.com/card/shock-troops-of-the-ice-barrier-3267",
+        "id": 60433216,
+        "name": "King Scarlet",
+        "type": "Trap Card",
+        "humanReadableCardType": "Continuous Trap",
+        "frameType": "trap",
+        "desc": "If a \"Red Dragon Archfiend\" monster you control battles, during damage calculation: Make that monster you control unable to be destroyed by that battle, and if you do, Special Summon this card as a Normal Monster (Fiend-Type/Tuner/FIRE/Level 1/ATK 0/DEF 0). (This card is also still a Trap Card.)",
+        "race": "Continuous",
+        "archetype": "Archfiend",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/king-scarlet-5127",
         "card_sets": [
           {
-            "set_name": "Duel Terminal 3",
-            "set_code": "DT03-EN025",
-            "set_rarity": "Duel Terminal Normal Parallel Rare",
-            "set_rarity_code": "(DNPR)",
-            "set_price": "0"
-          },
-          {
-            "set_name": "Hidden Arsenal 3",
-            "set_code": "HA03-EN018",
-            "set_rarity": "Super Rare",
-            "set_rarity_code": "(SR)",
-            "set_price": "0"
-          },
-          {
-            "set_name": "Hidden Arsenal: Chapter 1",
-            "set_code": "HAC1-EN037",
+            "set_name": "2017 Mega-Tin Mega Pack",
+            "set_code": "MP17-EN109",
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "0"
           },
           {
-            "set_name": "Hidden Arsenal: Chapter 1",
-            "set_code": "HAC1-EN037",
-            "set_rarity": "Duel Terminal Normal Parallel Rare",
-            "set_rarity_code": "(DNPR)",
-            "set_price": "1.84"
+            "set_name": "The Dark Illusion",
+            "set_code": "TDIL-EN070",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
           }
         ],
         "card_images": [
           {
-            "id": 38528901,
-            "image_url": "https://images.ygoprodeck.com/images/cards/38528901.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/38528901.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/38528901.jpg"
+            "id": 60433216,
+            "image_url": "https://images.ygoprodeck.com/images/cards/60433216.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/60433216.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/60433216.jpg"
           }
         ],
         "card_prices": [
           {
-            "cardmarket_price": "0.08",
-            "tcgplayer_price": "0.11",
-            "ebay_price": "0.99",
-            "amazon_price": "1.28",
+            "cardmarket_price": "0.07",
+            "tcgplayer_price": "0.07",
+            "ebay_price": "2.50",
+            "amazon_price": "0.25",
             "coolstuffinc_price": "0.25"
           }
         ]
@@ -4146,7 +4124,7 @@
       }
     }
   },
-  "savedAt": 1773408198126,
+  "savedAt": 1773409518518,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4277,11 +4255,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773329390941,
       "lastBattle": 0,
-      "lastMission": 1773379031162,
+      "lastMission": 1773407729160,
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
-      "lastScavenge": 1773386690685,
+      "lastScavenge": 1773409418947,
       "lastResearch": 1773239394904,
       "lastTrain": 1773246220516,
       "upgrades": {
@@ -4304,10 +4282,10 @@
         "intel": 80
       },
       "coin": 0,
-      "glory": 239367,
-      "essence": 8,
+      "glory": 249687,
+      "essence": 34,
       "renown": 2000,
-      "xp": 113821,
+      "xp": 117566,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4323,8 +4301,8 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 157,
-        "scavenge_3": 20
+        "mission_2": 202,
+        "scavenge_3": 21
       },
       "lastQuestReset": 1773300250931,
       "consumables": {},
@@ -4339,11 +4317,11 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1153,
+        "missionCount": 1205,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
-        "totalDeposited": 65407906144253944,
+        "totalDeposited": 80627481102062620,
         "territoryCount": 8
       },
       "welcomeMessage": "🌹Dangerous with good looks🌹",
@@ -4358,7 +4336,7 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 96
+      "salvage": 108
     },
     "19e199": {
       "name": "زنجي",
