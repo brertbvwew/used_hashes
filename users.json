@@ -4118,9 +4118,23 @@
       "hasSentMsg": {
         "cooldown": true
       }
+    },
+    "20745262514407": {
+      "coin": 8423,
+      "uid": "230e8060-37_b-nebula",
+      "username": "@user_230e8060-37",
+      "spam": {
+        "lastMessage": 1773415337221,
+        "count": 1
+      },
+      "xp": 200,
+      "lastRobBank": 1773414623456,
+      "robSuccess": 2,
+      "lastHack": 1773414740342,
+      "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773415111848,
+  "savedAt": 1773415339202,
   "clan": {
     "201481": {
       "name": "fuh",
