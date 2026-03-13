@@ -3127,10 +3127,10 @@
       "uid": "559041e-30_b-nebula",
       "username": "@leonardo_Dicarprio",
       "spam": {
-        "lastMessage": 1773428477776,
+        "lastMessage": 1773430583395,
         "count": 1
       },
-      "xp": 410,
+      "xp": 650,
       "lastBuyCoin": 1770452158687,
       "received_total": 1000199997000,
       "invPurchases": 3,
@@ -3188,186 +3188,23 @@
         "lastRentCollected": 1773248272981,
         "upgradesBoughtSinceLevel": 2
       },
-      "gear": {
-        "equipped": {
-          "weapon": {
-            "name": "COMMON WEAPON T9",
-            "type": "weapon",
-            "power": 4500,
-            "tier": 9,
-            "rarity": "common"
-          },
-          "armor": {
-            "name": "LEGENDARY ARMOR T9",
-            "type": "armor",
-            "power": 5400,
-            "tier": 9,
-            "rarity": "legendary"
-          },
-          "accessory": {
-            "name": "EPIC ACCESSORY T5",
-            "type": "accessory",
-            "power": 1500,
-            "tier": 5,
-            "rarity": "epic"
-          },
-          "boots": null,
-          "helmet": {
-            "name": "RARE HELMET T5",
-            "type": "helmet",
-            "power": 1562,
-            "tier": 5,
-            "rarity": "rare"
-          }
-        },
-        "inventory": {
-          "2717": {
-            "name": "COMMON ACCESSORY T2",
-            "type": "accessory",
-            "power": 400,
-            "tier": 2,
-            "rarity": "common"
-          },
-          "4575": {
-            "name": "RARE ARMOR T2",
-            "type": "armor",
-            "power": 750,
-            "tier": 2,
-            "rarity": "rare"
-          },
-          "4fa0": {
-            "name": "COMMON ACCESSORY T3",
-            "type": "accessory",
-            "power": 600,
-            "tier": 3,
-            "rarity": "common"
-          },
-          "83ba": {
-            "name": "COMMON HELMET T4",
-            "type": "helmet",
-            "power": 1000,
-            "tier": 4,
-            "rarity": "common"
-          },
-          "bec6": {
-            "name": "EPIC WEAPON T2",
-            "type": "weapon",
-            "power": 1500,
-            "tier": 2,
-            "rarity": "epic"
-          },
-          "2c65": {
-            "name": "COMMON HELMET T3",
-            "type": "helmet",
-            "power": 750,
-            "tier": 3,
-            "rarity": "common"
-          },
-          "b8f1": {
-            "name": "RARE WEAPON T1",
-            "type": "weapon",
-            "power": 625,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "1ff3": {
-            "name": "COMMON WEAPON T6",
-            "type": "weapon",
-            "power": 3000,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "5b0c": {
-            "name": "COMMON ACCESSORY T3",
-            "type": "accessory",
-            "power": 600,
-            "tier": 3,
-            "rarity": "common"
-          },
-          "96a5": {
-            "name": "RARE HELMET T4",
-            "type": "helmet",
-            "power": 1250,
-            "tier": 4,
-            "rarity": "rare"
-          },
-          "d598": {
-            "name": "COMMON WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1,
-            "rarity": "common"
-          },
-          "59ce": {
-            "name": "COMMON WEAPON T6",
-            "type": "weapon",
-            "power": 3000,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "7f7d": {
-            "name": "COMMON WEAPON T4",
-            "type": "weapon",
-            "power": 2000,
-            "tier": 4,
-            "rarity": "common"
-          },
-          "28ff": {
-            "name": "COMMON WEAPON T3",
-            "type": "weapon",
-            "power": 1500,
-            "tier": 3,
-            "rarity": "common"
-          },
-          "003d": {
-            "name": "RARE ARMOR T5",
-            "type": "armor",
-            "power": 1875,
-            "tier": 5,
-            "rarity": "rare"
-          },
-          "0ea0": {
-            "name": "RARE WEAPON T2",
-            "type": "weapon",
-            "power": 1250,
-            "tier": 2,
-            "rarity": "rare"
-          },
-          "c464": {
-            "name": "RARE ACCESSORY T1",
-            "type": "accessory",
-            "power": 250,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "b699": {
-            "name": "EPIC ACCESSORY T3",
-            "type": "accessory",
-            "power": 900,
-            "tier": 3,
-            "rarity": "epic"
-          },
-          "febd": {
-            "name": "RARE ARMOR T3",
-            "type": "armor",
-            "power": 1125,
-            "tier": 3,
-            "rarity": "rare"
-          },
-          "5c2e": {
-            "name": "COMMON BOOTS T1",
-            "type": "boots",
-            "power": 150,
-            "tier": 1,
-            "rarity": "common"
-          }
-        }
-      },
       "premium": true,
       "premiumUntil": 1775921905633,
       "uplimit": "10MB",
       "limit": 10,
-      "lastBuyPremium": 1773329905633
+      "lastBuyPremium": 1773329905633,
+      "lastBuyUnban": 1773429510657,
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
+      }
     },
     "27645319912": {
       "coin": 1000005000,
@@ -4144,7 +3981,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773430405057,
+  "savedAt": 1773430585394,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4269,7 +4106,8 @@
         "249216148455505",
         "151994715099391",
         "6340076396679",
-        "106077605646392"
+        "106077605646392",
+        "246179539501140"
       ],
       "createdAt": 1771224029611,
       "lastIncome": 1773329390941,
@@ -4300,7 +4138,7 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 17025917773422658,
+      "coin": 16855658595688432,
       "glory": 249735,
       "essence": 138,
       "renown": 2000,
@@ -4308,7 +4146,7 @@
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
-        "warlord": null,
+        "warlord": "246179539501140",
         "spy": "151994715099391",
         "scout": null,
         "quartermaster": null
