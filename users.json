@@ -1932,14 +1932,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773436688024,
-        "count": 2
+        "lastMessage": 1773436914148,
+        "count": 1
       },
-      "xp": 750,
+      "xp": 430,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1205,
-      "level": 1078,
+      "level": 1079,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2888,6 +2888,20 @@
             "power": 1125,
             "tier": 3,
             "rarity": "epic"
+          },
+          "1f7e": {
+            "name": "COMMON HELMET T1",
+            "type": "helmet",
+            "power": 250,
+            "tier": 1,
+            "rarity": "common"
+          },
+          "2b3f": {
+            "name": "RARE ACCESSORY T1",
+            "type": "accessory",
+            "power": 250,
+            "tier": 1,
+            "rarity": "rare"
           }
         }
       },
@@ -3997,7 +4011,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773436689134,
+  "savedAt": 1773436916029,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4131,8 +4145,8 @@
       "lastMission": 1773431486510,
       "lastAmbush": 0,
       "lastCollect": 1773431704838,
-      "lastChallenge": 1773300187326,
-      "lastScavenge": 1773433640773,
+      "lastChallenge": 1773436905492,
+      "lastScavenge": 1773436893560,
       "lastResearch": 1773239394904,
       "lastTrain": 1773431471569,
       "upgrades": {
@@ -4154,11 +4168,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 17019461195084034,
-      "glory": 250524,
-      "essence": 380,
-      "renown": 2000,
-      "xp": 118627,
+      "coin": 17019496009976888,
+      "glory": 250857,
+      "essence": 770,
+      "renown": 2050,
+      "xp": 119851,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4174,10 +4188,10 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 206,
-        "scavenge_3": 40
+        "scavenge_3": 3,
+        "event_1": 1
       },
-      "lastQuestReset": 1773300250931,
+      "lastQuestReset": 1773436880088,
       "consumables": {},
       "activeConsumable": {},
       "achievements": [
@@ -4192,7 +4206,7 @@
       "stats": {
         "missionCount": 1209,
         "battleWins": 0,
-        "eventWins": 3,
+        "eventWins": 4,
         "territoryClaims": 3,
         "totalDeposited": 97653390467341890,
         "territoryCount": 8,
@@ -4210,11 +4224,10 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 448,
+      "salvage": 952,
       "mercenaries": {
         "siege": true
-      },
-      "tempPowerBoost": 10
+      }
     },
     "19e199": {
       "name": "زنجي",
