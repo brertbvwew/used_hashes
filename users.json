@@ -1928,18 +1928,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 169137685626230,
+      "coin": 169137685579434,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773436914148,
+        "lastMessage": 1773437642466,
         "count": 1
       },
-      "xp": 430,
+      "xp": 90,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1205,
-      "level": 1079,
+      "level": 1080,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1951,7 +1951,7 @@
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
       "pokemonviewcard": 1098,
-      "vipgameviewcard": 769,
+      "vipgameviewcard": 770,
       "weedcooked": 750,
       "weedgather": 762,
       "weedsell": 750,
@@ -1967,14 +1967,14 @@
       "premiumUntil": 1775857778874,
       "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
-        "id": 40,
+        "id": 72,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 46685,
+        "power": 64733,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/jPBN8FS4/vip-4.png",
-        "cost": 41371
+        "imageUrl": "https://i.ibb.co/jvrjCWVR/vip-69.png",
+        "cost": 13807
       },
       "lastPokemon": {
         "id": 644,
@@ -2902,6 +2902,20 @@
             "power": 250,
             "tier": 1,
             "rarity": "rare"
+          },
+          "377b": {
+            "name": "COMMON WEAPON T8",
+            "type": "weapon",
+            "power": 4000,
+            "tier": 8,
+            "rarity": "common"
+          },
+          "b560": {
+            "name": "RARE HELMET T3",
+            "type": "helmet",
+            "power": 937,
+            "tier": 3,
+            "rarity": "rare"
           }
         }
       },
@@ -2928,8 +2942,9 @@
       "give_limit_until": 1773862695690,
       "download_limit_until": 1773937000138,
       "cardopInventory": [],
-      "oplastBuy": 1773436616268,
+      "oplastBuy": 1773437596299,
       "carddragonballInventory": [
+        "Vegeta : DA",
         "Vegeta : DA",
         "Vegeta : DA",
         "Vegeta : DA",
@@ -2944,7 +2959,7 @@
         "Vegeta : DA",
         "Vegeta : DA"
       ],
-      "dblastBuy": 1773436617286,
+      "dblastBuy": 1773437596793,
       "cardvipgameInventory": [
         81,
         76,
@@ -2962,9 +2977,10 @@
         60,
         29,
         62,
-        24
+        24,
+        40
       ],
-      "lastBuy": 1773436536626,
+      "lastBuy": 1773437566916,
       "lastDorn": 1773410298357,
       "lastWAGROUP": 1773426762551
     },
@@ -4011,7 +4027,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773436916029,
+  "savedAt": 1773437644638,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4142,13 +4158,13 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773431704838,
       "lastBattle": 0,
-      "lastMission": 1773431486510,
+      "lastMission": 1773437027388,
       "lastAmbush": 0,
       "lastCollect": 1773431704838,
       "lastChallenge": 1773436905492,
-      "lastScavenge": 1773436893560,
+      "lastScavenge": 1773437565690,
       "lastResearch": 1773239394904,
-      "lastTrain": 1773431471569,
+      "lastTrain": 1773437015199,
       "upgrades": {
         "defense": 20,
         "attack": 15,
@@ -4168,11 +4184,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 17019496009976888,
-      "glory": 250857,
-      "essence": 770,
+      "coin": 17019519757719252,
+      "glory": 251088,
+      "essence": 1126,
       "renown": 2050,
-      "xp": 119851,
+      "xp": 120706,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4188,8 +4204,9 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 3,
-        "event_1": 1
+        "scavenge_3": 24,
+        "event_1": 1,
+        "mission_2": 0
       },
       "lastQuestReset": 1773436880088,
       "consumables": {},
@@ -4204,7 +4221,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1209,
+        "missionCount": 1210,
         "battleWins": 0,
         "eventWins": 4,
         "territoryClaims": 3,
@@ -4224,10 +4241,11 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 952,
+      "salvage": 1372,
       "mercenaries": {
         "siege": true
-      }
+      },
+      "tempPowerBoost": 10
     },
     "19e199": {
       "name": "زنجي",
