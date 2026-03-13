@@ -3121,19 +3121,19 @@
       "level": 6
     },
     "246179539501140": {
-      "coin": 1000020102425,
+      "coin": 1891210857425,
       "uid": "559041e-30_b-nebula",
-      "username": "@𖣂︎",
+      "username": "@leonardo_Dicarprio",
       "spam": {
-        "lastMessage": 1773328857016,
+        "lastMessage": 1773428477776,
         "count": 1
       },
-      "xp": 930,
+      "xp": 410,
       "lastBuyCoin": 1770452158687,
       "received_total": 1000199997000,
       "invPurchases": 3,
       "winGame": 753,
-      "level": 767,
+      "level": 768,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -3160,7 +3160,11 @@
       "banned": false,
       "permanent": false,
       "lastClaim": {
-        "daily": 1770912006268
+        "daily": 1773329181128,
+        "weekly": 1773329191855,
+        "ultimate": 1773329203260,
+        "divine": 1773329213254,
+        "legendary": 1773329265988
       },
       "clublastRobTime": 1773245690454,
       "lastSteal": 1770968140239,
@@ -3182,7 +3186,6 @@
         "lastRentCollected": 1773248272981,
         "upgradesBoughtSinceLevel": 2
       },
-      "clanId": "b69826",
       "gear": {
         "equipped": {
           "weapon": {
@@ -3357,7 +3360,12 @@
             "rarity": "common"
           }
         }
-      }
+      },
+      "premium": true,
+      "premiumUntil": 1775921905633,
+      "uplimit": "10MB",
+      "limit": 10,
+      "lastBuyPremium": 1773329905633
     },
     "27645319912": {
       "coin": 1000005000,
@@ -4134,7 +4142,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773415339202,
+  "savedAt": 1773428479841,
   "clan": {
     "201481": {
       "name": "fuh",
