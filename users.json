@@ -4088,9 +4088,24 @@
       "StealSuccess": 2,
       "lastRob": 1773351658457,
       "lastPhish": 1773352365325
+    },
+    "273525680111631": {
+      "coin": 2519,
+      "uid": "9d0f96c-31_b-nebula",
+      "username": "@user_9d0f96c-31",
+      "spam": {
+        "lastMessage": 1773377570780,
+        "count": 1
+      },
+      "xp": 420,
+      "lastBuyUnban": 1773377352118,
+      "robbed": 1,
+      "hasSentMsg": {
+        "cooldown": true
+      }
     }
   },
-  "savedAt": 1773375436238,
+  "savedAt": 1773377572911,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4221,7 +4236,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773329390941,
       "lastBattle": 0,
-      "lastMission": 1773375401710,
+      "lastMission": 1773375483446,
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
@@ -4247,11 +4262,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 8196055302672256,
-      "glory": 229656,
+      "coin": 8256325316049988,
+      "glory": 230373,
       "essence": 6,
       "renown": 2000,
-      "xp": 109916,
+      "xp": 110156,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4267,7 +4282,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 110,
+        "mission_2": 113,
         "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
@@ -4283,7 +4298,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1100,
+        "missionCount": 1103,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
