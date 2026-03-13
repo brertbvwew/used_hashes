@@ -4036,45 +4036,46 @@
       "lastFreelance": 1773407075727
     },
     "268938537656366": {
-      "coin": 175454,
+      "coin": 243322,
       "uid": "38410412-36_b-nebula",
       "username": "@user_38410412-36",
       "spam": {
-        "lastMessage": 1773350696971,
+        "lastMessage": 1773415110112,
         "count": 1
       },
-      "xp": 885,
-      "lastBeg": 1773350592957,
-      "begSuccess": 14,
-      "lastPhish": 1773350599114,
-      "robSuccess": 39,
-      "lastDeliver": 1773345748035,
+      "xp": 375,
+      "lastBeg": 1773414302649,
+      "begSuccess": 18,
+      "lastPhish": 1773414448067,
+      "robSuccess": 55,
+      "lastDeliver": 1773414427341,
       "invPurchases": 0,
       "hasSentMsg": {
         "cooldown": true,
         "banned": true,
         "admin": true
       },
-      "lastRob": 1773350624980,
-      "lastHack": 1773350603625,
-      "level": 3,
-      "lastSteal": 1773350614172,
-      "StealSuccess": 8,
-      "lastMine": 1773350629699,
-      "lastFreelance": 1773350648039,
-      "lastDecrypt": 1773343868431,
+      "lastRob": 1773414443813,
+      "lastHack": 1773414441118,
+      "level": 5,
+      "lastSteal": 1773414431594,
+      "StealSuccess": 12,
+      "lastMine": 1773414464644,
+      "lastFreelance": 1773352599266,
+      "lastDecrypt": 1773414472847,
       "lastRepair": 1773341737411,
-      "lastRobBank": 1773350619318,
+      "lastRobBank": 1773414452686,
       "banned": false,
       "permanent": false,
       "lastCode": 1773341885613,
-      "lastClean": 1773350642906,
+      "lastClean": 1773414469147,
       "violations": 2,
-      "lastRansom": 1773345809182,
-      "lastWork": 1773350637234,
-      "workSuccess": 4,
-      "lastBlackjack": 1773344515292,
-      "lastRoulette": 1773344642896
+      "lastRansom": 1773352602557,
+      "lastWork": 1773414460288,
+      "workSuccess": 7,
+      "lastBlackjack": 1773350724191,
+      "lastRoulette": 1773350742970,
+      "lastDiceDuel": 1773351437471
     },
     "119168850497699": {
       "coin": 45899,
@@ -4119,7 +4120,7 @@
       }
     }
   },
-  "savedAt": 1773414916892,
+  "savedAt": 1773415111848,
   "clan": {
     "201481": {
       "name": "fuh",
