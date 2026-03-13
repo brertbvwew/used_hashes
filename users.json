@@ -1928,14 +1928,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 69585580245128,
+      "coin": 7565072158880140,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773375127725,
+        "lastMessage": 1773375183432,
         "count": 1
       },
-      "xp": 810,
+      "xp": 890,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1141,
@@ -4090,7 +4090,7 @@
       "lastPhish": 1773352365325
     }
   },
-  "savedAt": 1773375129222,
+  "savedAt": 1773375184878,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4247,7 +4247,7 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 7495486578635012,
+      "coin": 0,
       "glory": 226749,
       "essence": 6,
       "renown": 2000,
