@@ -3979,10 +3979,10 @@
       "uid": "1640840b-39_b-nebula",
       "username": "@user_1640840b-39",
       "spam": {
-        "lastMessage": 1773331081304,
-        "count": 1
+        "lastMessage": 1773406795428,
+        "count": 2
       },
-      "xp": 730,
+      "xp": 770,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true
@@ -4135,7 +4135,7 @@
       }
     }
   },
-  "savedAt": 1773406766091,
+  "savedAt": 1773406797383,
   "clan": {
     "201481": {
       "name": "fuh",
