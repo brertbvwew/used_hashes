@@ -1932,10 +1932,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773386621293,
+        "lastMessage": 1773391242304,
         "count": 1
       },
-      "xp": 410,
+      "xp": 630,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1199,
@@ -4135,7 +4135,7 @@
       }
     }
   },
-  "savedAt": 1773386623340,
+  "savedAt": 1773391244760,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4270,7 +4270,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
-      "lastScavenge": 1773312426873,
+      "lastScavenge": 1773386690685,
       "lastResearch": 1773239394904,
       "lastTrain": 1773246220516,
       "upgrades": {
@@ -4292,11 +4292,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 0,
-      "glory": 239364,
-      "essence": 6,
+      "coin": 1298515884,
+      "glory": 239367,
+      "essence": 8,
       "renown": 2000,
-      "xp": 113781,
+      "xp": 113821,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4313,7 +4313,7 @@
       "maxMembers": 15,
       "questProgress": {
         "mission_2": 157,
-        "scavenge_3": 19
+        "scavenge_3": 20
       },
       "lastQuestReset": 1773300250931,
       "consumables": {},
@@ -4347,7 +4347,7 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 72
+      "salvage": 96
     },
     "19e199": {
       "name": "زنجي",
