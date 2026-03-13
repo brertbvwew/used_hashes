@@ -1928,32 +1928,32 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 75425049556235,
+      "coin": 75425049405341,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773348783101,
+        "lastMessage": 1773374424836,
         "count": 1
       },
-      "xp": 830,
+      "xp": 750,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 1096,
-      "level": 1056,
+      "winGame": 1131,
+      "level": 1060,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
-      "rpgGather": 761,
+      "rpgGather": 762,
       "rpgtrades": 750,
       "rpgcrafted": 750,
-      "rpgmonsterfight": 759,
-      "yugiohviewcard": 786,
+      "rpgmonsterfight": 760,
+      "yugiohviewcard": 820,
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
-      "pokemonviewcard": 989,
-      "vipgameviewcard": 754,
+      "pokemonviewcard": 1024,
+      "vipgameviewcard": 757,
       "weedcooked": 750,
-      "weedgather": 761,
+      "weedgather": 762,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1770234154305,
@@ -1967,49 +1967,49 @@
       "premiumUntil": 1775857778874,
       "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
-        "id": 43,
+        "id": 13,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 67956,
+        "power": 54828,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/846SBQmF/vip-42.png",
-        "cost": 42815
+        "imageUrl": "https://i.ibb.co/BHnFCGZy/vip-15.png",
+        "cost": 21236
       },
       "lastPokemon": {
-        "id": 608,
-        "name": "lampent",
+        "id": 684,
+        "name": "swirlix",
         "stats": [
           {
             "name": "hp",
-            "value": 60
+            "value": 62
           },
           {
             "name": "attack",
-            "value": 40
+            "value": 48
           },
           {
             "name": "defense",
-            "value": 60
+            "value": 66
           },
           {
             "name": "special-attack",
-            "value": 95
+            "value": 59
           },
           {
             "name": "special-defense",
-            "value": 60
+            "value": 57
           },
           {
             "name": "speed",
-            "value": 55
+            "value": 49
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/608.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/608.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/684.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/684.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2291,17 +2291,17 @@
         ]
       },
       "rpginventory": {
-        "Apple": 24,
-        "Banana": 12,
+        "Apple": 29,
+        "Banana": 16,
         "Mushroom": 9,
         "Wood": 4,
         "Coal": 11,
         "Herb": 11,
-        "Tomato": 3,
+        "Tomato": 5,
         "Goblin Ear": 6,
         "Elven Silk": 6,
-        "Iron Shard": 2,
-        "Pumpkin": 7,
+        "Iron Shard": 7,
+        "Pumpkin": 8,
         "Coconut": 9,
         "Iron Ore": 10,
         "Gold Nugget": 10,
@@ -2309,14 +2309,14 @@
         "Dragon Scale": 1,
         "Cabbage": 9,
         "Stone": 13,
-        "Carrot": 16,
+        "Carrot": 19,
         "Pineapple": 2,
         "Bloodstone": 2,
         "Vampire Fang": 1,
         "Ancient Relic": 1,
         "Elemental Crystal": 2,
         "Thunder Gem": 4,
-        "Berries": 7,
+        "Berries": 8,
         "Silver Coin": 5,
         "Leather": 3,
         "Dragonfruit": 1,
@@ -2325,33 +2325,35 @@
         "Giant’s Bone": 1,
         "Mystic Feather": 2,
         "Glass Shard": 2,
-        "Magic Crystal": 3
+        "Magic Crystal": 3,
+        "Crystal Shard": 1,
+        "Storm Gem": 1
       },
-      "rpglastGather": 1773347356914,
+      "rpglastGather": 1773373974450,
       "weedinventory": {
-        "Grinder Part": 15,
+        "Grinder Part": 16,
         "Seed": 14,
         "Perlite": 4,
-        "Worm Castings": 11,
-        "Sativa Nug": 28,
-        "Water Pipe": 6,
+        "Worm Castings": 13,
+        "Sativa Nug": 29,
+        "Water Pipe": 8,
         "THC Oil": 8,
         "High-Grade Wax": 2,
         "420 Pineapple": 3,
-        "Weed Leaf": 24,
-        "Rolling Paper": 12,
+        "Weed Leaf": 26,
+        "Rolling Paper": 14,
         "Paper Crutch": 9,
         "Edible": 3,
-        "Lighter": 15,
+        "Lighter": 18,
         "Metal Lid": 15,
-        "Rolling Tray": 2,
+        "Rolling Tray": 3,
         "Plastic Shard": 4,
         "Compost": 5,
         "Dab Tool": 17,
-        "Canvas Sheet": 5,
+        "Canvas Sheet": 6,
         "Dank Dragonfruit": 1,
         "Rare Blue Strain": 7,
-        "Grinder": 6,
+        "Grinder": 8,
         "Hybrid Nug": 3,
         "Purple Haze": 2,
         "Bud": 7,
@@ -2362,71 +2364,86 @@
         "Indica Bud": 3,
         "Kief Dust": 2,
         "Celestial Joint": 1,
-        "THC Crystal": 1,
+        "THC Crystal": 3,
         "Buzz Crystal": 1,
         "Vape Cartridge": 2,
         "Leaf Gold": 1,
         "Sun-Kissed Bud": 1
       },
-      "weedlastGather": 1773347395780,
-      "rpglastFight": 1773347373126,
+      "weedlastGather": 1773373981820,
+      "rpglastFight": 1773373976753,
       "rpghealth": 100,
       "spaceinventory": {
-        "Scrap Metal": 35,
-        "Iron Ore": 23,
-        "Damaged Circuit": 21,
-        "Silicon Ore": 26,
-        "Copper Ore": 17,
-        "Copper Wire": 14,
-        "Biometric Data Pad": 11,
-        "Crystal Shard": 15,
-        "Quantum Chip": 11,
-        "Titanium Ore": 11,
-        "Advanced Sensor Array": 11,
-        "Quantum Processor": 11,
-        "Energy Cell": 11,
-        "Plasma Coils": 11,
-        "Fusion Core": 5,
+        "Scrap Metal": 38,
+        "Iron Ore": 25,
+        "Damaged Circuit": 24,
+        "Silicon Ore": 27,
+        "Copper Ore": 18,
+        "Copper Wire": 15,
+        "Biometric Data Pad": 12,
+        "Crystal Shard": 17,
+        "Quantum Chip": 12,
+        "Titanium Ore": 12,
+        "Advanced Sensor Array": 12,
+        "Quantum Processor": 12,
+        "Energy Cell": 12,
+        "Plasma Coils": 12,
+        "Fusion Core": 6,
         "Gold Ore": 2,
         "Neutronium Fragment": 1
       },
-      "spacelastSalvage": 1773347410849,
-      "spacesalvage": 11,
+      "spacelastSalvage": 1773373990645,
+      "spacesalvage": 12,
       "yugiohLastCard": {
-        "id": 69846323,
-        "name": "Piercing Moray",
+        "id": 30608985,
+        "name": "Magical Undertaker",
         "typeline": [
-          "Fish",
+          "Spellcaster",
+          "Flip",
           "Effect"
         ],
-        "type": "Effect Monster",
-        "humanReadableCardType": "Effect Monster",
+        "type": "Flip Effect Monster",
+        "humanReadableCardType": "Flip Effect Monster",
         "frameType": "effect",
-        "desc": "Once per turn: You can Tribute 1 Fish, Sea Serpent, or Aqua-Type monster; this card gains 600 ATK. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
-        "race": "Fish",
-        "atk": 1500,
-        "def": 500,
-        "level": 4,
-        "attribute": "WATER",
-        "ygoprodeck_url": "https://ygoprodeck.com/card/piercing-moray-5872",
+        "desc": "FLIP: You can target 1 Level 4 or lower Spellcaster monster in your GY; Special Summon that target.",
+        "race": "Spellcaster",
+        "atk": 400,
+        "def": 400,
+        "level": 2,
+        "attribute": "DARK",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/magical-undertaker-2603",
         "card_sets": [
           {
-            "set_name": "Generation Force",
-            "set_code": "GENF-EN082",
-            "set_rarity": "Ultimate Rare",
-            "set_rarity_code": "(UtR)",
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN105",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
             "set_price": "0"
           },
           {
-            "set_name": "Generation Force",
-            "set_code": "GENF-EN082",
-            "set_rarity": "Ultra Rare",
-            "set_rarity_code": "(UR)",
+            "set_name": "Battle Pack 3: Monster League",
+            "set_code": "BP03-EN105",
+            "set_rarity": "Shatterfoil Rare",
+            "set_rarity_code": "(SHR)",
             "set_price": "0"
           },
           {
-            "set_name": "Speed Duel: Streets of Battle City",
-            "set_code": "SBC1-ENC06",
+            "set_name": "Speed Duel: Attack from the Deep",
+            "set_code": "SBAD-EN004",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.31"
+          },
+          {
+            "set_name": "Structure Deck: Order of the Spellcasters",
+            "set_code": "SR08-EN019",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+          },
+          {
+            "set_name": "Super Starter: V for Victory",
+            "set_code": "YS13-EN007",
             "set_rarity": "Common",
             "set_rarity_code": "(C)",
             "set_price": "0"
@@ -2434,19 +2451,19 @@
         ],
         "card_images": [
           {
-            "id": 69846323,
-            "image_url": "https://images.ygoprodeck.com/images/cards/69846323.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/69846323.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/69846323.jpg"
+            "id": 30608985,
+            "image_url": "https://images.ygoprodeck.com/images/cards/30608985.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/30608985.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/30608985.jpg"
           }
         ],
         "card_prices": [
           {
-            "cardmarket_price": "0.08",
+            "cardmarket_price": "0.06",
             "tcgplayer_price": "0.10",
-            "ebay_price": "7.00",
-            "amazon_price": "1.99",
-            "coolstuffinc_price": "0.39"
+            "ebay_price": "1.00",
+            "amazon_price": "0.25",
+            "coolstuffinc_price": "0.25"
           }
         ]
       },
@@ -2927,23 +2944,28 @@
         "lastRentCollected": 1773348418971,
         "upgradesBoughtSinceLevel": 2
       },
-      "rpgmonsterHealth": 40,
+      "rpgmonsterHealth": 2,
       "uplimit": "10MB",
       "limit": 10,
       "give_limit_until": 1773862695690,
       "download_limit_until": 1773937000138,
       "cardopInventory": [],
-      "oplastBuy": 1773348365368,
+      "oplastBuy": 1773374256975,
       "carddragonballInventory": [
+        "Vegeta : DA",
+        "Vegeta : DA",
         "Vegeta : DA",
         "Vegeta : DA"
       ],
-      "dblastBuy": 1773348483918,
+      "dblastBuy": 1773373589757,
       "cardvipgameInventory": [
         81,
-        76
+        76,
+        43,
+        96,
+        30
       ],
-      "lastBuy": 1773348743885
+      "lastBuy": 1773374255604
     },
     "168419274039524": {
       "coin": 999499996929,
@@ -4087,7 +4109,7 @@
       "lastPhish": 1773352365325
     }
   },
-  "savedAt": 1773352693190,
+  "savedAt": 1773374426662,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4218,7 +4240,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773329390941,
       "lastBattle": 0,
-      "lastMission": 1773348015782,
+      "lastMission": 1773358602878,
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
@@ -4244,11 +4266,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 7471906411589944,
-      "glory": 226521,
+      "coin": 7495486578635012,
+      "glory": 226749,
       "essence": 6,
       "renown": 2000,
-      "xp": 108861,
+      "xp": 108941,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4264,7 +4286,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 97,
+        "mission_2": 98,
         "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
@@ -4280,7 +4302,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1086,
+        "missionCount": 1087,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
