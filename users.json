@@ -1928,18 +1928,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 16215151776471184,
+      "coin": 16215151776555292,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773409695949,
+        "lastMessage": 1773411394521,
         "count": 1
       },
-      "xp": 350,
+      "xp": 40,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 1201,
-      "level": 1074,
+      "winGame": 1202,
+      "level": 1075,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1947,11 +1947,11 @@
       "rpgtrades": 750,
       "rpgcrafted": 750,
       "rpgmonsterfight": 760,
-      "yugiohviewcard": 890,
+      "yugiohviewcard": 891,
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
-      "pokemonviewcard": 1094,
-      "vipgameviewcard": 762,
+      "pokemonviewcard": 1095,
+      "vipgameviewcard": 764,
       "weedcooked": 750,
       "weedgather": 762,
       "weedsell": 750,
@@ -1967,49 +1967,49 @@
       "premiumUntil": 1775857778874,
       "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
-        "id": 8,
+        "id": 103,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 33156,
+        "power": 52680,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/2Yk6Y2tx/vip-105.png",
-        "cost": 50602
+        "imageUrl": "https://i.ibb.co/vx3hTgrX/vip-97.png",
+        "cost": 58614
       },
       "lastPokemon": {
-        "id": 548,
-        "name": "petilil",
+        "id": 398,
+        "name": "staraptor",
         "stats": [
           {
             "name": "hp",
-            "value": 45
+            "value": 85
           },
           {
             "name": "attack",
-            "value": 35
+            "value": 120
           },
           {
             "name": "defense",
-            "value": 50
-          },
-          {
-            "name": "special-attack",
             "value": 70
           },
           {
-            "name": "special-defense",
+            "name": "special-attack",
             "value": 50
           },
           {
+            "name": "special-defense",
+            "value": 60
+          },
+          {
             "name": "speed",
-            "value": 30
+            "value": 100
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/548.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/548.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/398.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/398.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2023,7 +2023,7 @@
         "quarterly": 1770316763099,
         "monthly": 1770316768873,
         "weekly": 1770316774688,
-        "daily": 1770316778504
+        "daily": 1773410187879
       },
       "usedCoupons": [
         {
@@ -2395,53 +2395,30 @@
       "spacelastSalvage": 1773373990645,
       "spacesalvage": 12,
       "yugiohLastCard": {
-        "id": 84990171,
-        "name": "Bean Soldier",
-        "typeline": [
-          "Plant",
-          "Normal"
-        ],
-        "type": "Normal Monster",
-        "humanReadableCardType": "Normal Monster",
-        "frameType": "normal",
-        "desc": "A plant-warrior that attacks with seeds and sword.",
-        "race": "Plant",
-        "atk": 1400,
-        "def": 1300,
-        "level": 4,
-        "attribute": "EARTH",
-        "ygoprodeck_url": "https://ygoprodeck.com/card/bean-soldier-7129",
-        "card_sets": [
-          {
-            "set_name": "Tournament Pack: 1st Season",
-            "set_code": "TP1-018",
-            "set_rarity": "Common",
-            "set_rarity_code": "(C)",
-            "set_price": "32.83"
-          },
-          {
-            "set_name": "Tournament Pack: 1st Season",
-            "set_code": "TP1-E018",
-            "set_rarity": "Common",
-            "set_rarity_code": "(C)",
-            "set_price": "11.08"
-          }
-        ],
+        "id": 74733322,
+        "name": "Artmage Academic Arcane Arts Acropolis",
+        "type": "Spell Card",
+        "humanReadableCardType": "Field Spell",
+        "frameType": "spell",
+        "desc": "During your Main Phase, you can Normal Summon 1 \"Medius the Pure\", in addition to your Normal Summon/Set (you can only gain this effect once per turn). You can discard 1 Spell/Trap, and declare 1 \"Artmage\" Monster Card name that is not among the monsters you control and has not been declared for \"Artmage Academic Arcane Arts Acropolis\" this turn; add that monster from your Deck to your hand, also you cannot Special Summon for the rest of this turn, except \"Artmage\" monsters, \"Medius the Pure\", or from the Extra Deck.",
+        "race": "Field",
+        "archetype": "Artmage",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/artmage-academic-arcane-arts-acropolis-15054",
         "card_images": [
           {
-            "id": 84990171,
-            "image_url": "https://images.ygoprodeck.com/images/cards/84990171.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/84990171.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/84990171.jpg"
+            "id": 74733322,
+            "image_url": "https://images.ygoprodeck.com/images/cards/74733322.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/74733322.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/74733322.jpg"
           }
         ],
         "card_prices": [
           {
-            "cardmarket_price": "2.62",
-            "tcgplayer_price": "14.63",
-            "ebay_price": "7.59",
-            "amazon_price": "1.48",
-            "coolstuffinc_price": "15.99"
+            "cardmarket_price": "7.78",
+            "tcgplayer_price": "5.92",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
           }
         ]
       },
@@ -2928,8 +2905,9 @@
       "give_limit_until": 1773862695690,
       "download_limit_until": 1773937000138,
       "cardopInventory": [],
-      "oplastBuy": 1773409560774,
+      "oplastBuy": 1773411342218,
       "carddragonballInventory": [
+        "Vegeta : DA",
         "Vegeta : DA",
         "Vegeta : DA",
         "Vegeta : DA",
@@ -2939,7 +2917,7 @@
         "Vegeta : DA",
         "Vegeta : DA"
       ],
-      "dblastBuy": 1773409559884,
+      "dblastBuy": 1773411341322,
       "cardvipgameInventory": [
         81,
         76,
@@ -2950,9 +2928,12 @@
         89,
         5,
         87,
-        11
+        11,
+        8,
+        35
       ],
-      "lastBuy": 1773409524822
+      "lastBuy": 1773411340054,
+      "lastDorn": 1773410298357
     },
     "168419274039524": {
       "coin": 999499996929,
@@ -4133,7 +4114,7 @@
       }
     }
   },
-  "savedAt": 1773409697756,
+  "savedAt": 1773411396488,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4268,7 +4249,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
-      "lastScavenge": 1773409418947,
+      "lastScavenge": 1773410371506,
       "lastResearch": 1773239394904,
       "lastTrain": 1773246220516,
       "upgrades": {
@@ -4290,11 +4271,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 0,
-      "glory": 249687,
-      "essence": 34,
+      "coin": 8408143392,
+      "glory": 249735,
+      "essence": 138,
       "renown": 2000,
-      "xp": 117566,
+      "xp": 117774,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4311,7 +4292,7 @@
       "maxMembers": 15,
       "questProgress": {
         "mission_2": 202,
-        "scavenge_3": 21
+        "scavenge_3": 27
       },
       "lastQuestReset": 1773300250931,
       "consumables": {},
@@ -4345,7 +4326,7 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 108
+      "salvage": 208
     },
     "19e199": {
       "name": "زنجي",
