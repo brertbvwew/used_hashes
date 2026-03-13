@@ -1932,10 +1932,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773437642466,
+        "lastMessage": 1773437837848,
         "count": 1
       },
-      "xp": 90,
+      "xp": 610,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1205,
@@ -2915,6 +2915,20 @@
             "type": "helmet",
             "power": 937,
             "tier": 3,
+            "rarity": "rare"
+          },
+          "aa2d": {
+            "name": "COMMON WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1,
+            "rarity": "common"
+          },
+          "b754": {
+            "name": "RARE HELMET T5",
+            "type": "helmet",
+            "power": 1562,
+            "tier": 5,
             "rarity": "rare"
           }
         }
@@ -4027,7 +4041,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773437644638,
+  "savedAt": 1773437839881,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4162,7 +4176,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773431704838,
       "lastChallenge": 1773436905492,
-      "lastScavenge": 1773437565690,
+      "lastScavenge": 1773437832601,
       "lastResearch": 1773239394904,
       "lastTrain": 1773437015199,
       "upgrades": {
@@ -4184,11 +4198,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 17019519757719252,
-      "glory": 251088,
-      "essence": 1126,
+      "coin": 17019545087047240,
+      "glory": 251331,
+      "essence": 1464,
       "renown": 2050,
-      "xp": 120706,
+      "xp": 121570,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4204,7 +4218,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 24,
+        "scavenge_3": 48,
         "event_1": 1,
         "mission_2": 0
       },
@@ -4241,7 +4255,7 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 1372,
+      "salvage": 1822,
       "mercenaries": {
         "siege": true
       },
