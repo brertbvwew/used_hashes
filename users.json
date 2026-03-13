@@ -787,20 +787,20 @@
       }
     },
     "106077605646392": {
-      "coin": 1816501532429914,
+      "coin": 4047774639941318,
       "uid": "28d70f27-32_b-nebula",
       "username": "@Kold<Fw>Asians",
       "spam": {
-        "lastMessage": 1773375314055,
-        "count": 2
+        "lastMessage": 1773406764412,
+        "count": 1
       },
-      "xp": 990,
+      "xp": 50,
       "premium": true,
       "premiumUntil": 1772720075822,
       "lastBuyPremium": 1770128075822,
       "invPurchases": 3,
-      "winGame": 871,
-      "level": 868,
+      "winGame": 872,
+      "level": 869,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -970,7 +970,7 @@
       "banned": false,
       "permanent": false,
       "received_total": 99999000,
-      "clublastRobTime": 1773375221275,
+      "clublastRobTime": 1773406740800,
       "lastClaim": {
         "daily": 1771148083256,
         "weekly": 1771148093803,
@@ -4135,7 +4135,7 @@
       }
     }
   },
-  "savedAt": 1773391394609,
+  "savedAt": 1773406766091,
   "clan": {
     "201481": {
       "name": "fuh",
