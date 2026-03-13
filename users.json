@@ -1928,18 +1928,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 7565072158880140,
+      "coin": 82788437400729,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773375183432,
+        "lastMessage": 1773375434914,
         "count": 1
       },
-      "xp": 890,
+      "xp": 90,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1141,
-      "level": 1061,
+      "level": 1062,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -4090,7 +4090,7 @@
       "lastPhish": 1773352365325
     }
   },
-  "savedAt": 1773375316143,
+  "savedAt": 1773375436238,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4221,7 +4221,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773329390941,
       "lastBattle": 0,
-      "lastMission": 1773358602878,
+      "lastMission": 1773375401710,
       "lastAmbush": 0,
       "lastCollect": 1773329390941,
       "lastChallenge": 1773300187326,
@@ -4247,11 +4247,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 0,
-      "glory": 226749,
+      "coin": 8196055302672256,
+      "glory": 229656,
       "essence": 6,
       "renown": 2000,
-      "xp": 108941,
+      "xp": 109916,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4267,7 +4267,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "mission_2": 98,
+        "mission_2": 110,
         "scavenge_3": 19
       },
       "lastQuestReset": 1773300250931,
@@ -4283,11 +4283,11 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1087,
+        "missionCount": 1100,
         "battleWins": 0,
         "eventWins": 3,
         "territoryClaims": 3,
-        "totalDeposited": 33304289386193850,
+        "totalDeposited": 41247615153017990,
         "territoryCount": 8
       },
       "welcomeMessage": "🌹Dangerous with good looks🌹",
