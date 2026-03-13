@@ -11,10 +11,10 @@
       "lastBuyPremium": 1768319673295
     },
     "151994715099391": {
-      "coin": 7108731006403,
+      "coin": 8108731005403,
       "uid": "132dec0a-31_b-nebula",
       "username": "@minoratlas𓄿",
-      "xp": 760,
+      "xp": 880,
       "invPurchases": 3,
       "winGame": 806,
       "level": 774,
@@ -230,7 +230,7 @@
       },
       "lastFig": 1767799613766,
       "lastOwnerReport": 1767800040870,
-      "received_total": 1007599923000,
+      "received_total": 2007599922000,
       "lastPokemon": {
         "id": 493,
         "name": "arceus",
@@ -312,7 +312,7 @@
       },
       "rpglastGather": 1768672895172,
       "spam": {
-        "lastMessage": 1773330061556,
+        "lastMessage": 1773430835341,
         "count": 1
       },
       "isHelper": true,
@@ -3981,7 +3981,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773430670929,
+  "savedAt": 1773430836894,
   "clan": {
     "201481": {
       "name": "fuh",
