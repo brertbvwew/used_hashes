@@ -1928,14 +1928,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 51335674721355,
+      "coin": 374636569502249,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773482660991,
-        "count": 2
+        "lastMessage": 1773482920884,
+        "count": 1
       },
-      "xp": 500,
+      "xp": 820,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1208,
@@ -3099,7 +3099,7 @@
                 "chance": 0.15
               }
             ],
-            "energy": 100,
+            "energy": 95,
             "maxEnergy": 100
           },
           {
@@ -3140,18 +3140,54 @@
           }
         ],
         "items": [
-          "golden_collar"
+          "golden_collar",
+          "void_amulet",
+          "void_charm",
+          "lucky_charm",
+          "celestial_wings",
+          "diamond_essence"
         ],
         "ascensionPoints": 0,
         "equippedItems": [
           {
             "id": "golden_collar",
             "name": "ɢᴏʟᴅᴇɴ ᴄᴏʟʟᴀʀ",
-            "durability": 100,
+            "durability": 99,
+            "maxDurability": 100
+          },
+          {
+            "id": "void_amulet",
+            "name": "ᴠᴏɪᴅ ᴀᴍᴜʟᴇᴛ",
+            "durability": 99,
+            "maxDurability": 100
+          },
+          {
+            "id": "void_charm",
+            "name": "ᴠᴏɪᴅ ᴄʜᴀʀᴍ",
+            "durability": 99,
+            "maxDurability": 100
+          },
+          {
+            "id": "lucky_charm",
+            "name": "ʟᴜᴄᴋʏ ᴄʜᴀʀᴍ",
+            "durability": 99,
+            "maxDurability": 100
+          },
+          {
+            "id": "celestial_wings",
+            "name": "ᴄᴇʟᴇꜱᴛɪᴀʟ ᴡɪɴɢꜱ",
+            "durability": 99,
+            "maxDurability": 100
+          },
+          {
+            "id": "diamond_essence",
+            "name": "ᴅɪᴀᴍᴏɴᴅ ᴇꜱꜱᴇɴᴄᴇ",
+            "durability": 99,
             "maxDurability": 100
           }
         ]
-      }
+      },
+      "lastPetFight": 1773482904637
     },
     "168419274039524": {
       "coin": 999499996929,
@@ -4196,7 +4232,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773482662546,
+  "savedAt": 1773482923125,
   "clan": {
     "201481": {
       "name": "fuh",
