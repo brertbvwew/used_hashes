@@ -1928,14 +1928,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1061335674721355,
+      "coin": 1051335674721355,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773482274665,
-        "count": 2
+        "lastMessage": 1773482508344,
+        "count": 1
       },
-      "xp": 380,
+      "xp": 440,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1208,
@@ -3121,8 +3121,18 @@
             "maxEnergy": 100
           }
         ],
-        "items": [],
-        "ascensionPoints": 0
+        "items": [
+          "golden_collar"
+        ],
+        "ascensionPoints": 0,
+        "equippedItems": [
+          {
+            "id": "golden_collar",
+            "name": "ɢᴏʟᴅᴇɴ ᴄᴏʟʟᴀʀ",
+            "durability": 100,
+            "maxDurability": 100
+          }
+        ]
       }
     },
     "168419274039524": {
@@ -4168,7 +4178,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773482274856,
+  "savedAt": 1773482510256,
   "clan": {
     "201481": {
       "name": "fuh",
