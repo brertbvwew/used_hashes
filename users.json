@@ -1928,14 +1928,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1051335674721355,
+      "coin": 51335674721355,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773482508344,
-        "count": 1
+        "lastMessage": 1773482660991,
+        "count": 2
       },
-      "xp": 440,
+      "xp": 500,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1208,
@@ -1951,7 +1951,7 @@
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
       "pokemonviewcard": 1101,
-      "vipgameviewcard": 774,
+      "vipgameviewcard": 775,
       "weedcooked": 750,
       "weedgather": 762,
       "weedsell": 750,
@@ -1967,14 +1967,14 @@
       "premiumUntil": 1775857778874,
       "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
-        "id": 61,
+        "id": 12,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 43845,
+        "power": 90744,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/V0kxVCX7/vip-59.png",
-        "cost": 12252
+        "imageUrl": "https://i.ibb.co/yF0sg6Qp/vip-14.png",
+        "cost": 40588
       },
       "lastPokemon": {
         "id": 361,
@@ -3119,6 +3119,24 @@
             ],
             "energy": 100,
             "maxEnergy": 100
+          },
+          {
+            "id": "2dup9s0",
+            "name": "ᴘᴇᴛ #3",
+            "level": 1,
+            "rarity": "ᴍʏᴛʜɪᴄᴀʟ",
+            "element": "ᴡᴀᴛᴇʀ",
+            "powerScore": 50000,
+            "skills": [
+              {
+                "name": "ᴄᴇʟᴇꜱᴛɪᴀʟ ꜱʜɪᴇʟᴅ",
+                "type": "defense",
+                "value": 0.5,
+                "chance": 0.15
+              }
+            ],
+            "energy": 100,
+            "maxEnergy": 100
           }
         ],
         "items": [
@@ -4178,7 +4196,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773482510256,
+  "savedAt": 1773482662546,
   "clan": {
     "201481": {
       "name": "fuh",
