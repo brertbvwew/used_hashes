@@ -1928,14 +1928,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 5000,
+      "coin": 1035268098870196,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773480557804,
+        "lastMessage": 1773480845755,
         "count": 1
       },
-      "xp": 0,
+      "xp": 160,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1208,
@@ -4150,7 +4150,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773480559458,
+  "savedAt": 1773480847679,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4307,7 +4307,7 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 16432401412359948,
+      "coin": 15402883313494752,
       "glory": 253269,
       "essence": 2342,
       "renown": 2050,
@@ -4348,7 +4348,7 @@
         "battleWins": 0,
         "eventWins": 4,
         "territoryClaims": 3,
-        "totalDeposited": 98587774967341890,
+        "totalDeposited": 98708524967341890,
         "territoryCount": 8,
         "mercenaryHired": 2
       },
