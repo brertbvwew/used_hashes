@@ -1932,14 +1932,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773475915740,
+        "lastMessage": 1773477140447,
         "count": 1
       },
-      "xp": 920,
+      "xp": 9140,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1206,
-      "level": 1080,
+      "level": 1082,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2165,9 +2165,14 @@
           "hash": "dXNlcjo1NWViOTJhZmQ0Y2VmODNkNzY5YjM3MmU4Mjg2MDcwNDoxNzczMTMzMDM5OjY2ZmE0YjAzOmEyNDY5ZjIwZmU3ODJiZTY3OTc3YzE5MjU2NzQ1ZDRi",
           "md5": "717368e0b568ad3b6b915b1b71dbbe1d",
           "time": 1773133627006
+        },
+        {
+          "hash": "dXNlcjpkNmVlNmRkMzUyZDA2NjkzN2VjMmFkMmIzNjA4MmVkYzoxNzczNDcyNDg5OmVlZjIwYzBiOmQwNzkxN2VkYzFjNGU2NjE5ODBiY2IyZDg5NDFlZTM2",
+          "md5": "c5d58ac97398a501a2c29517b3584dee",
+          "time": 1773477127480
         }
       ],
-      "lastBuyXP": 1773133627006,
+      "lastBuyXP": 1773477127480,
       "donated_total": 10001401001540,
       "lastRob": 1770324373183,
       "lastBuyWin": 1770412792468,
@@ -4066,7 +4071,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773475917059,
+  "savedAt": 1773477142026,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4227,7 +4232,7 @@
       "glory": 251331,
       "essence": 1464,
       "renown": 2050,
-      "xp": 121570,
+      "xp": 121585,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4271,7 +4276,7 @@
       "welcomeMessage": "🌹Dangerous with good looks🌹",
       "tactic": "aggressive",
       "lastPatrols": {
-        "249216148455505": 1773433636437
+        "249216148455505": 1773475946276
       },
       "buildings": {
         "market": 5,
