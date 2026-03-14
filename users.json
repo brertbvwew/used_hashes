@@ -1932,14 +1932,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773477922710,
-        "count": 1
+        "lastMessage": 1773478122418,
+        "count": 2
       },
-      "xp": 48670,
+      "xp": 42230,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1207,
-      "level": 1106,
+      "level": 1134,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2185,9 +2185,14 @@
           "hash": "dXNlcjo3YTQzYWJiZGNmYTdhNjMwMjZkMTE0NjY5ZjY2ZjQzZToxNzczNDc3NjM0OjhmMDZiOTQ5OmUwNWUwNTdiN2ViYzRiODAxODAwYTEzODU5NzQ0M2Nm",
           "md5": "802f766e539660ba15e2ac7784117c1a",
           "time": 1773477887753
+        },
+        {
+          "hash": "dXNlcjpiMzRiMDJlNmFmM2ZhMmQzNDg1ZTgxNjUzNjE1MThhZjoxNzczNDc3OTgxOmI4NjUzYjRlOmEyZjFlZjgxNjQ4NmM2N2EwMTY4Y2E1ZTE5ZDFmNjU0",
+          "md5": "41c3f83274bd87cf98c6a1f46cf89a50",
+          "time": 1773478106231
         }
       ],
-      "lastBuyXP": 1773477887753,
+      "lastBuyXP": 1773478106231,
       "donated_total": 10001401001540,
       "lastRob": 1770324373183,
       "lastBuyWin": 1770412792468,
@@ -2949,6 +2954,13 @@
             "type": "helmet",
             "power": 1562,
             "tier": 5,
+            "rarity": "rare"
+          },
+          "6a24": {
+            "name": "RARE WEAPON T1",
+            "type": "weapon",
+            "power": 625,
+            "tier": 1,
             "rarity": "rare"
           }
         }
@@ -4066,7 +4078,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773477924368,
+  "savedAt": 1773478124146,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4201,7 +4213,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773431704838,
       "lastChallenge": 1773436905492,
-      "lastScavenge": 1773437832601,
+      "lastScavenge": 1773478087352,
       "lastResearch": 1773239394904,
       "lastTrain": 1773437015199,
       "upgrades": {
@@ -4223,11 +4235,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 17019545087047240,
-      "glory": 251331,
-      "essence": 1464,
+      "coin": 17019570582111374,
+      "glory": 251517,
+      "essence": 1788,
       "renown": 2050,
-      "xp": 121585,
+      "xp": 122361,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4243,7 +4255,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 48,
+        "scavenge_3": 69,
         "event_1": 1,
         "mission_2": 0
       },
@@ -4280,7 +4292,7 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 1822,
+      "salvage": 2206,
       "mercenaries": {
         "siege": true
       },
