@@ -1291,13 +1291,13 @@
       "xp": 20
     },
     "257501106827405": {
-      "coin": 4099994448,
+      "coin": 4599990901,
       "uid": "857a11c-35_b-nebula",
-      "username": "@ɪج̵͂̃͋̄̒̑͌̈́͆͐̽̈́̉̑̂͊͂̔͒͘͠BANK",
-      "xp": 690,
-      "invPurchases": 1,
+      "username": "@pixels_bank",
+      "xp": 130,
+      "invPurchases": 2,
       "lastHack": 1767807897501,
-      "robSuccess": 260,
+      "robSuccess": 510,
       "lastPhish": 1767807892827,
       "lastWork": 1767807923699,
       "workSuccess": 2,
@@ -1310,33 +1310,36 @@
       "lastSpin": 1767793082293,
       "lastRob": 1767807890934,
       "received_total": 3699963000,
-      "robbed": 252,
+      "robbed": 503,
       "hasSentMsg": {
-        "cooldown": true
+        "cooldown": true,
+        "banned": true
       },
-      "level": 251,
+      "level": 502,
       "spam": {
-        "lastMessage": 1770735773154,
+        "lastMessage": 1773509928239,
         "count": 1
       },
       "donated_total": 100000000,
-      "winGame": 250,
-      "rpgwin": 250,
-      "rpgGather": 250,
-      "rpgtrades": 250,
-      "rpgcrafted": 250,
-      "rpgmonsterfight": 250,
-      "yugiohviewcard": 250,
-      "onepiceviewcard": 250,
-      "dragonballviewcard": 250,
-      "pokemonviewcard": 250,
-      "vipgameviewcard": 250,
-      "weedcooked": 250,
-      "weedgather": 250,
-      "weedsell": 250,
-      "weedtrades": 250,
-      "lastAddInv": 1770735359872,
-      "lastBulkInv": 1770735359872
+      "winGame": 500,
+      "rpgwin": 500,
+      "rpgGather": 500,
+      "rpgtrades": 500,
+      "rpgcrafted": 500,
+      "rpgmonsterfight": 500,
+      "yugiohviewcard": 500,
+      "onepiceviewcard": 500,
+      "dragonballviewcard": 500,
+      "pokemonviewcard": 500,
+      "vipgameviewcard": 500,
+      "weedcooked": 500,
+      "weedgather": 500,
+      "weedsell": 500,
+      "weedtrades": 500,
+      "lastAddInv": 1773509896175,
+      "lastBulkInv": 1773509896175,
+      "banned": false,
+      "permanent": false
     },
     "27780398463": {
       "coin": 199998000,
@@ -4285,7 +4288,7 @@
       "lastBulkInv": 1773506507880
     }
   },
-  "savedAt": 1773506587569,
+  "savedAt": 1773509930013,
   "clan": {
     "201481": {
       "name": "fuh",
