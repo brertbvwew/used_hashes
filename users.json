@@ -3429,21 +3429,21 @@
       "level": 6
     },
     "246179539501140": {
-      "coin": 1891210857425,
+      "coin": 5661098853130,
       "uid": "559041e-30_b-nebula",
       "username": "@leonardo_Dicarprio",
       "spam": {
-        "lastMessage": 1773430583395,
+        "lastMessage": 1773523754588,
         "count": 1
       },
-      "xp": 650,
+      "xp": 480,
       "lastBuyCoin": 1770452158687,
-      "received_total": 1000199997000,
+      "received_total": 3000199995000,
       "invPurchases": 3,
       "winGame": 753,
-      "level": 768,
-      "robSuccess": 750,
-      "robbed": 750,
+      "level": 776,
+      "robSuccess": 751,
+      "robbed": 751,
       "rpgwin": 750,
       "rpgGather": 750,
       "rpgtrades": 750,
@@ -3498,19 +3498,167 @@
       "premiumUntil": 1775921905633,
       "uplimit": "10MB",
       "limit": 10,
-      "lastBuyPremium": 1773329905633,
-      "lastBuyUnban": 1773429510657,
+      "lastBuyPremium": 1773431225542,
+      "lastBuyUnban": 1773509539543,
       "clanId": "b69826",
       "gear": {
         "equipped": {
-          "weapon": null,
-          "armor": null,
+          "weapon": {
+            "name": "RARE WEAPON T9",
+            "type": "weapon",
+            "power": 5625,
+            "tier": 9,
+            "rarity": "rare"
+          },
+          "armor": {
+            "name": "RARE ARMOR T9",
+            "type": "armor",
+            "power": 3375,
+            "tier": 9,
+            "rarity": "rare"
+          },
           "accessory": null,
           "boots": null,
-          "helmet": null
+          "helmet": {
+            "name": "COMMON HELMET T8",
+            "type": "helmet",
+            "power": 2000,
+            "tier": 8,
+            "rarity": "common"
+          }
         },
-        "inventory": {}
-      }
+        "inventory": {
+          "5737": {
+            "name": "COMMON HELMET T5",
+            "type": "helmet",
+            "power": 1250,
+            "tier": 5,
+            "rarity": "common"
+          },
+          "49a6": {
+            "name": "RARE ARMOR T3",
+            "type": "armor",
+            "power": 1125,
+            "tier": 3,
+            "rarity": "rare"
+          },
+          "ca8e": {
+            "name": "COMMON ARMOR T4",
+            "type": "armor",
+            "power": 1200,
+            "tier": 4,
+            "rarity": "common"
+          },
+          "3c1f": {
+            "name": "RARE HELMET T2",
+            "type": "helmet",
+            "power": 625,
+            "tier": 2,
+            "rarity": "rare"
+          },
+          "979b": {
+            "name": "RARE BOOTS T5",
+            "type": "boots",
+            "power": 937,
+            "tier": 5,
+            "rarity": "rare"
+          },
+          "ccb0": {
+            "name": "COMMON ACCESSORY T4",
+            "type": "accessory",
+            "power": 800,
+            "tier": 4,
+            "rarity": "common"
+          },
+          "6d4a": {
+            "name": "RARE ACCESSORY T1",
+            "type": "accessory",
+            "power": 250,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "52ed": {
+            "name": "RARE HELMET T6",
+            "type": "helmet",
+            "power": 1875,
+            "tier": 6,
+            "rarity": "rare"
+          },
+          "78b3": {
+            "name": "RARE HELMET T1",
+            "type": "helmet",
+            "power": 312,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "362a": {
+            "name": "RARE BOOTS T2",
+            "type": "boots",
+            "power": 375,
+            "tier": 2,
+            "rarity": "rare"
+          },
+          "86d3": {
+            "name": "COMMON WEAPON T9",
+            "type": "weapon",
+            "power": 4500,
+            "tier": 9,
+            "rarity": "common"
+          },
+          "e7ce": {
+            "name": "COMMON BOOTS T1",
+            "type": "boots",
+            "power": 150,
+            "tier": 1,
+            "rarity": "common"
+          },
+          "d7e6": {
+            "name": "EPIC WEAPON T1",
+            "type": "weapon",
+            "power": 750,
+            "tier": 1,
+            "rarity": "epic"
+          },
+          "67d6": {
+            "name": "COMMON HELMET T8",
+            "type": "helmet",
+            "power": 2000,
+            "tier": 8,
+            "rarity": "common"
+          },
+          "dcf9": {
+            "name": "COMMON WEAPON T4",
+            "type": "weapon",
+            "power": 2000,
+            "tier": 4,
+            "rarity": "common"
+          },
+          "216a": {
+            "name": "COMMON HELMET T2",
+            "type": "helmet",
+            "power": 500,
+            "tier": 2,
+            "rarity": "common"
+          },
+          "a7fc": {
+            "name": "COMMON HELMET T6",
+            "type": "helmet",
+            "power": 1500,
+            "tier": 6,
+            "rarity": "common"
+          },
+          "c34e": {
+            "name": "COMMON ARMOR T9",
+            "type": "armor",
+            "power": 2700,
+            "tier": 9,
+            "rarity": "common"
+          }
+        }
+      },
+      "donated_total": 100000000,
+      "give_limit_until": 1774036025542,
+      "lastRob": 1773494302155
     },
     "27645319912": {
       "coin": 1000005000,
@@ -4587,7 +4735,7 @@
       }
     }
   },
-  "savedAt": 1773521826908,
+  "savedAt": 1773523756706,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4720,11 +4868,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773518846359,
       "lastBattle": 0,
-      "lastMission": 1773521671605,
+      "lastMission": 1773523735458,
       "lastAmbush": 0,
       "lastCollect": 1773518846359,
       "lastChallenge": 1773436905492,
-      "lastScavenge": 1773521824243,
+      "lastScavenge": 1773523755102,
       "lastResearch": 1773239394904,
       "lastTrain": 1773521467720,
       "upgrades": {
@@ -4746,11 +4894,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 27157890478170016,
-      "glory": 295821,
-      "essence": 3626,
+      "coin": 30739784274647436,
+      "glory": 309063,
+      "essence": 1018,
       "renown": 2050,
-      "xp": 150423,
+      "xp": 159333,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4766,9 +4914,9 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 433,
+        "scavenge_3": 563,
         "event_1": 1,
-        "mission_2": 178
+        "mission_2": 227
       },
       "lastQuestReset": 1773436880088,
       "consumables": {},
@@ -4783,7 +4931,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1404,
+        "missionCount": 1455,
         "battleWins": 0,
         "eventWins": 4,
         "territoryClaims": 3,
@@ -4803,7 +4951,7 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 8986,
+      "salvage": 9728,
       "mercenaries": {
         "siege": true
       },
