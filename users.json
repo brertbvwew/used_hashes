@@ -1928,18 +1928,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1001249564573095,
+      "coin": 5000,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773480266989,
+        "lastMessage": 1773480557804,
         "count": 1
       },
-      "xp": 2940,
+      "xp": 0,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1208,
-      "level": 1217,
+      "level": 1220,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -3081,7 +3081,31 @@
       ],
       "lastBuy": 1773478706801,
       "lastDorn": 1773410298357,
-      "lastWAGROUP": 1773426762551
+      "lastWAGROUP": 1773426762551,
+      "levelData": {
+        "pets": [
+          {
+            "id": "8wp54j6",
+            "name": "ᴘᴇᴛ #1",
+            "level": 1,
+            "rarity": "ʀᴀʀᴇ",
+            "element": "ʟɪɢʜᴛ",
+            "powerScore": 1000,
+            "skills": [
+              {
+                "name": "ᴄᴇʟᴇꜱᴛɪᴀʟ ꜱʜɪᴇʟᴅ",
+                "type": "defense",
+                "value": 0.5,
+                "chance": 0.15
+              }
+            ],
+            "energy": 100,
+            "maxEnergy": 100
+          }
+        ],
+        "items": [],
+        "ascensionPoints": 0
+      }
     },
     "168419274039524": {
       "coin": 999499996929,
@@ -4126,7 +4150,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773480268806,
+  "savedAt": 1773480559458,
   "clan": {
     "201481": {
       "name": "fuh",
