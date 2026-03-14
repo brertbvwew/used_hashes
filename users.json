@@ -4337,9 +4337,132 @@
       "weedtrades": 250,
       "lastAddInv": 1773506507880,
       "lastBulkInv": 1773506507880
+    },
+    "72791692963890": {
+      "coin": 1500035108,
+      "uid": "34f4de2f-30_b-nebula",
+      "username": "@user_34f4de2f-30",
+      "spam": {
+        "lastMessage": 1773511527904,
+        "count": 1
+      },
+      "xp": 170,
+      "lastRobBank": 1773506570546,
+      "robSuccess": 770,
+      "lastRob": 1773506486934,
+      "lastHack": 1773394792154,
+      "level": 754,
+      "lastSteal": 1773391385509,
+      "StealSuccess": 3,
+      "lastBeg": 1773391391327,
+      "begSuccess": 2,
+      "lastWork": 1773385644112,
+      "workSuccess": 1,
+      "lastBlackjack": 1773385885335,
+      "lastBuyUnban": 1773485855200,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "invPurchases": 3,
+      "winGame": 752,
+      "robbed": 751,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 765,
+      "pokemonviewcard": 752,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1773505628164,
+      "lastBulkInv": 1773505628164,
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {
+          "2509": {
+            "name": "RARE WEAPON T1",
+            "type": "weapon",
+            "power": 625,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "672c": {
+            "name": "COMMON WEAPON T6",
+            "type": "weapon",
+            "power": 3000,
+            "tier": 6,
+            "rarity": "common"
+          }
+        }
+      },
+      "dragonballLastCard": {
+        "id": "FB04-062",
+        "name": "Chiaotzu",
+        "rarity": "C",
+        "color": "Green",
+        "cardType": "BATTLE",
+        "power": 20000,
+        "effect": "[When KO'd] Draw 1 card.",
+        "set": "BOOSTER PACK -ULTRA LIMIT- [FB04]",
+        "getIt": "BOOSTER PACK -ULTRA LIMIT- [FB04]",
+        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-062.webp"
+      },
+      "carddragonballInventory": [
+        "Bardock : BR",
+        "Great Ape Baby"
+      ],
+      "dblastBuy": 1773508909464,
+      "lastPokemon": {
+        "id": 247,
+        "name": "pupitar",
+        "stats": [
+          {
+            "name": "hp",
+            "value": 70
+          },
+          {
+            "name": "attack",
+            "value": 84
+          },
+          {
+            "name": "defense",
+            "value": 70
+          },
+          {
+            "name": "special-attack",
+            "value": 65
+          },
+          {
+            "name": "special-defense",
+            "value": 70
+          },
+          {
+            "name": "speed",
+            "value": 51
+          }
+        ],
+        "isLegendary": false,
+        "isMythical": false,
+        "isStarter": false,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/247.png"
+      }
     }
   },
-  "savedAt": 1773510458903,
+  "savedAt": 1773511529544,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4476,7 +4599,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773431704838,
       "lastChallenge": 1773436905492,
-      "lastScavenge": 1773510240032,
+      "lastScavenge": 1773511007590,
       "lastResearch": 1773239394904,
       "lastTrain": 1773437015199,
       "upgrades": {
@@ -4498,11 +4621,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 24691631210648064,
-      "glory": 291312,
-      "essence": 1992,
+      "coin": 24691636093939616,
+      "glory": 291342,
+      "essence": 2036,
       "renown": 2050,
-      "xp": 145002,
+      "xp": 145122,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4518,7 +4641,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 321,
+        "scavenge_3": 324,
         "event_1": 1,
         "mission_2": 163
       },
@@ -4555,7 +4678,7 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 6816,
+      "salvage": 6866,
       "mercenaries": {
         "siege": true
       },
