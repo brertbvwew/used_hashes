@@ -1928,14 +1928,14 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1035268098870196,
+      "coin": 5000,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773480845755,
+        "lastMessage": 1773480919554,
         "count": 1
       },
-      "xp": 160,
+      "xp": 200,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1208,
@@ -3101,6 +3101,24 @@
             ],
             "energy": 100,
             "maxEnergy": 100
+          },
+          {
+            "id": "3f2ufm4",
+            "name": "ᴘᴇᴛ #2",
+            "level": 1,
+            "rarity": "ᴍʏᴛʜɪᴄᴀʟ",
+            "element": "ᴅᴀʀᴋ",
+            "powerScore": 50000,
+            "skills": [
+              {
+                "name": "ᴠᴏɪᴅ ʙʟᴀꜱᴛ",
+                "type": "damage",
+                "value": 2,
+                "chance": 0.2
+              }
+            ],
+            "energy": 100,
+            "maxEnergy": 100
           }
         ],
         "items": [],
@@ -4150,7 +4168,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773480847679,
+  "savedAt": 1773480921269,
   "clan": {
     "201481": {
       "name": "fuh",
