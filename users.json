@@ -4241,9 +4241,51 @@
       "robSuccess": 2,
       "lastHack": 1773414740342,
       "lastClean": 1773414832494
+    },
+    "134652023050243": {
+      "coin": 600015071,
+      "uid": "468147c-33_b-nebula",
+      "username": "@user_468147c-33",
+      "spam": {
+        "lastMessage": 1773506585277,
+        "count": 1
+      },
+      "xp": 660,
+      "received_total": 99999000,
+      "lastDeliver": 1773500110567,
+      "lastBeg": 1773500122304,
+      "begSuccess": 2,
+      "lastRobBank": 1773500134244,
+      "robSuccess": 253,
+      "lastSteal": 1773477741920,
+      "StealSuccess": 1,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "robbed": 251,
+      "lastRob": 1773499547805,
+      "invPurchases": 1,
+      "winGame": 250,
+      "level": 250,
+      "rpgwin": 250,
+      "rpgGather": 250,
+      "rpgtrades": 250,
+      "rpgcrafted": 250,
+      "rpgmonsterfight": 250,
+      "yugiohviewcard": 250,
+      "onepiceviewcard": 250,
+      "dragonballviewcard": 250,
+      "pokemonviewcard": 250,
+      "vipgameviewcard": 250,
+      "weedcooked": 250,
+      "weedgather": 250,
+      "weedsell": 250,
+      "weedtrades": 250,
+      "lastAddInv": 1773506507880,
+      "lastBulkInv": 1773506507880
     }
   },
-  "savedAt": 1773489854501,
+  "savedAt": 1773506587569,
   "clan": {
     "201481": {
       "name": "fuh",
