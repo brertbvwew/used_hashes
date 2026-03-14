@@ -1932,14 +1932,14 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773478421079,
+        "lastMessage": 1773478557170,
         "count": 1
       },
-      "xp": 36770,
+      "xp": 20110,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1207,
-      "level": 1161,
+      "level": 1178,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -2212,7 +2212,7 @@
       "clublastRobTime": 1773269814114,
       "tokens": 0,
       "lastBuyTokens": 1770504670805,
-      "lastBuyUnban": 1773244795468,
+      "lastBuyUnban": 1773478409332,
       "lastSMSSend": 1773428309346,
       "spacedrones": [
         {
@@ -2582,6 +2582,13 @@
             "power": 1500,
             "tier": 5,
             "rarity": "common"
+          },
+          "7610": {
+            "name": "RARE ACCESSORY T1",
+            "type": "accessory",
+            "power": 250,
+            "tier": 1,
+            "rarity": "rare"
           },
           "9834": {
             "name": "RARE WEAPON T7",
@@ -4090,7 +4097,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773478422984,
+  "savedAt": 1773478558456,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4225,7 +4232,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773431704838,
       "lastChallenge": 1773436905492,
-      "lastScavenge": 1773478244200,
+      "lastScavenge": 1773478523882,
       "lastResearch": 1773239394904,
       "lastTrain": 1773437015199,
       "upgrades": {
@@ -4247,11 +4254,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 17207853441844928,
-      "glory": 252852,
-      "essence": 2110,
+      "coin": 17207867293189258,
+      "glory": 252951,
+      "essence": 2228,
       "renown": 2050,
-      "xp": 123617,
+      "xp": 123993,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4267,7 +4274,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 90,
+        "scavenge_3": 101,
         "event_1": 1,
         "mission_2": 6
       },
@@ -4304,7 +4311,7 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 2578,
+      "salvage": 2764,
       "mercenaries": {
         "siege": true
       },
