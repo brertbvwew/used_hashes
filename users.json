@@ -3194,18 +3194,19 @@
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "spam": {
-        "lastMessage": 1773385416688,
+        "lastMessage": 1773483614071,
         "count": 1
       },
-      "xp": 200,
+      "xp": 60,
       "hasSentMsg": {
         "premium": false,
-        "banned": true
+        "banned": true,
+        "admin": true
       },
       "premium": true,
       "premiumUntil": 3093500289381,
       "lastBuyPremium": 1769787809099,
-      "level": 703,
+      "level": 704,
       "banned": false,
       "permanent": false,
       "robbed": 1,
@@ -3227,7 +3228,6 @@
         "lastRentCollected": 0,
         "upgradesBoughtSinceLevel": 0
       },
-      "clanId": "5a0a58",
       "gear": {
         "equipped": {
           "weapon": null,
@@ -4232,7 +4232,7 @@
       "lastClean": 1773414832494
     }
   },
-  "savedAt": 1773482923125,
+  "savedAt": 1773483616507,
   "clan": {
     "201481": {
       "name": "fuh",
