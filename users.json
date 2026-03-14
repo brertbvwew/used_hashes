@@ -3918,15 +3918,94 @@
       }
     },
     "115560826282077": {
-      "coin": 100004000,
+      "coin": 1001600003000,
       "uid": "1c409e5b-37_b-nebula",
       "username": "@user_1c409e5b-37",
       "spam": {
-        "lastMessage": 1772985022832,
+        "lastMessage": 1773518862781,
         "count": 1
       },
-      "xp": 500,
-      "received_total": 99999000
+      "xp": 20,
+      "received_total": 1000099998000,
+      "lastLoadAcct": 1773512783027,
+      "invPurchases": 3,
+      "winGame": 750,
+      "level": 752,
+      "robSuccess": 750,
+      "robbed": 750,
+      "rpgwin": 750,
+      "rpgGather": 750,
+      "rpgtrades": 750,
+      "rpgcrafted": 750,
+      "rpgmonsterfight": 750,
+      "yugiohviewcard": 750,
+      "onepiceviewcard": 750,
+      "dragonballviewcard": 750,
+      "pokemonviewcard": 750,
+      "vipgameviewcard": 750,
+      "weedcooked": 750,
+      "weedgather": 750,
+      "weedsell": 750,
+      "weedtrades": 750,
+      "lastAddInv": 1773513325003,
+      "lastBulkInv": 1773513325003,
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {
+          "3145": {
+            "name": "COMMON ARMOR T1",
+            "type": "armor",
+            "power": 300,
+            "tier": 1,
+            "rarity": "common"
+          },
+          "79f7": {
+            "name": "RARE ACCESSORY T1",
+            "type": "accessory",
+            "power": 250,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "03de": {
+            "name": "RARE BOOTS T1",
+            "type": "boots",
+            "power": 187,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "d756": {
+            "name": "COMMON ACCESSORY T3",
+            "type": "accessory",
+            "power": 600,
+            "tier": 3,
+            "rarity": "common"
+          },
+          "cef1": {
+            "name": "COMMON BOOTS T3",
+            "type": "boots",
+            "power": 450,
+            "tier": 3,
+            "rarity": "common"
+          },
+          "6f48": {
+            "name": "COMMON WEAPON T5",
+            "type": "weapon",
+            "power": 2500,
+            "tier": 5,
+            "rarity": "common"
+          }
+        }
+      },
+      "hasSentMsg": {
+        "cooldown": true
+      }
     },
     "126139028787226": {
       "coin": 180380,
@@ -4452,7 +4531,7 @@
       }
     }
   },
-  "savedAt": 1773517088840,
+  "savedAt": 1773518865284,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4575,7 +4654,6 @@
       "leader": "249216148455505",
       "members": [
         "249216148455505",
-        "151994715099391",
         "6340076396679",
         "106077605646392",
         "246179539501140",
@@ -4583,13 +4661,13 @@
         "72791692963890"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 1773431704838,
+      "lastIncome": 1773518846359,
       "lastBattle": 0,
-      "lastMission": 1773509283951,
+      "lastMission": 1773518299163,
       "lastAmbush": 0,
-      "lastCollect": 1773431704838,
+      "lastCollect": 1773518846359,
       "lastChallenge": 1773436905492,
-      "lastScavenge": 1773511007590,
+      "lastScavenge": 1773518864387,
       "lastResearch": 1773239394904,
       "lastTrain": 1773437015199,
       "upgrades": {
@@ -4611,18 +4689,18 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 24691636093939616,
-      "glory": 291342,
-      "essence": 2036,
+      "coin": 26692059730224520,
+      "glory": 294402,
+      "essence": 2706,
       "renown": 2050,
-      "xp": 145122,
+      "xp": 147863,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": "246179539501140",
-        "spy": "151994715099391",
+        "spy": null,
         "scout": null,
-        "quartermaster": null
+        "quartermaster": "106077605646392"
       },
       "research": {
         "project": null,
@@ -4631,9 +4709,9 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 324,
+        "scavenge_3": 373,
         "event_1": 1,
-        "mission_2": 163
+        "mission_2": 173
       },
       "lastQuestReset": 1773436880088,
       "consumables": {},
@@ -4648,11 +4726,11 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1388,
+        "missionCount": 1399,
         "battleWins": 0,
         "eventWins": 4,
         "territoryClaims": 3,
-        "totalDeposited": 122563996114406400,
+        "totalDeposited": 149169687711017000,
         "territoryCount": 8,
         "mercenaryHired": 2
       },
@@ -4668,7 +4746,7 @@
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 6866,
+      "salvage": 7838,
       "mercenaries": {
         "siege": true
       },
