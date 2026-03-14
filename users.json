@@ -1942,18 +1942,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 374636569502249,
+      "coin": 248883305714451,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773482920884,
+        "lastMessage": 1773510456784,
         "count": 1
       },
-      "xp": 820,
+      "xp": 220,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
-      "winGame": 1208,
-      "level": 1220,
+      "winGame": 1230,
+      "level": 1229,
       "robSuccess": 751,
       "robbed": 751,
       "rpgwin": 750,
@@ -1961,11 +1961,11 @@
       "rpgtrades": 750,
       "rpgcrafted": 750,
       "rpgmonsterfight": 760,
-      "yugiohviewcard": 897,
+      "yugiohviewcard": 920,
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
-      "pokemonviewcard": 1101,
-      "vipgameviewcard": 775,
+      "pokemonviewcard": 1123,
+      "vipgameviewcard": 792,
       "weedcooked": 750,
       "weedgather": 762,
       "weedsell": 750,
@@ -1975,55 +1975,56 @@
       "hasSentMsg": {
         "cooldown": true,
         "banned": true,
-        "admin": true
+        "admin": true,
+        "owner": true
       },
       "premium": true,
       "premiumUntil": 1775857778874,
       "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
-        "id": 12,
+        "id": 34,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 90744,
+        "power": 32891,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/yF0sg6Qp/vip-14.png",
-        "cost": 40588
+        "imageUrl": "https://i.ibb.co/gLmvg3w2/vip-34.png",
+        "cost": 41637
       },
       "lastPokemon": {
-        "id": 361,
-        "name": "snorunt",
+        "id": 477,
+        "name": "dusknoir",
         "stats": [
           {
             "name": "hp",
-            "value": 50
+            "value": 45
           },
           {
             "name": "attack",
-            "value": 50
+            "value": 100
           },
           {
             "name": "defense",
-            "value": 50
+            "value": 135
           },
           {
             "name": "special-attack",
-            "value": 50
+            "value": 65
           },
           {
             "name": "special-defense",
-            "value": 50
+            "value": 135
           },
           {
             "name": "speed",
-            "value": 50
+            "value": 45
           }
         ],
         "isLegendary": false,
         "isMythical": false,
         "isStarter": false,
-        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/361.png",
-        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/361.png"
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/477.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/477.png"
       },
       "lastClaim": {
         "divine": 1770312805929,
@@ -2217,7 +2218,7 @@
         }
       ],
       "lastBuyXP": 1773478786959,
-      "donated_total": 10001401001540,
+      "donated_total": 11001401001540,
       "lastRob": 1770324373183,
       "lastBuyWin": 1770412792468,
       "banned": false,
@@ -2444,61 +2445,46 @@
       "spacelastSalvage": 1773373990645,
       "spacesalvage": 12,
       "yugiohLastCard": {
-        "id": 5186893,
-        "name": "Red-Eyes Zombie Dragon",
-        "typeline": [
-          "Zombie",
-          "Effect"
-        ],
-        "type": "Effect Monster",
-        "humanReadableCardType": "Effect Monster",
-        "frameType": "effect",
-        "desc": "You can Tribute Summon this card in Attack Position by Tributing 1 Zombie monster. When this card destroys a Zombie monster by battle and sends it to the GY: You can Special Summon that Zombie monster.",
-        "race": "Zombie",
-        "atk": 2400,
-        "def": 2000,
-        "level": 7,
-        "attribute": "DARK",
-        "archetype": "Red-Eyes",
-        "ygoprodeck_url": "https://ygoprodeck.com/card/red-eyes-zombie-dragon-458",
+        "id": 57809669,
+        "name": "Hecahands Tartaros",
+        "type": "Spell Card",
+        "humanReadableCardType": "Quick-Play Spell",
+        "frameType": "spell",
+        "desc": "Activate 1 of these effects (but you can only use each effect of \"Hecahands Tartaros\" once per turn);\r\n● If you control a \"Hecahands\" monster: You can target 1 Spell/Trap your opponent controls; return it to the hand.\r\n● Fusion Summon 1 \"Hecahands\" Fusion Monster from your Extra Deck, by banishing its materials from your field and/or GY. If you use a face-up monster you control that is owned by your opponent as material, you can treat it as a \"Hecahands\" monster.",
+        "race": "Quick-Play",
+        "archetype": "Hecahands",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/hecahands-tartaros-15230",
         "card_sets": [
           {
-            "set_name": "Legendary Collection 4: Joey's World Mega Pack",
-            "set_code": "LCJW-EN206",
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN009",
             "set_rarity": "Rare",
             "set_rarity_code": "(R)",
             "set_price": "0"
           },
           {
-            "set_name": "Structure Deck: Zombie Horde",
-            "set_code": "SR07-EN005",
-            "set_rarity": "Common",
-            "set_rarity_code": "(C)",
-            "set_price": "0"
-          },
-          {
-            "set_name": "Zombie World Structure Deck",
-            "set_code": "SDZW-EN001",
-            "set_rarity": "Ultra Rare",
-            "set_rarity_code": "(UR)",
+            "set_name": "Phantom Revenge",
+            "set_code": "PHRE-EN009",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
             "set_price": "0"
           }
         ],
         "card_images": [
           {
-            "id": 5186893,
-            "image_url": "https://images.ygoprodeck.com/images/cards/5186893.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/5186893.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/5186893.jpg"
+            "id": 57809669,
+            "image_url": "https://images.ygoprodeck.com/images/cards/57809669.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/57809669.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/57809669.jpg"
           }
         ],
         "card_prices": [
           {
-            "cardmarket_price": "0.21",
-            "tcgplayer_price": "0.85",
-            "ebay_price": "3.98",
-            "amazon_price": "1.25",
-            "coolstuffinc_price": "0.39"
+            "cardmarket_price": "0.08",
+            "tcgplayer_price": "0.10",
+            "ebay_price": "0.00",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.00"
           }
         ]
       },
@@ -3022,6 +3008,27 @@
             "power": 187,
             "tier": 1,
             "rarity": "rare"
+          },
+          "8d3f": {
+            "name": "RARE ARMOR T2",
+            "type": "armor",
+            "power": 750,
+            "tier": 2,
+            "rarity": "rare"
+          },
+          "37ce": {
+            "name": "RARE WEAPON T9",
+            "type": "weapon",
+            "power": 5625,
+            "tier": 9,
+            "rarity": "rare"
+          },
+          "4bba": {
+            "name": "EPIC BOOTS T1",
+            "type": "boots",
+            "power": 225,
+            "tier": 1,
+            "rarity": "epic"
           }
         }
       },
@@ -3048,8 +3055,12 @@
       "give_limit_until": 1773862695690,
       "download_limit_until": 1773937000138,
       "cardopInventory": [],
-      "oplastBuy": 1773478708356,
+      "oplastBuy": 1773501738190,
       "carddragonballInventory": [
+        "Vegeta : DA",
+        "Vegeta : DA",
+        "Vegeta : DA",
+        "Vegeta : DA",
         "Vegeta : DA",
         "Vegeta : DA",
         "Vegeta : DA",
@@ -3068,7 +3079,7 @@
         "Vegeta : DA",
         "Vegeta : DA"
       ],
-      "dblastBuy": 1773478709913,
+      "dblastBuy": 1773501741295,
       "cardvipgameInventory": [
         81,
         76,
@@ -3091,21 +3102,36 @@
         72,
         66,
         37,
-        27
+        27,
+        78,
+        47,
+        82,
+        63,
+        16,
+        77,
+        93,
+        53,
+        64
       ],
-      "lastBuy": 1773478706801,
+      "lastBuy": 1773510217953,
       "lastDorn": 1773410298357,
       "lastWAGROUP": 1773426762551,
       "levelData": {
         "pets": [
           {
-            "id": "8wp54j6",
-            "name": "ᴘᴇᴛ #1",
+            "id": "3f2ufm4",
+            "name": "ᴘᴇᴛ #2",
             "level": 1,
-            "rarity": "ʀᴀʀᴇ",
-            "element": "ʟɪɢʜᴛ",
-            "powerScore": 1000,
+            "rarity": "ᴍʏᴛʜɪᴄᴀʟ",
+            "element": "ᴅᴀʀᴋ",
+            "powerScore": 190733,
             "skills": [
+              {
+                "name": "ᴠᴏɪᴅ ʙʟᴀꜱᴛ",
+                "type": "damage",
+                "value": 2,
+                "chance": 0.2
+              },
               {
                 "name": "ᴄᴇʟᴇꜱᴛɪᴀʟ ꜱʜɪᴇʟᴅ",
                 "type": "defense",
@@ -3114,24 +3140,6 @@
               }
             ],
             "energy": 95,
-            "maxEnergy": 100
-          },
-          {
-            "id": "3f2ufm4",
-            "name": "ᴘᴇᴛ #2",
-            "level": 1,
-            "rarity": "ᴍʏᴛʜɪᴄᴀʟ",
-            "element": "ᴅᴀʀᴋ",
-            "powerScore": 50000,
-            "skills": [
-              {
-                "name": "ᴠᴏɪᴅ ʙʟᴀꜱᴛ",
-                "type": "damage",
-                "value": 2,
-                "chance": 0.2
-              }
-            ],
-            "energy": 100,
             "maxEnergy": 100
           },
           {
@@ -3151,6 +3159,48 @@
             ],
             "energy": 100,
             "maxEnergy": 100
+          },
+          {
+            "id": "0bd4siq",
+            "name": "ʙᴀʙʏ ᴘᴇᴛ",
+            "level": 1,
+            "rarity": "ʀᴀʀᴇ",
+            "element": "ʟɪɢʜᴛ",
+            "powerScore": 122070,
+            "skills": [
+              {
+                "name": "ᴄᴇʟᴇꜱᴛɪᴀʟ ꜱʜɪᴇʟᴅ",
+                "type": "defense",
+                "value": 0.5,
+                "chance": 0.15
+              },
+              {
+                "name": "ɢɪɢᴀ ʜᴇᴀʟ",
+                "type": "heal",
+                "value": 0.3,
+                "chance": 0.1
+              }
+            ],
+            "energy": 100,
+            "maxEnergy": 100
+          },
+          {
+            "id": "vughalg",
+            "name": "ʙᴀʙʏ ᴘᴇᴛ",
+            "level": 1,
+            "rarity": "ᴍʏᴛʜɪᴄᴀʟ",
+            "element": "ᴡᴀᴛᴇʀ",
+            "powerScore": 152586,
+            "skills": [
+              {
+                "name": "ᴠᴏɪᴅ ʙʟᴀꜱᴛ",
+                "type": "damage",
+                "value": 2,
+                "chance": 0.2
+              }
+            ],
+            "energy": 100,
+            "maxEnergy": 100
           }
         ],
         "items": [
@@ -3166,42 +3216,43 @@
           {
             "id": "golden_collar",
             "name": "ɢᴏʟᴅᴇɴ ᴄᴏʟʟᴀʀ",
-            "durability": 99,
+            "durability": 84,
             "maxDurability": 100
           },
           {
             "id": "void_amulet",
             "name": "ᴠᴏɪᴅ ᴀᴍᴜʟᴇᴛ",
-            "durability": 99,
+            "durability": 84,
             "maxDurability": 100
           },
           {
             "id": "void_charm",
             "name": "ᴠᴏɪᴅ ᴄʜᴀʀᴍ",
-            "durability": 99,
+            "durability": 84,
             "maxDurability": 100
           },
           {
             "id": "lucky_charm",
             "name": "ʟᴜᴄᴋʏ ᴄʜᴀʀᴍ",
-            "durability": 99,
+            "durability": 84,
             "maxDurability": 100
           },
           {
             "id": "celestial_wings",
             "name": "ᴄᴇʟᴇꜱᴛɪᴀʟ ᴡɪɴɢꜱ",
-            "durability": 99,
+            "durability": 84,
             "maxDurability": 100
           },
           {
             "id": "diamond_essence",
             "name": "ᴅɪᴀᴍᴏɴᴅ ᴇꜱꜱᴇɴᴄᴇ",
-            "durability": 99,
+            "durability": 84,
             "maxDurability": 100
           }
         ]
       },
-      "lastPetFight": 1773482904637
+      "lastPetFight": 1773486843849,
+      "lastLoadAcct": 1773485007526
     },
     "168419274039524": {
       "coin": 999499996929,
@@ -4288,7 +4339,7 @@
       "lastBulkInv": 1773506507880
     }
   },
-  "savedAt": 1773509930013,
+  "savedAt": 1773510458903,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4414,16 +4465,18 @@
         "151994715099391",
         "6340076396679",
         "106077605646392",
-        "246179539501140"
+        "246179539501140",
+        "114435796508833",
+        "72791692963890"
       ],
       "createdAt": 1771224029611,
       "lastIncome": 1773431704838,
       "lastBattle": 0,
-      "lastMission": 1773478627160,
+      "lastMission": 1773509283951,
       "lastAmbush": 0,
       "lastCollect": 1773431704838,
       "lastChallenge": 1773436905492,
-      "lastScavenge": 1773478894242,
+      "lastScavenge": 1773510240032,
       "lastResearch": 1773239394904,
       "lastTrain": 1773437015199,
       "upgrades": {
@@ -4445,11 +4498,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 14341547638778398,
-      "glory": 253269,
-      "essence": 2342,
+      "coin": 24691631210648064,
+      "glory": 291312,
+      "essence": 1992,
       "renown": 2050,
-      "xp": 124361,
+      "xp": 145002,
       "level": 8,
       "roles": {
         "treasurer": "249216148455505",
@@ -4465,9 +4518,9 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 109,
+        "scavenge_3": 321,
         "event_1": 1,
-        "mission_2": 7
+        "mission_2": 163
       },
       "lastQuestReset": 1773436880088,
       "consumables": {},
@@ -4482,11 +4535,11 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1217,
+        "missionCount": 1388,
         "battleWins": 0,
         "eventWins": 4,
         "territoryClaims": 3,
-        "totalDeposited": 98708524967341890,
+        "totalDeposited": 122563996114406400,
         "territoryCount": 8,
         "mercenaryHired": 2
       },
@@ -4496,13 +4549,13 @@
         "249216148455505": 1773475946276
       },
       "buildings": {
-        "market": 5,
+        "market": 35,
         "barracks": 8,
         "armory": 5,
         "intel": 5,
         "shrine": 15
       },
-      "salvage": 2906,
+      "salvage": 6816,
       "mercenaries": {
         "siege": true
       },
