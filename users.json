@@ -5229,19 +5229,19 @@
       "lastSaveData": 1773506588708
     },
     "72791692963890": {
-      "coin": 1500035108,
+      "coin": 892979943592,
       "uid": "34f4de2f-30_b-nebula",
-      "username": "@user_34f4de2f-30",
+      "username": "@WillamAfton",
       "spam": {
-        "lastMessage": 1773511527904,
+        "lastMessage": 1773569459736,
         "count": 1
       },
-      "xp": 170,
-      "lastRobBank": 1773506570546,
-      "robSuccess": 770,
+      "xp": 60,
+      "lastRobBank": 1773554246500,
+      "robSuccess": 771,
       "lastRob": 1773506486934,
       "lastHack": 1773394792154,
-      "level": 754,
+      "level": 761,
       "lastSteal": 1773391385509,
       "StealSuccess": 3,
       "lastBeg": 1773391391327,
@@ -5249,9 +5249,10 @@
       "lastWork": 1773385644112,
       "workSuccess": 1,
       "lastBlackjack": 1773385885335,
-      "lastBuyUnban": 1773485855200,
+      "lastBuyUnban": 1773567893296,
       "hasSentMsg": {
-        "cooldown": true
+        "cooldown": true,
+        "banned": true
       },
       "invPurchases": 3,
       "winGame": 752,
@@ -5261,13 +5262,13 @@
       "rpgtrades": 750,
       "rpgcrafted": 750,
       "rpgmonsterfight": 750,
-      "yugiohviewcard": 750,
+      "yugiohviewcard": 771,
       "onepiceviewcard": 750,
-      "dragonballviewcard": 765,
+      "dragonballviewcard": 822,
       "pokemonviewcard": 752,
-      "vipgameviewcard": 750,
+      "vipgameviewcard": 776,
       "weedcooked": 750,
-      "weedgather": 750,
+      "weedgather": 751,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1773505628164,
@@ -5289,32 +5290,123 @@
             "tier": 1,
             "rarity": "rare"
           },
+          "4451": {
+            "name": "COMMON WEAPON T1",
+            "type": "weapon",
+            "power": 500,
+            "tier": 1,
+            "rarity": "common"
+          },
           "672c": {
             "name": "COMMON WEAPON T6",
             "type": "weapon",
             "power": 3000,
             "tier": 6,
             "rarity": "common"
+          },
+          "b212": {
+            "name": "COMMON WEAPON T8",
+            "type": "weapon",
+            "power": 4000,
+            "tier": 8,
+            "rarity": "common"
+          },
+          "347a": {
+            "name": "COMMON BOOTS T5",
+            "type": "boots",
+            "power": 750,
+            "tier": 5,
+            "rarity": "common"
+          },
+          "18a2": {
+            "name": "RARE WEAPON T1",
+            "type": "weapon",
+            "power": 625,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "08a2": {
+            "name": "RARE ARMOR T2",
+            "type": "armor",
+            "power": 750,
+            "tier": 2,
+            "rarity": "rare"
+          },
+          "c8c0": {
+            "name": "COMMON ARMOR T9",
+            "type": "armor",
+            "power": 2700,
+            "tier": 9,
+            "rarity": "common"
+          },
+          "d7b0": {
+            "name": "LEGENDARY HELMET T5",
+            "type": "helmet",
+            "power": 2500,
+            "tier": 5,
+            "rarity": "legendary"
+          },
+          "90ec": {
+            "name": "COMMON WEAPON T6",
+            "type": "weapon",
+            "power": 3000,
+            "tier": 6,
+            "rarity": "common"
+          },
+          "4e81": {
+            "name": "COMMON BOOTS T1",
+            "type": "boots",
+            "power": 150,
+            "tier": 1,
+            "rarity": "common"
+          },
+          "283b": {
+            "name": "COMMON HELMET T3",
+            "type": "helmet",
+            "power": 750,
+            "tier": 3,
+            "rarity": "common"
+          },
+          "bfc7": {
+            "name": "RARE BOOTS T1",
+            "type": "boots",
+            "power": 187,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "5ce2": {
+            "name": "EPIC WEAPON T1",
+            "type": "weapon",
+            "power": 750,
+            "tier": 1,
+            "rarity": "epic"
           }
         }
       },
       "dragonballLastCard": {
-        "id": "FB04-062",
-        "name": "Chiaotzu",
+        "id": "FB02-009",
+        "name": "Caway",
         "rarity": "C",
-        "color": "Green",
+        "color": "-",
         "cardType": "BATTLE",
         "power": 20000,
-        "effect": "[When KO'd] Draw 1 card.",
-        "set": "BOOSTER PACK -ULTRA LIMIT- [FB04]",
-        "getIt": "BOOSTER PACK -ULTRA LIMIT- [FB04]",
-        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-062.webp"
+        "effect": "-",
+        "set": "Blazing aura",
+        "getIt": "BOOSTER PACK -BLAZING AURA- [FB02]",
+        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB02-009.webp"
       },
       "carddragonballInventory": [
         "Bardock : BR",
-        "Great Ape Baby"
+        "Great Ape Baby",
+        "Kale",
+        "Vegeta : GT",
+        "Champa",
+        "Meta-Cooler Core",
+        "Janemba",
+        "Gowasu",
+        "Great Saiyaman"
       ],
-      "dblastBuy": 1773508909464,
+      "dblastBuy": 1773565129754,
       "lastPokemon": {
         "id": 247,
         "name": "pupitar",
@@ -5349,7 +5441,93 @@
         "isStarter": false,
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/247.png"
-      }
+      },
+      "lastSaveData": 1773511530898,
+      "banned": false,
+      "permanent": false,
+      "yugiohLastCard": {
+        "id": 11458071,
+        "name": "Sky Scourge Enrise",
+        "typeline": [
+          "Fairy",
+          "Effect"
+        ],
+        "type": "Effect Monster",
+        "humanReadableCardType": "Effect Monster",
+        "frameType": "effect",
+        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 3 LIGHT Fairy-Type monsters and 1 DARK Fiend monster in your Graveyard. Once per turn, you can remove from play 1 face-up monster on the field. If you activate this effect, this card cannot attack during this turn.",
+        "race": "Fairy",
+        "atk": 2400,
+        "def": 1500,
+        "level": 8,
+        "attribute": "LIGHT",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/sky-scourge-enrise-989",
+        "card_sets": [
+          {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN021",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+          },
+          {
+            "set_name": "Force of the Breaker",
+            "set_code": "FOTB-EN021",
+            "set_rarity": "Ultimate Rare",
+            "set_rarity_code": "(UtR)",
+            "set_price": "0"
+          }
+        ],
+        "card_images": [
+          {
+            "id": 11458071,
+            "image_url": "https://images.ygoprodeck.com/images/cards/11458071.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11458071.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11458071.jpg"
+          }
+        ],
+        "card_prices": [
+          {
+            "cardmarket_price": "1.23",
+            "tcgplayer_price": "1.21",
+            "ebay_price": "1.39",
+            "amazon_price": "0.62",
+            "coolstuffinc_price": "0.00"
+          }
+        ]
+      },
+      "cardInventory": [
+        "Arcana Force XV - The Fiend",
+        "Goldd, Wu-Lord of Dark World",
+        "Ojama Country",
+        "Twin-Headed Wolf"
+      ],
+      "lastBuy": 1773564747560,
+      "weedinventory": {
+        "Lighter": 2,
+        "Paper Crutch": 3,
+        "Seed": 4,
+        "Rolling Tray": 3,
+        "Sativa Nug": 3,
+        "Resin Chunk": 1,
+        "Edible": 1,
+        "Leaf Gold": 1
+      },
+      "weedlastGather": 1773524592062,
+      "vipgameLastCard": {
+        "id": 101,
+        "name": "VIP CARD COLLECTION - CODERXSA",
+        "rarity": "VIP",
+        "power": 68949,
+        "color": "Gold",
+        "attribute": "Exclusive",
+        "imageUrl": "https://i.ibb.co/qLS0nL1Q/vip-95.png",
+        "cost": 25435
+      },
+      "cardvipgameInventory": [
+        69,
+        22
+      ]
     },
     "170996069855435": {
       "coin": 1500025478,
@@ -5408,7 +5586,7 @@
       }
     }
   },
-  "savedAt": 1773569437099,
+  "savedAt": 1773569461705,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5569,7 +5747,7 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 0,
+      "coin": 62847037101711110,
       "glory": 350712,
       "essence": 210,
       "renown": 2100,
@@ -5609,7 +5787,7 @@
         "battleWins": 0,
         "eventWins": 5,
         "territoryClaims": 3,
-        "totalDeposited": 149169687711017000,
+        "totalDeposited": 212016724812728100,
         "territoryCount": 8,
         "mercenaryHired": 2
       },
