@@ -1389,54 +1389,56 @@
       }
     },
     "198449416917151": {
-      "coin": 847436281,
+      "coin": 1937342613,
       "uid": "364664be-31_b-nebula",
       "username": "@dickridder_👅",
-      "xp": 890,
-      "lastRansom": 1772833926159,
-      "robSuccess": 72,
-      "received_total": 845279000,
-      "lastSpin": 1772834170914,
-      "lastMine": 1772834537918,
+      "xp": 970,
+      "lastRansom": 1772999233096,
+      "robSuccess": 97,
+      "received_total": 1934142200,
+      "lastSpin": 1773168342284,
+      "lastMine": 1773557896505,
       "lastRoulette": 1767821716253,
       "lastFlip": 1767824111645,
       "autolevelup": true,
-      "lastPhish": 1772833893882,
-      "lastRob": 1772834380697,
-      "lastWork": 1772834386544,
-      "workSuccess": 10,
-      "lastSpins": 1772833851570,
+      "lastPhish": 1773029998164,
+      "lastRob": 1773557661611,
+      "lastWork": 1773515019490,
+      "workSuccess": 14,
+      "lastSpins": 1773086990758,
       "hasSentMsg": {
         "cooldown": true,
         "owner": true,
         "premium": true
       },
-      "lastRobBank": 1772834373185,
-      "lastHack": 1772834424729,
-      "lastTagAllTime": 1771068987425,
+      "lastRobBank": 1773557802582,
+      "lastHack": 1773515014738,
+      "lastTagAllTime": 1773515266385,
       "tagAllCount": 1,
-      "level": 13,
-      "violations": 6,
+      "level": 18,
+      "violations": 7,
       "lastFreelance": 1772834107563,
       "lastClaim": {
-        "daily": 1772824066699
+        "daily": 1773514966374,
+        "weekly": 1773000542194
       },
-      "robbed": 5,
+      "robbed": 8,
       "spam": {
-        "lastMessage": 1772834730658,
+        "lastMessage": 1773557910512,
         "count": 1
       },
-      "lastBlackjack": 1772834217855,
+      "lastBlackjack": 1773000294023,
       "winGame": 3,
-      "lastDeliver": 1772833943698,
+      "lastDeliver": 1773061864198,
       "lastCode": 1772834078002,
       "lastClean": 1772834361478,
-      "lastSteal": 1770582148355,
-      "StealSuccess": 1,
-      "lastRepair": 1772834057706,
-      "lastDecrypt": 1772834417981,
-      "lastBeg": 1772834367439,
-      "begSuccess": 2
+      "lastSteal": 1773557798561,
+      "StealSuccess": 4,
+      "lastRepair": 1773061904196,
+      "lastDecrypt": 1773087021897,
+      "lastBeg": 1773061872878,
+      "begSuccess": 4,
+      "donated_total": 200000
     },
     "92612597956617": {
       "coin": 3399966000,
@@ -4752,7 +4754,7 @@
       }
     }
   },
-  "savedAt": 1773557894729,
+  "savedAt": 1773557914976,
   "clan": {
     "201481": {
       "name": "fuh",
