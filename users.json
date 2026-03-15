@@ -1963,18 +1963,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 59854321049248670,
+      "coin": 125939842643825470,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773569435108,
+        "lastMessage": 1773585956764,
         "count": 1
       },
-      "xp": 900,
+      "xp": 40,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1230,
-      "level": 1266,
+      "level": 1269,
       "robSuccess": 751,
       "robbed": 752,
       "rpgwin": 750,
@@ -1986,7 +1986,7 @@
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
       "pokemonviewcard": 1123,
-      "vipgameviewcard": 815,
+      "vipgameviewcard": 816,
       "weedcooked": 750,
       "weedgather": 764,
       "weedsell": 750,
@@ -2003,14 +2003,14 @@
       "premiumUntil": 1775857778874,
       "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
-        "id": 44,
+        "id": 83,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 76121,
+        "power": 54734,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/5W9Vxpnf/vip-43.png",
-        "cost": 22378
+        "imageUrl": "https://i.ibb.co/x8dmcKX1/vip-79.png",
+        "cost": 17008
       },
       "lastPokemon": {
         "id": 477,
@@ -2649,6 +2649,13 @@
             "type": "armor",
             "power": 2400,
             "tier": 8,
+            "rarity": "common"
+          },
+          "2350": {
+            "name": "COMMON ACCESSORY T3",
+            "type": "accessory",
+            "power": 600,
+            "tier": 3,
             "rarity": "common"
           },
           "2497": {
@@ -3693,6 +3700,83 @@
             "power": 750,
             "tier": 3,
             "rarity": "common"
+          },
+          "5ebc": {
+            "name": "COMMON WEAPON T6",
+            "type": "weapon",
+            "power": 3000,
+            "tier": 6,
+            "rarity": "common"
+          },
+          "dc76": {
+            "name": "RARE WEAPON T8",
+            "type": "weapon",
+            "power": 5000,
+            "tier": 8,
+            "rarity": "rare"
+          },
+          "1f65": {
+            "name": "COMMON WEAPON T6",
+            "type": "weapon",
+            "power": 3000,
+            "tier": 6,
+            "rarity": "common"
+          },
+          "68c9": {
+            "name": "RARE WEAPON T1",
+            "type": "weapon",
+            "power": 625,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "7e95": {
+            "name": "RARE BOOTS T5",
+            "type": "boots",
+            "power": 937,
+            "tier": 5,
+            "rarity": "rare"
+          },
+          "bf8d": {
+            "name": "COMMON ACCESSORY T1",
+            "type": "accessory",
+            "power": 200,
+            "tier": 1,
+            "rarity": "common"
+          },
+          "bf08": {
+            "name": "EPIC ACCESSORY T1",
+            "type": "accessory",
+            "power": 300,
+            "tier": 1,
+            "rarity": "epic"
+          },
+          "22de": {
+            "name": "RARE WEAPON T10",
+            "type": "weapon",
+            "power": 6250,
+            "tier": 10,
+            "rarity": "rare"
+          },
+          "c2f1": {
+            "name": "RARE ARMOR T1",
+            "type": "armor",
+            "power": 375,
+            "tier": 1,
+            "rarity": "rare"
+          },
+          "f08c": {
+            "name": "RARE BOOTS T5",
+            "type": "boots",
+            "power": 937,
+            "tier": 5,
+            "rarity": "rare"
+          },
+          "c365": {
+            "name": "EPIC ACCESSORY T4",
+            "type": "accessory",
+            "power": 1200,
+            "tier": 4,
+            "rarity": "epic"
           }
         }
       },
@@ -3794,9 +3878,11 @@
         21,
         68,
         34,
-        10
+        10,
+        44,
+        83
       ],
-      "lastBuy": 1773569136093,
+      "lastBuy": 1773583589845,
       "lastDorn": 1773410298357,
       "lastWAGROUP": 1773426762551,
       "levelData": {
@@ -3923,7 +4009,7 @@
         ]
       },
       "lastPetFight": 1773486843849,
-      "lastLoadAcct": 1773485007526,
+      "lastLoadAcct": 1773569556634,
       "lastSaveData": 1773510460292,
       "lastBlackjack": 1773524118359,
       "rpgmonsterHealth": 396
@@ -5598,7 +5684,7 @@
       }
     }
   },
-  "savedAt": 1773584828044,
+  "savedAt": 1773585958909,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5759,7 +5845,7 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 124682901901830640,
+      "coin": 0,
       "glory": 351660,
       "essence": 1054,
       "renown": 2100,
