@@ -1017,10 +1017,10 @@
       "donated_total": 1001
     },
     "93939944173798": {
-      "coin": 1923461,
+      "coin": 2123461,
       "uid": "232d457b-38_b-nebula",
       "username": "@user_232d457b-38",
-      "xp": 460,
+      "xp": 560,
       "robbed": 9,
       "lastMine": 1769957283765,
       "lastHack": 1769922176746,
@@ -1039,7 +1039,7 @@
       "autolevelup": true,
       "level": 4,
       "lastClaim": {
-        "daily": 1771081529780
+        "daily": 1773557838428
       },
       "invPurchases": 0,
       "lastFreelance": 1769357371035,
@@ -1048,10 +1048,11 @@
       "lastPhish": 1769357528845,
       "lastRansom": 1767806081955,
       "spam": {
-        "lastMessage": 1771081551376,
+        "lastMessage": 1773557893275,
         "count": 1
       },
-      "winGame": 1
+      "winGame": 1,
+      "lastLoadAcct": 1773557762243
     },
     "279800426053766": {
       "coin": 88032340,
@@ -4751,7 +4752,7 @@
       }
     }
   },
-  "savedAt": 1773535376168,
+  "savedAt": 1773557894729,
   "clan": {
     "201481": {
       "name": "fuh",
