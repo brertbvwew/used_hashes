@@ -1506,15 +1506,15 @@
       "level": 1
     },
     "114435796508833": {
-      "coin": 891434,
+      "coin": 891480891434,
       "received_total": 99999000,
       "uid": "1f26dc08-33_b-nebula",
       "username": "@AgentNLS2",
       "spam": {
-        "lastMessage": 1771111105289,
-        "count": 1
+        "lastMessage": 1773584827999,
+        "count": 2
       },
-      "xp": 600,
+      "xp": 760,
       "invPurchases": 3,
       "winGame": 766,
       "level": 758,
@@ -1558,7 +1558,19 @@
       "lastBuyXP": 1771106617255,
       "lastBuyWin": 1771106665259,
       "donated_total": 100000000,
-      "clublastRobTime": 1771110994494
+      "clublastRobTime": 1771110994494,
+      "lastLoadAcct": 1773502113528,
+      "clanId": "b69826",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
+      }
     },
     "230880849186992": {
       "coin": 355404208,
@@ -5586,7 +5598,7 @@
       }
     }
   },
-  "savedAt": 1773569461705,
+  "savedAt": 1773584828044,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5721,11 +5733,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773518846359,
       "lastBattle": 0,
-      "lastMission": 1773569317694,
+      "lastMission": 1773584361291,
       "lastAmbush": 0,
       "lastCollect": 1773518846359,
       "lastChallenge": 1773526492606,
-      "lastScavenge": 1773569405520,
+      "lastScavenge": 1773584365057,
       "lastResearch": 1773239394904,
       "lastTrain": 1773521467720,
       "upgrades": {
@@ -5747,11 +5759,11 @@
         "medic": 100,
         "intel": 80
       },
-      "coin": 62847037101711110,
-      "glory": 350712,
-      "essence": 210,
+      "coin": 124682901901830640,
+      "glory": 351660,
+      "essence": 1054,
       "renown": 2100,
-      "xp": 198338,
+      "xp": 201330,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -5767,8 +5779,8 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 523,
-        "mission_2": 113
+        "scavenge_3": 599,
+        "mission_2": 114
       },
       "lastQuestReset": 1773526502240,
       "consumables": {},
@@ -5783,11 +5795,11 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1619,
+        "missionCount": 1620,
         "battleWins": 0,
         "eventWins": 5,
         "territoryClaims": 3,
-        "totalDeposited": 212016724812728100,
+        "totalDeposited": 274863761914439200,
         "territoryCount": 8,
         "mercenaryHired": 2
       },
@@ -5804,9 +5816,10 @@
         "shrine": 15,
         "command_center": 1,
         "medic_station": 1,
-        "training_grounds": 1
+        "training_grounds": 1,
+        "vault_vault": 1
       },
-      "salvage": 22840,
+      "salvage": 24276,
       "mercenaries": {
         "siege": true
       }
