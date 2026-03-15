@@ -1963,32 +1963,32 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1322368347603319,
+      "coin": 146592470707048100,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773595734269,
+        "lastMessage": 1773599046519,
         "count": 1
       },
-      "xp": 620,
+      "xp": 870,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1230,
-      "level": 1274,
+      "level": 1283,
       "robSuccess": 751,
       "robbed": 752,
       "rpgwin": 750,
-      "rpgGather": 764,
+      "rpgGather": 765,
       "rpgtrades": 750,
       "rpgcrafted": 750,
-      "rpgmonsterfight": 761,
+      "rpgmonsterfight": 762,
       "yugiohviewcard": 921,
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
       "pokemonviewcard": 1123,
-      "vipgameviewcard": 823,
+      "vipgameviewcard": 825,
       "weedcooked": 750,
-      "weedgather": 764,
+      "weedgather": 765,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1770234154305,
@@ -2003,14 +2003,14 @@
       "premiumUntil": 1775857778874,
       "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
-        "id": 100,
+        "id": 71,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 82410,
+        "power": 90923,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/JjTWHgLR/vip-94.png",
-        "cost": 21296
+        "imageUrl": "https://i.ibb.co/60LPCg44/vip-68.png",
+        "cost": 56965
       },
       "lastPokemon": {
         "id": 477,
@@ -2367,15 +2367,15 @@
         ]
       },
       "rpginventory": {
-        "Apple": 34,
-        "Banana": 20,
+        "Apple": 39,
+        "Banana": 24,
         "Mushroom": 11,
-        "Wood": 4,
-        "Coal": 13,
+        "Wood": 6,
+        "Coal": 15,
         "Herb": 13,
         "Tomato": 5,
         "Goblin Ear": 6,
-        "Elven Silk": 6,
+        "Elven Silk": 8,
         "Iron Shard": 11,
         "Pumpkin": 8,
         "Coconut": 11,
@@ -2383,7 +2383,7 @@
         "Gold Nugget": 10,
         "Dragon Bone": 5,
         "Dragon Scale": 2,
-        "Cabbage": 9,
+        "Cabbage": 12,
         "Stone": 13,
         "Carrot": 19,
         "Pineapple": 2,
@@ -2392,12 +2392,12 @@
         "Ancient Relic": 1,
         "Elemental Crystal": 2,
         "Thunder Gem": 4,
-        "Berries": 9,
+        "Berries": 10,
         "Silver Coin": 7,
-        "Leather": 3,
+        "Leather": 4,
         "Dragonfruit": 1,
         "Dark Essence": 2,
-        "Runestone": 3,
+        "Runestone": 5,
         "Giant’s Bone": 2,
         "Mystic Feather": 2,
         "Glass Shard": 2,
@@ -2407,37 +2407,37 @@
         "iron Shard": 2,
         "Phoenix Ash": 1,
         "Celestial Shield": 1,
-        "Small Healing Potion": 2,
+        "Small Healing Potion": 4,
         "Diamond": 1
       },
-      "rpglastGather": 1773524588635,
+      "rpglastGather": 1773596301840,
       "weedinventory": {
-        "Grinder Part": 23,
+        "Grinder Part": 27,
         "Seed": 18,
-        "Perlite": 9,
+        "Perlite": 11,
         "Worm Castings": 13,
-        "Sativa Nug": 32,
-        "Water Pipe": 8,
+        "Sativa Nug": 37,
+        "Water Pipe": 11,
         "THC Oil": 8,
         "High-Grade Wax": 2,
         "420 Pineapple": 3,
-        "Weed Leaf": 31,
-        "Rolling Paper": 21,
+        "Weed Leaf": 34,
+        "Rolling Paper": 22,
         "Paper Crutch": 13,
         "Edible": 3,
-        "Lighter": 22,
-        "Metal Lid": 17,
+        "Lighter": 23,
+        "Metal Lid": 18,
         "Rolling Tray": 3,
         "Plastic Shard": 6,
         "Compost": 6,
-        "Dab Tool": 17,
+        "Dab Tool": 18,
         "Canvas Sheet": 6,
-        "Dank Dragonfruit": 1,
+        "Dank Dragonfruit": 2,
         "Rare Blue Strain": 7,
         "Grinder": 10,
         "Hybrid Nug": 5,
         "Purple Haze": 2,
-        "Bud": 8,
+        "Bud": 11,
         "Moon Rock": 4,
         "Chillum": 1,
         "Hydro Pot": 3,
@@ -2454,30 +2454,30 @@
         "Pre-Roll": 2,
         "Sacred Stash": 1
       },
-      "weedlastGather": 1773524581533,
-      "rpglastFight": 1773524590834,
+      "weedlastGather": 1773596299134,
+      "rpglastFight": 1773596304353,
       "rpghealth": 100,
       "spaceinventory": {
-        "Scrap Metal": 41,
-        "Iron Ore": 28,
-        "Damaged Circuit": 27,
-        "Silicon Ore": 28,
-        "Copper Ore": 20,
-        "Copper Wire": 16,
-        "Biometric Data Pad": 13,
-        "Crystal Shard": 19,
-        "Quantum Chip": 13,
-        "Titanium Ore": 13,
-        "Advanced Sensor Array": 13,
-        "Quantum Processor": 13,
-        "Energy Cell": 13,
-        "Plasma Coils": 13,
-        "Fusion Core": 6,
+        "Scrap Metal": 44,
+        "Iron Ore": 32,
+        "Damaged Circuit": 28,
+        "Silicon Ore": 31,
+        "Copper Ore": 22,
+        "Copper Wire": 17,
+        "Biometric Data Pad": 14,
+        "Crystal Shard": 20,
+        "Quantum Chip": 14,
+        "Titanium Ore": 14,
+        "Advanced Sensor Array": 14,
+        "Quantum Processor": 14,
+        "Energy Cell": 14,
+        "Plasma Coils": 14,
+        "Fusion Core": 7,
         "Gold Ore": 2,
         "Neutronium Fragment": 1
       },
-      "spacelastSalvage": 1773517522710,
-      "spacesalvage": 13,
+      "spacelastSalvage": 1773596316339,
+      "spacesalvage": 14,
       "yugiohLastCard": {
         "id": 26841274,
         "name": "D-Fusion",
@@ -2608,769 +2608,118 @@
             "rarity": "epic"
           },
           "accessory": {
-            "name": "RARE ACCESSORY T5",
-            "type": "accessory",
-            "power": 1250,
-            "tier": 5,
-            "rarity": "rare"
-          },
-          "boots": {
-            "name": "EPIC BOOTS T5",
-            "type": "boots",
-            "power": 1125,
-            "tier": 5,
-            "rarity": "epic"
-          },
-          "helmet": {
-            "name": "RARE HELMET T8",
-            "type": "helmet",
-            "power": 2500,
-            "tier": 8,
-            "rarity": "rare"
-          }
-        },
-        "inventory": {
-          "1078": {
-            "name": "RARE ARMOR T7",
-            "type": "armor",
-            "power": 2625,
-            "tier": 7,
-            "rarity": "rare"
-          },
-          "1408": {
-            "name": "RARE BOOTS T2",
-            "type": "boots",
-            "power": 375,
-            "tier": 2,
-            "rarity": "rare"
-          },
-          "2283": {
-            "name": "COMMON ARMOR T8",
-            "type": "armor",
-            "power": 2400,
-            "tier": 8,
-            "rarity": "common"
-          },
-          "2497": {
-            "name": "RARE WEAPON T9",
-            "type": "weapon",
-            "power": 5625,
-            "tier": 9,
-            "rarity": "rare"
-          },
-          "7610": {
-            "name": "RARE ACCESSORY T1",
-            "type": "accessory",
-            "power": 250,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "7786": {
-            "name": "COMMON WEAPON T9",
-            "type": "weapon",
-            "power": 4500,
-            "tier": 9,
-            "rarity": "common"
-          },
-          "9834": {
-            "name": "RARE WEAPON T7",
-            "type": "weapon",
-            "power": 4375,
-            "tier": 7,
-            "rarity": "rare"
-          },
-          "a8e3": {
-            "name": "COMMON WEAPON T6",
-            "type": "weapon",
-            "power": 3000,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "48e0": {
-            "name": "COMMON ARMOR T7",
-            "type": "armor",
-            "power": 2100,
-            "tier": 7,
-            "rarity": "common"
-          },
-          "fd13": {
-            "name": "LEGENDARY WEAPON T2",
-            "type": "weapon",
-            "power": 2000,
-            "tier": 2,
-            "rarity": "legendary"
-          },
-          "bdbc": {
-            "name": "RARE ARMOR T6",
-            "type": "armor",
-            "power": 2250,
-            "tier": 6,
-            "rarity": "rare"
-          },
-          "1e30": {
-            "name": "EPIC ARMOR T5",
-            "type": "armor",
-            "power": 2250,
-            "tier": 5,
-            "rarity": "epic"
-          },
-          "bf0a": {
-            "name": "COMMON ARMOR T6",
-            "type": "armor",
-            "power": 1800,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "ad11": {
-            "name": "RARE WEAPON T7",
-            "type": "weapon",
-            "power": 4375,
-            "tier": 7,
-            "rarity": "rare"
-          },
-          "300f": {
-            "name": "RARE ARMOR T2",
-            "type": "armor",
-            "power": 750,
-            "tier": 2,
-            "rarity": "rare"
-          },
-          "937f": {
-            "name": "RARE ARMOR T1",
-            "type": "armor",
-            "power": 375,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "0ed5": {
-            "name": "RARE WEAPON T6",
-            "type": "weapon",
-            "power": 3750,
-            "tier": 6,
-            "rarity": "rare"
-          },
-          "4f35": {
-            "name": "COMMON WEAPON T5",
-            "type": "weapon",
-            "power": 2500,
-            "tier": 5,
-            "rarity": "common"
-          },
-          "817f": {
-            "name": "COMMON WEAPON T10",
-            "type": "weapon",
-            "power": 5000,
-            "tier": 10,
-            "rarity": "common"
-          },
-          "4dbd": {
-            "name": "RARE WEAPON T2",
-            "type": "weapon",
-            "power": 1250,
-            "tier": 2,
-            "rarity": "rare"
-          },
-          "1f7f": {
-            "name": "EPIC WEAPON T1",
-            "type": "weapon",
-            "power": 750,
-            "tier": 1,
-            "rarity": "epic"
-          },
-          "518c": {
-            "name": "RARE WEAPON T1",
-            "type": "weapon",
-            "power": 625,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "bfdc": {
-            "name": "EPIC ARMOR T1",
-            "type": "armor",
-            "power": 450,
-            "tier": 1,
-            "rarity": "epic"
-          },
-          "b952": {
-            "name": "RARE BOOTS T1",
-            "type": "boots",
-            "power": 187,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "a1cf": {
-            "name": "COMMON HELMET T8",
-            "type": "helmet",
-            "power": 2000,
-            "tier": 8,
-            "rarity": "common"
-          },
-          "de08": {
-            "name": "RARE ACCESSORY T4",
-            "type": "accessory",
-            "power": 1000,
-            "tier": 4,
-            "rarity": "rare"
-          },
-          "c5ed": {
-            "name": "RARE WEAPON T1",
-            "type": "weapon",
-            "power": 625,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "3ec0": {
-            "name": "Master Sword (T3)",
-            "type": "weapon",
-            "power": 2250,
-            "tier": 3,
-            "rarity": "epic"
-          },
-          "bddb": {
-            "name": "Power Suit (T3)",
-            "type": "armor",
-            "power": 1350,
-            "tier": 3,
-            "rarity": "epic"
-          },
-          "5c8b": {
-            "name": "COMMON WEAPON T6",
-            "type": "weapon",
-            "power": 3000,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "dcdb": {
-            "name": "Cyber Helm (T3)",
-            "type": "helmet",
-            "power": 1125,
-            "tier": 3,
-            "rarity": "epic"
-          },
-          "2b3f": {
-            "name": "RARE ACCESSORY T1",
-            "type": "accessory",
-            "power": 250,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "377b": {
-            "name": "COMMON WEAPON T8",
-            "type": "weapon",
-            "power": 4000,
-            "tier": 8,
-            "rarity": "common"
-          },
-          "b560": {
-            "name": "RARE HELMET T3",
-            "type": "helmet",
-            "power": 937,
-            "tier": 3,
-            "rarity": "rare"
-          },
-          "b754": {
-            "name": "RARE HELMET T5",
-            "type": "helmet",
-            "power": 1562,
-            "tier": 5,
-            "rarity": "rare"
-          },
-          "6a24": {
-            "name": "RARE WEAPON T1",
-            "type": "weapon",
-            "power": 625,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "b1a2": {
-            "name": "RARE BOOTS T1",
-            "type": "boots",
-            "power": 187,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "8d3f": {
-            "name": "RARE ARMOR T2",
-            "type": "armor",
-            "power": 750,
-            "tier": 2,
-            "rarity": "rare"
-          },
-          "37ce": {
-            "name": "RARE WEAPON T9",
-            "type": "weapon",
-            "power": 5625,
-            "tier": 9,
-            "rarity": "rare"
-          },
-          "4bba": {
-            "name": "EPIC BOOTS T1",
-            "type": "boots",
-            "power": 225,
-            "tier": 1,
-            "rarity": "epic"
-          },
-          "6a53": {
-            "name": "EPIC ACCESSORY T1",
-            "type": "accessory",
-            "power": 300,
-            "tier": 1,
-            "rarity": "epic"
-          },
-          "804d": {
-            "name": "RARE WEAPON T4",
-            "type": "weapon",
-            "power": 2500,
-            "tier": 4,
-            "rarity": "rare"
-          },
-          "36a0": {
-            "name": "RARE WEAPON T1",
-            "type": "weapon",
-            "power": 625,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "e7d8": {
-            "name": "COMMON ACCESSORY T5",
-            "type": "accessory",
-            "power": 1000,
-            "tier": 5,
-            "rarity": "common"
-          },
-          "9b80": {
-            "name": "COMMON ARMOR T10",
-            "type": "armor",
-            "power": 3000,
-            "tier": 10,
-            "rarity": "common"
-          },
-          "91ff": {
-            "name": "RARE BOOTS T3",
-            "type": "boots",
-            "power": 562,
-            "tier": 3,
-            "rarity": "rare"
-          },
-          "cebd": {
-            "name": "EPIC WEAPON T7",
-            "type": "weapon",
-            "power": 5250,
-            "tier": 7,
-            "rarity": "epic"
-          },
-          "617a": {
-            "name": "EPIC BOOTS T5",
-            "type": "boots",
-            "power": 1125,
-            "tier": 5,
-            "rarity": "epic"
-          },
-          "5b0c": {
-            "name": "COMMON ARMOR T10",
-            "type": "armor",
-            "power": 3000,
-            "tier": 10,
-            "rarity": "common"
-          },
-          "54b0": {
-            "name": "RARE BOOTS T1",
-            "type": "boots",
-            "power": 187,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "a792": {
-            "name": "RARE ACCESSORY T1",
-            "type": "accessory",
-            "power": 250,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "c737": {
-            "name": "COMMON WEAPON T9",
-            "type": "weapon",
-            "power": 4500,
-            "tier": 9,
-            "rarity": "common"
-          },
-          "ab1c": {
-            "name": "RARE WEAPON T6",
-            "type": "weapon",
-            "power": 3750,
-            "tier": 6,
-            "rarity": "rare"
-          },
-          "0d77": {
-            "name": "COMMON WEAPON T6",
-            "type": "weapon",
-            "power": 3000,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "0d91": {
-            "name": "EPIC BOOTS T1",
-            "type": "boots",
-            "power": 225,
-            "tier": 1,
-            "rarity": "epic"
-          },
-          "4b53": {
-            "name": "RARE ACCESSORY T2",
-            "type": "accessory",
-            "power": 500,
-            "tier": 2,
-            "rarity": "rare"
-          },
-          "e761": {
             "name": "Celestial Eye (T6)",
             "type": "accessory",
             "power": 2000,
             "tier": 6,
             "rarity": "legendary"
           },
-          "8a7f": {
-            "name": "COMMON ARMOR T5",
-            "type": "armor",
+          "boots": {
+            "name": "Celestial Drift (T6)",
+            "type": "boots",
             "power": 1500,
-            "tier": 5,
-            "rarity": "common"
+            "tier": 6,
+            "rarity": "legendary"
           },
-          "70b7": {
-            "name": "COMMON WEAPON T9",
-            "type": "weapon",
-            "power": 4500,
-            "tier": 9,
-            "rarity": "common"
-          },
-          "27d9": {
-            "name": "RARE ARMOR T1",
-            "type": "armor",
-            "power": 375,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "4f27": {
-            "name": "COMMON WEAPON T10",
-            "type": "weapon",
-            "power": 5000,
-            "tier": 10,
-            "rarity": "common"
-          },
-          "f82e": {
-            "name": "COMMON ARMOR T10",
-            "type": "armor",
+          "helmet": {
+            "name": "Celestial Halo (T6)",
+            "type": "helmet",
             "power": 3000,
-            "tier": 10,
-            "rarity": "common"
-          },
-          "9abf": {
-            "name": "EPIC WEAPON T1",
-            "type": "weapon",
-            "power": 750,
-            "tier": 1,
-            "rarity": "epic"
-          },
-          "bb48": {
-            "name": "EPIC ACCESSORY T3",
-            "type": "accessory",
-            "power": 900,
-            "tier": 3,
-            "rarity": "epic"
-          },
-          "938d": {
-            "name": "RARE BOOTS T5",
-            "type": "boots",
-            "power": 937,
-            "tier": 5,
-            "rarity": "rare"
-          },
-          "6b1f": {
-            "name": "COMMON WEAPON T7",
-            "type": "weapon",
-            "power": 3500,
-            "tier": 7,
-            "rarity": "common"
-          },
-          "7ec4": {
-            "name": "COMMON ARMOR T6",
-            "type": "armor",
-            "power": 1800,
             "tier": 6,
-            "rarity": "common"
-          },
-          "a1a0": {
-            "name": "RARE WEAPON T2",
-            "type": "weapon",
-            "power": 1250,
-            "tier": 2,
-            "rarity": "rare"
-          },
-          "af46": {
-            "name": "COMMON ARMOR T6",
-            "type": "armor",
-            "power": 1800,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "def4": {
-            "name": "COMMON BOOTS T5",
-            "type": "boots",
-            "power": 750,
-            "tier": 5,
-            "rarity": "common"
-          },
-          "dcb1": {
-            "name": "COMMON WEAPON T7",
-            "type": "weapon",
-            "power": 3500,
-            "tier": 7,
-            "rarity": "common"
-          },
-          "a199": {
-            "name": "EPIC ARMOR T1",
-            "type": "armor",
-            "power": 450,
-            "tier": 1,
-            "rarity": "epic"
-          },
-          "0a14": {
+            "rarity": "legendary"
+          }
+        },
+        "inventory": {
+          "1295": {
             "name": "RARE ACCESSORY T5",
             "type": "accessory",
             "power": 1250,
             "tier": 5,
             "rarity": "rare"
           },
-          "be9c": {
-            "name": "COMMON ARMOR T8",
-            "type": "armor",
-            "power": 2400,
-            "tier": 8,
-            "rarity": "common"
-          },
-          "339a": {
-            "name": "RARE BOOTS T2",
-            "type": "boots",
-            "power": 375,
-            "tier": 2,
-            "rarity": "rare"
-          },
-          "03f1": {
-            "name": "RARE WEAPON T5",
-            "type": "weapon",
-            "power": 3125,
-            "tier": 5,
-            "rarity": "rare"
-          },
-          "9da7": {
-            "name": "COMMON BOOTS T5",
-            "type": "boots",
-            "power": 750,
-            "tier": 5,
-            "rarity": "common"
-          },
-          "9b77": {
-            "name": "COMMON ARMOR T5",
-            "type": "armor",
-            "power": 1500,
-            "tier": 5,
-            "rarity": "common"
-          },
-          "f668": {
-            "name": "COMMON WEAPON T7",
-            "type": "weapon",
-            "power": 3500,
-            "tier": 7,
-            "rarity": "common"
-          },
-          "250c": {
-            "name": "COMMON WEAPON T6",
-            "type": "weapon",
-            "power": 3000,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "f6a3": {
-            "name": "EPIC WEAPON T3",
-            "type": "weapon",
-            "power": 2250,
-            "tier": 3,
-            "rarity": "epic"
-          },
-          "68d6": {
-            "name": "EPIC ARMOR T1",
-            "type": "armor",
-            "power": 450,
-            "tier": 1,
-            "rarity": "epic"
-          },
-          "10d0": {
-            "name": "RARE WEAPON T1",
-            "type": "weapon",
-            "power": 625,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "0af2": {
-            "name": "RARE WEAPON T10",
-            "type": "weapon",
-            "power": 6250,
-            "tier": 10,
-            "rarity": "rare"
-          },
-          "65e4": {
-            "name": "RARE ARMOR T9",
-            "type": "armor",
-            "power": 3375,
-            "tier": 9,
-            "rarity": "rare"
-          },
-          "6c3a": {
-            "name": "RARE BOOTS T3",
-            "type": "boots",
-            "power": 562,
-            "tier": 3,
-            "rarity": "rare"
-          },
-          "2c7b": {
+          "8418": {
             "name": "COMMON WEAPON T5",
             "type": "weapon",
             "power": 2500,
             "tier": 5,
             "rarity": "common"
           },
-          "0324": {
-            "name": "RARE ARMOR T3",
-            "type": "armor",
-            "power": 1125,
-            "tier": 3,
+          "1dd4": {
+            "name": "RARE ACCESSORY T4",
+            "type": "accessory",
+            "power": 1000,
+            "tier": 4,
             "rarity": "rare"
           },
-          "f14b": {
+          "d0ec": {
+            "name": "EPIC BOOTS T5",
+            "type": "boots",
+            "power": 1125,
+            "tier": 5,
+            "rarity": "epic"
+          },
+          "6b54": {
             "name": "RARE WEAPON T3",
             "type": "weapon",
             "power": 1875,
             "tier": 3,
             "rarity": "rare"
           },
-          "8f35": {
-            "name": "RARE BOOTS T4",
-            "type": "boots",
-            "power": 750,
-            "tier": 4,
-            "rarity": "rare"
-          },
-          "fa70": {
-            "name": "RARE HELMET T4",
-            "type": "helmet",
-            "power": 1250,
-            "tier": 4,
-            "rarity": "rare"
-          },
-          "7d13": {
-            "name": "COMMON WEAPON T10",
-            "type": "weapon",
-            "power": 5000,
-            "tier": 10,
-            "rarity": "common"
-          },
-          "04ca": {
-            "name": "RARE BOOTS T1",
-            "type": "boots",
-            "power": 187,
+          "336c": {
+            "name": "EPIC ARMOR T1",
+            "type": "armor",
+            "power": 450,
             "tier": 1,
-            "rarity": "rare"
+            "rarity": "epic"
           },
-          "5ebc": {
-            "name": "COMMON WEAPON T6",
-            "type": "weapon",
-            "power": 3000,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "dc76": {
-            "name": "RARE WEAPON T8",
-            "type": "weapon",
-            "power": 5000,
+          "eb74": {
+            "name": "RARE HELMET T8",
+            "type": "helmet",
+            "power": 2500,
             "tier": 8,
             "rarity": "rare"
           },
-          "1f65": {
-            "name": "COMMON WEAPON T6",
-            "type": "weapon",
-            "power": 3000,
+          "5bb2": {
+            "name": "EPIC ARMOR T6",
+            "type": "armor",
+            "power": 2700,
             "tier": 6,
+            "rarity": "epic"
+          },
+          "6b6c": {
+            "name": "Celestial Ward (T6)",
+            "type": "armor",
+            "power": 3600,
+            "tier": 6,
+            "rarity": "legendary"
+          },
+          "a75a": {
+            "name": "COMMON ACCESSORY T2",
+            "type": "accessory",
+            "power": 400,
+            "tier": 2,
             "rarity": "common"
           },
-          "68c9": {
-            "name": "RARE WEAPON T1",
-            "type": "weapon",
-            "power": 625,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "7e95": {
-            "name": "RARE BOOTS T5",
-            "type": "boots",
-            "power": 937,
-            "tier": 5,
-            "rarity": "rare"
-          },
-          "bf08": {
-            "name": "EPIC ACCESSORY T1",
+          "f52e": {
+            "name": "COMMON ACCESSORY T2",
             "type": "accessory",
-            "power": 300,
-            "tier": 1,
-            "rarity": "epic"
+            "power": 400,
+            "tier": 2,
+            "rarity": "common"
           },
-          "22de": {
-            "name": "RARE WEAPON T10",
-            "type": "weapon",
-            "power": 6250,
-            "tier": 10,
-            "rarity": "rare"
-          },
-          "c2f1": {
-            "name": "RARE ARMOR T1",
-            "type": "armor",
-            "power": 375,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "f08c": {
-            "name": "RARE BOOTS T5",
+          "ce84": {
+            "name": "COMMON BOOTS T3",
             "type": "boots",
-            "power": 937,
-            "tier": 5,
-            "rarity": "rare"
-          },
-          "c365": {
-            "name": "EPIC ACCESSORY T4",
-            "type": "accessory",
-            "power": 1200,
-            "tier": 4,
-            "rarity": "epic"
-          },
-          "b7a1": {
-            "name": "COMMON WEAPON T3",
-            "type": "weapon",
-            "power": 1500,
+            "power": 450,
             "tier": 3,
             "rarity": "common"
           },
-          "b286": {
-            "name": "COMMON BOOTS T5",
-            "type": "boots",
-            "power": 750,
-            "tier": 5,
-            "rarity": "common"
-          },
-          "5a7b": {
-            "name": "COMMON HELMET T1",
-            "type": "helmet",
-            "power": 250,
-            "tier": 1,
-            "rarity": "common"
+          "e953": {
+            "name": "Celestial Blade (T6)",
+            "type": "weapon",
+            "power": 6000,
+            "tier": 6,
+            "rarity": "legendary"
           }
         }
       },
@@ -3478,9 +2827,12 @@
         84,
         70,
         49,
-        105
+        105,
+        100,
+        72,
+        71
       ],
-      "lastBuy": 1773594447830,
+      "lastBuy": 1773597556309,
       "lastDorn": 1773410298357,
       "lastWAGROUP": 1773426762551,
       "levelData": {
@@ -3608,9 +2960,9 @@
       },
       "lastPetFight": 1773486843849,
       "lastLoadAcct": 1773585999921,
-      "lastSaveData": 1773510460292,
+      "lastSaveData": 1773595737633,
       "lastBlackjack": 1773524118359,
-      "rpgmonsterHealth": 396
+      "rpgmonsterHealth": 376
     },
     "168419274039524": {
       "coin": 999499996929,
@@ -5333,7 +4685,7 @@
       }
     }
   },
-  "savedAt": 1773595735764,
+  "savedAt": 1773599048803,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5464,11 +4816,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773518846359,
       "lastBattle": 0,
-      "lastMission": 1773595701192,
+      "lastMission": 1773598932031,
       "lastAmbush": 0,
       "lastCollect": 1773518846359,
       "lastChallenge": 1773526492606,
-      "lastScavenge": 1773595677690,
+      "lastScavenge": 1773598402443,
       "lastResearch": 1773239394904,
       "lastTrain": 1773521467720,
       "upgrades": {
@@ -5491,7 +4843,7 @@
         "intel": 80
       },
       "renown": 2100,
-      "xp": 218375,
+      "xp": 223627,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -5507,8 +4859,8 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 805,
-        "mission_2": 227
+        "scavenge_3": 854,
+        "mission_2": 269
       },
       "lastQuestReset": 1773526502240,
       "consumables": {},
@@ -5523,7 +4875,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1760,
+        "missionCount": 1806,
         "battleWins": 0,
         "eventWins": 5,
         "territoryClaims": 3,
@@ -5537,23 +4889,23 @@
         "249216148455505": 1773475946276
       },
       "buildings": {
-        "market": 70,
-        "barracks": 79,
-        "armory": 5,
+        "market": 100,
+        "barracks": 150,
+        "armory": 150,
         "intel": 5,
         "shrine": 15,
         "command_center": 1,
         "medic_station": 1,
         "training_grounds": 1,
-        "vault_vault": 1
+        "vault_vault": 15
       },
       "mercenaries": {
         "siege": true
       },
-      "coin": 1057141157127776,
-      "glory": 4470,
-      "essence": 14092,
-      "salvage": 1222
+      "coin": 0,
+      "glory": 11229,
+      "essence": 251,
+      "salvage": 2428
     },
     "19e199": {
       "name": "زنجي",
