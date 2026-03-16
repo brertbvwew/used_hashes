@@ -1977,18 +1977,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 1776065591773127700,
+      "coin": 1776065591773109500,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1773680054060,
+        "lastMessage": 1773682674374,
         "count": 1
       },
-      "xp": 890,
+      "xp": 150,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1230,
-      "level": 1310,
+      "level": 1311,
       "robSuccess": 751,
       "robbed": 752,
       "rpgwin": 750,
@@ -2000,7 +2000,7 @@
       "onepiceviewcard": 766,
       "dragonballviewcard": 783,
       "pokemonviewcard": 1123,
-      "vipgameviewcard": 903,
+      "vipgameviewcard": 908,
       "weedcooked": 750,
       "weedgather": 765,
       "weedsell": 750,
@@ -2017,14 +2017,14 @@
       "premiumUntil": 1775857778874,
       "lastBuyPremium": 1773332200138,
       "vipgameLastCard": {
-        "id": 31,
+        "id": 9,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 93457,
+        "power": 40551,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/XfBHgfLp/vip-31.png",
-        "cost": 29867
+        "imageUrl": "https://i.ibb.co/gZNMNJdk/vip-11.png",
+        "cost": 18287
       },
       "lastPokemon": {
         "id": 477,
@@ -2885,9 +2885,10 @@
         17,
         85,
         50,
-        31
+        31,
+        9
       ],
-      "lastBuy": 1773677081282,
+      "lastBuy": 1773682560327,
       "lastDorn": 1773410298357,
       "lastWAGROUP": 1773426762551,
       "levelData": {
@@ -2990,7 +2991,7 @@
         ]
       },
       "lastPetFight": 1773486843849,
-      "lastLoadAcct": 1773605979318,
+      "lastLoadAcct": 1773682316611,
       "lastSaveData": 1773675565865,
       "lastBlackjack": 1773524118359,
       "rpgmonsterHealth": 376,
@@ -4835,7 +4836,7 @@
       }
     }
   },
-  "savedAt": 1773680326773,
+  "savedAt": 1773682676296,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4958,14 +4959,12 @@
       "leader": "249216148455505",
       "members": [
         "249216148455505",
-        "106077605646392",
-        "18675021181111",
-        "20238422818838"
+        "106077605646392"
       ],
       "createdAt": 1771224029611,
       "lastIncome": 1773518846359,
       "lastBattle": 0,
-      "lastMission": 1773676557787,
+      "lastMission": 1773682665758,
       "lastAmbush": 0,
       "lastCollect": 1773605996402,
       "lastChallenge": 1773674175610,
@@ -4992,7 +4991,7 @@
         "intel": 80
       },
       "renown": 2150,
-      "xp": 237679,
+      "xp": 237759,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -5009,7 +5008,7 @@
       "maxMembers": 15,
       "questProgress": {
         "scavenge_3": 965,
-        "mission_2": 390,
+        "mission_2": 391,
         "event_1": 1
       },
       "lastQuestReset": 1773526502240,
@@ -5025,7 +5024,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1939,
+        "missionCount": 1940,
         "battleWins": 0,
         "eventWins": 6,
         "territoryClaims": 3,
@@ -5052,10 +5051,10 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 2685974337,
-      "glory": 787931,
-      "essence": 1347221,
-      "salvage": 264648
+      "coin": 42629408135349820,
+      "glory": 794243,
+      "essence": 1355560,
+      "salvage": 266622
     },
     "19e199": {
       "name": "زنجي",
