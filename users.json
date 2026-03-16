@@ -4103,17 +4103,19 @@
       "uid": "2183026d-31_b-nebula",
       "username": "@𓆰°•Raingoku⃟𓆪༑",
       "spam": {
-        "lastMessage": 1773408196590,
+        "lastMessage": 1773680324824,
         "count": 1
       },
-      "xp": 900,
+      "xp": 740,
       "lastBuyCoin": 1773075133471,
       "hasSentMsg": {
-        "cooldown": true
+        "cooldown": true,
+        "banned": true,
+        "premium": true
       },
       "invPurchases": 3,
       "winGame": 765,
-      "level": 757,
+      "level": 761,
       "robSuccess": 751,
       "robbed": 750,
       "rpgwin": 750,
@@ -4150,7 +4152,15 @@
       "lastSteal": 1773325261430,
       "StealSuccess": 1,
       "lastBuyUnban": 1773327260192,
-      "clanId": "8f7332",
+      "lastOwnerReport": 1773411693534,
+      "banned": false,
+      "permanent": false,
+      "premium": true,
+      "premiumUntil": 1773689745437,
+      "uplimit": "10MB",
+      "limit": 10,
+      "lastBuyPremium": 1773678945437,
+      "clanId": "b69826",
       "gear": {
         "equipped": {
           "weapon": null,
@@ -4825,7 +4835,7 @@
       }
     }
   },
-  "savedAt": 1773680056047,
+  "savedAt": 1773680326773,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4948,7 +4958,9 @@
       "leader": "249216148455505",
       "members": [
         "249216148455505",
-        "106077605646392"
+        "106077605646392",
+        "18675021181111",
+        "20238422818838"
       ],
       "createdAt": 1771224029611,
       "lastIncome": 1773518846359,
@@ -4957,7 +4969,7 @@
       "lastAmbush": 0,
       "lastCollect": 1773605996402,
       "lastChallenge": 1773674175610,
-      "lastScavenge": 1773679258620,
+      "lastScavenge": 1773680297105,
       "lastResearch": 1773605996402,
       "lastTrain": 1773521467720,
       "upgrades": {
@@ -4980,7 +4992,7 @@
         "intel": 80
       },
       "renown": 2150,
-      "xp": 237631,
+      "xp": 237679,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -4996,7 +5008,7 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 963,
+        "scavenge_3": 965,
         "mission_2": 390,
         "event_1": 1
       },
@@ -5040,10 +5052,10 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 1429210701,
-      "glory": 787217,
-      "essence": 1342735,
-      "salvage": 264068
+      "coin": 2685974337,
+      "glory": 787931,
+      "essence": 1347221,
+      "salvage": 264648
     },
     "19e199": {
       "name": "زنجي",
