@@ -3906,12 +3906,12 @@
       "uid": "1c409e5b-37_b-nebula",
       "username": "@user_1c409e5b-37",
       "spam": {
-        "lastMessage": 1773518862781,
+        "lastMessage": 1773679273532,
         "count": 1
       },
-      "xp": 20,
+      "xp": 380,
       "received_total": 1000099998000,
-      "lastLoadAcct": 1773512783027,
+      "lastLoadAcct": 1773676342892,
       "invPurchases": 3,
       "winGame": 750,
       "level": 752,
@@ -3984,11 +3984,26 @@
             "power": 2500,
             "tier": 5,
             "rarity": "common"
+          },
+          "f11c": {
+            "name": "RARE ARMOR T4",
+            "type": "armor",
+            "power": 1500,
+            "tier": 4,
+            "rarity": "rare"
+          },
+          "e240": {
+            "name": "RARE WEAPON T3",
+            "type": "weapon",
+            "power": 1875,
+            "tier": 3,
+            "rarity": "rare"
           }
         }
       },
       "hasSentMsg": {
-        "cooldown": true
+        "cooldown": true,
+        "premium": true
       }
     },
     "126139028787226": {
@@ -4801,7 +4816,7 @@
       }
     }
   },
-  "savedAt": 1773675561282,
+  "savedAt": 1773679274872,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -4933,11 +4948,11 @@
       "createdAt": 1771224029611,
       "lastIncome": 1773518846359,
       "lastBattle": 0,
-      "lastMission": 1773674532371,
+      "lastMission": 1773676557787,
       "lastAmbush": 0,
       "lastCollect": 1773605996402,
       "lastChallenge": 1773674175610,
-      "lastScavenge": 1773674532300,
+      "lastScavenge": 1773679258620,
       "lastResearch": 1773605996402,
       "lastTrain": 1773521467720,
       "upgrades": {
@@ -4960,7 +4975,7 @@
         "intel": 80
       },
       "renown": 2150,
-      "xp": 237008,
+      "xp": 237631,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -4976,8 +4991,8 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 955,
-        "mission_2": 386,
+        "scavenge_3": 963,
+        "mission_2": 390,
         "event_1": 1
       },
       "lastQuestReset": 1773526502240,
@@ -4993,7 +5008,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1934,
+        "missionCount": 1939,
         "battleWins": 0,
         "eventWins": 6,
         "territoryClaims": 3,
@@ -5020,10 +5035,10 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 0,
-      "glory": 754040,
-      "essence": 1274587,
-      "salvage": 251880
+      "coin": 1429210701,
+      "glory": 787217,
+      "essence": 1342735,
+      "salvage": 264068
     },
     "19e199": {
       "name": "زنجي",
