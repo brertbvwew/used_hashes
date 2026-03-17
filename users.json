@@ -4795,44 +4795,268 @@
       }
     },
     "20238422818838": {
-      "coin": 1500013243,
+      "coin": 484577062,
       "uid": "17b4d3c1-38_b-nebula",
       "username": "@user_17b4d3c1-38",
       "spam": {
-        "lastMessage": 1773587083557,
+        "lastMessage": 1773771120908,
         "count": 1
       },
-      "xp": 610,
+      "xp": 330,
       "hasSentMsg": {
         "cooldown": true,
-        "premium": true
+        "premium": true,
+        "banned": true
       },
-      "lastMine": 1773586296326,
-      "lastBeg": 1773586419170,
-      "begSuccess": 1,
-      "lastClean": 1773586471053,
-      "lastDeliver": 1773586544615,
+      "lastMine": 1773769601501,
+      "lastBeg": 1773589623669,
+      "begSuccess": 2,
+      "lastClean": 1773769538891,
+      "lastDeliver": 1773769658490,
       "invPurchases": 3,
-      "winGame": 750,
-      "level": 750,
-      "robSuccess": 750,
+      "winGame": 754,
+      "level": 756,
+      "robSuccess": 760,
       "robbed": 750,
       "rpgwin": 750,
-      "rpgGather": 750,
+      "rpgGather": 751,
       "rpgtrades": 750,
       "rpgcrafted": 750,
-      "rpgmonsterfight": 750,
-      "yugiohviewcard": 750,
-      "onepiceviewcard": 750,
-      "dragonballviewcard": 750,
-      "pokemonviewcard": 750,
-      "vipgameviewcard": 750,
+      "rpgmonsterfight": 751,
+      "yugiohviewcard": 754,
+      "onepiceviewcard": 752,
+      "dragonballviewcard": 752,
+      "pokemonviewcard": 754,
+      "vipgameviewcard": 752,
       "weedcooked": 750,
-      "weedgather": 750,
+      "weedgather": 751,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1773586898270,
       "lastBulkInv": 1773586898270,
+      "lastSaveData": 1773587087358,
+      "yugiohLastCard": {
+        "id": 14166715,
+        "name": "Recette de Viande (Meat Recipe)",
+        "type": "Spell Card",
+        "humanReadableCardType": "Ritual Spell",
+        "frameType": "spell",
+        "desc": "This card can be used to Ritual Summon any \"Nouvelles\" Ritual Monster. You must also Tribute monsters from your hand or field whose total Levels equal or exceed the Level of the Ritual Monster you Ritual Summon. Then, if you Ritual Summoned \"Confiras de Nouvelles\", you can apply the following effect.\r\n● Change all Defense Position monsters your opponent currently controls to Attack Position.",
+        "race": "Ritual",
+        "archetype": "Recipe",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/recette-de-viande-meat-recipe-13751",
+        "card_sets": [
+          {
+            "set_name": "Wild Survivors",
+            "set_code": "WISU-EN038",
+            "set_rarity": "Super Rare",
+            "set_rarity_code": "(SR)",
+            "set_price": "0"
+          }
+        ],
+        "card_images": [
+          {
+            "id": 14166715,
+            "image_url": "https://images.ygoprodeck.com/images/cards/14166715.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/14166715.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/14166715.jpg"
+          }
+        ],
+        "card_prices": [
+          {
+            "cardmarket_price": "0.10",
+            "tcgplayer_price": "0.22",
+            "ebay_price": "0.99",
+            "amazon_price": "0.00",
+            "coolstuffinc_price": "0.99"
+          }
+        ]
+      },
+      "cardInventory": [
+        "Bearblocker",
+        "High Rate Draw",
+        "Recette de Viande (Meat Recipe)"
+      ],
+      "lastBuy": 1773687071392,
+      "vipgameLastCard": {
+        "id": 90,
+        "name": "VIP CARD COLLECTION - CODERXSA",
+        "rarity": "VIP",
+        "power": 57709,
+        "color": "Gold",
+        "attribute": "Exclusive",
+        "imageUrl": "https://i.ibb.co/MyXH7FKh/vip-85.png",
+        "cost": 26682
+      },
+      "cardvipgameInventory": [
+        16,
+        90,
+        90
+      ],
+      "dragonballLastCard": {
+        "id": "FB02-026",
+        "name": "Heles",
+        "rarity": "R",
+        "color": "-",
+        "cardType": "BATTLE",
+        "power": 25000,
+        "effect": "[On Play] Choose up to 1 of your opponent's Battle Cards with 30000 power or more and it gets -20000 power for the turn.",
+        "set": "Blazing aura",
+        "getIt": "BOOSTER PACK -BLAZING AURA- [FB02]",
+        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB02-026.webp"
+      },
+      "carddragonballInventory": [
+        "Tamagami Number Three : DA",
+        "Heles"
+      ],
+      "dblastBuy": 1773595059130,
+      "lastPokemon": {
+        "id": 90,
+        "name": "shellder",
+        "stats": [
+          {
+            "name": "hp",
+            "value": 30
+          },
+          {
+            "name": "attack",
+            "value": 65
+          },
+          {
+            "name": "defense",
+            "value": 100
+          },
+          {
+            "name": "special-attack",
+            "value": 45
+          },
+          {
+            "name": "special-defense",
+            "value": 25
+          },
+          {
+            "name": "speed",
+            "value": 40
+          }
+        ],
+        "isLegendary": false,
+        "isMythical": false,
+        "isStarter": false,
+        "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+        "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/90.png"
+      },
+      "pokemonInventory": [
+        "fuecoco",
+        "regigigas"
+      ],
+      "lastCatch": 1773595722058,
+      "onepiceLastCard": {
+        "id": "OP03-100",
+        "name": "Kingbaum",
+        "rarity": "C",
+        "power": 5000,
+        "color": "Yellow",
+        "attribute": "Strike",
+        "imageUrl": "https://en.onepiece-cardgame.com/images/cardlist/card/OP03-100.png"
+      },
+      "cardopInventory": [
+        "Kalifa",
+        "Kingbaum",
+        "Kingbaum"
+      ],
+      "oplastBuy": 1773596467238,
+      "inventory": [
+        "goldbadge",
+        "legendarypet",
+        "supercar",
+        "dragonpet",
+        "mansion",
+        "spacecolony",
+        "x3coin"
+      ],
+      "lastRobBank": 1773769519735,
+      "lastPhish": 1773769715369,
+      "lastWork": 1773769538595,
+      "workSuccess": 3,
+      "plots": 1,
+      "weedfarm": {
+        "usedPlots": [
+          null
+        ]
+      },
+      "boughtplots": 1,
+      "weedinventory": {
+        "Rolling Paper": 3,
+        "Ash": 3,
+        "Paper Crutch": 3,
+        "Metal Lid": 5,
+        "Perlite": 1,
+        "Pre-Roll": 1,
+        "Sativa Nug": 3,
+        "Indica Bud": 2,
+        "Kief Dust": 5,
+        "Water Pipe": 3,
+        "Hybrid Nug": 2,
+        "Hydro Pot": 1,
+        "Canvas Sheet": 2,
+        "Golden Grinder": 1
+      },
+      "weedlastGather": 1773596288900,
+      "rpginventory": {
+        "Apple": 2,
+        "Banana": 2,
+        "Berries": 2,
+        "Coal": 4,
+        "Runestone": 2,
+        "Moonstone": 1,
+        "Glass Shard": 2
+      },
+      "rpglastGather": 1773596318678,
+      "rpgmonsterHealth": 346,
+      "rpglastFight": 1773596327649,
+      "rpghealth": 100,
+      "spacedrones": [
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        }
+      ],
+      "spacemine": {
+        "usedDrones": [
+          null,
+          null,
+          null
+        ]
+      },
+      "spacestationlastPassiveIncome": 1773600439119,
+      "spaceinventory": {
+        "Scrap Metal": 1,
+        "Iron Ore": 1,
+        "Damaged Circuit": 3,
+        "Silicon Ore": 2,
+        "Copper Ore": 1,
+        "Copper Wire": 2,
+        "Biometric Data Pad": 1,
+        "Crystal Shard": 1,
+        "Quantum Chip": 1,
+        "Titanium Ore": 1,
+        "Advanced Sensor Array": 1,
+        "Quantum Processor": 1,
+        "Energy Cell": 1,
+        "Plasma Coils": 1
+      },
+      "spacelastSalvage": 1773600522723,
+      "spacesalvage": 1,
+      "banned": false,
+      "permanent": false,
+      "lastRob": 1773687355359,
+      "lastSteal": 1773769657718,
+      "StealSuccess": 2,
       "clanId": "b69826",
       "gear": {
         "equipped": {
@@ -4843,7 +5067,8 @@
           "helmet": null
         },
         "inventory": {}
-      }
+      },
+      "lastHack": 1773769613879
     },
     "165958056468667": {
       "coin": 9446,
@@ -4861,7 +5086,7 @@
       "robbed": 1
     }
   },
-  "savedAt": 1773766520252,
+  "savedAt": 1773771122925,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5034,7 +5259,8 @@
       "questProgress": {
         "scavenge_3": 965,
         "mission_2": 391,
-        "event_1": 1
+        "event_1": 1,
+        "deposit_5m": 500000000000
       },
       "lastQuestReset": 1773526502240,
       "consumables": {},
@@ -5053,7 +5279,7 @@
         "battleWins": 0,
         "eventWins": 6,
         "territoryClaims": 3,
-        "totalDeposited": 407100596690455940,
+        "totalDeposited": 2271969468052221000,
         "territoryCount": 8,
         "mercenaryHired": 2
       },
@@ -5076,7 +5302,7 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 42629408135349820,
+      "coin": 1907498279497115000,
       "glory": 794243,
       "essence": 1355560,
       "salvage": 266622
