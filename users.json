@@ -4844,9 +4844,24 @@
         },
         "inventory": {}
       }
+    },
+    "165958056468667": {
+      "coin": 9446,
+      "uid": "7182b53-37_b-nebula",
+      "username": "@user_7182b53-37",
+      "spam": {
+        "lastMessage": 1773766518617,
+        "count": 1
+      },
+      "xp": 820,
+      "lastWork": 1773596734035,
+      "workSuccess": 2,
+      "lastRob": 1773596741399,
+      "robSuccess": 2,
+      "robbed": 1
     }
   },
-  "savedAt": 1773766505360,
+  "savedAt": 1773766520252,
   "clan": {
     "201481": {
       "name": "fuh",
