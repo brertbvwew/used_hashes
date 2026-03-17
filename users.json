@@ -4017,38 +4017,48 @@
       }
     },
     "126139028787226": {
-      "coin": 180380,
+      "coin": 444152,
       "uid": "38173d59-36_b-nebula",
       "username": "@user_38173d59-36",
       "spam": {
-        "lastMessage": 1773255115632,
+        "lastMessage": 1773766503274,
         "count": 1
       },
-      "xp": 140,
+      "xp": 595,
       "lastTagAllTime": 1773251800761,
       "tagAllCount": 1,
-      "lastCode": 1773255002728,
-      "lastBeg": 1773255056741,
-      "begSuccess": 4,
-      "lastClean": 1773255078821,
-      "lastDeliver": 1773073965613,
-      "lastDecrypt": 1773255009140,
-      "robSuccess": 38,
+      "lastCode": 1773766436496,
+      "lastBeg": 1773766417123,
+      "begSuccess": 7,
+      "lastClean": 1773766421976,
+      "lastDeliver": 1773766395849,
+      "lastDecrypt": 1773766440570,
+      "robSuccess": 51,
       "violations": 1,
-      "lastFreelance": 1773255020879,
-      "lastHack": 1773255028133,
-      "lastRob": 1773255032176,
-      "lastRobBank": 1773255035757,
-      "lastSteal": 1773255039983,
-      "StealSuccess": 7,
-      "lastPhish": 1773255017084,
-      "lastMine": 1773255082511,
-      "lastRansom": 1773255023198,
-      "lastWork": 1773255053161,
+      "lastFreelance": 1773766386041,
+      "lastHack": 1773766432308,
+      "lastRob": 1773766445142,
+      "lastRobBank": 1773766450334,
+      "lastSteal": 1773419446689,
+      "StealSuccess": 8,
+      "lastPhish": 1773766407178,
+      "lastMine": 1773766482819,
+      "lastRansom": 1773766390443,
+      "lastWork": 1773413056052,
       "workSuccess": 5,
-      "level": 5,
+      "level": 7,
       "robbed": 1,
-      "lastRepair": 1773255086002
+      "lastRepair": 1773766400133,
+      "hasSentMsg": {
+        "owner": true,
+        "cooldown": true,
+        "banned": true
+      },
+      "lastClaim": {
+        "daily": 1773420487371
+      },
+      "banned": false,
+      "permanent": false
     },
     "94747515465862": {
       "coin": 10389,
@@ -4836,7 +4846,7 @@
       }
     }
   },
-  "savedAt": 1773682676296,
+  "savedAt": 1773766505360,
   "clan": {
     "201481": {
       "name": "fuh",
