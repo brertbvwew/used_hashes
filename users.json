@@ -1636,7 +1636,7 @@
       "coin": 3815481818707,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 680,
+      "xp": 800,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1668,13 +1668,13 @@
       "level": 783,
       "autolevelup": true,
       "premium": true,
-      "premiumUntil": 1773697555820,
-      "lastBuyPremium": 1771105555820,
+      "premiumUntil": 1773830069979,
+      "lastBuyPremium": 1773819269979,
       "robbed": 759,
       "lastBuyCoin": 1771057072829,
       "spam": {
-        "lastMessage": 1773535374229,
-        "count": 1
+        "lastMessage": 1773819335477,
+        "count": 2
       },
       "donated_total": 120000000,
       "winGame": 766,
@@ -1889,7 +1889,7 @@
       "rpglastFight": 1770888990592,
       "rpghealth": 100,
       "clublastRobTime": 1771183578916,
-      "lastLoadAcct": 1773482912905,
+      "lastLoadAcct": 1773771312568,
       "clanId": "b69826",
       "gear": {
         "equipped": {
@@ -1915,7 +1915,9 @@
             "rarity": "common"
           }
         }
-      }
+      },
+      "uplimit": "10MB",
+      "limit": 10
     },
     "27618605148": {
       "coin": 5000,
@@ -5087,7 +5089,7 @@
       "robbed": 1
     }
   },
-  "savedAt": 1773808818624,
+  "savedAt": 1773819338266,
   "clan": {
     "201481": {
       "name": "fuh",
