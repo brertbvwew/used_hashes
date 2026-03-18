@@ -3912,16 +3912,16 @@
       }
     },
     "115560826282077": {
-      "coin": 1001600003000,
+      "coin": 1001507266847,
       "uid": "1c409e5b-37_b-nebula",
       "username": "@user_1c409e5b-37",
       "spam": {
-        "lastMessage": 1773679273532,
+        "lastMessage": 1773808816330,
         "count": 1
       },
-      "xp": 380,
+      "xp": 660,
       "received_total": 1000099998000,
-      "lastLoadAcct": 1773676342892,
+      "lastLoadAcct": 1773766715233,
       "invPurchases": 3,
       "winGame": 750,
       "level": 752,
@@ -4014,7 +4014,8 @@
       "hasSentMsg": {
         "cooldown": true,
         "premium": true
-      }
+      },
+      "donated_total": 92736153
     },
     "126139028787226": {
       "coin": 444152,
@@ -5086,7 +5087,7 @@
       "robbed": 1
     }
   },
-  "savedAt": 1773771122925,
+  "savedAt": 1773808818624,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5212,13 +5213,13 @@
         "106077605646392"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 1773518846359,
+      "lastIncome": 1773772200151,
       "lastBattle": 0,
-      "lastMission": 1773682665758,
+      "lastMission": 1773808794147,
       "lastAmbush": 0,
-      "lastCollect": 1773605996402,
+      "lastCollect": 1773772200151,
       "lastChallenge": 1773674175610,
-      "lastScavenge": 1773680297105,
+      "lastScavenge": 1773808810002,
       "lastResearch": 1773605996402,
       "lastTrain": 1773521467720,
       "upgrades": {
@@ -5241,7 +5242,7 @@
         "intel": 80
       },
       "renown": 2150,
-      "xp": 237759,
+      "xp": 238669,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -5257,8 +5258,8 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 965,
-        "mission_2": 391,
+        "scavenge_3": 975,
+        "mission_2": 397,
         "event_1": 1,
         "deposit_5m": 500000000000
       },
@@ -5275,7 +5276,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1940,
+        "missionCount": 1946,
         "battleWins": 0,
         "eventWins": 6,
         "territoryClaims": 3,
@@ -5302,10 +5303,10 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 1907498279497115000,
-      "glory": 794243,
-      "essence": 1355560,
-      "salvage": 266622
+      "coin": 2052559082532206600,
+      "glory": 840865,
+      "essence": 1438428,
+      "salvage": 285470
     },
     "19e199": {
       "name": "زنجي",
