@@ -1,0 +1,13 @@
+[
+  {
+    "phoneNumber": "27717311486",
+    "service": "oneview",
+    "linkedAt": "2026-03-20T16:44:24.097Z",
+    "isTopUser": true,
+    "encrypted": {
+      "iv": "268f16e3c953a4b273e4031a",
+      "authTag": "e50f4772f96e88f9e9f433dfa0e249f2",
+      "ciphertext": "919fd1a46d724d5baefba955290c4e26ef6bfda846946e920c5ae548209e05f5ce09b5239fd0052acf98c58360b3ece7457546e44a25b0677fd4a18d91f9fb085bde85b171eec11b80c91667545536bfdf1d55d76047ce45f7d05bd965638b0200052cd64491fa29"
+    }
+  }
+]
