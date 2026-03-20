@@ -4221,35 +4221,36 @@
       "lastBulkInv": 1773268871943
     },
     "6340076396679": {
-      "coin": 1000000163830,
+      "coin": 2769868282012,
       "uid": "1640840b-39_b-nebula",
       "username": "@user_1640840b-39",
       "spam": {
-        "lastMessage": 1773414915135,
+        "lastMessage": 1774043790264,
         "count": 1
       },
-      "xp": 785,
+      "xp": 355,
       "hasSentMsg": {
         "owner": true,
-        "cooldown": true
+        "cooldown": true,
+        "banned": true
       },
-      "lastCode": 1773298364059,
-      "lastHack": 1773407049527,
-      "robSuccess": 764,
-      "lastBeg": 1773407046670,
-      "begSuccess": 9,
-      "lastDeliver": 1773407052527,
-      "level": 753,
-      "lastWork": 1773327556925,
-      "workSuccess": 2,
-      "lastPhish": 1773407062477,
+      "lastCode": 1773517621863,
+      "lastHack": 1774038577806,
+      "robSuccess": 794,
+      "lastBeg": 1774038589911,
+      "begSuccess": 18,
+      "lastDeliver": 1773857304084,
+      "level": 757,
+      "lastWork": 1773857332378,
+      "workSuccess": 7,
+      "lastPhish": 1774038746146,
       "afk": {
         "reason": null,
         "timestamp": 1773327925227
       },
       "invPurchases": 3,
       "winGame": 750,
-      "robbed": 750,
+      "robbed": 751,
       "rpgwin": 750,
       "rpgGather": 750,
       "rpgtrades": 750,
@@ -4266,17 +4267,6 @@
       "weedtrades": 750,
       "lastAddInv": 1773329737121,
       "lastBulkInv": 1773329737121,
-      "clanId": "b69826",
-      "gear": {
-        "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": null,
-          "boots": null,
-          "helmet": null
-        },
-        "inventory": {}
-      },
       "club": {
         "level": 1,
         "upgrades": {
@@ -4295,11 +4285,20 @@
         "upgradesBoughtSinceLevel": 0
       },
       "received_total": 999999999000,
-      "lastRob": 1773407055060,
-      "lastRansom": 1773407060114,
-      "lastRobBank": 1773407067822,
-      "lastRepair": 1773407071956,
-      "lastFreelance": 1773407075727
+      "lastRob": 1774038575134,
+      "lastRansom": 1773517650719,
+      "lastRobBank": 1774038596940,
+      "lastRepair": 1773857323255,
+      "lastFreelance": 1774038583939,
+      "donated_total": 120000000,
+      "banned": false,
+      "permanent": false,
+      "lastSteal": 1773788261283,
+      "StealSuccess": 5,
+      "lastMine": 1773857336059,
+      "lastDecrypt": 1773517626846,
+      "violations": 1,
+      "lastBlackjack": 1774039413649
     },
     "268938537656366": {
       "coin": 243322,
@@ -5091,7 +5090,7 @@
       "robbed": 1
     }
   },
-  "savedAt": 1773860199863,
+  "savedAt": 1774043792138,
   "clan": {
     "201481": {
       "name": "fuh",
