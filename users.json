@@ -1983,10 +1983,10 @@
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1774073360434,
+        "lastMessage": 1774080893390,
         "count": 1
       },
-      "xp": 180,
+      "xp": 240,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1230,
@@ -2999,7 +2999,7 @@
       },
       "lastPetFight": 1773486843849,
       "lastLoadAcct": 1773772182395,
-      "lastSaveData": 1773860200759,
+      "lastSaveData": 1774073363787,
       "lastBlackjack": 1773524118359,
       "rpgmonsterHealth": 356,
       "tasksCompleted": 1,
@@ -5030,7 +5030,7 @@
       "robbed": 1
     }
   },
-  "savedAt": 1774073380167,
+  "savedAt": 1774080895470,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5154,17 +5154,17 @@
       "members": [
         "249216148455505",
         "106077605646392",
-        "18675021181111",
-        "72791692963890"
+        "72791692963890",
+        "20238422818838"
       ],
       "createdAt": 1771224029611,
       "lastIncome": 1773772200151,
       "lastBattle": 0,
-      "lastMission": 1774072333693,
+      "lastMission": 1774077770308,
       "lastAmbush": 0,
       "lastCollect": 1773772200151,
       "lastChallenge": 1773674175610,
-      "lastScavenge": 1774072452132,
+      "lastScavenge": 1774080247262,
       "lastResearch": 1773605996402,
       "lastTrain": 1773521467720,
       "upgrades": {
@@ -5187,7 +5187,7 @@
         "intel": 80
       },
       "renown": 2150,
-      "xp": 239269,
+      "xp": 239429,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -5203,8 +5203,8 @@
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 982,
-        "mission_2": 401,
+        "scavenge_3": 984,
+        "mission_2": 402,
         "event_1": 1,
         "deposit_5m": 500000000000
       },
@@ -5221,7 +5221,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1950,
+        "missionCount": 1951,
         "battleWins": 0,
         "eventWins": 6,
         "territoryClaims": 3,
@@ -5248,10 +5248,10 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 57893769962423280,
-      "glory": 872665,
-      "essence": 1492911,
-      "salvage": 300604
+      "coin": 62439298281920710,
+      "glory": 882279,
+      "essence": 1509738,
+      "salvage": 305380
     },
     "19e199": {
       "name": "زنجي",
