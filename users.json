@@ -4447,171 +4447,61 @@
       "lastSaveData": 1773506588708
     },
     "72791692963890": {
-      "coin": 892979943592,
+      "coin": 892979724050,
       "uid": "34f4de2f-30_b-nebula",
       "username": "@WillamAfton",
       "spam": {
-        "lastMessage": 1773569459736,
+        "lastMessage": 1774073378295,
         "count": 1
       },
-      "xp": 60,
-      "lastRobBank": 1773554246500,
-      "robSuccess": 771,
-      "lastRob": 1773506486934,
+      "xp": 580,
+      "lastRobBank": 1773599618696,
+      "robSuccess": 773,
+      "lastRob": 1773599633390,
       "lastHack": 1773394792154,
-      "level": 761,
+      "level": 767,
       "lastSteal": 1773391385509,
       "StealSuccess": 3,
       "lastBeg": 1773391391327,
       "begSuccess": 2,
       "lastWork": 1773385644112,
       "workSuccess": 1,
-      "lastBlackjack": 1773385885335,
-      "lastBuyUnban": 1773567893296,
+      "lastBlackjack": 1773602557466,
+      "lastBuyUnban": 1773636043126,
       "hasSentMsg": {
         "cooldown": true,
         "banned": true
       },
       "invPurchases": 3,
       "winGame": 752,
-      "robbed": 751,
+      "robbed": 752,
       "rpgwin": 750,
       "rpgGather": 750,
       "rpgtrades": 750,
       "rpgcrafted": 750,
       "rpgmonsterfight": 750,
-      "yugiohviewcard": 771,
+      "yugiohviewcard": 775,
       "onepiceviewcard": 750,
-      "dragonballviewcard": 822,
+      "dragonballviewcard": 907,
       "pokemonviewcard": 752,
-      "vipgameviewcard": 776,
+      "vipgameviewcard": 828,
       "weedcooked": 750,
       "weedgather": 751,
       "weedsell": 750,
       "weedtrades": 750,
       "lastAddInv": 1773505628164,
       "lastBulkInv": 1773505628164,
-      "clanId": "b69826",
-      "gear": {
-        "equipped": {
-          "weapon": null,
-          "armor": null,
-          "accessory": null,
-          "boots": null,
-          "helmet": null
-        },
-        "inventory": {
-          "2509": {
-            "name": "RARE WEAPON T1",
-            "type": "weapon",
-            "power": 625,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "4451": {
-            "name": "COMMON WEAPON T1",
-            "type": "weapon",
-            "power": 500,
-            "tier": 1,
-            "rarity": "common"
-          },
-          "672c": {
-            "name": "COMMON WEAPON T6",
-            "type": "weapon",
-            "power": 3000,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "b212": {
-            "name": "COMMON WEAPON T8",
-            "type": "weapon",
-            "power": 4000,
-            "tier": 8,
-            "rarity": "common"
-          },
-          "347a": {
-            "name": "COMMON BOOTS T5",
-            "type": "boots",
-            "power": 750,
-            "tier": 5,
-            "rarity": "common"
-          },
-          "18a2": {
-            "name": "RARE WEAPON T1",
-            "type": "weapon",
-            "power": 625,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "08a2": {
-            "name": "RARE ARMOR T2",
-            "type": "armor",
-            "power": 750,
-            "tier": 2,
-            "rarity": "rare"
-          },
-          "c8c0": {
-            "name": "COMMON ARMOR T9",
-            "type": "armor",
-            "power": 2700,
-            "tier": 9,
-            "rarity": "common"
-          },
-          "d7b0": {
-            "name": "LEGENDARY HELMET T5",
-            "type": "helmet",
-            "power": 2500,
-            "tier": 5,
-            "rarity": "legendary"
-          },
-          "90ec": {
-            "name": "COMMON WEAPON T6",
-            "type": "weapon",
-            "power": 3000,
-            "tier": 6,
-            "rarity": "common"
-          },
-          "4e81": {
-            "name": "COMMON BOOTS T1",
-            "type": "boots",
-            "power": 150,
-            "tier": 1,
-            "rarity": "common"
-          },
-          "283b": {
-            "name": "COMMON HELMET T3",
-            "type": "helmet",
-            "power": 750,
-            "tier": 3,
-            "rarity": "common"
-          },
-          "bfc7": {
-            "name": "RARE BOOTS T1",
-            "type": "boots",
-            "power": 187,
-            "tier": 1,
-            "rarity": "rare"
-          },
-          "5ce2": {
-            "name": "EPIC WEAPON T1",
-            "type": "weapon",
-            "power": 750,
-            "tier": 1,
-            "rarity": "epic"
-          }
-        }
-      },
       "dragonballLastCard": {
-        "id": "FB02-009",
-        "name": "Caway",
-        "rarity": "C",
-        "color": "-",
+        "id": "FB04-003",
+        "name": "Obuni",
+        "rarity": "UC",
+        "color": "Red",
         "cardType": "BATTLE",
         "power": 20000,
-        "effect": "-",
-        "set": "Blazing aura",
-        "getIt": "BOOSTER PACK -BLAZING AURA- [FB02]",
-        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB02-009.webp"
+        "effect": "[On Play] Play up to 1 &lt;Obuni&gt; with 20000 power or less from your hand. Then, you can't play &lt;Obuni&gt; for the turn.",
+        "set": "BOOSTER PACK -ULTRA LIMIT- [FB04]",
+        "getIt": "BOOSTER PACK -ULTRA LIMIT- [FB04]",
+        "imageUrl": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-003.webp"
       },
       "carddragonballInventory": [
         "Bardock : BR",
@@ -4622,9 +4512,14 @@
         "Meta-Cooler Core",
         "Janemba",
         "Gowasu",
-        "Great Saiyaman"
+        "Great Saiyaman",
+        "Jiren",
+        "Raditz",
+        "Goku Black",
+        "Broly",
+        "Son Goku : GT"
       ],
-      "dblastBuy": 1773565129754,
+      "dblastBuy": 1773599559758,
       "lastPokemon": {
         "id": 247,
         "name": "pupitar",
@@ -4660,57 +4555,71 @@
         "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
         "shinyImage": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/247.png"
       },
-      "lastSaveData": 1773511530898,
+      "lastSaveData": 1773569463307,
       "banned": false,
       "permanent": false,
       "yugiohLastCard": {
-        "id": 11458071,
-        "name": "Sky Scourge Enrise",
+        "id": 87917187,
+        "name": "Dark Summoning Beast",
         "typeline": [
-          "Fairy",
+          "Fiend",
           "Effect"
         ],
         "type": "Effect Monster",
         "humanReadableCardType": "Effect Monster",
         "frameType": "effect",
-        "desc": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 3 LIGHT Fairy-Type monsters and 1 DARK Fiend monster in your Graveyard. Once per turn, you can remove from play 1 face-up monster on the field. If you activate this effect, this card cannot attack during this turn.",
-        "race": "Fairy",
-        "atk": 2400,
-        "def": 1500,
-        "level": 8,
-        "attribute": "LIGHT",
-        "ygoprodeck_url": "https://ygoprodeck.com/card/sky-scourge-enrise-989",
+        "desc": "You can Tribute this card; Special Summon 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your hand or Deck, ignoring its Summoning conditions, also monsters you control cannot attack for the rest of this turn. You can only use this effect of \"Dark Summoning Beast\" once per turn. You can banish this card from your Graveyard; add 1 \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", or \"Raviel, Lord of Phantasms\" from your Deck to your hand.",
+        "race": "Fiend",
+        "atk": 0,
+        "def": 0,
+        "level": 5,
+        "attribute": "DARK",
+        "ygoprodeck_url": "https://ygoprodeck.com/card/dark-summoning-beast-8302",
         "card_sets": [
           {
-            "set_name": "Force of the Breaker",
-            "set_code": "FOTB-EN021",
+            "set_name": "Duelist Saga",
+            "set_code": "DUSA-EN030",
+            "set_rarity": "Ultra Rare",
+            "set_rarity_code": "(UR)",
+            "set_price": "2.8"
+          },
+          {
+            "set_name": "Speed Duel GX: Duelists of Shadows",
+            "set_code": "SGX3-ENG04",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "0"
+          },
+          {
+            "set_name": "Speed Duel Tournament Pack 6",
+            "set_code": "STP6-EN010",
             "set_rarity": "Super Rare",
             "set_rarity_code": "(SR)",
             "set_price": "0"
           },
           {
-            "set_name": "Force of the Breaker",
-            "set_code": "FOTB-EN021",
-            "set_rarity": "Ultimate Rare",
-            "set_rarity_code": "(UtR)",
-            "set_price": "0"
+            "set_name": "Structure Deck: Sacred Beasts",
+            "set_code": "SDSA-EN005",
+            "set_rarity": "Common",
+            "set_rarity_code": "(C)",
+            "set_price": "1.43"
           }
         ],
         "card_images": [
           {
-            "id": 11458071,
-            "image_url": "https://images.ygoprodeck.com/images/cards/11458071.jpg",
-            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/11458071.jpg",
-            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/11458071.jpg"
+            "id": 87917187,
+            "image_url": "https://images.ygoprodeck.com/images/cards/87917187.jpg",
+            "image_url_small": "https://images.ygoprodeck.com/images/cards_small/87917187.jpg",
+            "image_url_cropped": "https://images.ygoprodeck.com/images/cards_cropped/87917187.jpg"
           }
         ],
         "card_prices": [
           {
-            "cardmarket_price": "1.23",
-            "tcgplayer_price": "1.21",
-            "ebay_price": "1.39",
-            "amazon_price": "0.62",
-            "coolstuffinc_price": "0.00"
+            "cardmarket_price": "0.13",
+            "tcgplayer_price": "0.23",
+            "ebay_price": "0.99",
+            "amazon_price": "2.84",
+            "coolstuffinc_price": "0.79"
           }
         ]
       },
@@ -4718,9 +4627,12 @@
         "Arcana Force XV - The Fiend",
         "Goldd, Wu-Lord of Dark World",
         "Ojama Country",
-        "Twin-Headed Wolf"
+        "Twin-Headed Wolf",
+        "Elemental Training",
+        "Jurrac Tyrannus",
+        "Dark Summoning Beast"
       ],
-      "lastBuy": 1773564747560,
+      "lastBuy": 1773634367218,
       "weedinventory": {
         "Lighter": 2,
         "Paper Crutch": 3,
@@ -4733,19 +4645,42 @@
       },
       "weedlastGather": 1773524592062,
       "vipgameLastCard": {
-        "id": 101,
+        "id": 85,
         "name": "VIP CARD COLLECTION - CODERXSA",
         "rarity": "VIP",
-        "power": 68949,
+        "power": 74929,
         "color": "Gold",
         "attribute": "Exclusive",
-        "imageUrl": "https://i.ibb.co/qLS0nL1Q/vip-95.png",
-        "cost": 25435
+        "imageUrl": "https://i.ibb.co/C5K1wwbr/vip-80.png",
+        "cost": 14318
       },
       "cardvipgameInventory": [
         69,
-        22
-      ]
+        22,
+        72,
+        68,
+        60,
+        99,
+        14,
+        13,
+        18,
+        98
+      ],
+      "lastMine": 1773587734139,
+      "lastRepair": 1773599628142,
+      "lastClean": 1773599630286,
+      "lastSpin": 1773601368183,
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
+      },
+      "clanId": "b69826"
     },
     "170996069855435": {
       "coin": 1500025478,
@@ -5095,7 +5030,7 @@
       "robbed": 1
     }
   },
-  "savedAt": 1774073362412,
+  "savedAt": 1774073380167,
   "clan": {
     "201481": {
       "name": "fuh",
