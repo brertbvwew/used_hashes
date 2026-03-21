@@ -5000,9 +5000,49 @@
       "lastRob": 1773596741399,
       "robSuccess": 2,
       "robbed": 1
+    },
+    "159811756937261": {
+      "coin": 100464071,
+      "uid": "3440c393-31_b-nebula",
+      "username": "@user_3440c393-31",
+      "spam": {
+        "lastMessage": 1774104399906,
+        "count": 1
+      },
+      "xp": 920,
+      "lastWork": 1773489654114,
+      "workSuccess": 2,
+      "lastRob": 1774104218595,
+      "robSuccess": 14,
+      "robbed": 9,
+      "lastBlackjack": 1773489457501,
+      "lastSpin": 1772999763094,
+      "lastRansom": 1773490273036,
+      "lastHack": 1772999270116,
+      "lastBeg": 1772999459514,
+      "begSuccess": 1,
+      "lastDecrypt": 1773490180915,
+      "hasSentMsg": {
+        "cooldown": true,
+        "admin": true,
+        "owner": true,
+        "premium": true
+      },
+      "received_total": 99999000,
+      "level": 4,
+      "lastClaim": {
+        "daily": 1774104295769
+      },
+      "lastClean": 1773490190398,
+      "lastRepair": 1773490247650,
+      "lastMine": 1773490301301,
+      "lastSteal": 1773490312661,
+      "StealSuccess": 1,
+      "winGame": 1,
+      "autolevelup": true
     }
   },
-  "savedAt": 1774104383944,
+  "savedAt": 1774104402065,
   "clan": {
     "201481": {
       "name": "fuh",
