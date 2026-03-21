@@ -1220,42 +1220,14 @@
       "lastFig": 1767906368092
     },
     "250680665190402": {
-      "coin": 99826512,
+      "coin": 5000,
       "uid": "ac5839-32_b-nebula",
       "username": "@user_ac5839-32",
-      "xp": 575,
-      "lastClean": 1767901851026,
-      "lastRansom": 1767947444646,
-      "robSuccess": 35,
-      "robbed": 1,
-      "lastBeg": 1767866205254,
-      "begSuccess": 3,
-      "lastRob": 1767954381380,
-      "lastRobBank": 1767947527094,
-      "lastPhish": 1767954383061,
-      "lastMine": 1767866815329,
-      "lastCode": 1767947519232,
-      "autolevelup": true,
-      "received_total": 99999000,
-      "lastFreelance": 1767947521528,
-      "lastDeliver": 1767868339758,
-      "lastWork": 1767947529380,
-      "workSuccess": 4,
-      "lastRepair": 1767947517701,
-      "lastDecrypt": 1767868345928,
-      "level": 3,
-      "lastHack": 1767867054516,
-      "lastClaim": {
-        "daily": 1767865544857
+      "spam": {
+        "lastMessage": 1774104381801,
+        "count": 1
       },
-      "lastSpin": 1767947571584,
-      "lastSpins": 1767947554957,
-      "hasSentMsg": {
-        "cooldown": true
-      },
-      "lastSteal": 1767947532055,
-      "StealSuccess": 2,
-      "donated_total": 500000
+      "xp": 100
     },
     "78147265507451": {
       "coin": 300455416,
@@ -5030,7 +5002,7 @@
       "robbed": 1
     }
   },
-  "savedAt": 1774080895470,
+  "savedAt": 1774104383944,
   "clan": {
     "201481": {
       "name": "fuh",
