@@ -1,13 +1,1 @@
-[
-  {
-    "phoneNumber": "27717311486",
-    "service": "nebula",
-    "linkedAt": "2026-03-21T15:55:18.132Z",
-    "isTopUser": true,
-    "encrypted": {
-      "iv": "61653aeea2cd2add1383b6d3",
-      "authTag": "93dc8256b245a8e6f102e5971e05f10d",
-      "ciphertext": "bdbc671479edc1fd7ab23c4961ce0a5ec367ecddc77a68f38fccc5fef62c9d820034aa33a956f8f5185fec71d6461cb91e55cfbb33bfeef69d67ca678bbce81b86c42123fbd6604b5df5bed60ad6b4df1e4c3d2ad85feb5b0899725de9f1232d3df5ec9f0b8711f4ae7fee3fd42fc3ea2268fd1d8e14a08b6729db70611d7aab7caa315c7da58aad2e2f21e8bcbd80ed5d4b28bd5ed113832638e1f5254b62c17e372cd8638f37e97243682921b18642d2f48bf27dd6ad4db16c749dfc3c35c2bb08e4b2a7829e2c1acd3ac7480a626e5d1a1961bc47ef81612d4d7743666fb2e70e053894a3fc3a1f95b5450ec13a25f2e9bea91809f3bbae015e"
-    }
-  }
-]
+[]
