@@ -2,8 +2,8 @@
   {
     "username": "BV",
     "phoneNumber": "27634007721",
-    "salt": "b952e72220ad9b6b7c157d4fcd29429a",
-    "password": "6e37acd2cc641a188d78e7dbb65061464fc8a1cc85029aa780fab16dde39bbb1067fb0bec10d3fcf55dec05ed9ed2befa1526bed73ce608ac84ae87d7a98652f",
-    "createdAt": "2026-03-22T09:52:45.610Z"
+    "salt": "8fe3b127ee400f9e72944af23ec8e205",
+    "password": "127c189dddb109d0b17ff8d0f93cb0ac52845a834dbceed438723ecadaf3bbf796aacff4557c7cbc9c8de6d2c2d18105700e07c1ccf0a591d0d381cb80d9548f",
+    "createdAt": "2026-03-22T09:56:03.123Z"
   }
 ]
