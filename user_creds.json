@@ -141,5 +141,16 @@
       "authTag": "051bb84bfc57e08b80cf32e1efcea8f4",
       "ciphertext": "f919b6c7f7cdaa22e85f7fc47430da5b226ee667b4b266a4970ad18101815b0cbf5c6a963487d329f41c5dfe94f1737b676a0a09ad4411d460b63dec29e41c265c765db1c5689fb9d9bd4705b0b5bc40f71aa669dc2b19eaed029c2562868a86117e122c8b6ef206df958d5659b102eb3f0dc45bd9a6475e360cd30fe51fc2d8"
     }
+  },
+  {
+    "phoneNumber": "27672418617",
+    "service": "oneview",
+    "linkedAt": "2026-03-22T10:11:30.665Z",
+    "isTopUser": false,
+    "encrypted": {
+      "iv": "25a218b3c56f4f33bc0551cd",
+      "authTag": "467bf49e84329258dec5150e0ccaa491",
+      "ciphertext": "6578b34ae5b85147f12aab7a049cd7c809b9bf417fc12d6e59816af87caac05b30eeb4fdfedff6ae33c7bfccff8a414cb56b19dc237493c17d5c85dee5ec657dc3bd0306aa1b0ff9b0887de2ad560e78f06ca1ab1f7a09ac7ce7119c60f7aa842cf038586f6b031191"
+    }
   }
 ]
