@@ -130,5 +130,16 @@
       "authTag": "f0c49cc8720e417f23a99575dd2ef121",
       "ciphertext": "37578d9dd8cc53000b315e6844ef6df93ed9a32c34c9f0f2f6b90fdb3d9a10904600bb592303b195ac96e7d770027a23c5fdfc2cd340b69948aa1ff14c659af0ea95a337da498346715098713713d02c77f9f1eede424735082f1b3f9b7079ffb4cebf2ea88b0efabd"
     }
+  },
+  {
+    "phoneNumber": "27634007721",
+    "service": "nebula",
+    "linkedAt": "2026-03-22T09:56:45.408Z",
+    "isTopUser": false,
+    "encrypted": {
+      "iv": "708eb5d96b7bce99861f4fba",
+      "authTag": "f5c7652a82d21a594b0b0c44a08f745e",
+      "ciphertext": "a103d9845454c9c9770aeda80905bba31465c29f1342fe7696b5af6ea99872ca9f12f0ddf7aee84778308534e045575b4949c192b81bb864d0421c2a4ad9d951a509dd76404c71fe34085c572aa3a2d650407c4974f830795fcffb49ef028a2b1384298de448993c3fac382a1d40abeca4dc08c0e160675df62b7843253cbbae"
+    }
   }
 ]
