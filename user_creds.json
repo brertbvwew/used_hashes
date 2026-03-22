@@ -163,5 +163,16 @@
       "authTag": "54f69dd760fef39b26c9e73d40c95ee2",
       "ciphertext": "28742ee09d516a9ebc516a9cbeca7317ce4fa4bea9aab1f4ff41c341ee0a1c6df4d7d72cdb092ba8eb6392a4233f457c51244b299509dee6fc666e0e9cdd2a95fb0c2b39e490ddd99aa0df5d25a4a63928640158cf0e3a030d62f9b07bbc57b20347055ddec3443360"
     }
+  },
+  {
+    "phoneNumber": "2347019366970",
+    "service": "nebula",
+    "linkedAt": "2026-03-22T18:01:14.462Z",
+    "isTopUser": false,
+    "encrypted": {
+      "iv": "4bb403b84cb688625ecd78b4",
+      "authTag": "b20e9e62f4abfdde1120a33e1a47c217",
+      "ciphertext": "97741765392e1507d4cefa66faf05b6feba095c7a8ad7150ba0a76618fae3d75dd7430ba5bb6eca6fbbfbbd084b1f9a435710503985fbc57c17e0e7de28df39f2ab70824e4d0a0abffa306ee926fa6f7464897e7a88bc66bba1cf20be5c814c547b7066352c8ab8e4023a089b1944535085e2a02e27b98d7e6e4706ae8b36fc362ff"
+    }
   }
 ]
