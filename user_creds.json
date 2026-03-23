@@ -240,5 +240,16 @@
       "authTag": "32d7e48be3e91ff9358a63572ce46c36",
       "ciphertext": "b67c5ba68182257ac686c810184be197a0066f2289a11419e7dd3c4ba420ff76e3fb6aba10f08991e777199118cd6e1c31057cd9c6254a5c8eadef6929a6c1903efa3fae3af686dffcce9159014b350e42eab6e3b311f47bbaac5e2070f89fd06e523755695356dd690807f8de83e3a4b853ad379b72ec42982b0e9370377010"
     }
+  },
+  {
+    "phoneNumber": "264858203203",
+    "service": "nebula",
+    "linkedAt": "2026-03-23T17:43:14.430Z",
+    "isTopUser": false,
+    "encrypted": {
+      "iv": "a4e444bb52858f4235a71a3b",
+      "authTag": "b15014784b9abfcfdee07031ccdced76",
+      "ciphertext": "bbfdfa9f90a7bbd68e52e8fedc9c60b1ac78621e26c8b804778dcf616ea8e6de735e1395fdb526e8ee1266c5df17467e7ab4c4ca9520827572e1cddf5494d04a0cd32e1d0c73fded3e9f2a17b018c0c6546f490817189acf5f69c3ce351e7fd72b7d6ddfd3d15204a6886b8c6b0fc969150b98366cf88af82e4088cb81be713592"
+    }
   }
 ]
