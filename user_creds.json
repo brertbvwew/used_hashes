@@ -218,5 +218,16 @@
       "authTag": "8936f46296e0c5a938a29ec24a4cf58f",
       "ciphertext": "cbcc4d52086e2f99079e499261ef5a35d645afba41b399cff68eabacd7b4411e9b03c28ca249a380829184578e966c293da75502ebea5f771afefbded19b47093f731301a94bc1ef43753bb53f75339584b11ab5381c3cd10c670507442327913519e0a887b2edb5ecfc8d"
     }
+  },
+  {
+    "phoneNumber": "9115964667",
+    "service": "oneview",
+    "linkedAt": "2026-03-23T13:12:58.849Z",
+    "isTopUser": false,
+    "encrypted": {
+      "iv": "284ab8be75de6397028d3421",
+      "authTag": "a370120fd13a998d7926520bb2ced687",
+      "ciphertext": "1454b8e759cb3741f3faa65e1f7922cefc816bfa7d0cb9f5176b184de5841ede6ba93570df9634cbf6e5780327ccaf4742e6a32c9736ec90368b336aece631189430fba73c26e5fcc5056cc2075ceebe89f859e19bcb4c24baa2922bd1c4ed974a3a67d21c9df567"
+    }
   }
 ]
