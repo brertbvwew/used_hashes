@@ -5052,9 +5052,32 @@
       "lastFreelance": 1774190625849,
       "lastPhish": 1774190661709,
       "lastRobBank": 1774190775358
+    },
+    "173491630432494": {
+      "coin": 300002633,
+      "uid": "faa712c-34_b-nebula",
+      "username": "@user_faa712c-34",
+      "spam": {
+        "lastMessage": 1774261322412,
+        "count": 1
+      },
+      "xp": 520,
+      "lastTagAllTime": 1774255066419,
+      "tagAllCount": 1,
+      "banned": false,
+      "banUntil": null,
+      "hasSentMsg": {
+        "banned": true,
+        "premium": true,
+        "admin": true,
+        "owner": true
+      },
+      "robbed": 1,
+      "level": 1,
+      "lastBuyCoin": 1774261171400
     }
   },
-  "savedAt": 1774261297248,
+  "savedAt": 1774261324046,
   "clan": {
     "201481": {
       "name": "fuh",
