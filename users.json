@@ -1269,10 +1269,10 @@
       "xp": 20
     },
     "257501106827405": {
-      "coin": 4599990901,
+      "coin": 1004599989901,
       "uid": "857a11c-35_b-nebula",
       "username": "@pixels_bank",
-      "xp": 130,
+      "xp": 370,
       "invPurchases": 2,
       "lastHack": 1767807897501,
       "robSuccess": 510,
@@ -1287,7 +1287,7 @@
       "StealSuccess": 3,
       "lastSpin": 1767793082293,
       "lastRob": 1767807890934,
-      "received_total": 3699963000,
+      "received_total": 1003699962000,
       "robbed": 503,
       "hasSentMsg": {
         "cooldown": true,
@@ -1295,7 +1295,7 @@
       },
       "level": 502,
       "spam": {
-        "lastMessage": 1773509928239,
+        "lastMessage": 1774294734497,
         "count": 1
       },
       "donated_total": 100000000,
@@ -1317,7 +1317,8 @@
       "lastAddInv": 1773509896175,
       "lastBulkInv": 1773509896175,
       "banned": false,
-      "permanent": false
+      "permanent": false,
+      "lastSaveData": 1773509931377
     },
     "27780398463": {
       "coin": 199998000,
@@ -5077,7 +5078,7 @@
       "lastBuyCoin": 1774261171400
     }
   },
-  "savedAt": 1774284019548,
+  "savedAt": 1774294736807,
   "clan": {
     "201481": {
       "name": "fuh",
