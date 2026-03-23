@@ -1607,10 +1607,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 3815481881563,
+      "coin": 3815631881563,
       "uid": "32d92c53-31_b-nebula",
       "username": "@zestyglock009",
-      "xp": 140,
+      "xp": 440,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1618,7 +1618,7 @@
         "premium": true,
         "banned": true
       },
-      "lastTagAllTime": 1773483971316,
+      "lastTagAllTime": 1774258144612,
       "tagAllCount": 1,
       "lastOwnerReport": 1774205588425,
       "usedCoupons": [
@@ -1645,9 +1645,9 @@
       "premiumUntil": 1776763714315,
       "lastBuyPremium": 1774171714315,
       "robbed": 759,
-      "lastBuyCoin": 1771057072829,
+      "lastBuyCoin": 1774259254334,
       "spam": {
-        "lastMessage": 1774209828687,
+        "lastMessage": 1774261294994,
         "count": 1
       },
       "donated_total": 120000000,
@@ -1892,7 +1892,8 @@
       },
       "uplimit": "10MB",
       "limit": 10,
-      "lastFig": 1774186140979
+      "lastFig": 1774186140979,
+      "lastSaveData": 1774209831686
     },
     "27618605148": {
       "coin": 5000,
@@ -5053,7 +5054,7 @@
       "lastRobBank": 1774190775358
     }
   },
-  "savedAt": 1774209830358,
+  "savedAt": 1774261297248,
   "clan": {
     "201481": {
       "name": "fuh",
