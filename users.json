@@ -5076,9 +5076,30 @@
       "robbed": 1,
       "level": 1,
       "lastBuyCoin": 1774261171400
+    },
+    "69244167422175": {
+      "coin": 200000,
+      "uid": "1b226b4e-35_b-nebula",
+      "username": "@user_1b226b4e-35",
+      "spam": {
+        "lastMessage": 1774297306739,
+        "count": 1
+      },
+      "xp": 780,
+      "level": 1,
+      "lastOwnerReport": 1773255806506,
+      "robbed": 2,
+      "hasSentMsg": {
+        "coin": true,
+        "cooldown": true,
+        "admin": true
+      },
+      "lastClaim": {
+        "daily": 1773653232145
+      }
     }
   },
-  "savedAt": 1774294736807,
+  "savedAt": 1774297308670,
   "clan": {
     "201481": {
       "name": "fuh",
