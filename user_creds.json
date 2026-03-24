@@ -343,12 +343,12 @@
   {
     "phoneNumber": "2347085363927",
     "service": "oneview",
-    "linkedAt": "2026-03-24T18:25:57.991Z",
+    "linkedAt": "2026-03-24T18:27:32.856Z",
     "isTopUser": false,
     "encrypted": {
-      "iv": "fcd361ce7ca798782fdbf07e",
-      "authTag": "7649699cecff405d051e579d723f2c4e",
-      "ciphertext": "9bbb44087b23d5e00c08538105fd2b3445073065b46464ef2f8ff20e774bc41629131cbc971c7156a00622c1bdbcde6f73587bce73a43df4ada94201c5f75572bd246826ec6d4be0cbdf85ed0b7c62d6522603f3107ad436cb77db1398246de0cdec33699b81477afc4827"
+      "iv": "8a1efd62664758ceedda6cdf",
+      "authTag": "37305a1858fbeb28db7e87918915b872",
+      "ciphertext": "06866ae90cd762ef9a649919315f7a50c2c2f488dd0f36dc849cc3f4c49c73865a9c76f9fc2c3329d8d5f4553a9c4e0d783cc19c72717d58a6bbd66c941b0054cf22ec48fe4eb5fa8125b92d0cb884ff3155658042eaf2d03e9a4d3e0cb57e9c5913da6b8cc862182cfee9"
     }
   }
 ]
