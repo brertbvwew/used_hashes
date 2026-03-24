@@ -273,5 +273,16 @@
       "authTag": "5dc7a6cc7f1cae49687eef1cb4d8b5f5",
       "ciphertext": "0266d5245cb2421b2a97c6898c8de892385602ecae0ae13c2b6197fa81a0c1fc615be99c342e1c3c28fff5e092c63a546c5a0fb1481a8134bf2fa6fbb20109b32002c646b0a9fd89b6c00e96df81446a9af9fd4a7aeb2fc1b5eddfc8968e6d91c8a061a5074bd518eb823b2f622890188fea22dd37f96449935434cb4213a079"
     }
+  },
+  {
+    "phoneNumber": "27635950892",
+    "service": "oneview",
+    "linkedAt": "2026-03-24T07:02:42.341Z",
+    "isTopUser": false,
+    "encrypted": {
+      "iv": "e3830f89f2d0c060265fe714",
+      "authTag": "911ba304ae67cd978962d3d5b8f2ccf4",
+      "ciphertext": "c5a4b8821459d27131a8f4dad0d808eb6fdfc14bd78f9922eec47b615e3c96ebcd9f7742a00a0a7598653b5411c6c103319791b9c36ffa2697a3fa8898ee592d7a31a653de28fa22429d381190851fff12802940d1fea7fab0f23e11efc34bb11b5481673151b70fd4"
+    }
   }
 ]
