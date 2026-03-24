@@ -262,5 +262,16 @@
       "authTag": "f422d84646e50735aa7b530ce158c42e",
       "ciphertext": "c9f1148980322ba390f930a43809b549daaac16bb19faed5d13fbcb1d65b4d1f50fc8dfe2e12f77c6cec4dda273156de5c00df3040bae03d3bec0d2dc0a10743bd87c19069b4a6d00531ca9a69536ba21e3b4b5317742165acb41411dc4c60f4402a676b5bda20e2713d60"
     }
+  },
+  {
+    "phoneNumber": "27604285592",
+    "service": "nebula",
+    "linkedAt": "2026-03-24T07:02:30.388Z",
+    "isTopUser": false,
+    "encrypted": {
+      "iv": "a84580a706cf53dcbd48c259",
+      "authTag": "5dc7a6cc7f1cae49687eef1cb4d8b5f5",
+      "ciphertext": "0266d5245cb2421b2a97c6898c8de892385602ecae0ae13c2b6197fa81a0c1fc615be99c342e1c3c28fff5e092c63a546c5a0fb1481a8134bf2fa6fbb20109b32002c646b0a9fd89b6c00e96df81446a9af9fd4a7aeb2fc1b5eddfc8968e6d91c8a061a5074bd518eb823b2f622890188fea22dd37f96449935434cb4213a079"
+    }
   }
 ]
