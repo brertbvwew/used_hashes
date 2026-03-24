@@ -295,5 +295,16 @@
       "authTag": "2b172be371f6f3749d318bb9835eab8d",
       "ciphertext": "b5b86787f90584a25866abe0fa340727c9b96b27db91e0652e7b670894fab9b9ecbd38a4360a00d2b6995561462ab087905733a7d9a90a104e42aba5050f017b96b3baa0a8444cf284ba5e45c6ceaa2b709cfbd0f29cc4e341096466f3ca23452aa50f4ba2dc24de6e50ff9f2df42178118844f08cba83b3805fa04cb0384807"
     }
+  },
+  {
+    "phoneNumber": "27674024263",
+    "service": "nebula",
+    "linkedAt": "2026-03-24T09:05:03.576Z",
+    "isTopUser": false,
+    "encrypted": {
+      "iv": "cbebcfb9f919c6395e02c3bb",
+      "authTag": "8fff65f3f8a05d13b0b68ef34d56750a",
+      "ciphertext": "16cb3b82c7e3bc27bcea5b83472549ccdd9ae271ddd96046bab07f57f2c5fd53d0d3c604926a7675ea8d6aa6c17563a5bb6da7df7d883dfb8df3fa1f42dee996f63c107309cf569128d465e3138b2adf4321dd58977fbdb4627e0f3661b7c7f72cfa3bedb5de9f7ad28ae9700c7f61f3b2815aa33927b898a679d2497580ae26"
+    }
   }
 ]
