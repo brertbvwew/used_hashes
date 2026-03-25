@@ -3900,15 +3900,15 @@
       "uid": "1c409e5b-37_b-nebula",
       "username": "@user_1c409e5b-37",
       "spam": {
-        "lastMessage": 1774380040538,
+        "lastMessage": 1774448820991,
         "count": 1
       },
-      "xp": 900,
+      "xp": 300,
       "received_total": 1000099998000,
       "lastLoadAcct": 1773766715233,
       "invPurchases": 3,
       "winGame": 750,
-      "level": 752,
+      "level": 753,
       "robSuccess": 750,
       "robbed": 750,
       "rpgwin": 750,
@@ -4000,7 +4000,7 @@
         "premium": true
       },
       "donated_total": 92736153,
-      "lastSaveData": 1773808820659,
+      "lastSaveData": 1774380044212,
       "yugiohLastCard": {
         "id": 41940225,
         "name": "Destruction Swordsman Fusion",
@@ -5158,7 +5158,7 @@
       }
     }
   },
-  "savedAt": 1774380042898,
+  "savedAt": 1774448822930,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5286,11 +5286,11 @@
         "20238422818838"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 1773772200151,
+      "lastIncome": 1774380521958,
       "lastBattle": 0,
       "lastMission": 1774283841096,
       "lastAmbush": 0,
-      "lastCollect": 1773772200151,
+      "lastCollect": 1774380521958,
       "lastChallenge": 1773674175610,
       "lastScavenge": 1774283279985,
       "lastResearch": 1773605996402,
@@ -5315,7 +5315,7 @@
         "intel": 80
       },
       "renown": 2150,
-      "xp": 239709,
+      "xp": 239739,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -5376,7 +5376,7 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 11680649650425590000,
+      "coin": 11680649662925590000,
       "glory": 899441,
       "essence": 1492884,
       "salvage": 310859
