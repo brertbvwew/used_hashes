@@ -5161,9 +5161,27 @@
       "lastClaim": {
         "daily": 1773653232145
       }
+    },
+    "38663983501375": {
+      "coin": 5000,
+      "uid": "37de982-35_b-nebula",
+      "username": "@zestyglock09",
+      "spam": {
+        "lastMessage": 1775154786508,
+        "count": 1
+      },
+      "xp": 320,
+      "premium": true,
+      "premiumUntil": 1775241157786,
+      "uplimit": "10MB",
+      "limit": 10,
+      "lastBuyPremium": 1775154757786,
+      "hasSentMsg": {
+        "owner": true
+      }
     }
   },
-  "savedAt": 1775043435982,
+  "savedAt": 1775154788941,
   "clan": {
     "201481": {
       "name": "fuh",
