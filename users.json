@@ -4935,9 +4935,19 @@
       "hasSentMsg": {
         "owner": true
       }
+    },
+    "233487927926907": {
+      "coin": 5000,
+      "uid": "1397e8f7-37_b-nebula",
+      "username": "@user_1397e8f7-37",
+      "spam": {
+        "lastMessage": 1775393454077,
+        "count": 1
+      },
+      "xp": 40
     }
   },
-  "savedAt": 1775156966003,
+  "savedAt": 1775393456201,
   "clan": {
     "201481": {
       "name": "fuh",
