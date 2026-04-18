@@ -4947,9 +4947,20 @@
         "count": 1
       },
       "xp": 40
+    },
+    "268191196532758": {
+      "coin": 604000,
+      "uid": "74d6d06-38_b-nebula",
+      "username": "@user_74d6d06-38",
+      "received_total": 599000,
+      "spam": {
+        "lastMessage": 1776533293022,
+        "count": 1
+      },
+      "xp": 40
     }
   },
-  "savedAt": 1775504843909,
+  "savedAt": 1776533294029,
   "clan": {
     "201481": {
       "name": "fuh",
