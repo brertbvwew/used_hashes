@@ -4969,9 +4969,31 @@
         "count": 1
       },
       "xp": 40
+    },
+    "99811164459080": {
+      "coin": 27164,
+      "uid": "397535a8-30_b-nebula",
+      "username": "@user_397535a8-30",
+      "spam": {
+        "lastMessage": 1776599498595,
+        "count": 1
+      },
+      "xp": 740,
+      "lastRob": 1776598545400,
+      "robSuccess": 8,
+      "lastRobBank": 1776598556062,
+      "lastSteal": 1776598567956,
+      "StealSuccess": 2,
+      "lastDecrypt": 1776598598476,
+      "lastHack": 1776598585652,
+      "lastWork": 1776597562895,
+      "workSuccess": 1,
+      "hasSentMsg": {
+        "premium": true
+      }
     }
   },
-  "savedAt": 1776598944225,
+  "savedAt": 1776599499692,
   "clan": {
     "201481": {
       "name": "fuh",
