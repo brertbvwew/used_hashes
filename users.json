@@ -3776,10 +3776,10 @@
       "uid": "38173d59-36_b-nebula",
       "username": "@user_38173d59-36",
       "spam": {
-        "lastMessage": 1773766503274,
+        "lastMessage": 1777801222547,
         "count": 1
       },
-      "xp": 595,
+      "xp": 615,
       "lastTagAllTime": 1773251800761,
       "tagAllCount": 1,
       "lastCode": 1773766436496,
@@ -3813,7 +3813,8 @@
         "daily": 1773420487371
       },
       "banned": false,
-      "permanent": false
+      "permanent": false,
+      "lastLoadAcct": 1777801215354
     },
     "94747515465862": {
       "coin": 10389,
@@ -4943,7 +4944,7 @@
       }
     }
   },
-  "savedAt": 1777546885625,
+  "savedAt": 1777801223522,
   "clan": {
     "201481": {
       "name": "fuh",
