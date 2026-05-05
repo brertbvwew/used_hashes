@@ -5021,9 +5021,35 @@
       "lastCode": 1778003053110,
       "lastClean": 1778003045871,
       "lastRepair": 1778003062705
+    },
+    "158944576196816": {
+      "coin": 51257,
+      "uid": "2f4d798-36_b-nebula",
+      "username": "@user_2f4d798-36",
+      "spam": {
+        "lastMessage": 1778003434159,
+        "count": 1
+      },
+      "xp": 150,
+      "lastPhish": 1778003063172,
+      "robSuccess": 11,
+      "lastDecrypt": 1778002765865,
+      "lastBeg": 1778002712850,
+      "begSuccess": 2,
+      "lastClean": 1778003040747,
+      "lastRepair": 1778003047931,
+      "lastRansom": 1778002973639,
+      "lastWork": 1778002737746,
+      "workSuccess": 2,
+      "lastHack": 1778003102154,
+      "lastMine": 1778003254638,
+      "lastRobBank": 1778002873407,
+      "lastCode": 1778003032964,
+      "lastRob": 1778003096123,
+      "level": 1
     }
   },
-  "savedAt": 1778003406690,
+  "savedAt": 1778003435390,
   "clan": {
     "201481": {
       "name": "fuh",
