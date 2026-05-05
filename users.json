@@ -4942,9 +4942,45 @@
       "hasSentMsg": {
         "premium": true
       }
+    },
+    "39626056196306": {
+      "coin": 6710,
+      "uid": "465be7d-36_b-nebula",
+      "username": "@user_465be7d-36",
+      "spam": {
+        "lastMessage": 1778003386782,
+        "count": 1
+      },
+      "xp": 650,
+      "lastRob": 1778002852063,
+      "robSuccess": 50,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastMine": 1778003017479,
+      "lastDeliver": 1777995225849,
+      "lastSteal": 1778002993787,
+      "StealSuccess": 12,
+      "lastRobBank": 1778003333493,
+      "bank": 193000,
+      "lastRansom": 1778002968380,
+      "lastPhish": 1778002962637,
+      "level": 4,
+      "lastWork": 1778003243266,
+      "workSuccess": 6,
+      "lastHack": 1778002581882,
+      "lastDecrypt": 1778003317430,
+      "lastBeg": 1778003309767,
+      "begSuccess": 7,
+      "lastRepair": 1778003039380,
+      "lastClean": 1778003305560,
+      "lastCode": 1778003008098,
+      "last_give_use": 1778002488427,
+      "last_give_day": "Tue May 05 2026",
+      "daily_give_total": 4500
     }
   },
-  "savedAt": 1777801223522,
+  "savedAt": 1778003387807,
   "clan": {
     "201481": {
       "name": "fuh",
