@@ -1366,10 +1366,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 3815681881563,
+      "coin": 3815682636563,
       "uid": "32d92c53-31_b-nebula",
       "username": "@Sexyglock",
-      "xp": 920,
+      "xp": 20,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1398,7 +1398,7 @@
         }
       ],
       "lastBuyXP": 1770662600429,
-      "level": 785,
+      "level": 786,
       "autolevelup": true,
       "premium": true,
       "premiumUntil": 1776763714315,
@@ -1406,7 +1406,7 @@
       "robbed": 759,
       "lastBuyCoin": 1778270188285,
       "spam": {
-        "lastMessage": 1778270229572,
+        "lastMessage": 1778272085957,
         "count": 1
       },
       "donated_total": 120000000,
@@ -1444,13 +1444,14 @@
       "lastClaim": {
         "monthly": 1770195560526,
         "divine": 1770582538478,
-        "weekly": 1770582560552,
+        "weekly": 1778271920760,
         "quarterly": 1770582608926,
         "biannual": 1770582624002,
         "yearly": 1770582649616,
         "maxLevel200": 1770582666954,
         "legendary": 1770582681766,
-        "immortal": 1770582707676
+        "immortal": 1770582707676,
+        "daily": 1778271912511
       },
       "received_total": 799992000,
       "lastRob": 1771021440524,
@@ -1652,7 +1653,7 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastFig": 1774186140979,
-      "lastSaveData": 1774209831686,
+      "lastSaveData": 1778270231802,
       "last_give_use": 1778264175478,
       "last_give_day": "Fri May 08 2026",
       "daily_give_total": 100000000
@@ -5094,7 +5095,7 @@
       "bank": 181972
     }
   },
-  "savedAt": 1778271741008,
+  "savedAt": 1778272087222,
   "clan": {
     "201481": {
       "name": "fuh",
