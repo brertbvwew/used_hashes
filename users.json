@@ -5122,9 +5122,37 @@
       "lastWork": 1778269006898,
       "workSuccess": 2,
       "lastBuyCoin": 1778271871612
+    },
+    "34596397834264": {
+      "coin": 21260414,
+      "uid": "2d040bb7-34_b-nebula",
+      "username": "@user_2d040bb7-34",
+      "spam": {
+        "lastMessage": 1778278271385,
+        "count": 1
+      },
+      "xp": 730,
+      "lastSteal": 1777992943866,
+      "StealSuccess": 1,
+      "hasSentMsg": {
+        "cooldown": true,
+        "premium": true
+      },
+      "lastHack": 1777993367924,
+      "robSuccess": 5,
+      "lastRob": 1777993362067,
+      "lastBeg": 1778277915349,
+      "begSuccess": 3,
+      "lastWork": 1778277896786,
+      "workSuccess": 2,
+      "lastPhish": 1777993469945,
+      "afk": {
+        "reason": null,
+        "timestamp": 1778007592444
+      }
     }
   },
-  "savedAt": 1778278247935,
+  "savedAt": 1778278272397,
   "clan": {
     "201481": {
       "name": "fuh",
