@@ -5093,9 +5093,22 @@
       },
       "lastCode": 1778106733564,
       "bank": 181972
+    },
+    "271712935497795": {
+      "coin": 150355492,
+      "uid": "208814f8-35_b-nebula",
+      "username": "@user_208814f8-35",
+      "spam": {
+        "lastMessage": 1778272212589,
+        "count": 1
+      },
+      "xp": 240,
+      "lastWork": 1778269006898,
+      "workSuccess": 2,
+      "lastBuyCoin": 1778271871612
     }
   },
-  "savedAt": 1778272087222,
+  "savedAt": 1778272213859,
   "clan": {
     "201481": {
       "name": "fuh",
