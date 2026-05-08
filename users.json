@@ -5071,39 +5071,41 @@
       "level": 1
     },
     "52274650984666": {
-      "coin": 1942,
+      "coin": 151146558,
       "uid": "2b946e0d-36_b-nebula",
-      "username": "@user_2b946e0d-36",
+      "username": "@@Habib1",
       "spam": {
-        "lastMessage": 1778107280878,
+        "lastMessage": 1778276023811,
         "count": 1
       },
-      "xp": 410,
-      "lastSteal": 1777992911370,
-      "StealSuccess": 1,
-      "lastRansom": 1778106752964,
-      "robSuccess": 45,
-      "lastHack": 1778106747776,
-      "lastRobBank": 1778106377424,
-      "lastRob": 1778106389481,
-      "lastWork": 1778106685597,
-      "workSuccess": 8,
-      "lastBeg": 1778107235632,
-      "begSuccess": 9,
-      "lastDecrypt": 1778106709475,
-      "lastPhish": 1778106777003,
+      "xp": 970,
+      "lastSteal": 1778269401226,
+      "StealSuccess": 3,
+      "lastRansom": 1778107451982,
+      "robSuccess": 59,
+      "lastHack": 1778269462936,
+      "lastRobBank": 1778268173751,
+      "lastRob": 1778269383640,
+      "lastWork": 1778268133644,
+      "workSuccess": 10,
+      "lastBeg": 1778268126104,
+      "begSuccess": 11,
+      "lastDecrypt": 1778268155882,
+      "lastPhish": 1778269352674,
       "violations": 1,
-      "lastClean": 1778106693046,
-      "level": 3,
+      "lastClean": 1778268140003,
+      "level": 4,
       "lastMine": 1778106761462,
-      "lastRepair": 1778106723489,
+      "lastRepair": 1778269339765,
       "banned": false,
       "permanent": false,
       "hasSentMsg": {
         "banned": true
       },
-      "lastCode": 1778106733564,
-      "bank": 181972
+      "lastCode": 1778269363013,
+      "bank": 1312472,
+      "lastSaveData": 1778107283129,
+      "lastBuyCoin": 1778275827952
     },
     "271712935497795": {
       "coin": 150355492,
@@ -5119,7 +5121,7 @@
       "lastBuyCoin": 1778271871612
     }
   },
-  "savedAt": 1778274671250,
+  "savedAt": 1778276024863,
   "clan": {
     "201481": {
       "name": "fuh",
