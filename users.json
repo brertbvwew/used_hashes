@@ -5182,9 +5182,20 @@
       "lastDecrypt": 1778497436899,
       "lastTagAllTime": 1778497864509,
       "tagAllCount": 1
+    },
+    "42490765819943": {
+      "coin": 108424,
+      "uid": "1f66b718-33_b-nebula",
+      "username": "@user_1f66b718-33",
+      "spam": {
+        "lastMessage": 1778507077826,
+        "count": 1
+      },
+      "xp": 440,
+      "lastClean": 1778500891068
     }
   },
-  "savedAt": 1778506705246,
+  "savedAt": 1778507078997,
   "clan": {
     "201481": {
       "name": "fuh",
