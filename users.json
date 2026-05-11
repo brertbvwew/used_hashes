@@ -4950,14 +4950,14 @@
       }
     },
     "39626056196306": {
-      "coin": 451700529,
+      "coin": 5219200529,
       "uid": "465be7d-36_b-nebula",
       "username": "@Eldizzywillcrackyou",
       "spam": {
-        "lastMessage": 1778502892907,
+        "lastMessage": 1778504708876,
         "count": 1
       },
-      "xp": 920,
+      "xp": 340,
       "lastRob": 1778483744341,
       "robSuccess": 166,
       "hasSentMsg": {
@@ -4969,10 +4969,10 @@
       "lastSteal": 1778483739571,
       "StealSuccess": 32,
       "lastRobBank": 1778483730907,
-      "bank": 2760620000,
+      "bank": 160620000,
       "lastRansom": 1778483755984,
       "lastPhish": 1778483676464,
-      "level": 19,
+      "level": 20,
       "lastWork": 1778483669824,
       "workSuccess": 32,
       "lastHack": 1778333790801,
@@ -4982,11 +4982,11 @@
       "lastRepair": 1778483749426,
       "lastClean": 1778483694252,
       "lastCode": 1778483701517,
-      "last_give_use": 1778484162592,
+      "last_give_use": 1778503614935,
       "last_give_day": "Mon May 11 2026",
-      "daily_give_total": 200,
-      "lastSaveData": 1778483882992,
-      "lastBuyCoin": 1778480883317
+      "daily_give_total": 20000200,
+      "lastSaveData": 1778502895279,
+      "lastBuyCoin": 1778503437426
     },
     "145737518178423": {
       "coin": 42938746,
@@ -5152,7 +5152,7 @@
       }
     }
   },
-  "savedAt": 1778502893947,
+  "savedAt": 1778504710200,
   "clan": {
     "201481": {
       "name": "fuh",
