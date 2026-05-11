@@ -5071,14 +5071,14 @@
       "level": 1
     },
     "52274650984666": {
-      "coin": 58,
+      "coin": 42782195,
       "uid": "2b946e0d-36_b-nebula",
       "username": "@꧁≽⋆.˚ᴴᴼᴸᵞꕤᕼᗩᗷᗴᒪ⋆.˚≼꧂:",
       "spam": {
-        "lastMessage": 1778506703904,
+        "lastMessage": 1778516834457,
         "count": 1
       },
-      "xp": 650,
+      "xp": 70,
       "lastSteal": 1778269401226,
       "StealSuccess": 3,
       "lastRansom": 1778107451982,
@@ -5094,21 +5094,22 @@
       "lastPhish": 1778269352674,
       "violations": 1,
       "lastClean": 1778268140003,
-      "level": 5,
+      "level": 6,
       "lastMine": 1778106761462,
       "lastRepair": 1778269339765,
       "banned": false,
       "permanent": false,
       "hasSentMsg": {
-        "banned": true
+        "banned": true,
+        "cooldown": true
       },
       "lastCode": 1778269363013,
-      "bank": 466312472,
-      "lastSaveData": 1778278249095,
-      "lastBuyCoin": 1778277412220,
-      "last_give_use": 1778276744173,
-      "last_give_day": "Fri May 08 2026",
-      "daily_give_total": 30000
+      "bank": 667312472,
+      "lastSaveData": 1778506706646,
+      "lastBuyCoin": 1778515405179,
+      "last_give_use": 1778516373514,
+      "last_give_day": "Mon May 11 2026",
+      "daily_give_total": 100
     },
     "271712935497795": {
       "coin": 150355492,
@@ -5195,7 +5196,7 @@
       "lastClean": 1778500891068
     }
   },
-  "savedAt": 1778513469969,
+  "savedAt": 1778516835764,
   "clan": {
     "201481": {
       "name": "fuh",
