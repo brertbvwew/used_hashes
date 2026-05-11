@@ -4950,42 +4950,42 @@
       }
     },
     "39626056196306": {
-      "coin": 1191428494,
+      "coin": 1594199530,
       "uid": "465be7d-36_b-nebula",
       "username": "@Eldizzywillcrackyou",
       "spam": {
-        "lastMessage": 1778481079755,
+        "lastMessage": 1778483880107,
         "count": 1
       },
-      "xp": 970,
-      "lastRob": 1778333767980,
-      "robSuccess": 161,
+      "xp": 550,
+      "lastRob": 1778483744341,
+      "robSuccess": 166,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true
       },
-      "lastMine": 1778333826673,
+      "lastMine": 1778483673477,
       "lastDeliver": 1777995225849,
-      "lastSteal": 1778333756678,
-      "StealSuccess": 31,
-      "lastRobBank": 1778333773699,
-      "bank": 460620000,
-      "lastRansom": 1778273451084,
-      "lastPhish": 1778333761498,
-      "level": 18,
-      "lastWork": 1778480725276,
-      "workSuccess": 31,
+      "lastSteal": 1778483739571,
+      "StealSuccess": 32,
+      "lastRobBank": 1778483730907,
+      "bank": 60620000,
+      "lastRansom": 1778483755984,
+      "lastPhish": 1778483676464,
+      "level": 19,
+      "lastWork": 1778483669824,
+      "workSuccess": 32,
       "lastHack": 1778333790801,
-      "lastDecrypt": 1778273481383,
+      "lastDecrypt": 1778483705696,
       "lastBeg": 1778273427753,
       "begSuccess": 23,
-      "lastRepair": 1778333808685,
-      "lastClean": 1778333815343,
-      "lastCode": 1778333782997,
+      "lastRepair": 1778483749426,
+      "lastClean": 1778483694252,
+      "lastCode": 1778483701517,
       "last_give_use": 1778336450834,
       "last_give_day": "Sat May 09 2026",
       "daily_give_total": 100000200,
-      "lastSaveData": 1778336844736,
+      "lastSaveData": 1778481081781,
       "lastBuyCoin": 1778480883317
     },
     "145737518178423": {
@@ -5152,7 +5152,7 @@
       }
     }
   },
-  "savedAt": 1778481080716,
+  "savedAt": 1778483881165,
   "clan": {
     "201481": {
       "name": "fuh",
