@@ -4989,14 +4989,14 @@
       "lastBuyCoin": 1778480883317
     },
     "145737518178423": {
-      "coin": 6850066,
+      "coin": 10400066,
       "uid": "20a66100-33_b-nebula",
       "username": "@SexyMarzy",
       "spam": {
-        "lastMessage": 1778281121923,
+        "lastMessage": 1778484000136,
         "count": 1
       },
-      "xp": 105,
+      "xp": 345,
       "lastSteal": 1778264507767,
       "StealSuccess": 24,
       "lastHack": 1778106347028,
@@ -5028,13 +5028,13 @@
         "cooldown": true,
         "coin": true
       },
-      "bank": 1272340170,
+      "bank": 1837340170,
       "lastCode": 1778062818830,
       "lastClean": 1778106349627,
       "lastRepair": 1778106368275,
-      "lastSaveData": 1778278616252,
+      "lastSaveData": 1778281124125,
       "permanent": false,
-      "lastBuyCoin": 1778277775875,
+      "lastBuyCoin": 1778483934776,
       "lastClaim": {
         "daily": 1778271996809
       },
@@ -5152,7 +5152,7 @@
       }
     }
   },
-  "savedAt": 1778483881165,
+  "savedAt": 1778484001088,
   "clan": {
     "201481": {
       "name": "fuh",
