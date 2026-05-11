@@ -5150,9 +5150,41 @@
         "reason": null,
         "timestamp": 1778007592444
       }
+    },
+    "250388758454504": {
+      "coin": 58863166,
+      "uid": "38e7a4e3-34_b-nebula",
+      "username": "@user_38e7a4e3-34",
+      "spam": {
+        "lastMessage": 1778505180286,
+        "count": 2
+      },
+      "xp": 365,
+      "lastPhish": 1778480853143,
+      "robSuccess": 9,
+      "lastRepair": 1778497161788,
+      "lastWork": 1778485579065,
+      "workSuccess": 5,
+      "lastClean": 1778270016033,
+      "level": 3,
+      "hasSentMsg": {
+        "owner": true,
+        "cooldown": true
+      },
+      "bank": 441000000,
+      "lastFreelance": 1778313006954,
+      "lastHack": 1778497164695,
+      "lastBuyCoin": 1778503007349,
+      "last_give_use": 1778505178798,
+      "last_give_day": "Mon May 11 2026",
+      "daily_give_total": 101160000,
+      "lastMine": 1778497427098,
+      "lastDecrypt": 1778497436899,
+      "lastTagAllTime": 1778497864509,
+      "tagAllCount": 1
     }
   },
-  "savedAt": 1778504710200,
+  "savedAt": 1778505181641,
   "clan": {
     "201481": {
       "name": "fuh",
