@@ -5212,9 +5212,35 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastBuyPremium": 1780357843918
+    },
+    "58661384786159": {
+      "coin": 22181,
+      "uid": "1bba152b-39_b-nebula",
+      "username": "@user_1bba152b-39",
+      "spam": {
+        "lastMessage": 1781461291269,
+        "count": 1
+      },
+      "xp": 910,
+      "lastRob": 1781366108889,
+      "robSuccess": 8,
+      "lastSpin": 1778086244203,
+      "lastMine": 1778266225592,
+      "robbed": 5,
+      "lastHack": 1781365822666,
+      "lastSteal": 1781356725926,
+      "StealSuccess": 1,
+      "lastWork": 1781366150591,
+      "workSuccess": 2,
+      "hasSentMsg": {
+        "owner": true,
+        "cooldown": true
+      },
+      "lastCode": 1781365836956,
+      "lastRobBank": 1781366143066
     }
   },
-  "savedAt": 1781461273314,
+  "savedAt": 1781461293409,
   "clan": {
     "201481": {
       "name": "fuh",
