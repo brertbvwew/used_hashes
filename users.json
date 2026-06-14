@@ -3372,12 +3372,12 @@
     "188519586758864": {
       "coin": 5000,
       "uid": "2910ff4a-34_b-nebula",
-      "username": "@user_2910ff4a-34",
+      "username": "@zestyglock0regen",
       "spam": {
-        "lastMessage": 1777546884861,
+        "lastMessage": 1781463578888,
         "count": 1
       },
-      "xp": 320,
+      "xp": 380,
       "hasSentMsg": {
         "premium": true
       },
@@ -3385,7 +3385,8 @@
       "premiumUntil": 1778151565317,
       "uplimit": "10MB",
       "limit": 10,
-      "lastBuyPremium": 1777546765317
+      "lastBuyPremium": 1777546765317,
+      "lastLoadAcct": 1781463548680
     },
     "161328232681649": {
       "coin": 3140334737,
@@ -5246,7 +5247,7 @@
       "lastRobBank": 1781366143066
     }
   },
-  "savedAt": 1781462751869,
+  "savedAt": 1781463580099,
   "clan": {
     "201481": {
       "name": "fuh",
