@@ -788,17 +788,17 @@
       "xp": 360
     },
     "93939944173798": {
-      "coin": 2534186,
+      "coin": 2928682,
       "uid": "232d457b-38_b-nebula",
       "username": "@user_232d457b-38",
-      "xp": 655,
-      "robbed": 11,
+      "xp": 865,
+      "robbed": 13,
       "lastMine": 1774190719879,
       "lastHack": 1774190681463,
-      "robSuccess": 24,
+      "robSuccess": 25,
       "lastWork": 1774190602992,
       "workSuccess": 8,
-      "lastRob": 1774190460876,
+      "lastRob": 1781357650141,
       "lastSpin": 1773558033792,
       "lastBeg": 1774190611601,
       "begSuccess": 5,
@@ -810,7 +810,7 @@
       "autolevelup": true,
       "level": 5,
       "lastClaim": {
-        "daily": 1774105024690
+        "daily": 1781462711311
       },
       "invPurchases": 0,
       "lastFreelance": 1774190774621,
@@ -819,11 +819,11 @@
       "lastPhish": 1769357528845,
       "lastRansom": 1774190586445,
       "spam": {
-        "lastMessage": 1774190818559,
+        "lastMessage": 1781462750680,
         "count": 1
       },
       "winGame": 1,
-      "lastLoadAcct": 1773557762243,
+      "lastLoadAcct": 1781356999688,
       "lastSaveData": 1773557899021
     },
     "279800426053766": {
@@ -5246,7 +5246,7 @@
       "lastRobBank": 1781366143066
     }
   },
-  "savedAt": 1781461423757,
+  "savedAt": 1781462751869,
   "clan": {
     "201481": {
       "name": "fuh",
