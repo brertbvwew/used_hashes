@@ -734,10 +734,10 @@
       "received_total": 699993000
     },
     "174891739418636": {
-      "coin": 799321996,
+      "coin": 799521996,
       "uid": "113705af-36_b-nebula",
       "username": "@user_113705af-36",
-      "xp": 400,
+      "xp": 460,
       "lastSpin": 1767815886935,
       "lastSpins": 1767816242728,
       "lastMine": 1771558389813,
@@ -756,7 +756,7 @@
       "workSuccess": 8,
       "level": 7,
       "lastClaim": {
-        "daily": 1771533544432
+        "daily": 1781461291480
       },
       "violations": 8,
       "lastClean": 1767805718452,
@@ -772,9 +772,10 @@
       "invPurchases": 0,
       "donated_total": 401200000,
       "spam": {
-        "lastMessage": 1771558427424,
-        "count": 2
-      }
+        "lastMessage": 1781461386411,
+        "count": 1
+      },
+      "lastLoadAcct": 1781461180475
     },
     "106077605646392": {
       "coin": 5000,
@@ -5245,7 +5246,7 @@
       "lastRobBank": 1781366143066
     }
   },
-  "savedAt": 1781461374549,
+  "savedAt": 1781461387540,
   "clan": {
     "201481": {
       "name": "fuh",
