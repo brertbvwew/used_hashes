@@ -5245,9 +5245,21 @@
       },
       "lastCode": 1781365836956,
       "lastRobBank": 1781366143066
+    },
+    "236979887288486": {
+      "coin": 5000,
+      "uid": "29a5d1d1-36_b-nebula",
+      "username": "@user_29a5d1d1-36",
+      "spam": {
+        "lastMessage": 1781970100993,
+        "count": 1
+      },
+      "xp": 420,
+      "lastTagAllTime": 1781553838567,
+      "tagAllCount": 1
     }
   },
-  "savedAt": 1781463580099,
+  "savedAt": 1781970101997,
   "clan": {
     "201481": {
       "name": "fuh",
