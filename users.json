@@ -1141,57 +1141,57 @@
       "lastSaveData": 1781461274308
     },
     "198449416917151": {
-      "coin": 1941276120,
+      "coin": 2092257546,
       "uid": "364664be-31_b-nebula",
       "username": "@daddy_sonto🍒.",
-      "xp": 945,
+      "xp": 445,
       "lastRansom": 1781360031910,
-      "robSuccess": 206,
+      "robSuccess": 213,
       "received_total": 1934406200,
-      "lastSpin": 1781357591184,
-      "lastMine": 1781366209299,
+      "lastSpin": 1782072966586,
+      "lastMine": 1782074782245,
       "lastRoulette": 1767821716253,
       "lastFlip": 1767824111645,
       "autolevelup": true,
       "lastPhish": 1781360029003,
-      "lastRob": 1781366093913,
-      "lastWork": 1781366213920,
-      "workSuccess": 28,
-      "lastSpins": 1781365701789,
+      "lastRob": 1782074774586,
+      "lastWork": 1782073435707,
+      "workSuccess": 29,
+      "lastSpins": 1781462877855,
       "hasSentMsg": {
         "cooldown": true,
         "owner": true,
         "premium": true
       },
-      "lastRobBank": 1781366135824,
-      "lastHack": 1781360035608,
+      "lastRobBank": 1781462855532,
+      "lastHack": 1782074786752,
       "lastTagAllTime": 1778329816231,
       "tagAllCount": 1,
-      "level": 37,
+      "level": 39,
       "violations": 17,
       "lastFreelance": 1781365838334,
       "lastClaim": {
-        "daily": 1781357531267,
-        "weekly": 1781357550278
+        "daily": 1782072775556,
+        "weekly": 1782072805864
       },
-      "robbed": 27,
+      "robbed": 29,
       "spam": {
-        "lastMessage": 1781461423593,
-        "count": 2
+        "lastMessage": 1782075512802,
+        "count": 1
       },
       "lastBlackjack": 1781360042488,
       "winGame": 5,
       "lastDeliver": 1778330587797,
       "lastCode": 1778329928051,
       "lastClean": 1778329933468,
-      "lastSteal": 1778305293449,
-      "StealSuccess": 8,
-      "lastRepair": 1781366224881,
-      "lastDecrypt": 1778329950594,
+      "lastSteal": 1782073512337,
+      "StealSuccess": 9,
+      "lastRepair": 1782073609523,
+      "lastDecrypt": 1782073431372,
       "lastBeg": 1778329939043,
       "begSuccess": 9,
       "donated_total": 200000,
-      "lastSaveData": 1778267109159,
+      "lastSaveData": 1781461424764,
       "lastLoadAcct": 1777990596434
     },
     "92612597956617": {
@@ -5260,7 +5260,7 @@
       "tagAllCount": 1
     }
   },
-  "savedAt": 1782073225308,
+  "savedAt": 1782075513813,
   "clan": {
     "201481": {
       "name": "fuh",
