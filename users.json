@@ -1104,7 +1104,7 @@
       "coin": 11058010,
       "uid": "2a722a9b-33_b-nebula",
       "username": "@user_2a722a9b-33",
-      "xp": 970,
+      "xp": 90,
       "robbed": 13,
       "received_total": 9999000,
       "hasSentMsg": {
@@ -1114,7 +1114,7 @@
       },
       "lastRob": 1770536703757,
       "robSuccess": 18,
-      "lastSpin": 1770536735312,
+      "lastSpin": 1781461433816,
       "lastSteal": 1769716913314,
       "StealSuccess": 5,
       "lastPhish": 1769714344568,
@@ -1123,12 +1123,12 @@
       "lastRepair": 1769716887984,
       "lastClean": 1767866802279,
       "lastMine": 1769716877786,
-      "level": 3,
+      "level": 4,
       "lastRobBank": 1770536819111,
       "lastDeliver": 1767866830970,
       "lastDecrypt": 1767866849352,
       "spam": {
-        "lastMessage": 1781461271986,
+        "lastMessage": 1782073223936,
         "count": 1
       },
       "lastTagAllTime": 1769705393548,
@@ -1137,7 +1137,8 @@
       "lastClaim": {
         "daily": 1781461260991
       },
-      "lastLoadAcct": 1781461180152
+      "lastLoadAcct": 1781461180152,
+      "lastSaveData": 1781461274308
     },
     "198449416917151": {
       "coin": 1941276120,
@@ -5259,7 +5260,7 @@
       "tagAllCount": 1
     }
   },
-  "savedAt": 1781970101997,
+  "savedAt": 1782073225308,
   "clan": {
     "201481": {
       "name": "fuh",
