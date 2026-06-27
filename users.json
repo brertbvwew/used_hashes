@@ -5264,9 +5264,28 @@
       "xp": 420,
       "lastTagAllTime": 1781553838567,
       "tagAllCount": 1
+    },
+    "83834104213661": {
+      "coin": 43353,
+      "uid": "5004d1c-31_b-nebula",
+      "username": "@user_5004d1c-31",
+      "spam": {
+        "lastMessage": 1782593195793,
+        "count": 1
+      },
+      "xp": 600,
+      "lastRobBank": 1782593106429,
+      "robSuccess": 6,
+      "lastRansom": 1782503818324,
+      "lastMine": 1782503850479,
+      "lastWork": 1782503897668,
+      "workSuccess": 1,
+      "hasSentMsg": {
+        "admin": true
+      }
     }
   },
-  "savedAt": 1782593128426,
+  "savedAt": 1782593196811,
   "clan": {
     "201481": {
       "name": "fuh",
