@@ -5308,18 +5308,18 @@
       }
     },
     "257488272269538": {
-      "coin": 2633728,
+      "coin": 640398,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@user_2ee0d109-38",
       "spam": {
-        "lastMessage": 1782633389207,
+        "lastMessage": 1782645170115,
         "count": 1
       },
-      "xp": 210,
+      "xp": 540,
       "lastSteal": 1782411905462,
       "StealSuccess": 2,
-      "lastRob": 1782544813309,
-      "robSuccess": 7,
+      "lastRob": 1782639563097,
+      "robSuccess": 10,
       "hasSentMsg": {
         "admin": true,
         "premium": true
@@ -5329,20 +5329,22 @@
       "daily_give_total": 3550000,
       "level": 3,
       "robbed": 1,
-      "lastRobBank": 1782414520137,
+      "lastRobBank": 1782639569134,
       "lastRansom": 1782413077035,
-      "lastWork": 1782544751193,
-      "workSuccess": 1,
-      "lastSpin": 1782478256861,
+      "lastWork": 1782639626439,
+      "workSuccess": 2,
+      "lastSpin": 1782645089541,
       "lastClaim": {
         "daily": 1782633308955
       },
       "lastSpins": 1782482350296,
       "autolevelup": true,
-      "lastHack": 1782544816786
+      "lastHack": 1782639618421,
+      "lastSaveData": 1782633391221,
+      "bank": 2000000
     }
   },
-  "savedAt": 1782645154777,
+  "savedAt": 1782645170975,
   "clan": {
     "201481": {
       "name": "fuh",
