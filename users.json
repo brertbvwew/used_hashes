@@ -827,40 +827,45 @@
       "lastSaveData": 1773557899021
     },
     "279800426053766": {
-      "coin": 1011795,
+      "coin": 250073,
       "uid": "2c18d595-36_b-nebula",
       "username": "@user_2c18d595-36",
       "spam": {
-        "lastMessage": 1782593210317,
+        "lastMessage": 1782645153894,
         "count": 1
       },
-      "xp": 795,
-      "lastWork": 1782544676099,
-      "lastRob": 1782546312807,
-      "robSuccess": 14,
-      "lastRobBank": 1782544809738,
+      "xp": 820,
+      "lastWork": 1782644973425,
+      "lastRob": 1782593240227,
+      "robSuccess": 26,
+      "lastRobBank": 1782644998448,
       "robbed": 3,
-      "workSuccess": 3,
+      "workSuccess": 6,
       "hasSentMsg": {
         "cooldown": true,
         "owner": true,
         "premium": true
       },
-      "lastHack": 1782544680894,
-      "level": 1,
-      "lastMine": 1782544677939,
+      "lastHack": 1782644994442,
+      "level": 2,
+      "lastMine": 1782593237737,
       "autolevelup": true,
-      "lastFreelance": 1782502382902,
-      "lastPhish": 1782544687388,
+      "lastFreelance": 1782644986460,
+      "lastPhish": 1782644978336,
       "last_give_use": 1782545386611,
       "last_give_day": "Sat Jun 27 2026",
       "daily_give_total": 200000,
       "lastClaim": {
-        "daily": 1782544723755
+        "daily": 1782645023867
       },
       "lastClean": 1782544936161,
       "lastRansom": 1782544949990,
-      "lastSpin": 1782544965853
+      "lastSpin": 1782645071334,
+      "lastSaveData": 1782593212301,
+      "lastBeg": 1782645005683,
+      "begSuccess": 4,
+      "lastDecrypt": 1782595532599,
+      "bank": 1000000
     },
     "235858498158618": {
       "coin": 804076715,
@@ -5337,7 +5342,7 @@
       "lastHack": 1782544816786
     }
   },
-  "savedAt": 1782633492218,
+  "savedAt": 1782645154777,
   "clan": {
     "201481": {
       "name": "fuh",
