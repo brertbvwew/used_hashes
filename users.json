@@ -5377,9 +5377,19 @@
       },
       "lastWork": 1782824007073,
       "workSuccess": 1
+    },
+    "250714639085737": {
+      "coin": 15000,
+      "uid": "dd127da-37_b-nebula",
+      "username": "@user_dd127da-37",
+      "spam": {
+        "lastMessage": 1782836529377,
+        "count": 1
+      },
+      "xp": 180
     }
   },
-  "savedAt": 1782824125394,
+  "savedAt": 1782836530511,
   "clan": {
     "201481": {
       "name": "fuh",
