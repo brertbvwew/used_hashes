@@ -5362,27 +5362,31 @@
       "bank": 2662397
     },
     "164321690693706": {
-      "coin": 20063,
+      "coin": 3197,
       "uid": "1bd292c1-36_b-nebula",
       "username": "@user_1bd292c1-36",
       "spam": {
-        "lastMessage": 1782824124336,
+        "lastMessage": 1782844719017,
         "count": 1
       },
-      "xp": 970,
-      "lastRob": 1782823941615,
-      "robSuccess": 7,
-      "lastSpin": 1782823615733,
-      "robbed": 2,
+      "xp": 110,
+      "lastRob": 1782844175799,
+      "robSuccess": 11,
+      "lastSpin": 1782837178372,
+      "robbed": 8,
       "violations": 2,
       "lastRobBank": 1782775874493,
-      "lastClean": 1782778781117,
-      "lastMine": 1782823969122,
+      "lastClean": 1782844133725,
+      "lastMine": 1782844115303,
       "hasSentMsg": {
-        "cooldown": true
+        "cooldown": true,
+        "coin": true
       },
-      "lastWork": 1782824007073,
-      "workSuccess": 1
+      "lastWork": 1782844570167,
+      "workSuccess": 5,
+      "lastSaveData": 1782824126564,
+      "level": 2,
+      "bank": 28680
     },
     "250714639085737": {
       "coin": 15000,
@@ -5396,7 +5400,7 @@
       "lastLoadAcct": 1782836599333
     }
   },
-  "savedAt": 1782836862909,
+  "savedAt": 1782844720329,
   "clan": {
     "201481": {
       "name": "fuh",
