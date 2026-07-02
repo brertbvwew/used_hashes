@@ -1121,17 +1121,18 @@
       "lastSpins": 1769357296454
     },
     "39969636786213": {
-      "coin": 61458370,
+      "coin": 61656701,
       "uid": "2a722a9b-33_b-nebula",
       "username": "@user_2a722a9b-33",
-      "xp": 980,
-      "robbed": 14,
+      "xp": 460,
+      "robbed": 15,
       "received_total": 9999000,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true,
         "owner": true,
-        "group": true
+        "group": true,
+        "banned": true
       },
       "lastRob": 1782824010321,
       "robSuccess": 20,
@@ -1144,28 +1145,31 @@
       "lastRepair": 1782380467532,
       "lastClean": 1767866802279,
       "lastMine": 1769716877786,
-      "level": 4,
+      "level": 5,
       "lastRobBank": 1782823988228,
       "lastDeliver": 1767866830970,
       "lastDecrypt": 1767866849352,
       "spam": {
-        "lastMessage": 1782824098505,
+        "lastMessage": 1782991347383,
         "count": 1
       },
-      "lastTagAllTime": 1769705393548,
+      "lastTagAllTime": 1782965884812,
       "tagAllCount": 1,
       "donated_total": 6000,
       "lastClaim": {
-        "daily": 1782593118324
+        "daily": 1782991334287
       },
       "lastLoadAcct": 1781461180152,
-      "lastSaveData": 1782593129452,
+      "lastSaveData": 1782824100890,
       "lastBlackjack": 1782118801062,
       "lastBeg": 1782639779084,
       "begSuccess": 1,
       "last_give_use": 1782640045573,
       "last_give_day": "Sun Jun 28 2026",
-      "daily_give_total": 10000
+      "daily_give_total": 10000,
+      "banned": false,
+      "banUntil": 1782969485054,
+      "permanent": false
     },
     "198449416917151": {
       "coin": 2839805131,
@@ -5403,7 +5407,7 @@
       "lastLoadAcct": 1782836599333
     }
   },
-  "savedAt": 1782964858025,
+  "savedAt": 1782991350207,
   "clan": {
     "201481": {
       "name": "fuh",
