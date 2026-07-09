@@ -5419,9 +5419,31 @@
       },
       "xp": 200,
       "lastLoadAcct": 1782836599333
+    },
+    "272885126008864": {
+      "coin": 150004741,
+      "uid": "1daa8ae5-34_b-nebula",
+      "username": "@user_1daa8ae5-34",
+      "spam": {
+        "lastMessage": 1783582575104,
+        "count": 1
+      },
+      "xp": 470,
+      "lastRob": 1783582267703,
+      "robSuccess": 3,
+      "robbed": 4,
+      "last_give_use": 1783582098876,
+      "last_give_day": "Thu Jul 09 2026",
+      "daily_give_total": 1000,
+      "hasSentMsg": {
+        "coin": true
+      },
+      "lastWork": 1783582352266,
+      "workSuccess": 1,
+      "lastClean": 1783582356725
     }
   },
-  "savedAt": 1783582563771,
+  "savedAt": 1783582576308,
   "clan": {
     "201481": {
       "name": "fuh",
