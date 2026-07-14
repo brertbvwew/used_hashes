@@ -5351,47 +5351,120 @@
       "lastRepair": 1783156262434
     },
     "257488272269538": {
-      "coin": 1182886880,
+      "coin": 3883977585,
       "uid": "2ee0d109-38_b-nebula",
-      "username": "@user_2ee0d109-38",
+      "username": "@Sexy_Boy",
       "spam": {
-        "lastMessage": 1783590606320,
-        "count": 2
+        "lastMessage": 1784019902403,
+        "count": 1
       },
-      "xp": 130,
+      "xp": 3020,
       "lastSteal": 1783575207022,
       "StealSuccess": 3,
-      "lastRob": 1783534595366,
-      "robSuccess": 14,
+      "lastRob": 1784009561064,
+      "robSuccess": 28,
       "hasSentMsg": {
         "admin": true,
         "premium": true,
-        "coin": true
+        "coin": true,
+        "banned": true,
+        "cooldown": true
       },
-      "last_give_use": 1783588490774,
-      "last_give_day": "Thu Jul 09 2026",
-      "daily_give_total": 20010000,
-      "level": 6,
+      "last_give_use": 1783927192221,
+      "last_give_day": "Mon Jul 13 2026",
+      "daily_give_total": 150000000,
+      "level": 80,
       "robbed": 1,
-      "lastRobBank": 1782639569134,
-      "lastRansom": 1783575226449,
-      "lastWork": 1782639626439,
-      "workSuccess": 2,
-      "lastSpin": 1782645089541,
+      "lastRobBank": 1784007907235,
+      "lastRansom": 1784007917273,
+      "lastWork": 1784008941817,
+      "workSuccess": 6,
+      "lastSpin": 1784019886420,
       "lastClaim": {
-        "daily": 1783528169038
+        "daily": 1783943353814,
+        "weekly": 1783947148015,
+        "monthly": 1783968531732
       },
       "lastSpins": 1782482350296,
       "autolevelup": true,
       "lastHack": 1783534606885,
       "lastSaveData": 1782645171972,
       "bank": 0,
-      "lastLoadAcct": 1783413719417,
+      "lastLoadAcct": 1783927180977,
       "lastRepair": 1783575209960,
       "inventory": [
         "dragonpet"
       ],
-      "lastRoulette": 1783588997889
+      "lastRoulette": 1783588997889,
+      "rpgpvplastpvp": 1784008611100,
+      "lastBuyCoin": 1784010356402,
+      "usedCoupons": [
+        {
+          "hash": "dXNlcjo2Njg1ZDRhNDVkZDI2NDNkMWU1Nzg4MWJlZmM2YjdkOToxNzgzOTQ0OTE4OmMzNGY5NGFjOjkwMTBlNDA5MDA0NWMwZmVmYTMyNDRlMTkwMTgxNTJh",
+          "md5": "a24cfe2fc3076ed86cfdfac2e0ea88cf",
+          "time": 1783944961365
+        },
+        {
+          "hash": "dXNlcjpmNTEzYzJiZjFiNTAxZjk1OTVkYzQ2Y2ZkMjhkOTM4NDoxNzgzOTQ1ODc0OmQwNGNmYjljOjNkNTIxZGQ0NjMzMjc5NWNkODFmNDU2NDA2NTQ4ZDAw",
+          "md5": "fa9415f80916a1868d9fe7bf7d68e59d",
+          "time": 1783945901013
+        },
+        {
+          "hash": "dXNlcjoyYWRhYmNjNDhjYWEwZmYxZmM3ZDI3OTc3NTgwNjY3YToxNzgzOTQ3Mjc2OjYzZmEzOGIxOjZiN2JlYjlhMzA2NTVhMDNjYjQ5ZjEyOTJjMDg1ZDFl",
+          "md5": "5fb7f6de80465e2b572552a0979f3229",
+          "time": 1783947439782
+        },
+        {
+          "hash": "dXNlcjplM2RhZDFjMDg4YWYxM2ExOGNhMGI2MzQxMDFjMTZhOToxNzgzOTYxMTYwOmJiYWZiNGY1OjE0YzMzMTU0NzkyNDRkZWNmY2Y4YTk2MzFkYWZhNWEw",
+          "md5": "cd0984ac5d63185061d4ccdccc97272a",
+          "time": 1783961257547
+        },
+        {
+          "hash": "dXNlcjoyYjlhN2M1M2JhNWI3ZWVlNGMxYzg1MTRkZDViMTViMDoxNzgzOTY2MTM4OjUxNjA4ZDljOjg4NTUxYmIxOGM2NTU1NTZmZWQzMDk1YmU1YTUzZjM5",
+          "md5": "b6db8478e3cf02dad2af3c6468faebba",
+          "time": 1783966172768
+        },
+        {
+          "hash": "dXNlcjplNmFhMWIxNjdlZjExZmJkZGEwMzM5NTQyNTBlMjYxZDoxNzgzOTY3NDk4OjE2ZDVkNjNjOjIyNDc0MjVmMjUzM2E2ZjU0YmQ4YTVmZDI5Mjk2Y2E5",
+          "md5": "fa4df17fbf2f65611885c7821342dc6f",
+          "time": 1783967543787
+        },
+        {
+          "hash": "dXNlcjo1NTlmNTc5YjQ5ZDY0OGRiN2Y4ZTY1YjY1MzVjNjRkZjoxNzgzOTY4MTQ0OjUxOGMzZDFmOmVlNDRjM2IyODE1ZmZhNWY1YjA3ZDg2NmQ2MDVkMDM4",
+          "md5": "5ddb34593982de9f78d1848603d067f4",
+          "time": 1783968171109
+        },
+        {
+          "hash": "dXNlcjoxNDdlMWQ4MjYwZDg2YzZkODYzNTY1ZmVjYjIwM2I3YToxNzg0MDA3Nzc3OjVhNzY0ZTRjOmVkZDRiOWNjNTE5YmMyNjVlNjM4N2NhMTJmYTdhMWI2",
+          "md5": "e8d201a30e6790084a89d6be85071df1",
+          "time": 1784007808688
+        },
+        {
+          "hash": "dXNlcjpjMzIwNDNlYjAwYzAzNDIzMTBmYzRjMDI0NmNiMDU1MDoxNzg0MDA5MTYxOjQ1ODVhMTkwOjE2Y2UzYWVjNGQ3MGJmZmIxZmVlMDY2NzBmNGU0ZjEz",
+          "md5": "16b9fc1aec134df7c9cfe38b974d31d1",
+          "time": 1784009202237
+        },
+        {
+          "hash": "dXNlcjozZTM5MDM5MmM3YTkwZTE4M2I0MDJmNTA4NjE2ZTc3YjoxNzg0MDExMTIwOjY2Y2M2ZDIyOmE1NTcyMWE0MTc3NTY0MTFjNjZmYmUxYTE3ZGE1YzM5",
+          "md5": "f4583f2782b0bd02e3d8c1ede119f8e1",
+          "time": 1784011142928
+        },
+        {
+          "hash": "dXNlcjpmOTA5ZTU4YzhlNDAzZTVlMzg2NmZmODZiYjNiM2Y4YToxNzg0MDE5NTE3OjMzYmEyMTI0OmE3NGNhMTUxYzgzY2UxZjJkZGNjYjFkMDlmZjllZjkx",
+          "md5": "38cbcee2fb7f8ce6f2d6d8b9da3f9fbe",
+          "time": 1784019553463
+        }
+      ],
+      "lastBuyXP": 1784019553463,
+      "banned": false,
+      "permanent": false,
+      "lastPhish": 1783967424148,
+      "lastBeg": 1783965826244,
+      "begSuccess": 1,
+      "lastBuyUnban": 1783969428592,
+      "rpginventory": {},
+      "rpghealth": 45,
+      "lastDecrypt": 1784007922800
     },
     "164321690693706": {
       "coin": 3197,
@@ -5537,7 +5610,7 @@
       "lastFreelance": 1783945024770
     }
   },
-  "savedAt": 1784019829351,
+  "savedAt": 1784019914998,
   "clan": {
     "201481": {
       "name": "fuh",
