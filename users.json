@@ -1426,10 +1426,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 3815682636563,
+      "coin": 4984397049240,
       "uid": "32d92c53-31_b-nebula",
       "username": "@Sexyglock",
-      "xp": 20,
+      "xp": 100,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1439,7 +1439,7 @@
       },
       "lastTagAllTime": 1774258144612,
       "tagAllCount": 1,
-      "lastOwnerReport": 1774205588425,
+      "lastOwnerReport": 1783979763378,
       "usedCoupons": [
         {
           "hash": "am5yQVg5aHA6MDdhMzFiMjIwOWMxZDcwZjFkN2VmOGNlMGIxY2EzNWU6MTc2ODkzNjQzODQyNDpqZktGdUUxYTo5OTk0ZjkwMDAxNjEyZDI3ZWZhZDM3M2FlZDRjZGYxMw==",
@@ -1458,16 +1458,16 @@
         }
       ],
       "lastBuyXP": 1770662600429,
-      "level": 786,
+      "level": 799,
       "autolevelup": true,
       "premium": true,
-      "premiumUntil": 1776763714315,
-      "lastBuyPremium": 1774171714315,
-      "robbed": 759,
-      "lastBuyCoin": 1778270188285,
+      "premiumUntil": 1783001958089,
+      "lastBuyPremium": 1782991158089,
+      "robbed": 866,
+      "lastBuyCoin": 1783944383018,
       "spam": {
-        "lastMessage": 1778272085957,
-        "count": 1
+        "lastMessage": 1784104973965,
+        "count": 3
       },
       "donated_total": 120000000,
       "winGame": 768,
@@ -1475,7 +1475,7 @@
       "lastWork": 1774208051871,
       "workSuccess": 5,
       "lastHack": 1774208057592,
-      "robSuccess": 759,
+      "robSuccess": 760,
       "lastBeg": 1770662942888,
       "begSuccess": 3,
       "lastDeliver": 1770663180005,
@@ -1488,56 +1488,83 @@
       "rpgGather": 752,
       "rpgtrades": 750,
       "rpgcrafted": 750,
-      "rpgmonsterfight": 751,
+      "rpgmonsterfight": 753,
       "yugiohviewcard": 750,
       "onepiceviewcard": 750,
       "dragonballviewcard": 750,
       "pokemonviewcard": 750,
       "vipgameviewcard": 750,
-      "weedcooked": 750,
-      "weedgather": 753,
-      "weedsell": 750,
+      "weedcooked": 752,
+      "weedgather": 765,
+      "weedsell": 751,
       "weedtrades": 750,
       "lastAddInv": 1770557297863,
       "lastBulkInv": 1770557297863,
       "lastPhish": 1770662897848,
       "lastClaim": {
-        "monthly": 1770195560526,
-        "divine": 1770582538478,
-        "weekly": 1778271920760,
-        "quarterly": 1770582608926,
-        "biannual": 1770582624002,
-        "yearly": 1770582649616,
-        "maxLevel200": 1770582666954,
-        "legendary": 1770582681766,
-        "immortal": 1770582707676,
-        "daily": 1778271912511
+        "monthly": 1782467328436,
+        "divine": 1782467474051,
+        "weekly": 1783942807095,
+        "quarterly": 1782467376658,
+        "biannual": 1782467394603,
+        "yearly": 1782467400861,
+        "maxLevel200": 1782467439578,
+        "legendary": 1782467453857,
+        "immortal": 1782467486565,
+        "daily": 1783942802754,
+        "mythical": 1782467458824,
+        "ultimate": 1782467499211
       },
       "received_total": 799992000,
-      "lastRob": 1771021440524,
-      "lastSpins": 1770663243451,
+      "lastRob": 1783944718807,
+      "lastSpins": 1783944105504,
       "weedinventory": {
-        "Weed Leaf": 10,
-        "Rolling Paper": 8,
-        "Grinder Part": 5,
-        "Lighter": 4,
-        "Seed": 1,
-        "Perlite": 5,
-        "Sativa Nug": 6,
-        "Edible": 2,
-        "THC Crystal": 3,
-        "Rare Blue Strain": 5,
-        "Paper Crutch": 3,
-        "Metal Lid": 2,
-        "Water Pipe": 4,
-        "Compost": 5,
+        "Weed Leaf": 22,
+        "Rolling Paper": 25,
+        "Grinder Part": 22,
+        "Lighter": 11,
+        "Seed": 18,
+        "Perlite": 18,
+        "Sativa Nug": 21,
+        "Edible": 10,
+        "THC Crystal": 7,
+        "Rare Blue Strain": 7,
+        "Paper Crutch": 13,
+        "Metal Lid": 13,
+        "Water Pipe": 11,
+        "Compost": 0,
         "Moon Rock": 1,
-        "Hydro Pot": 1,
-        "Ash": 5,
-        "Resin Chunk": 5
+        "Ash": 13,
+        "Resin Chunk": 9,
+        "Bud": 13,
+        "Grinder": 7,
+        "Indica Bud": 5,
+        "Vape Cartridge": 7,
+        "Hash Brick": 6,
+        "Hemp Fiber": 1,
+        "Golden Grinder": 1,
+        "Magic Zipper": 1,
+        "Hybrid Nug": 4,
+        "420 Pineapple": 3,
+        "Rolling Tray": 6,
+        "THC Oil": 7,
+        "Purple Haze": 1,
+        "Worm Castings": 6,
+        "Dab Tool": 11,
+        "Organic Soil Mix": 0,
+        "Pre-Roll": 7,
+        "Plastic Shard": 6,
+        "Mystic Pipe": 2,
+        "Kief Dust": 2,
+        "Infused Blunt": 2,
+        "Buzz Crystal": 2,
+        "Canvas Sheet": 1,
+        "Stash Jar": 2,
+        "Dank Dragonfruit": 1,
+        "Chillum": 1
       },
-      "weedlastGather": 1770888988125,
-      "lastBuyUnban": 1770837348518,
+      "weedlastGather": 1784065192483,
+      "lastBuyUnban": 1782986781217,
       "spacedrones": [
         {
           "level": 5
@@ -1591,28 +1618,28 @@
           "level": 5
         },
         {
-          "level": 3
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
         }
       ],
       "spacemine": {
@@ -1646,7 +1673,7 @@
       },
       "banned": false,
       "permanent": false,
-      "spacestationlastPassiveIncome": 1771144052579,
+      "spacestationlastPassiveIncome": 1784104200046,
       "rpginventory": {
         "Carrot": 5,
         "Berries": 1,
@@ -1662,29 +1689,29 @@
       },
       "rpglastGather": 1770888986385,
       "spaceinventory": {
-        "Scrap Metal": 2,
-        "Iron Ore": 1,
-        "Damaged Circuit": 2,
-        "Silicon Ore": 3,
-        "Copper Ore": 2,
-        "Copper Wire": 1,
-        "Biometric Data Pad": 1,
-        "Crystal Shard": 1,
-        "Quantum Chip": 1,
-        "Titanium Ore": 1,
-        "Advanced Sensor Array": 1,
-        "Quantum Processor": 1,
-        "Energy Cell": 1,
-        "Plasma Coils": 1
+        "Scrap Metal": 17,
+        "Iron Ore": 8,
+        "Damaged Circuit": 5,
+        "Silicon Ore": 7,
+        "Copper Ore": 7,
+        "Copper Wire": 4,
+        "Biometric Data Pad": 4,
+        "Crystal Shard": 4,
+        "Quantum Chip": 4,
+        "Titanium Ore": 4,
+        "Advanced Sensor Array": 4,
+        "Quantum Processor": 4,
+        "Energy Cell": 4,
+        "Plasma Coils": 4,
+        "Neutronium Fragment": 1
       },
-      "spacelastSalvage": 1770882794383,
-      "spacesalvage": 1,
-      "rpgmonsterHealth": 173,
-      "rpglastFight": 1770888990592,
-      "rpghealth": 100,
+      "spacelastSalvage": 1783944604414,
+      "spacesalvage": 4,
+      "rpgmonsterHealth": 80,
+      "rpglastFight": 1783943746659,
+      "rpghealth": 41,
       "clublastRobTime": 1771183578916,
-      "lastLoadAcct": 1778263943462,
-      "clanId": "b69826",
+      "lastLoadAcct": 1778515356886,
       "gear": {
         "equipped": {
           "weapon": null,
@@ -1714,9 +1741,35 @@
       "limit": 10,
       "lastFig": 1774186140979,
       "lastSaveData": 1778270231802,
-      "last_give_use": 1778264175478,
-      "last_give_day": "Fri May 08 2026",
-      "daily_give_total": 100000000
+      "last_give_use": 1783944441646,
+      "last_give_day": "Mon Jul 13 2026",
+      "daily_give_total": 150000000,
+      "pokLastCard": {
+        "id": "sve-13",
+        "name": "Basic Psychic Energy",
+        "rarity": "Common",
+        "imageUrl": "https://images.pokemontcg.io/sve/13_hires.png"
+      },
+      "pokviewcard": 1,
+      "rpgpvplastpvp": 1783979925001,
+      "plots": 5,
+      "weedfarm": {
+        "usedPlots": [
+          {
+            "plantedAt": 1783300063539,
+            "readyIn": 3600000,
+            "emoji": "🌱"
+          },
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "boughtplots": 5,
+      "weedplanted": 1,
+      "lastPassiveIncome": 1784011712968,
+      "clanId": "b69826"
     },
     "27618605148": {
       "coin": 5000,
@@ -5632,7 +5685,7 @@
       "lastFreelance": 1783945024770
     }
   },
-  "savedAt": 1784104967386,
+  "savedAt": 1784104974841,
   "clan": {
     "201481": {
       "name": "fuh",
