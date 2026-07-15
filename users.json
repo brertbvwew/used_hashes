@@ -5721,9 +5721,35 @@
       "begSuccess": 4,
       "bank": 13711981,
       "lastFreelance": 1783945024770
+    },
+    "219529317744883": {
+      "coin": 451495719,
+      "uid": "118dd264-33_b-nebula",
+      "username": "@user_118dd264-33",
+      "spam": {
+        "lastMessage": 1784154654404,
+        "count": 1
+      },
+      "xp": 570,
+      "robbed": 15,
+      "lastRob": 1783818246504,
+      "robSuccess": 13,
+      "level": 4,
+      "lastWork": 1783812243278,
+      "workSuccess": 4,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "last_give_use": 1783431819758,
+      "last_give_day": "Tue Jul 07 2026",
+      "daily_give_total": 1000000,
+      "lastClaim": {
+        "daily": 1784144131695
+      },
+      "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784154610321,
+  "savedAt": 1784154655487,
   "clan": {
     "201481": {
       "name": "fuh",
