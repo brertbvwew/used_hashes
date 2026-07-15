@@ -1426,10 +1426,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 4984397049240,
+      "coin": 4981883767965,
       "uid": "32d92c53-31_b-nebula",
       "username": "@Sexyglock",
-      "xp": 100,
+      "xp": 760,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1463,19 +1463,19 @@
       "premium": true,
       "premiumUntil": 1783001958089,
       "lastBuyPremium": 1782991158089,
-      "robbed": 866,
+      "robbed": 876,
       "lastBuyCoin": 1783944383018,
       "spam": {
-        "lastMessage": 1784104973965,
-        "count": 3
+        "lastMessage": 1784141135906,
+        "count": 1
       },
       "donated_total": 120000000,
-      "winGame": 768,
+      "winGame": 770,
       "lastClean": 1770663269641,
       "lastWork": 1774208051871,
       "workSuccess": 5,
       "lastHack": 1774208057592,
-      "robSuccess": 760,
+      "robSuccess": 762,
       "lastBeg": 1770662942888,
       "begSuccess": 3,
       "lastDeliver": 1770663180005,
@@ -1516,7 +1516,7 @@
         "ultimate": 1782467499211
       },
       "received_total": 799992000,
-      "lastRob": 1783944718807,
+      "lastRob": 1784140977661,
       "lastSpins": 1783944105504,
       "weedinventory": {
         "Weed Leaf": 22,
@@ -1673,7 +1673,7 @@
       },
       "banned": false,
       "permanent": false,
-      "spacestationlastPassiveIncome": 1784104200046,
+      "spacestationlastPassiveIncome": 1784141075477,
       "rpginventory": {
         "Carrot": 5,
         "Berries": 1,
@@ -1710,7 +1710,7 @@
       "rpgmonsterHealth": 80,
       "rpglastFight": 1783943746659,
       "rpghealth": 41,
-      "clublastRobTime": 1771183578916,
+      "clublastRobTime": 1784141030828,
       "lastLoadAcct": 1778515356886,
       "gear": {
         "equipped": {
@@ -1740,9 +1740,9 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastFig": 1774186140979,
-      "lastSaveData": 1778270231802,
-      "last_give_use": 1783944441646,
-      "last_give_day": "Mon Jul 13 2026",
+      "lastSaveData": 1784104975882,
+      "last_give_use": 1784105160843,
+      "last_give_day": "Wed Jul 15 2026",
       "daily_give_total": 150000000,
       "pokLastCard": {
         "id": "sve-13",
@@ -1769,7 +1769,24 @@
       "boughtplots": 5,
       "weedplanted": 1,
       "lastPassiveIncome": 1784011712968,
-      "clanId": "b69826"
+      "clanId": "b69826",
+      "club": {
+        "level": 4,
+        "upgrades": {
+          "music": 5,
+          "djs": 0,
+          "security": 5,
+          "bikegang": 0,
+          "carfleet": 0,
+          "heli": 0,
+          "armory": 0,
+          "safehouse": 0,
+          "militia": 0,
+          "elite": 1
+        },
+        "lastRentCollected": 1784105814658,
+        "upgradesBoughtSinceLevel": 2
+      }
     },
     "27618605148": {
       "coin": 5000,
@@ -5706,7 +5723,7 @@
       "lastFreelance": 1783945024770
     }
   },
-  "savedAt": 1784128259992,
+  "savedAt": 1784141136818,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5834,7 +5851,7 @@
       "createdAt": 1771224029611,
       "lastIncome": 1784104572614,
       "lastBattle": 0,
-      "lastMission": 1784104877422,
+      "lastMission": 1784141098833,
       "lastAmbush": 0,
       "lastCollect": 1784104572614,
       "lastChallenge": 1784054367815,
@@ -5861,7 +5878,7 @@
         "intel": 80
       },
       "renown": 2200,
-      "xp": 243143,
+      "xp": 243303,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -5878,8 +5895,9 @@
       "maxMembers": 15,
       "questProgress": {
         "event_1": 1,
-        "mission_2": 21,
-        "scavenge_3": 3
+        "mission_2": 23,
+        "scavenge_3": 3,
+        "deposit_5m": 500000000000
       },
       "lastQuestReset": 1784054278880,
       "consumables": {},
@@ -5894,11 +5912,11 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1989,
+        "missionCount": 1991,
         "battleWins": 0,
         "eventWins": 7,
         "territoryClaims": 8,
-        "totalDeposited": 136215823060172750000,
+        "totalDeposited": 136459891493224370000,
         "territoryCount": 5,
         "mercenaryHired": 2
       },
@@ -5921,10 +5939,10 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 12171092688196940000,
-      "glory": 1066842,
-      "essence": 1861719,
-      "salvage": 359913
+      "coin": 12456114482461127000,
+      "glory": 1080642,
+      "essence": 1891299,
+      "salvage": 363096
     },
     "19e199": {
       "name": "زنجي",
