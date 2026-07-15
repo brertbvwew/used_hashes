@@ -1778,18 +1778,18 @@
       "received_total": 9999000
     },
     "249216148455505": {
-      "coin": 0,
+      "coin": 232446126715819260,
       "uid": "6f4c608-35_b-nebula",
       "username": "@🌹🍃♤♧𝓜𝓸𝓶𝓶𝔂♧♤🍃🌹",
       "spam": {
-        "lastMessage": 1775043433348,
-        "count": 1
+        "lastMessage": 1784104966661,
+        "count": 3
       },
-      "xp": 8860,
+      "xp": 860,
       "lastBuyCoin": 1769979627788,
       "invPurchases": 3,
       "winGame": 1230,
-      "level": 1321,
+      "level": 1335,
       "robSuccess": 751,
       "robbed": 752,
       "rpgwin": 750,
@@ -1814,8 +1814,8 @@
         "admin": true,
         "owner": true
       },
-      "premium": true,
-      "premiumUntil": 1775857778874,
+      "premium": false,
+      "premiumUntil": 0,
       "lastBuyPremium": 1773936768091,
       "vipgameLastCard": {
         "id": 82,
@@ -2574,11 +2574,11 @@
           "militia": 15,
           "elite": 15
         },
-        "lastRentCollected": 1773348418971,
+        "lastRentCollected": 1784104291115,
         "upgradesBoughtSinceLevel": 2
       },
-      "uplimit": "10MB",
-      "limit": 10,
+      "uplimit": "5MB",
+      "limit": 5,
       "give_limit_until": 1774541568091,
       "download_limit_until": 1773937000138,
       "cardopInventory": [
@@ -2710,7 +2710,7 @@
             "level": 1,
             "rarity": "ᴍʏᴛʜɪᴄᴀʟ",
             "element": "ᴅᴀʀᴋ",
-            "powerScore": 1151132307,
+            "powerScore": 44253392946,
             "skills": [
               {
                 "name": "ᴠᴏɪᴅ ʙʟᴀꜱᴛ",
@@ -2731,22 +2731,40 @@
                 "chance": 0.3
               }
             ],
-            "energy": 95,
+            "energy": 75,
             "maxEnergy": 100
           },
           {
-            "id": "4gzyqvl",
-            "name": "ᴀʀᴄʜᴀɴɢᴇʟ #7",
+            "id": "ttwnzgv",
+            "name": "ʙᴀʙʏ ᴘᴇᴛ",
             "level": 1,
-            "rarity": "ᴍʏᴛʜɪᴄᴀʟ",
-            "element": "ᴡᴀᴛᴇʀ",
-            "powerScore": 903150,
+            "rarity": "ᴅɪᴠɪɴᴇ",
+            "element": "ʟɪɢʜᴛ",
+            "powerScore": 443584947519,
             "skills": [
               {
-                "name": "ɢɪɢᴀ ʜᴇᴀʟ",
-                "type": "heal",
-                "value": 0.3,
-                "chance": 0.1
+                "name": "ᴠᴏɪᴅ ʙʟᴀꜱᴛ",
+                "type": "damage",
+                "value": 2,
+                "chance": 0.2
+              }
+            ],
+            "energy": 80,
+            "maxEnergy": 100
+          },
+          {
+            "id": "l6wb96v",
+            "name": "ʙᴀʙʏ ᴘᴇᴛ",
+            "level": 1,
+            "rarity": "ᴅɪᴠɪɴᴇ",
+            "element": "ʟɪɢʜᴛ",
+            "powerScore": 31154388632,
+            "skills": [
+              {
+                "name": "ᴠᴏɪᴅ ʙʟᴀꜱᴛ",
+                "type": "damage",
+                "value": 2,
+                "chance": 0.2
               }
             ],
             "energy": 100,
@@ -2766,48 +2784,51 @@
           {
             "id": "golden_collar",
             "name": "ɢᴏʟᴅᴇɴ ᴄᴏʟʟᴀʀ",
-            "durability": 84,
+            "durability": 80,
             "maxDurability": 100
           },
           {
             "id": "void_amulet",
             "name": "ᴠᴏɪᴅ ᴀᴍᴜʟᴇᴛ",
-            "durability": 84,
+            "durability": 80,
             "maxDurability": 100
           },
           {
             "id": "void_charm",
             "name": "ᴠᴏɪᴅ ᴄʜᴀʀᴍ",
-            "durability": 84,
+            "durability": 80,
             "maxDurability": 100
           },
           {
             "id": "lucky_charm",
             "name": "ʟᴜᴄᴋʏ ᴄʜᴀʀᴍ",
-            "durability": 84,
+            "durability": 80,
             "maxDurability": 100
           },
           {
             "id": "celestial_wings",
             "name": "ᴄᴇʟᴇꜱᴛɪᴀʟ ᴡɪɴɢꜱ",
-            "durability": 84,
+            "durability": 80,
             "maxDurability": 100
           },
           {
             "id": "diamond_essence",
             "name": "ᴅɪᴀᴍᴏɴᴅ ᴇꜱꜱᴇɴᴄᴇ",
-            "durability": 84,
+            "durability": 80,
             "maxDurability": 100
           }
         ]
       },
       "lastPetFight": 1773486843849,
-      "lastLoadAcct": 1775041931484,
+      "lastLoadAcct": 1783974584239,
       "lastSaveData": 1774080896851,
       "lastBlackjack": 1773524118359,
       "rpgmonsterHealth": 356,
       "tasksCompleted": 1,
-      "lastTaskTimestamp": 1773672704238
+      "lastTaskTimestamp": 1773672704238,
+      "last_give_use": 1784102761752,
+      "last_give_day": "Wed Jul 15 2026",
+      "daily_give_total": 150000000
     },
     "168419274039524": {
       "coin": 999499996929,
@@ -5611,7 +5632,7 @@
       "lastFreelance": 1783945024770
     }
   },
-  "savedAt": 1784094760412,
+  "savedAt": 1784104967386,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5734,20 +5755,18 @@
       "leader": "249216148455505",
       "members": [
         "249216148455505",
-        "106077605646392",
-        "72791692963890",
-        "20238422818838"
+        "63046378635471"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 1774380521958,
+      "lastIncome": 1784104572614,
       "lastBattle": 0,
-      "lastMission": 1774283841096,
+      "lastMission": 1784104877422,
       "lastAmbush": 0,
-      "lastCollect": 1774380521958,
-      "lastChallenge": 1773674175610,
-      "lastScavenge": 1774283279985,
+      "lastCollect": 1784104572614,
+      "lastChallenge": 1784054367815,
+      "lastScavenge": 1784104925992,
       "lastResearch": 1773605996402,
-      "lastTrain": 1773521467720,
+      "lastTrain": 1784054303792,
       "upgrades": {
         "defense": 20,
         "attack": 15,
@@ -5767,29 +5786,28 @@
         "medic": 100,
         "intel": 80
       },
-      "renown": 2150,
-      "xp": 239739,
+      "renown": 2200,
+      "xp": 243143,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
         "warlord": null,
-        "spy": "106077605646392",
+        "spy": null,
         "scout": null,
         "quartermaster": null
       },
       "research": {
-        "project": null,
-        "eta": 0,
-        "projectType": null
+        "project": "member_capacity",
+        "eta": 1784306286085,
+        "projectType": "member_capacity"
       },
       "maxMembers": 15,
       "questProgress": {
-        "scavenge_3": 985,
-        "mission_2": 405,
         "event_1": 1,
-        "deposit_5m": 500000000000
+        "mission_2": 21,
+        "scavenge_3": 3
       },
-      "lastQuestReset": 1773526502240,
+      "lastQuestReset": 1784054278880,
       "consumables": {},
       "activeConsumable": {},
       "achievements": [
@@ -5802,12 +5820,12 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1954,
+        "missionCount": 1989,
         "battleWins": 0,
-        "eventWins": 6,
-        "territoryClaims": 3,
+        "eventWins": 7,
+        "territoryClaims": 8,
         "totalDeposited": 136215823060172750000,
-        "territoryCount": 8,
+        "territoryCount": 5,
         "mercenaryHired": 2
       },
       "welcomeMessage": "🌹Dangerous with good looks🌹",
@@ -5829,10 +5847,10 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 11680649662925590000,
-      "glory": 899441,
-      "essence": 1492884,
-      "salvage": 310859
+      "coin": 12171092688196940000,
+      "glory": 1066842,
+      "essence": 1861719,
+      "salvage": 359913
     },
     "19e199": {
       "name": "زنجي",
