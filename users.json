@@ -788,47 +788,51 @@
       "xp": 360
     },
     "93939944173798": {
-      "coin": 1052143941,
+      "coin": 1200848908,
       "uid": "232d457b-38_b-nebula",
-      "username": "@user_232d457b-38",
-      "xp": 345,
-      "robbed": 13,
-      "lastMine": 1784010370226,
-      "lastHack": 1774190681463,
-      "robSuccess": 27,
-      "lastWork": 1784007257578,
-      "workSuccess": 9,
-      "lastRob": 1784010381198,
-      "lastSpin": 1773558033792,
-      "lastBeg": 1774190611601,
-      "begSuccess": 5,
-      "lastRobBank": 1784010361555,
+      "username": "@ratilicious💋✨",
+      "xp": 530,
+      "robbed": 17,
+      "lastMine": 1784206170017,
+      "lastHack": 1784206208677,
+      "robSuccess": 44,
+      "lastWork": 1784206300667,
+      "workSuccess": 10,
+      "lastRob": 1784127765073,
+      "lastSpin": 1784206200939,
+      "lastBeg": 1784206233758,
+      "begSuccess": 7,
+      "lastRobBank": 1784206187718,
       "hasSentMsg": {
         "cooldown": true
       },
-      "lastDeliver": 1784007251788,
+      "lastDeliver": 1784206328151,
       "autolevelup": true,
-      "level": 7,
+      "level": 12,
       "lastClaim": {
-        "daily": 1784006993589
+        "daily": 1784229702020
       },
       "invPurchases": 0,
-      "lastFreelance": 1774190774621,
+      "lastFreelance": 1784206196211,
       "lastCode": 1767806157264,
-      "lastClean": 1769357409689,
-      "lastPhish": 1769357528845,
-      "lastRansom": 1774190586445,
+      "lastClean": 1784206219746,
+      "lastPhish": 1784206284820,
+      "lastRansom": 1784229721298,
       "spam": {
-        "lastMessage": 1784019643346,
+        "lastMessage": 1784229730371,
         "count": 1
       },
-      "winGame": 2,
+      "winGame": 8,
       "lastLoadAcct": 1783948766857,
-      "lastSaveData": 1773557899021,
-      "violations": 1,
-      "last_give_use": 1784016504663,
-      "last_give_day": "Tue Jul 14 2026",
-      "daily_give_total": 1010000
+      "lastSaveData": 1784019645322,
+      "violations": 6,
+      "last_give_use": 1784139586755,
+      "last_give_day": "Wed Jul 15 2026",
+      "daily_give_total": 2000000,
+      "lastDecrypt": 1784206180062,
+      "lastSteal": 1784029033624,
+      "StealSuccess": 1,
+      "lastRepair": 1784206272985
     },
     "279800426053766": {
       "coin": 250073,
@@ -5776,7 +5780,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784221726782,
+  "savedAt": 1784229731343,
   "clan": {
     "201481": {
       "name": "fuh",
