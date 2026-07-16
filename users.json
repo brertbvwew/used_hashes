@@ -5443,14 +5443,14 @@
       "lastRepair": 1783156262434
     },
     "257488272269538": {
-      "coin": 2072046364,
+      "coin": 7352946364,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@𝔓𝔩𝔞𝔶𝔟𝔬𝔦_𝔠𝔞𝔯𝔱𝔦𓅃",
       "spam": {
-        "lastMessage": 1784185254447,
+        "lastMessage": 1784195679233,
         "count": 1
       },
-      "xp": 940,
+      "xp": 340,
       "lastSteal": 1783575207022,
       "StealSuccess": 3,
       "lastRob": 1784054594072,
@@ -5465,7 +5465,7 @@
       "last_give_use": 1783927192221,
       "last_give_day": "Mon Jul 13 2026",
       "daily_give_total": 150000000,
-      "level": 111,
+      "level": 125,
       "robbed": 3,
       "lastRobBank": 1784007907235,
       "lastRansom": 1784061531607,
@@ -5481,7 +5481,7 @@
       "lastSpins": 1782482350296,
       "autolevelup": true,
       "lastHack": 1784061459994,
-      "lastSaveData": 1784105625624,
+      "lastSaveData": 1784185256286,
       "bank": 0,
       "lastLoadAcct": 1783927180977,
       "lastRepair": 1783575209960,
@@ -5566,9 +5566,19 @@
           "hash": "dXNlcjpjMWQ3MDJiNTc2YmRiZDg0ZWUyOGNmNmU4MGM1Yzg3YzoxNzg0MTA0ODE1OjEyMjgxN2RiOjkwMTU2ODhkZGQ2N2FiN2E1ZWFiNWExY2IwMDgwMDlj",
           "md5": "f26a2fcbfa5657d407746f4b3d4a925f",
           "time": 1784104943578
+        },
+        {
+          "hash": "dXNlcjo5MGIxYmQ2ZTU0Nzc5ZjM0NTkwZWQzMTJiNzMzZGEyYToxNzg0MTkwNjk3OjE4ZjQwNTcyOmVhZTFiZmM5MmY3ZDI1ZGU1ZmY5ZGI5MWY0OTZiNDcw",
+          "md5": "2049fcfa436b90c1d094538534b798fa",
+          "time": 1784190783946
+        },
+        {
+          "hash": "dXNlcjowZjk1NzgxZjlhNjQzZWRjNTA0NjM3N2I2MjJjMmE4NToxNzg0MTkxNTc2OjlmNjY0ZWZjOmIzNGU4MDVhNWYxNDIxMDMxZDVlMDc2ZTMxMGVhMjNm",
+          "md5": "70b99c7418fb0f2c0d5a0779edba4367",
+          "time": 1784191605578
         }
       ],
-      "lastBuyXP": 1784104943578,
+      "lastBuyXP": 1784191605578,
       "banned": false,
       "permanent": false,
       "lastPhish": 1784061536547,
@@ -5592,7 +5602,7 @@
           "militia": 8,
           "elite": 1
         },
-        "lastRentCollected": 1784105845936,
+        "lastRentCollected": 1784192499230,
         "upgradesBoughtSinceLevel": 0
       }
     },
@@ -5766,7 +5776,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784192437793,
+  "savedAt": 1784195680242,
   "clan": {
     "201481": {
       "name": "fuh",
