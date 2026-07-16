@@ -1426,10 +1426,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 6141139847597,
+      "coin": 6123288834342,
       "uid": "32d92c53-31_b-nebula",
       "username": "@Sexyglock",
-      "xp": 140,
+      "xp": 340,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1466,7 +1466,7 @@
       "robbed": 883,
       "lastBuyCoin": 1783944383018,
       "spam": {
-        "lastMessage": 1784192436991,
+        "lastMessage": 1784196454264,
         "count": 1
       },
       "donated_total": 120000000,
@@ -1673,7 +1673,7 @@
       },
       "banned": false,
       "permanent": false,
-      "spacestationlastPassiveIncome": 1784141075477,
+      "spacestationlastPassiveIncome": 1784196422078,
       "rpginventory": {
         "Carrot": 5,
         "Berries": 1,
@@ -1740,7 +1740,7 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastFig": 1774186140979,
-      "lastSaveData": 1784141137997,
+      "lastSaveData": 1784192439287,
       "last_give_use": 1784105160843,
       "last_give_day": "Wed Jul 15 2026",
       "daily_give_total": 150000000,
@@ -1771,15 +1771,15 @@
       "lastPassiveIncome": 1784011712968,
       "clanId": "b69826",
       "club": {
-        "level": 5,
+        "level": 9,
         "upgrades": {
-          "music": 5,
+          "music": 6,
           "djs": 0,
           "security": 8,
           "bikegang": 0,
           "carfleet": 0,
-          "heli": 0,
-          "armory": 0,
+          "heli": 1,
+          "armory": 10,
           "safehouse": 0,
           "militia": 0,
           "elite": 1
@@ -5776,7 +5776,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784195680242,
+  "savedAt": 1784196455055,
   "clan": {
     "201481": {
       "name": "fuh",
