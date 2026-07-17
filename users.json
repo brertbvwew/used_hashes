@@ -5447,14 +5447,14 @@
       "lastRepair": 1783156262434
     },
     "257488272269538": {
-      "coin": 7203146364,
+      "coin": 6918716766,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@𝔓𝔩𝔞𝔶𝔟𝔬𝔦_𝔠𝔞𝔯𝔱𝔦𓅃",
       "spam": {
-        "lastMessage": 1784221725857,
+        "lastMessage": 1784281100654,
         "count": 1
       },
-      "xp": 500,
+      "xp": 540,
       "lastSteal": 1783575207022,
       "StealSuccess": 3,
       "lastRob": 1784054594072,
@@ -5469,7 +5469,7 @@
       "last_give_use": 1784221067708,
       "last_give_day": "Thu Jul 16 2026",
       "daily_give_total": 150000000,
-      "level": 125,
+      "level": 132,
       "robbed": 3,
       "lastRobBank": 1784007907235,
       "lastRansom": 1784061531607,
@@ -5485,7 +5485,7 @@
       "lastSpins": 1782482350296,
       "autolevelup": true,
       "lastHack": 1784061459994,
-      "lastSaveData": 1784185256286,
+      "lastSaveData": 1784221727983,
       "bank": 0,
       "lastLoadAcct": 1784221046611,
       "lastRepair": 1783575209960,
@@ -5580,34 +5580,39 @@
           "hash": "dXNlcjowZjk1NzgxZjlhNjQzZWRjNTA0NjM3N2I2MjJjMmE4NToxNzg0MTkxNTc2OjlmNjY0ZWZjOmIzNGU4MDVhNWYxNDIxMDMxZDVlMDc2ZTMxMGVhMjNm",
           "md5": "70b99c7418fb0f2c0d5a0779edba4367",
           "time": 1784191605578
+        },
+        {
+          "hash": "dXNlcjoxNDUzYTE1MzAxYWI4ZDBlOTc0NWRhNDMyNzExZmQ4ZDoxNzg0MjIxNzgyOjdmYjhhMTg3OjYwOGZjMjlkYzkyOGJlNjhhMjExYjIxMDkzY2FkYzg5",
+          "md5": "de32eb5ffd56c1a630f0a9e1473ba0cc",
+          "time": 1784221808346
         }
       ],
-      "lastBuyXP": 1784191605578,
+      "lastBuyXP": 1784221808346,
       "banned": false,
       "permanent": false,
       "lastPhish": 1784061536547,
       "lastBeg": 1784028002656,
       "begSuccess": 2,
-      "lastBuyUnban": 1784033145122,
+      "lastBuyUnban": 1784274731085,
       "rpginventory": {},
       "rpghealth": 45,
       "lastDecrypt": 1784007922800,
       "club": {
-        "level": 5,
+        "level": 8,
         "upgrades": {
-          "music": 1,
+          "music": 2,
           "djs": 0,
           "security": 0,
           "bikegang": 0,
           "carfleet": 0,
           "heli": 0,
-          "armory": 0,
+          "armory": 9,
           "safehouse": 2,
           "militia": 8,
           "elite": 1
         },
-        "lastRentCollected": 1784192499230,
-        "upgradesBoughtSinceLevel": 0
+        "lastRentCollected": 1784279086913,
+        "upgradesBoughtSinceLevel": 1
       }
     },
     "164321690693706": {
@@ -5780,7 +5785,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784280633911,
+  "savedAt": 1784281101416,
   "clan": {
     "201481": {
       "name": "fuh",
