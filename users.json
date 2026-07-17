@@ -1430,10 +1430,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 6123288834342,
+      "coin": 7158950356216,
       "uid": "32d92c53-31_b-nebula",
       "username": "@Sexyglock",
-      "xp": 340,
+      "xp": 700,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1467,14 +1467,14 @@
       "premium": true,
       "premiumUntil": 1783001958089,
       "lastBuyPremium": 1782991158089,
-      "robbed": 883,
+      "robbed": 885,
       "lastBuyCoin": 1783944383018,
       "spam": {
-        "lastMessage": 1784196454264,
+        "lastMessage": 1784280633123,
         "count": 1
       },
       "donated_total": 120000000,
-      "winGame": 770,
+      "winGame": 772,
       "lastClean": 1770663269641,
       "lastWork": 1774208051871,
       "workSuccess": 5,
@@ -1677,7 +1677,7 @@
       },
       "banned": false,
       "permanent": false,
-      "spacestationlastPassiveIncome": 1784196422078,
+      "spacestationlastPassiveIncome": 1784225200001,
       "rpginventory": {
         "Carrot": 5,
         "Berries": 1,
@@ -1714,7 +1714,7 @@
       "rpgmonsterHealth": 80,
       "rpglastFight": 1783943746659,
       "rpghealth": 41,
-      "clublastRobTime": 1784141030828,
+      "clublastRobTime": 1784216487678,
       "lastLoadAcct": 1778515356886,
       "gear": {
         "equipped": {
@@ -1744,7 +1744,7 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastFig": 1774186140979,
-      "lastSaveData": 1784192439287,
+      "lastSaveData": 1784196456260,
       "last_give_use": 1784105160843,
       "last_give_day": "Wed Jul 15 2026",
       "daily_give_total": 150000000,
@@ -1775,21 +1775,21 @@
       "lastPassiveIncome": 1784011712968,
       "clanId": "b69826",
       "club": {
-        "level": 9,
+        "level": 11,
         "upgrades": {
           "music": 6,
           "djs": 0,
-          "security": 8,
+          "security": 10,
           "bikegang": 0,
           "carfleet": 0,
           "heli": 1,
-          "armory": 10,
+          "armory": 12,
           "safehouse": 0,
           "militia": 0,
           "elite": 1
         },
-        "lastRentCollected": 1784192418291,
-        "upgradesBoughtSinceLevel": 2
+        "lastRentCollected": 1784280595756,
+        "upgradesBoughtSinceLevel": 0
       }
     },
     "27618605148": {
@@ -5780,7 +5780,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784229731343,
+  "savedAt": 1784280633911,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5906,11 +5906,11 @@
         "63046378635471"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 1784191692291,
+      "lastIncome": 1784280617248,
       "lastBattle": 0,
-      "lastMission": 1784188272056,
+      "lastMission": 1784216545216,
       "lastAmbush": 0,
-      "lastCollect": 1784191692291,
+      "lastCollect": 1784280617248,
       "lastChallenge": 1784054367815,
       "lastScavenge": 1784104925992,
       "lastResearch": 1773605996402,
@@ -5935,7 +5935,7 @@
         "intel": 80
       },
       "renown": 2200,
-      "xp": 243413,
+      "xp": 243603,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -5952,7 +5952,7 @@
       "maxMembers": 15,
       "questProgress": {
         "event_1": 1,
-        "mission_2": 24,
+        "mission_2": 26,
         "scavenge_3": 3,
         "deposit_5m": 500000000000
       },
@@ -5969,7 +5969,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1992,
+        "missionCount": 1994,
         "battleWins": 0,
         "eventWins": 7,
         "territoryClaims": 8,
@@ -5996,10 +5996,10 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 12482440148086325000,
-      "glory": 1089075,
-      "essence": 1900054,
-      "salvage": 363515
+      "coin": 12414770569021153000,
+      "glory": 1110642,
+      "essence": 1923129,
+      "salvage": 368372
     },
     "19e199": {
       "name": "زنجي",
