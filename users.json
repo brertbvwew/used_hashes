@@ -5447,18 +5447,18 @@
       "lastRepair": 1783156262434
     },
     "257488272269538": {
-      "coin": 6918716766,
+      "coin": 6918725905,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@𝔓𝔩𝔞𝔶𝔟𝔬𝔦_𝔠𝔞𝔯𝔱𝔦𓅃",
       "spam": {
-        "lastMessage": 1784281100654,
+        "lastMessage": 1784291250734,
         "count": 1
       },
-      "xp": 540,
+      "xp": 930,
       "lastSteal": 1783575207022,
       "StealSuccess": 3,
-      "lastRob": 1784054594072,
-      "robSuccess": 32,
+      "lastRob": 1784288891510,
+      "robSuccess": 38,
       "hasSentMsg": {
         "admin": true,
         "premium": true,
@@ -5469,10 +5469,10 @@
       "last_give_use": 1784221067708,
       "last_give_day": "Thu Jul 16 2026",
       "daily_give_total": 150000000,
-      "level": 132,
-      "robbed": 3,
-      "lastRobBank": 1784007907235,
-      "lastRansom": 1784061531607,
+      "level": 133,
+      "robbed": 5,
+      "lastRobBank": 1784288896273,
+      "lastRansom": 1784288883183,
       "lastWork": 1784061453276,
       "workSuccess": 6,
       "lastSpin": 1784019886420,
@@ -5484,11 +5484,11 @@
       },
       "lastSpins": 1782482350296,
       "autolevelup": true,
-      "lastHack": 1784061459994,
-      "lastSaveData": 1784221727983,
+      "lastHack": 1784288904161,
+      "lastSaveData": 1784281102522,
       "bank": 0,
       "lastLoadAcct": 1784221046611,
-      "lastRepair": 1783575209960,
+      "lastRepair": 1784288920463,
       "inventory": [
         "dragonpet"
       ],
@@ -5590,13 +5590,13 @@
       "lastBuyXP": 1784221808346,
       "banned": false,
       "permanent": false,
-      "lastPhish": 1784061536547,
-      "lastBeg": 1784028002656,
-      "begSuccess": 2,
+      "lastPhish": 1784288878582,
+      "lastBeg": 1784288934342,
+      "begSuccess": 3,
       "lastBuyUnban": 1784274731085,
       "rpginventory": {},
       "rpghealth": 45,
-      "lastDecrypt": 1784007922800,
+      "lastDecrypt": 1784288941068,
       "club": {
         "level": 8,
         "upgrades": {
@@ -5785,7 +5785,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784288477893,
+  "savedAt": 1784291251616,
   "clan": {
     "201481": {
       "name": "fuh",
