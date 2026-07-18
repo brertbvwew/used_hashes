@@ -5721,10 +5721,15 @@
       "uid": "18c3af9f-32_b-nebula",
       "username": "@user_18c3af9f-32",
       "spam": {
-        "lastMessage": 1783937905264,
+        "lastMessage": 1784381806148,
         "count": 1
       },
-      "xp": 120
+      "xp": 320,
+      "lastLoadAcct": 1783958766935,
+      "hasSentMsg": {
+        "admin": true,
+        "cooldown": true
+      }
     },
     "123231973449817": {
       "coin": 19937012,
@@ -5786,7 +5791,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784369964719,
+  "savedAt": 1784381806982,
   "clan": {
     "201481": {
       "name": "fuh",
