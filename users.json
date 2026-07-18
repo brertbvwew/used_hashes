@@ -5448,14 +5448,14 @@
       "lastRepair": 1783156262434
     },
     "257488272269538": {
-      "coin": 6918725905,
+      "coin": 6800663573,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@𝔓𝔩𝔞𝔶𝔟𝔬𝔦_𝔠𝔞𝔯𝔱𝔦𓅃",
       "spam": {
-        "lastMessage": 1784291250734,
+        "lastMessage": 1784383428068,
         "count": 1
       },
-      "xp": 930,
+      "xp": 750,
       "lastSteal": 1783575207022,
       "StealSuccess": 3,
       "lastRob": 1784288891510,
@@ -5467,11 +5467,11 @@
         "banned": true,
         "cooldown": true
       },
-      "last_give_use": 1784221067708,
-      "last_give_day": "Thu Jul 16 2026",
+      "last_give_use": 1784291696956,
+      "last_give_day": "Fri Jul 17 2026",
       "daily_give_total": 150000000,
-      "level": 133,
-      "robbed": 5,
+      "level": 135,
+      "robbed": 8,
       "lastRobBank": 1784288896273,
       "lastRansom": 1784288883183,
       "lastWork": 1784061453276,
@@ -5486,7 +5486,7 @@
       "lastSpins": 1782482350296,
       "autolevelup": true,
       "lastHack": 1784288904161,
-      "lastSaveData": 1784281102522,
+      "lastSaveData": 1784291252574,
       "bank": 0,
       "lastLoadAcct": 1784221046611,
       "lastRepair": 1784288920463,
@@ -5599,21 +5599,21 @@
       "rpghealth": 45,
       "lastDecrypt": 1784288941068,
       "club": {
-        "level": 8,
+        "level": 11,
         "upgrades": {
-          "music": 2,
+          "music": 4,
           "djs": 0,
-          "security": 0,
+          "security": 7,
           "bikegang": 0,
           "carfleet": 0,
-          "heli": 0,
+          "heli": 1,
           "armory": 9,
           "safehouse": 2,
           "militia": 8,
           "elite": 1
         },
-        "lastRentCollected": 1784279086913,
-        "upgradesBoughtSinceLevel": 1
+        "lastRentCollected": 1784366209961,
+        "upgradesBoughtSinceLevel": 2
       }
     },
     "164321690693706": {
@@ -5791,7 +5791,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784381806982,
+  "savedAt": 1784383429053,
   "clan": {
     "201481": {
       "name": "fuh",
