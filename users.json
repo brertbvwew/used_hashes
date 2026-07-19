@@ -1180,20 +1180,20 @@
       "permanent": false
     },
     "198449416917151": {
-      "coin": 19202210275,
+      "coin": 10738943987,
       "uid": "364664be-31_b-nebula",
       "username": "@Sexy_Kefilwe🍒",
-      "xp": 820,
+      "xp": 800,
       "lastRansom": 1784382311487,
-      "robSuccess": 719,
+      "robSuccess": 723,
       "received_total": 1934406200,
-      "lastSpin": 1784383646963,
-      "lastMine": 1784382288600,
+      "lastSpin": 1784457115827,
+      "lastMine": 1784454217269,
       "lastRoulette": 1767821716253,
       "lastFlip": 1767824111645,
       "autolevelup": true,
       "lastPhish": 1784286608484,
-      "lastRob": 1784371591667,
+      "lastRob": 1784454233235,
       "lastWork": 1784198105145,
       "workSuccess": 68,
       "lastSpins": 1784202274935,
@@ -1207,7 +1207,7 @@
       "lastHack": 1784198096018,
       "lastTagAllTime": 1783275510832,
       "tagAllCount": 1,
-      "level": 103,
+      "level": 105,
       "violations": 89,
       "lastFreelance": 1784216748062,
       "lastClaim": {
@@ -1218,7 +1218,7 @@
       },
       "robbed": 55,
       "spam": {
-        "lastMessage": 1784385288987,
+        "lastMessage": 1784475150154,
         "count": 1
       },
       "lastBlackjack": 1784184400132,
@@ -1228,12 +1228,12 @@
       "lastClean": 1784184339961,
       "lastSteal": 1784362551636,
       "StealSuccess": 60,
-      "lastRepair": 1784382301682,
-      "lastDecrypt": 1784382297838,
+      "lastRepair": 1784454224097,
+      "lastDecrypt": 1784454221006,
       "lastBeg": 1784202313096,
       "begSuccess": 32,
       "donated_total": 200000,
-      "lastSaveData": 1784383435835,
+      "lastSaveData": 1784385290868,
       "lastLoadAcct": 1784024515645,
       "rpginventory": {},
       "rpghealth": 15,
@@ -1250,7 +1250,24 @@
       "banned": false,
       "banUntil": null,
       "rpgpvplastpvp": 1784008671471,
-      "permanent": false
+      "permanent": false,
+      "club": {
+        "level": 9,
+        "upgrades": {
+          "music": 1,
+          "djs": 1,
+          "security": 1,
+          "bikegang": 2,
+          "carfleet": 1,
+          "heli": 5,
+          "armory": 2,
+          "safehouse": 8,
+          "militia": 5,
+          "elite": 0
+        },
+        "lastRentCollected": 1784473254722,
+        "upgradesBoughtSinceLevel": 2
+      }
     },
     "92612597956617": {
       "coin": 3399966000,
@@ -5791,7 +5808,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784475124078,
+  "savedAt": 1784475151537,
   "clan": {
     "201481": {
       "name": "fuh",
