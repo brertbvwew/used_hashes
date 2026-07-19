@@ -5452,10 +5452,10 @@
       "uid": "2ee0d109-38_b-nebula",
       "username": "@𝔓𝔩𝔞𝔶𝔟𝔬𝔦_𝔠𝔞𝔯𝔱𝔦𓅃",
       "spam": {
-        "lastMessage": 1784461643391,
+        "lastMessage": 1784475123169,
         "count": 1
       },
-      "xp": 770,
+      "xp": 950,
       "lastSteal": 1783575207022,
       "StealSuccess": 3,
       "lastRob": 1784288891510,
@@ -5486,7 +5486,7 @@
       "lastSpins": 1782482350296,
       "autolevelup": true,
       "lastHack": 1784288904161,
-      "lastSaveData": 1784383430157,
+      "lastSaveData": 1784461645537,
       "bank": 0,
       "lastLoadAcct": 1784221046611,
       "lastRepair": 1784288920463,
@@ -5791,7 +5791,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1784461644466,
+  "savedAt": 1784475124078,
   "clan": {
     "201481": {
       "name": "fuh",
