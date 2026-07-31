@@ -1448,10 +1448,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 10683541313915,
+      "coin": 14208758342665,
       "uid": "32d92c53-31_b-nebula",
       "username": "@Sexyglock",
-      "xp": 680,
+      "xp": 300,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1480,7 +1480,7 @@
         }
       ],
       "lastBuyXP": 1770662600429,
-      "level": 801,
+      "level": 802,
       "autolevelup": true,
       "premium": true,
       "premiumUntil": 1783001958089,
@@ -1488,8 +1488,8 @@
       "robbed": 887,
       "lastBuyCoin": 1783944383018,
       "spam": {
-        "lastMessage": 1784660638680,
-        "count": 1
+        "lastMessage": 1785480231236,
+        "count": 2
       },
       "donated_total": 120000000,
       "winGame": 772,
@@ -1695,7 +1695,7 @@
       },
       "banned": false,
       "permanent": false,
-      "spacestationlastPassiveIncome": 1784581744486,
+      "spacestationlastPassiveIncome": 1785480222958,
       "rpginventory": {
         "Carrot": 5,
         "Berries": 1,
@@ -1762,7 +1762,7 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastFig": 1774186140979,
-      "lastSaveData": 1784547550107,
+      "lastSaveData": 1784660640935,
       "last_give_use": 1784105160843,
       "last_give_day": "Wed Jul 15 2026",
       "daily_give_total": 150000000,
@@ -1806,7 +1806,7 @@
           "militia": 0,
           "elite": 1
         },
-        "lastRentCollected": 1784660616532,
+        "lastRentCollected": 1785480205232,
         "upgradesBoughtSinceLevel": 0
       }
     },
@@ -5808,7 +5808,7 @@
       "lastHack": 1783865899660
     }
   },
-  "savedAt": 1785477716192,
+  "savedAt": 1785480232153,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5934,11 +5934,11 @@
         "63046378635471"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 1784660624747,
+      "lastIncome": 1785480212001,
       "lastBattle": 0,
       "lastMission": 1784216545216,
       "lastAmbush": 0,
-      "lastCollect": 1784660624747,
+      "lastCollect": 1785480212001,
       "lastChallenge": 1784054367815,
       "lastScavenge": 1784104925992,
       "lastResearch": 1784369940428,
@@ -5963,7 +5963,7 @@
         "intel": 80
       },
       "renown": 2200,
-      "xp": 243693,
+      "xp": 243783,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -6024,7 +6024,7 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 12546444849316880000,
+      "coin": 12546444864316885000,
       "glory": 1110642,
       "essence": 1923129,
       "salvage": 368372
