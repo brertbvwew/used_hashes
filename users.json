@@ -5806,9 +5806,27 @@
         "daily": 1784144131695
       },
       "lastHack": 1783865899660
+    },
+    "106262373089483": {
+      "coin": 8647,
+      "uid": "29ec6256-33_b-nebula",
+      "username": "@user_29ec6256-33",
+      "spam": {
+        "lastMessage": 1785601904064,
+        "count": 1
+      },
+      "xp": 960,
+      "level": 6,
+      "lastTagAllTime": 1783882914186,
+      "tagAllCount": 1,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastCode": 1784105804473,
+      "lastMine": 1784105864365
     }
   },
-  "savedAt": 1785526362096,
+  "savedAt": 1785601904966,
   "clan": {
     "201481": {
       "name": "fuh",
