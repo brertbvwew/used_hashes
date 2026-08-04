@@ -1448,10 +1448,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 15384562565204,
+      "coin": 16560364165204,
       "uid": "32d92c53-31_b-nebula",
       "username": "@Sexyglock",
-      "xp": 660,
+      "xp": 880,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1488,8 +1488,8 @@
       "robbed": 889,
       "lastBuyCoin": 1783944383018,
       "spam": {
-        "lastMessage": 1785668399889,
-        "count": 1
+        "lastMessage": 1785875803780,
+        "count": 2
       },
       "donated_total": 120000000,
       "winGame": 772,
@@ -1533,7 +1533,7 @@
         "maxLevel200": 1782467439578,
         "legendary": 1782467453857,
         "immortal": 1782467486565,
-        "daily": 1783942802754,
+        "daily": 1785668565515,
         "mythical": 1782467458824,
         "ultimate": 1782467499211
       },
@@ -1762,7 +1762,7 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastFig": 1774186140979,
-      "lastSaveData": 1785485469632,
+      "lastSaveData": 1785668403388,
       "last_give_use": 1784105160843,
       "last_give_day": "Wed Jul 15 2026",
       "daily_give_total": 150000000,
@@ -1806,7 +1806,7 @@
           "militia": 0,
           "elite": 1
         },
-        "lastRentCollected": 1785604203559,
+        "lastRentCollected": 1785875780734,
         "upgradesBoughtSinceLevel": 0
       }
     },
@@ -5826,7 +5826,7 @@
       "lastMine": 1784105864365
     }
   },
-  "savedAt": 1785680151193,
+  "savedAt": 1785875804647,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -5952,11 +5952,11 @@
         "63046378635471"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 1785604209405,
+      "lastIncome": 1785875786501,
       "lastBattle": 0,
-      "lastMission": 1784216545216,
+      "lastMission": 1785875795259,
       "lastAmbush": 0,
-      "lastCollect": 1785604209405,
+      "lastCollect": 1785875786501,
       "lastChallenge": 1784054367815,
       "lastScavenge": 1784104925992,
       "lastResearch": 1784369940428,
@@ -5981,7 +5981,7 @@
         "intel": 80
       },
       "renown": 2200,
-      "xp": 243813,
+      "xp": 244003,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -5998,7 +5998,7 @@
       "maxMembers": 16,
       "questProgress": {
         "event_1": 1,
-        "mission_2": 26,
+        "mission_2": 28,
         "scavenge_3": 3,
         "deposit_5m": 500000000000
       },
@@ -6015,7 +6015,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1994,
+        "missionCount": 1996,
         "battleWins": 0,
         "eventWins": 7,
         "territoryClaims": 8,
@@ -6042,10 +6042,10 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 12546444869316887000,
-      "glory": 1110642,
-      "essence": 1923129,
-      "salvage": 368372
+      "coin": 12607234803123075000,
+      "glory": 1123740,
+      "essence": 1950853,
+      "salvage": 372060
     },
     "19e199": {
       "name": "زنجي",
