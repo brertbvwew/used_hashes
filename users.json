@@ -5466,14 +5466,14 @@
       "lastRepair": 1783156262434
     },
     "257488272269538": {
-      "coin": 64736875467,
+      "coin": 72398530467,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@𝔓𝔩𝔞𝔶𝔟𝔬𝔦_𝔠𝔞𝔯𝔱𝔦𓅃",
       "spam": {
-        "lastMessage": 1786171660183,
+        "lastMessage": 1786269076711,
         "count": 1
       },
-      "xp": 530,
+      "xp": 30,
       "lastSteal": 1783575207022,
       "StealSuccess": 3,
       "lastRob": 1784288891510,
@@ -5488,7 +5488,7 @@
       "last_give_use": 1784291696956,
       "last_give_day": "Fri Jul 17 2026",
       "daily_give_total": 150000000,
-      "level": 139,
+      "level": 140,
       "robbed": 11,
       "lastRobBank": 1784288896273,
       "lastRansom": 1784288883183,
@@ -5496,15 +5496,15 @@
       "workSuccess": 6,
       "lastSpin": 1784019886420,
       "lastClaim": {
-        "daily": 1785923549733,
-        "weekly": 1785478936259,
+        "daily": 1786171723288,
+        "weekly": 1786171745475,
         "monthly": 1783968531732,
         "quarterly": 1784064489398
       },
       "lastSpins": 1782482350296,
       "autolevelup": true,
       "lastHack": 1784288904161,
-      "lastSaveData": 1785604224133,
+      "lastSaveData": 1786171662266,
       "bank": 0,
       "lastLoadAcct": 1784221046611,
       "lastRepair": 1784288920463,
@@ -5630,7 +5630,7 @@
           "militia": 8,
           "elite": 2
         },
-        "lastRentCollected": 1786171388788,
+        "lastRentCollected": 1786258117136,
         "upgradesBoughtSinceLevel": 1
       }
     },
@@ -5827,7 +5827,7 @@
       "lastMine": 1784105864365
     }
   },
-  "savedAt": 1786261626795,
+  "savedAt": 1786269077761,
   "clan": {
     "201481": {
       "name": "fuh",
