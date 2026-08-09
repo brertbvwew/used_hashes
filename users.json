@@ -5825,9 +5825,48 @@
       },
       "lastCode": 1784105804473,
       "lastMine": 1784105864365
+    },
+    "137375183323372": {
+      "coin": 150030837,
+      "uid": "d31b042-32_b-nebula",
+      "username": "@user_d31b042-32",
+      "spam": {
+        "lastMessage": 1786312528579,
+        "count": 1
+      },
+      "xp": 240,
+      "hasSentMsg": {
+        "cooldown": true,
+        "banned": true,
+        "owner": true,
+        "premium": true,
+        "admin": true
+      },
+      "lastDecrypt": 1786312437431,
+      "robSuccess": 11,
+      "lastRansom": 1786312415022,
+      "lastHack": 1786312420438,
+      "lastPhish": 1781247984062,
+      "level": 20,
+      "lastRob": 1786312412045,
+      "lastSteal": 1781247987395,
+      "StealSuccess": 1,
+      "banned": false,
+      "permanent": false,
+      "lastTagAllTime": 1786013675551,
+      "tagAllCount": 1,
+      "premium": true,
+      "premiumUntil": 1786322755649,
+      "uplimit": "10MB",
+      "limit": 10,
+      "lastBuyPremium": 1786311955649,
+      "lastXvideoDl": 1786312027267,
+      "autolevelup": true,
+      "lastWork": 1786312410466,
+      "workSuccess": 1
     }
   },
-  "savedAt": 1786269077761,
+  "savedAt": 1786312529805,
   "clan": {
     "201481": {
       "name": "fuh",
