@@ -2924,14 +2924,14 @@
       "daily_give_total": 150000000
     },
     "168419274039524": {
-      "coin": 999499996929,
+      "coin": 375804625965,
       "uid": "2d7b4b28-34_b-nebula",
-      "username": "@user_2d7b4b28-34",
+      "username": "@Owner",
       "spam": {
-        "lastMessage": 1773483614071,
+        "lastMessage": 1786518094957,
         "count": 1
       },
-      "xp": 60,
+      "xp": 740,
       "hasSentMsg": {
         "premium": false,
         "banned": true,
@@ -2940,7 +2940,7 @@
       "premium": true,
       "premiumUntil": 3093500289381,
       "lastBuyPremium": 1769787809099,
-      "level": 704,
+      "level": 709,
       "banned": false,
       "permanent": false,
       "robbed": 1,
@@ -2971,7 +2971,9 @@
           "helmet": null
         },
         "inventory": {}
-      }
+      },
+      "lastLoadAcct": 1786439467024,
+      "lastXvideoDl": 1786442644246
     },
     "269505624326383": {
       "coin": 300033141,
@@ -5866,7 +5868,7 @@
       "workSuccess": 1
     }
   },
-  "savedAt": 1786370144243,
+  "savedAt": 1786518096014,
   "clan": {
     "201481": {
       "name": "fuh",
