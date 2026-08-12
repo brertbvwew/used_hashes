@@ -5844,14 +5844,14 @@
       "lastMine": 1784105864365
     },
     "137375183323372": {
-      "coin": 54639127,
+      "coin": 3852339231,
       "uid": "d31b042-32_b-nebula",
       "username": "@00Pulsrxv1",
       "spam": {
-        "lastMessage": 1786522385547,
+        "lastMessage": 1786531143883,
         "count": 1
       },
-      "xp": 0,
+      "xp": 10920,
       "hasSentMsg": {
         "cooldown": true,
         "banned": true,
@@ -5864,7 +5864,7 @@
       "lastRansom": 1786312415022,
       "lastHack": 1786312420438,
       "lastPhish": 1781247984062,
-      "level": 25,
+      "level": 36,
       "lastRob": 1786312412045,
       "lastSteal": 1781247987395,
       "StealSuccess": 1,
@@ -5881,29 +5881,67 @@
       "autolevelup": true,
       "lastWork": 1786312410466,
       "workSuccess": 1,
-      "lastSaveData": 1786518110337,
+      "lastSaveData": 1786522442911,
       "rpginventory": {
-        "Carrot": 1,
-        "Wood": 1,
-        "Coal": 5,
-        "Cabbage": 3,
+        "Carrot": 5,
+        "Wood": 7,
+        "Coal": 11,
+        "Cabbage": 6,
         "Elven Silk": 2,
         "Pumpkin": 2,
         "Leather": 1,
         "Magic Crystal": 1,
         "Pineapple": 1,
         "Dragonfruit": 1,
-        "Glass Shard": 3
+        "Glass Shard": 3,
+        "Apple": 1,
+        "Stone": 6,
+        "Goblin Ear": 4,
+        "Iron Ore": 3,
+        "Berries": 1,
+        "Giant’s Bone": 2,
+        "Silver Coin": 3,
+        "Gold Nugget": 2,
+        "Storm Gem": 1
       },
-      "rpglastGather": 1786313086077,
-      "rpgGather": 1,
+      "rpglastGather": 1786526281716,
+      "rpgGather": 3,
       "lastClaim": {
         "daily": 1786519755798,
         "weekly": 1786519814796
-      }
+      },
+      "usedCoupons": [
+        {
+          "hash": "dXNlcjowZWZjZTI1OWVhM2UzNTllZGE1ZTBmNTk5NTdiMjYyMzoxNzg2NTIzNTcxOmFiMmM2NWQ5OmRmNTI0NGVhYmE0ODkzMzNhYTNmZDYxOGMxZjI1YmEw",
+          "md5": "41aab5de25338268b42abcbc9f682fb0",
+          "time": 1786523587083
+        },
+        {
+          "hash": "dXNlcjpkNDBmOWZlM2RjNTllMDFlOWM0OTBjODRlYzBiOWQ4YzoxNzg2NTMwODM2OmE5NTBjNWI5OjBjNzhjZDFlYjIwOGJiNjM4NzBiNzI1YzJlM2MwNjE4",
+          "md5": "1c362354707aafd4366b8d7ab1eb4ed4",
+          "time": 1786530848369
+        },
+        {
+          "hash": "dXNlcjo0YzNlZTcwNWM4YzI2NTAwNjcyZmRiMmIxMjhlZjE0ZToxNzg2NTMwODg5OmE4ZDVkNjA2OjE5MjZjZjM0N2Q5YjI4NmNhYzBhZmNhODM2OGM0YWVi",
+          "md5": "0554b41ae6d9119361163c7763f91905",
+          "time": 1786531039172
+        }
+      ],
+      "lastBuyXP": 1786531039172,
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
+      },
+      "clanId": "f0539a"
     }
   },
-  "savedAt": 1786522441545,
+  "savedAt": 1786531156298,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -6406,6 +6444,74 @@
         "territoryClaims": 0,
         "totalDeposited": 0
       }
+    },
+    "f0539a": {
+      "name": "BRAZZERS",
+      "leader": "137375183323372",
+      "members": [
+        "137375183323372"
+      ],
+      "createdAt": 1786524907245,
+      "lastIncome": 1786524947632,
+      "lastBattle": 0,
+      "lastMission": 1786524995929,
+      "lastAmbush": 0,
+      "lastCollect": 1786524947632,
+      "lastChallenge": 0,
+      "lastScavenge": 1786525086328,
+      "lastResearch": 0,
+      "lastTrain": 1786525012517,
+      "upgrades": {
+        "defense": 1,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 1003010000,
+      "glory": 0,
+      "essence": 0,
+      "salvage": 0,
+      "renown": 50,
+      "xp": 68,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {
+        "mission_2": 0,
+        "scavenge_3": 1,
+        "deposit_5m": 6001500099
+      },
+      "lastQuestReset": 1786524907245,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [
+        "first_mission"
+      ],
+      "stats": {
+        "missionCount": 1,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 6001500099
+      },
+      "tempPowerBoost": 10,
+      "lastPatrols": {
+        "137375183323372": 1786525067957
+      },
+      "welcomeMessage": "WELCOME TO BRA *ZZ* ERS PREMIUM"
     }
   }
 }
