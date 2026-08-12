@@ -5829,14 +5829,14 @@
       "lastMine": 1784105864365
     },
     "137375183323372": {
-      "coin": 150030837,
+      "coin": 151229805,
       "uid": "d31b042-32_b-nebula",
-      "username": "@user_d31b042-32",
+      "username": "@00Pulsrxv1",
       "spam": {
-        "lastMessage": 1786312528579,
+        "lastMessage": 1786518108023,
         "count": 1
       },
-      "xp": 240,
+      "xp": 920,
       "hasSentMsg": {
         "cooldown": true,
         "banned": true,
@@ -5849,7 +5849,7 @@
       "lastRansom": 1786312415022,
       "lastHack": 1786312420438,
       "lastPhish": 1781247984062,
-      "level": 20,
+      "level": 22,
       "lastRob": 1786312412045,
       "lastSteal": 1781247987395,
       "StealSuccess": 1,
@@ -5865,10 +5865,26 @@
       "lastXvideoDl": 1786312027267,
       "autolevelup": true,
       "lastWork": 1786312410466,
-      "workSuccess": 1
+      "workSuccess": 1,
+      "lastSaveData": 1786312530904,
+      "rpginventory": {
+        "Carrot": 1,
+        "Wood": 1,
+        "Coal": 5,
+        "Cabbage": 3,
+        "Elven Silk": 2,
+        "Pumpkin": 2,
+        "Leather": 1,
+        "Magic Crystal": 1,
+        "Pineapple": 1,
+        "Dragonfruit": 1,
+        "Glass Shard": 3
+      },
+      "rpglastGather": 1786313086077,
+      "rpgGather": 1
     }
   },
-  "savedAt": 1786518096014,
+  "savedAt": 1786518109033,
   "clan": {
     "201481": {
       "name": "fuh",
