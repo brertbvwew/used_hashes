@@ -5998,9 +5998,30 @@
         "inventory": {}
       },
       "clanId": "f0539a"
+    },
+    "110312611119302": {
+      "coin": 185220314,
+      "uid": "2bb0daf6-32_b-nebula",
+      "username": "@user_2bb0daf6-32",
+      "spam": {
+        "lastMessage": 1787250031452,
+        "count": 1
+      },
+      "xp": 150,
+      "lastRob": 1787145326094,
+      "robSuccess": 11,
+      "lastSteal": 1781464216241,
+      "StealSuccess": 2,
+      "robbed": 5,
+      "autolevelup": true,
+      "level": 1,
+      "lastClaim": {
+        "daily": 1787239376022
+      },
+      "lastRobBank": 1787249677573
     }
   },
-  "savedAt": 1787250001285,
+  "savedAt": 1787250032576,
   "clan": {
     "201481": {
       "name": "fuh",
