@@ -5531,14 +5531,14 @@
       "lastRepair": 1783156262434
     },
     "257488272269538": {
-      "coin": 77230058980,
+      "coin": 85130958980,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@𝔓𝔩𝔞𝔶𝔟𝔬𝔦_𝔠𝔞𝔯𝔱𝔦𓅃",
       "spam": {
-        "lastMessage": 1787144888171,
+        "lastMessage": 1787249999710,
         "count": 1
       },
-      "xp": 910,
+      "xp": 110,
       "lastSteal": 1783575207022,
       "StealSuccess": 3,
       "lastRob": 1784288891510,
@@ -5553,7 +5553,7 @@
       "last_give_use": 1787131160922,
       "last_give_day": "Wed Aug 19 2026",
       "daily_give_total": 150000000,
-      "level": 140,
+      "level": 141,
       "robbed": 11,
       "lastRobBank": 1784288896273,
       "lastRansom": 1784288883183,
@@ -5571,7 +5571,7 @@
       "lastHack": 1784288904161,
       "lastSaveData": 1786913016983,
       "bank": 0,
-      "lastLoadAcct": 1787131120705,
+      "lastLoadAcct": 1787163164299,
       "lastRepair": 1784288920463,
       "inventory": [
         "dragonpet"
@@ -5695,7 +5695,7 @@
           "militia": 8,
           "elite": 2
         },
-        "lastRentCollected": 1787081228239,
+        "lastRentCollected": 1787170450127,
         "upgradesBoughtSinceLevel": 0
       },
       "clanId": "048609",
@@ -6000,7 +6000,7 @@
       "clanId": "f0539a"
     }
   },
-  "savedAt": 1787249945252,
+  "savedAt": 1787250001285,
   "clan": {
     "201481": {
       "name": "fuh",
