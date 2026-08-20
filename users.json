@@ -6031,16 +6031,16 @@
       "clanId": "f0539a"
     },
     "110312611119302": {
-      "coin": 185220314,
+      "coin": 186225564,
       "uid": "2bb0daf6-32_b-nebula",
       "username": "@user_2bb0daf6-32",
       "spam": {
-        "lastMessage": 1787250031452,
+        "lastMessage": 1787253237526,
         "count": 1
       },
-      "xp": 150,
+      "xp": 410,
       "lastRob": 1787145326094,
-      "robSuccess": 11,
+      "robSuccess": 13,
       "lastSteal": 1781464216241,
       "StealSuccess": 2,
       "robbed": 5,
@@ -6049,10 +6049,12 @@
       "lastClaim": {
         "daily": 1787239376022
       },
-      "lastRobBank": 1787249677573
+      "lastRobBank": 1787253206897,
+      "lastSaveData": 1787250033821,
+      "lastMine": 1787250134681
     }
   },
-  "savedAt": 1787252444823,
+  "savedAt": 1787253238510,
   "clan": {
     "201481": {
       "name": "fuh",
