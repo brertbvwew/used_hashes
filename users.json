@@ -788,51 +788,51 @@
       "xp": 360
     },
     "93939944173798": {
-      "coin": 1649077599,
+      "coin": 2104300208,
       "uid": "232d457b-38_b-nebula",
       "username": "@ratilicious💋✨",
-      "xp": 690,
-      "robbed": 26,
-      "lastMine": 1784206170017,
-      "lastHack": 1784206208677,
-      "robSuccess": 45,
-      "lastWork": 1787251254360,
-      "workSuccess": 11,
-      "lastRob": 1787251275056,
-      "lastSpin": 1787251217642,
-      "lastBeg": 1787251250763,
-      "begSuccess": 8,
+      "xp": 415,
+      "robbed": 29,
+      "lastMine": 1787324487623,
+      "lastHack": 1787325245795,
+      "robSuccess": 52,
+      "lastWork": 1787325463088,
+      "workSuccess": 13,
+      "lastRob": 1787325791061,
+      "lastSpin": 1787324507185,
+      "lastBeg": 1787321095616,
+      "begSuccess": 9,
       "lastRobBank": 1784206187718,
       "hasSentMsg": {
         "cooldown": true,
         "premium": true
       },
-      "lastDeliver": 1784206328151,
+      "lastDeliver": 1787324624754,
       "autolevelup": true,
-      "level": 14,
+      "level": 15,
       "lastClaim": {
-        "daily": 1785521503055
+        "daily": 1787323150340
       },
       "invPurchases": 0,
-      "lastFreelance": 1784206196211,
-      "lastCode": 1767806157264,
-      "lastClean": 1787251243196,
-      "lastPhish": 1784206284820,
-      "lastRansom": 1784229721298,
+      "lastFreelance": 1787324596380,
+      "lastCode": 1787324505001,
+      "lastClean": 1787324519166,
+      "lastPhish": 1787324611221,
+      "lastRansom": 1787325266354,
       "spam": {
-        "lastMessage": 1787320959628,
+        "lastMessage": 1787326303912,
         "count": 1
       },
       "winGame": 9,
       "lastLoadAcct": 1783948766857,
-      "lastSaveData": 1784229732317,
+      "lastSaveData": 1787320962184,
       "violations": 6,
       "last_give_use": 1785521536068,
       "last_give_day": "Fri Jul 31 2026",
       "daily_give_total": 1000000,
       "lastDecrypt": 1784206180062,
-      "lastSteal": 1784029033624,
-      "StealSuccess": 1,
+      "lastSteal": 1787324667653,
+      "StealSuccess": 2,
       "lastRepair": 1784206272985
     },
     "279800426053766": {
@@ -6112,7 +6112,7 @@
       "lastDecrypt": 1787325181445
     }
   },
-  "savedAt": 1787325200376,
+  "savedAt": 1787326305225,
   "clan": {
     "201481": {
       "name": "fuh",
