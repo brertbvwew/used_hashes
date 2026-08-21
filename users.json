@@ -6097,31 +6097,51 @@
       "lastHack": 1787326148517
     },
     "120066532208753": {
-      "coin": 10104,
+      "coin": 150260292,
       "uid": "2918cae-33_b-nebula",
-      "username": "@user_2918cae-33",
+      "username": "@andile_🫦",
       "spam": {
-        "lastMessage": 1787325186030,
+        "lastMessage": 1787327018781,
         "count": 1
       },
-      "xp": 330,
-      "lastRob": 1787324992333,
-      "robSuccess": 4,
-      "robbed": 1,
+      "xp": 15,
+      "lastRob": 1787326939107,
+      "robSuccess": 18,
+      "robbed": 4,
       "last_give_use": 1787325079967,
       "last_give_day": "Fri Aug 21 2026",
       "daily_give_total": 1000000,
-      "lastSpin": 1787325125938,
-      "lastMine": 1787325134698,
-      "lastBeg": 1787325143602,
-      "begSuccess": 1,
+      "lastSpin": 1787326534788,
+      "lastMine": 1787326730189,
+      "lastBeg": 1787326497268,
+      "begSuccess": 2,
       "autolevelup": true,
-      "lastHack": 1787325172735,
-      "lastRansom": 1787325177011,
-      "lastDecrypt": 1787325181445
+      "lastHack": 1787326682114,
+      "lastRansom": 1787326506199,
+      "lastDecrypt": 1787325181445,
+      "lastSaveData": 1787325188517,
+      "lastDeliver": 1787326668220,
+      "lastWork": 1787326513637,
+      "workSuccess": 4,
+      "lastSteal": 1787326554503,
+      "StealSuccess": 2,
+      "lastPhish": 1787326572229,
+      "lastSpins": 1787326470940,
+      "lastRobBank": 1787326943237,
+      "lastBlackjack": 1787326952585,
+      "level": 2,
+      "lastClaim": {
+        "daily": 1787325989282
+      },
+      "lastRepair": 1787326560932,
+      "lastFreelance": 1787326314274,
+      "lastClean": 1787326499695,
+      "hasSentMsg": {
+        "premium": true
+      }
     }
   },
-  "savedAt": 1787326336063,
+  "savedAt": 1787327022442,
   "clan": {
     "201481": {
       "name": "fuh",
