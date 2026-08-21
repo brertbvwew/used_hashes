@@ -1302,22 +1302,22 @@
       "permanent": false
     },
     "198449416917151": {
-      "coin": 72106545033,
+      "coin": 72855580595,
       "uid": "364664be-31_b-nebula",
       "username": "@Sexy_Sonto🍒",
-      "xp": 80,
-      "lastRansom": 1787282627153,
-      "robSuccess": 789,
+      "xp": 370,
+      "lastRansom": 1787327458320,
+      "robSuccess": 800,
       "received_total": 1934406200,
-      "lastSpin": 1787308595375,
-      "lastMine": 1787282621965,
+      "lastSpin": 1787328280070,
+      "lastMine": 1787327432291,
       "lastRoulette": 1767821716253,
       "lastFlip": 1767824111645,
       "autolevelup": true,
-      "lastPhish": 1786259107244,
-      "lastRob": 1787320408294,
-      "lastWork": 1784198105145,
-      "workSuccess": 68,
+      "lastPhish": 1787327451066,
+      "lastRob": 1787328093492,
+      "lastWork": 1787328016586,
+      "workSuccess": 69,
       "lastSpins": 1784202274935,
       "hasSentMsg": {
         "cooldown": true,
@@ -1325,12 +1325,12 @@
         "premium": true,
         "banned": true
       },
-      "lastRobBank": 1787308591271,
+      "lastRobBank": 1787334654525,
       "lastHack": 1787308608581,
       "lastTagAllTime": 1783275510832,
       "tagAllCount": 1,
-      "level": 116,
-      "violations": 90,
+      "level": 117,
+      "violations": 91,
       "lastFreelance": 1784216748062,
       "lastClaim": {
         "daily": 1787290553816,
@@ -1338,24 +1338,24 @@
         "monthly": 1785478929264,
         "quarterly": 1784291072600
       },
-      "robbed": 64,
+      "robbed": 65,
       "spam": {
-        "lastMessage": 1787320803431,
+        "lastMessage": 1787334917450,
         "count": 1
       },
       "lastBlackjack": 1784184400132,
       "winGame": 13,
-      "lastDeliver": 1787144892762,
+      "lastDeliver": 1787324574090,
       "lastCode": 1784216715622,
       "lastClean": 1784184339961,
-      "lastSteal": 1784362551636,
-      "StealSuccess": 60,
+      "lastSteal": 1787324517132,
+      "StealSuccess": 61,
       "lastRepair": 1784454224097,
-      "lastDecrypt": 1787282634545,
-      "lastBeg": 1784202313096,
-      "begSuccess": 32,
+      "lastDecrypt": 1787322566465,
+      "lastBeg": 1787324849249,
+      "begSuccess": 33,
       "donated_total": 200000,
-      "lastSaveData": 1787288925625,
+      "lastSaveData": 1787320806175,
       "lastLoadAcct": 1785668410057,
       "rpginventory": {},
       "rpghealth": 15,
@@ -1389,6 +1389,17 @@
         },
         "lastRentCollected": 1787279845477,
         "upgradesBoughtSinceLevel": 0
+      },
+      "clanId": "76d2c7",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
       }
     },
     "92612597956617": {
@@ -6157,7 +6168,7 @@
       }
     }
   },
-  "savedAt": 1787334524006,
+  "savedAt": 1787334918674,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -6834,6 +6845,67 @@
         "mission_2": 0
       },
       "lastQuestReset": 1787322950639,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [
+        "first_mission"
+      ],
+      "stats": {
+        "missionCount": 1,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
+      }
+    },
+    "76d2c7": {
+      "name": "tshabalala's fc",
+      "leader": "198449416917151",
+      "members": [
+        "198449416917151"
+      ],
+      "createdAt": 1787323011466,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 1787323164081,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "salvage": 0,
+      "renown": 50,
+      "xp": 15,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {
+        "mission_2": 0
+      },
+      "lastQuestReset": 1787323011466,
       "consumables": {},
       "activeConsumable": {},
       "achievements": [
