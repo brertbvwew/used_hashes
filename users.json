@@ -6085,9 +6085,33 @@
       "lastRobBank": 1787320472916,
       "lastSaveData": 1787253239897,
       "lastMine": 1787250134681
+    },
+    "120066532208753": {
+      "coin": 10104,
+      "uid": "2918cae-33_b-nebula",
+      "username": "@user_2918cae-33",
+      "spam": {
+        "lastMessage": 1787325186030,
+        "count": 1
+      },
+      "xp": 330,
+      "lastRob": 1787324992333,
+      "robSuccess": 4,
+      "robbed": 1,
+      "last_give_use": 1787325079967,
+      "last_give_day": "Fri Aug 21 2026",
+      "daily_give_total": 1000000,
+      "lastSpin": 1787325125938,
+      "lastMine": 1787325134698,
+      "lastBeg": 1787325143602,
+      "begSuccess": 1,
+      "autolevelup": true,
+      "lastHack": 1787325172735,
+      "lastRansom": 1787325177011,
+      "lastDecrypt": 1787325181445
     }
   },
-  "savedAt": 1787323937156,
+  "savedAt": 1787325187249,
   "clan": {
     "201481": {
       "name": "fuh",
