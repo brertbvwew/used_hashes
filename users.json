@@ -839,14 +839,14 @@
       "lastRepair": 1784206272985
     },
     "279800426053766": {
-      "coin": 127579209377,
+      "coin": 136837145377,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️🍃",
       "spam": {
-        "lastMessage": 1787410404751,
+        "lastMessage": 1787412803943,
         "count": 1
       },
-      "xp": 515,
+      "xp": 875,
       "lastWork": 1787403008999,
       "lastRob": 1787326495522,
       "robSuccess": 556,
@@ -884,7 +884,7 @@
       "lastClean": 1787255366153,
       "lastRansom": 1782544949990,
       "lastSpin": 1787403051664,
-      "lastSaveData": 1787403796863,
+      "lastSaveData": 1787410407598,
       "lastBeg": 1782645005683,
       "begSuccess": 4,
       "lastDecrypt": 1782595532599,
@@ -943,7 +943,7 @@
           "militia": 7,
           "elite": 3
         },
-        "lastRentCollected": 1787325515550,
+        "lastRentCollected": 1787412789090,
         "upgradesBoughtSinceLevel": 0
       },
       "invPurchases": 2,
@@ -996,14 +996,18 @@
           "level": 5
         },
         {
-          "level": 4
+          "level": 5
         },
         {
-          "level": 1
+          "level": 5
+        },
+        {
+          "level": 3
         }
       ],
       "spacemine": {
         "usedDrones": [
+          null,
           null,
           null,
           null,
@@ -6225,7 +6229,7 @@
       }
     }
   },
-  "savedAt": 1787410423002,
+  "savedAt": 1787412805147,
   "clan": {
     "201481": {
       "name": "fuh",
