@@ -839,14 +839,14 @@
       "lastRepair": 1784206272985
     },
     "279800426053766": {
-      "coin": 43733922387,
+      "coin": 127579209377,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️🍃",
       "spam": {
-        "lastMessage": 1787403791588,
+        "lastMessage": 1787410404751,
         "count": 1
       },
-      "xp": 15,
+      "xp": 515,
       "lastWork": 1787403008999,
       "lastRob": 1787326495522,
       "robSuccess": 556,
@@ -859,7 +859,7 @@
         "premium": true
       },
       "lastHack": 1787403018850,
-      "level": 558,
+      "level": 559,
       "lastMine": 1787122404395,
       "autolevelup": true,
       "lastFreelance": 1787255358567,
@@ -884,7 +884,7 @@
       "lastClean": 1787255366153,
       "lastRansom": 1782544949990,
       "lastSpin": 1787403051664,
-      "lastSaveData": 1787394294882,
+      "lastSaveData": 1787403796863,
       "lastBeg": 1782645005683,
       "begSuccess": 4,
       "lastDecrypt": 1782595532599,
@@ -947,7 +947,7 @@
         "upgradesBoughtSinceLevel": 0
       },
       "invPurchases": 2,
-      "winGame": 501,
+      "winGame": 502,
       "rpgwin": 500,
       "rpgGather": 500,
       "rpgtrades": 500,
@@ -975,28 +975,28 @@
           "level": 5
         },
         {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
           "level": 4
-        },
-        {
-          "level": 1
-        },
-        {
-          "level": 1
-        },
-        {
-          "level": 1
-        },
-        {
-          "level": 1
-        },
-        {
-          "level": 1
-        },
-        {
-          "level": 1
-        },
-        {
-          "level": 1
         },
         {
           "level": 1
@@ -1018,7 +1018,7 @@
           null
         ]
       },
-      "spacestationlastPassiveIncome": 1787402614918,
+      "spacestationlastPassiveIncome": 1787410105723,
       "clanId": "d27ab9",
       "gear": {
         "equipped": {
@@ -1046,7 +1046,7 @@
         "Dank Dragonfruit": 1
       },
       "weedlastGather": 1787402877455,
-      "lastBlackjack": 1787403030260
+      "lastBlackjack": 1787408156749
     },
     "235858498158618": {
       "coin": 804076715,
@@ -6225,7 +6225,7 @@
       }
     }
   },
-  "savedAt": 1787406596787,
+  "savedAt": 1787410406088,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -6866,29 +6866,29 @@
         "279800426053766"
       ],
       "createdAt": 1787322950639,
-      "lastIncome": 1787323908897,
+      "lastIncome": 1787410369032,
       "lastBattle": 0,
-      "lastMission": 1787325233990,
+      "lastMission": 1787404471379,
       "lastAmbush": 0,
-      "lastCollect": 1787323908897,
+      "lastCollect": 1787410369032,
       "lastChallenge": 0,
       "lastScavenge": 0,
       "lastResearch": 0,
       "lastTrain": 0,
       "upgrades": {
-        "defense": 0,
-        "attack": 0,
-        "vault": 0,
-        "morale": 0,
-        "logistics": 0
+        "defense": 3,
+        "attack": 5,
+        "vault": 4,
+        "morale": 6,
+        "logistics": 5
       },
       "perks": {},
-      "coin": 0,
-      "glory": 0,
-      "essence": 0,
-      "salvage": 0,
+      "coin": 3403818752,
+      "glory": 385,
+      "essence": 3135,
+      "salvage": 384,
       "renown": 50,
-      "xp": 45,
+      "xp": 155,
       "level": 1,
       "roles": {
         "treasurer": null,
@@ -6904,7 +6904,7 @@
       },
       "maxMembers": 5,
       "questProgress": {
-        "mission_2": 0
+        "mission_2": 1
       },
       "lastQuestReset": 1787322950639,
       "consumables": {},
@@ -6913,7 +6913,7 @@
         "first_mission"
       ],
       "stats": {
-        "missionCount": 1,
+        "missionCount": 2,
         "battleWins": 0,
         "eventWins": 0,
         "territoryClaims": 0,
