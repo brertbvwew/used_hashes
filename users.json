@@ -1632,10 +1632,10 @@
       "lastBuyPremium": 1768671602513
     },
     "63046378635471": {
-      "coin": 23646238034388,
+      "coin": 24829954797588,
       "uid": "32d92c53-31_b-nebula",
       "username": "@Sexyglock",
-      "xp": 450,
+      "xp": 130,
       "hasSentMsg": {
         "owner": true,
         "cooldown": true,
@@ -1664,7 +1664,7 @@
         }
       ],
       "lastBuyXP": 1770662600429,
-      "level": 805,
+      "level": 806,
       "autolevelup": true,
       "premium": true,
       "premiumUntil": 1788083125577,
@@ -1672,8 +1672,8 @@
       "robbed": 893,
       "lastBuyCoin": 1783944383018,
       "spam": {
-        "lastMessage": 1787322787572,
-        "count": 1
+        "lastMessage": 1787410421813,
+        "count": 2
       },
       "donated_total": 120000000,
       "winGame": 773,
@@ -1701,7 +1701,7 @@
       "pokemonviewcard": 750,
       "vipgameviewcard": 750,
       "weedcooked": 752,
-      "weedgather": 766,
+      "weedgather": 767,
       "weedsell": 751,
       "weedtrades": 750,
       "lastAddInv": 1770557297863,
@@ -1725,9 +1725,9 @@
       "lastRob": 1785923621545,
       "lastSpins": 1783944105504,
       "weedinventory": {
-        "Weed Leaf": 27,
-        "Rolling Paper": 26,
-        "Grinder Part": 26,
+        "Weed Leaf": 30,
+        "Rolling Paper": 29,
+        "Grinder Part": 29,
         "Lighter": 12,
         "Seed": 18,
         "Perlite": 18,
@@ -1735,15 +1735,15 @@
         "Edible": 12,
         "THC Crystal": 7,
         "Rare Blue Strain": 9,
-        "Paper Crutch": 13,
+        "Paper Crutch": 15,
         "Metal Lid": 13,
         "Water Pipe": 11,
-        "Compost": 0,
-        "Moon Rock": 1,
-        "Ash": 13,
+        "Compost": 3,
+        "Moon Rock": 4,
+        "Ash": 16,
         "Resin Chunk": 9,
         "Bud": 13,
-        "Grinder": 9,
+        "Grinder": 10,
         "Indica Bud": 5,
         "Vape Cartridge": 7,
         "Hash Brick": 6,
@@ -1752,11 +1752,11 @@
         "Magic Zipper": 1,
         "Hybrid Nug": 4,
         "420 Pineapple": 4,
-        "Rolling Tray": 6,
+        "Rolling Tray": 9,
         "THC Oil": 7,
         "Purple Haze": 1,
         "Worm Castings": 6,
-        "Dab Tool": 11,
+        "Dab Tool": 12,
         "Organic Soil Mix": 0,
         "Pre-Roll": 7,
         "Plastic Shard": 6,
@@ -1767,9 +1767,9 @@
         "Canvas Sheet": 1,
         "Stash Jar": 2,
         "Dank Dragonfruit": 1,
-        "Chillum": 1
+        "Chillum": 2
       },
-      "weedlastGather": 1784581749781,
+      "weedlastGather": 1787401912768,
       "lastBuyUnban": 1782986781217,
       "spacedrones": [
         {
@@ -1879,7 +1879,7 @@
       },
       "banned": false,
       "permanent": false,
-      "spacestationlastPassiveIncome": 1785923612001,
+      "spacestationlastPassiveIncome": 1787401919424,
       "rpginventory": {
         "Carrot": 5,
         "Berries": 1,
@@ -1946,9 +1946,9 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastFig": 1774186140979,
-      "lastSaveData": 1787126638390,
-      "last_give_use": 1784105160843,
-      "last_give_day": "Wed Jul 15 2026",
+      "lastSaveData": 1787322790092,
+      "last_give_use": 1787408083488,
+      "last_give_day": "Sat Aug 22 2026",
       "daily_give_total": 150000000,
       "pokLastCard": {
         "id": "sve-13",
@@ -1974,7 +1974,7 @@
       },
       "boughtplots": 5,
       "weedplanted": 1,
-      "lastPassiveIncome": 1784581758733,
+      "lastPassiveIncome": 1787401916368,
       "clanId": "b69826",
       "club": {
         "level": 11,
@@ -1990,7 +1990,7 @@
           "militia": 0,
           "elite": 1
         },
-        "lastRentCollected": 1787322736489,
+        "lastRentCollected": 1787410413467,
         "upgradesBoughtSinceLevel": 0
       }
     },
@@ -6225,7 +6225,7 @@
       }
     }
   },
-  "savedAt": 1787410406088,
+  "savedAt": 1787410423002,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -6351,11 +6351,11 @@
         "63046378635471"
       ],
       "createdAt": 1771224029611,
-      "lastIncome": 1787322738328,
+      "lastIncome": 1787410400240,
       "lastBattle": 0,
-      "lastMission": 1785875795259,
+      "lastMission": 1787410419576,
       "lastAmbush": 0,
-      "lastCollect": 1787322738328,
+      "lastCollect": 1787410400240,
       "lastChallenge": 1784054367815,
       "lastScavenge": 1784104925992,
       "lastResearch": 1784369940428,
@@ -6380,7 +6380,7 @@
         "intel": 80
       },
       "renown": 2200,
-      "xp": 244183,
+      "xp": 244453,
       "level": 9,
       "roles": {
         "treasurer": "249216148455505",
@@ -6397,7 +6397,7 @@
       "maxMembers": 16,
       "questProgress": {
         "event_1": 1,
-        "mission_2": 28,
+        "mission_2": 31,
         "scavenge_3": 3,
         "deposit_5m": 500000000000
       },
@@ -6414,7 +6414,7 @@
         "full_territory"
       ],
       "stats": {
-        "missionCount": 1996,
+        "missionCount": 1999,
         "battleWins": 0,
         "eventWins": 7,
         "territoryClaims": 8,
@@ -6441,10 +6441,10 @@
       "mercenaries": {
         "siege": true
       },
-      "coin": 12356350860242434000,
-      "glory": 1123740,
-      "essence": 1950853,
-      "salvage": 372060
+      "coin": 12409741180868198000,
+      "glory": 1147272,
+      "essence": 1979322,
+      "salvage": 376629
     },
     "19e199": {
       "name": "زنجي",
