@@ -6088,38 +6088,38 @@
       "clanId": "f0539a"
     },
     "110312611119302": {
-      "coin": 383513294,
+      "coin": 532518463,
       "uid": "2bb0daf6-32_b-nebula",
       "username": "@user_2bb0daf6-32",
       "spam": {
-        "lastMessage": 1787332510528,
+        "lastMessage": 1787378378488,
         "count": 1
       },
-      "xp": 905,
+      "xp": 45,
       "lastRob": 1787332487979,
-      "robSuccess": 48,
+      "robSuccess": 50,
       "lastSteal": 1781464216241,
       "StealSuccess": 2,
       "robbed": 7,
       "autolevelup": true,
-      "level": 3,
+      "level": 4,
       "lastClaim": {
         "daily": 1787327964927
       },
-      "lastRobBank": 1787332495005,
-      "lastSaveData": 1787326337322,
+      "lastRobBank": 1787378363197,
+      "lastSaveData": 1787332512942,
       "lastMine": 1787327697762,
-      "last_give_use": 1787324988572,
-      "last_give_day": "Fri Aug 21 2026",
-      "daily_give_total": 2000000,
+      "last_give_use": 1787376885911,
+      "last_give_day": "Sat Aug 22 2026",
+      "daily_give_total": 1000000,
       "hasSentMsg": {
         "cooldown": true
       },
       "lastFreelance": 1787327829350,
       "lastRansom": 1787325292128,
-      "lastHack": 1787332459662,
-      "lastWork": 1787332483705,
-      "workSuccess": 4,
+      "lastHack": 1787378268833,
+      "lastWork": 1787378343271,
+      "workSuccess": 5,
       "lastBlackjack": 1787327998584,
       "lastDecrypt": 1787327978818
     },
@@ -6168,7 +6168,7 @@
       }
     }
   },
-  "savedAt": 1787372746439,
+  "savedAt": 1787378379671,
   "clan": {
     "201481": {
       "name": "fuh",
