@@ -5729,14 +5729,14 @@
       "lastRepair": 1783156262434
     },
     "257488272269538": {
-      "coin": 157850527949,
+      "coin": 179342730104,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@𝔓𝔩𝔞𝔶𝔟𝔬𝔦_𝔠𝔞𝔯𝔱𝔦𓅃",
       "spam": {
-        "lastMessage": 1787492400766,
+        "lastMessage": 1787518940327,
         "count": 1
       },
-      "xp": 410,
+      "xp": 950,
       "lastSteal": 1783575207022,
       "StealSuccess": 3,
       "lastRob": 1787384108854,
@@ -5751,8 +5751,8 @@
       "last_give_use": 1787324695981,
       "last_give_day": "Fri Aug 21 2026",
       "daily_give_total": 145000050,
-      "level": 144,
-      "robbed": 17,
+      "level": 145,
+      "robbed": 18,
       "lastRobBank": 1787383799114,
       "lastRansom": 1784288883183,
       "lastWork": 1787383767629,
@@ -5767,7 +5767,7 @@
       "lastSpins": 1782482350296,
       "autolevelup": true,
       "lastHack": 1787383779337,
-      "lastSaveData": 1787480596168,
+      "lastSaveData": 1787492403030,
       "bank": 0,
       "lastLoadAcct": 1787252578699,
       "lastRepair": 1784288920463,
@@ -5880,10 +5880,10 @@
       "rpghealth": 45,
       "lastDecrypt": 1784288941068,
       "club": {
-        "level": 14,
+        "level": 15,
         "upgrades": {
           "music": 5,
-          "djs": 2,
+          "djs": 7,
           "security": 7,
           "bikegang": 0,
           "carfleet": 0,
@@ -5894,7 +5894,7 @@
           "elite": 2
         },
         "lastRentCollected": 1787475464949,
-        "upgradesBoughtSinceLevel": 0
+        "upgradesBoughtSinceLevel": 2
       },
       "clanId": "048609",
       "gear": {
@@ -5907,7 +5907,8 @@
         },
         "inventory": {}
       },
-      "lastBlackjack": 1787385662173
+      "lastBlackjack": 1787503094795,
+      "winGame": 3
     },
     "164321690693706": {
       "coin": 3197,
@@ -6326,7 +6327,7 @@
       "xp": 60
     }
   },
-  "savedAt": 1787515158212,
+  "savedAt": 1787518941466,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -6905,15 +6906,15 @@
         "257488272269538"
       ],
       "createdAt": 1786913314706,
-      "lastIncome": 1787432494086,
+      "lastIncome": 1787518896518,
       "lastBattle": 0,
-      "lastMission": 1787479219153,
+      "lastMission": 1787518498245,
       "lastAmbush": 0,
-      "lastCollect": 1787432494086,
+      "lastCollect": 1787518896518,
       "lastChallenge": 0,
-      "lastScavenge": 1787488745150,
+      "lastScavenge": 1787515966084,
       "lastResearch": 0,
-      "lastTrain": 1787475439689,
+      "lastTrain": 1787511038128,
       "upgrades": {
         "defense": 0,
         "attack": 0,
@@ -6922,12 +6923,12 @@
         "logistics": 0
       },
       "perks": {},
-      "coin": 0,
-      "glory": 817,
-      "essence": 3369,
-      "salvage": 1494,
+      "coin": 6252519547,
+      "glory": 1287,
+      "essence": 9044,
+      "salvage": 2695,
       "renown": 50,
-      "xp": 255,
+      "xp": 405,
       "level": 1,
       "roles": {
         "treasurer": null,
@@ -6943,8 +6944,9 @@
       },
       "maxMembers": 5,
       "questProgress": {
-        "mission_2": 1,
-        "scavenge_3": 1
+        "mission_2": 2,
+        "scavenge_3": 2,
+        "deposit_5m": 2000000000
       },
       "lastQuestReset": 1786913314706,
       "consumables": {},
@@ -6953,16 +6955,16 @@
         "first_mission"
       ],
       "stats": {
-        "missionCount": 3,
+        "missionCount": 4,
         "battleWins": 0,
         "eventWins": 0,
         "territoryClaims": 0,
-        "totalDeposited": 0
+        "totalDeposited": 2000000000
       },
-      "tempPowerBoost": 10,
       "lastPatrols": {
         "257488272269538": 1787488768052
-      }
+      },
+      "tempPowerBoost": 10
     },
     "d27ab9": {
       "name": "Moet's Hub",
