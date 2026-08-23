@@ -6227,9 +6227,43 @@
       "hasSentMsg": {
         "premium": true
       }
+    },
+    "227608251887631": {
+      "coin": 150068498,
+      "uid": "27cdd96f-31_b-nebula",
+      "username": "@noluthando_🍒",
+      "spam": {
+        "lastMessage": 1787480366607,
+        "count": 1
+      },
+      "xp": 825,
+      "lastRob": 1787406396011,
+      "robSuccess": 15,
+      "lastSpin": 1787406275864,
+      "lastMine": 1787406277122,
+      "autolevelup": true,
+      "lastDecrypt": 1787406291400,
+      "lastRobBank": 1787480293708,
+      "lastDeliver": 1787393796200,
+      "lastRansom": 1787384454690,
+      "lastCode": 1787406386411,
+      "lastClean": 1787406427527,
+      "lastSteal": 1787406418338,
+      "StealSuccess": 2,
+      "lastHack": 1787406318708,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastSpins": 1787393778659,
+      "lastWork": 1787393793392,
+      "workSuccess": 1,
+      "lastBeg": 1787406381519,
+      "begSuccess": 2,
+      "level": 1,
+      "lastFreelance": 1787406408880
     }
   },
-  "savedAt": 1787480307571,
+  "savedAt": 1787480367634,
   "clan": {
     "201481": {
       "name": "fuh",
