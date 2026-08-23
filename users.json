@@ -839,14 +839,14 @@
       "lastRepair": 1784206272985
     },
     "279800426053766": {
-      "coin": 242862878441,
+      "coin": 316338393681,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️🍃",
       "spam": {
-        "lastMessage": 1787505216308,
+        "lastMessage": 1787519077595,
         "count": 1
       },
-      "xp": 295,
+      "xp": 455,
       "lastWork": 1787403008999,
       "lastRob": 1787326495522,
       "robSuccess": 556,
@@ -859,7 +859,7 @@
         "premium": true
       },
       "lastHack": 1787403018850,
-      "level": 564,
+      "level": 566,
       "lastMine": 1787122404395,
       "autolevelup": true,
       "lastFreelance": 1787255358567,
@@ -884,7 +884,7 @@
       "lastClean": 1787255366153,
       "lastRansom": 1782544949990,
       "lastSpin": 1787403051664,
-      "lastSaveData": 1787502781897,
+      "lastSaveData": 1787505218411,
       "lastBeg": 1782645005683,
       "begSuccess": 4,
       "lastDecrypt": 1782595532599,
@@ -947,7 +947,7 @@
         "upgradesBoughtSinceLevel": 0
       },
       "invPurchases": 2,
-      "winGame": 502,
+      "winGame": 503,
       "rpgwin": 500,
       "rpgGather": 500,
       "rpgtrades": 500,
@@ -959,12 +959,15 @@
       "pokemonviewcard": 500,
       "vipgameviewcard": 500,
       "weedcooked": 500,
-      "weedgather": 501,
+      "weedgather": 502,
       "weedsell": 500,
       "weedtrades": 500,
       "lastAddInv": 1787333951264,
       "lastBulkInv": 1787333951264,
       "spacedrones": [
+        {
+          "level": 5
+        },
         {
           "level": 5
         },
@@ -1063,11 +1066,11 @@
           null,
           null,
           null,
+          null,
           null
         ]
       },
-      "spacestationlastPassiveIncome": 1787494899175,
-      "clanId": "d27ab9",
+      "spacestationlastPassiveIncome": 1787511966979,
       "gear": {
         "equipped": {
           "weapon": null,
@@ -1081,27 +1084,37 @@
       "violations": 1,
       "spaceinventory": {},
       "weedinventory": {
-        "Weed Leaf": 4,
-        "Grinder Part": 2,
-        "Seed": 5,
+        "Weed Leaf": 8,
+        "Grinder Part": 4,
+        "Seed": 10,
         "Perlite": 3,
         "Bud": 2,
-        "Rolling Tray": 1,
-        "Pre-Roll": 1,
-        "Sativa Nug": 5,
+        "Rolling Tray": 4,
+        "Pre-Roll": 3,
+        "Sativa Nug": 6,
         "Compost": 1,
         "Vape Cartridge": 2,
-        "Dank Dragonfruit": 1
+        "Dank Dragonfruit": 2,
+        "Rolling Paper": 2,
+        "Grinder": 2,
+        "Kief Dust": 2,
+        "Water Pipe": 2,
+        "Edible": 2,
+        "Moon Rock": 3,
+        "Stash Jar": 1,
+        "Chillum": 1,
+        "Canvas Sheet": 2
       },
-      "weedlastGather": 1787402877455,
-      "lastBlackjack": 1787503717847,
-      "lastSpins": 1787503087256,
+      "weedlastGather": 1787505954432,
+      "lastBlackjack": 1787510419925,
+      "lastSpins": 1787505791395,
       "isHelper": true,
       "helperXP": 0,
       "helpedCount": 0,
       "helperLevel": 1,
       "helperGauge": 0,
-      "lastBuyUnban": 1787504003699
+      "lastBuyUnban": 1787504003699,
+      "clanId": "a8fd58"
     },
     "235858498158618": {
       "coin": 804076715,
@@ -6327,7 +6340,7 @@
       "xp": 60
     }
   },
-  "savedAt": 1787518941466,
+  "savedAt": 1787519078547,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -7080,6 +7093,67 @@
         "mission_2": 0
       },
       "lastQuestReset": 1787323011466,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [
+        "first_mission"
+      ],
+      "stats": {
+        "missionCount": 1,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
+      }
+    },
+    "a8fd58": {
+      "name": "Moets Hib",
+      "leader": "279800426053766",
+      "members": [
+        "279800426053766"
+      ],
+      "createdAt": 1787519014169,
+      "lastIncome": 1787519063632,
+      "lastBattle": 0,
+      "lastMission": 1787519029614,
+      "lastAmbush": 0,
+      "lastCollect": 1787519063632,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 5732600481,
+      "glory": 1095,
+      "essence": 4470,
+      "salvage": 667,
+      "renown": 50,
+      "xp": 110,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {
+        "mission_2": 1
+      },
+      "lastQuestReset": 1787519014169,
       "consumables": {},
       "activeConsumable": {},
       "achievements": [
