@@ -6281,14 +6281,14 @@
       }
     },
     "227608251887631": {
-      "coin": 150068498,
+      "coin": 300068498,
       "uid": "27cdd96f-31_b-nebula",
       "username": "@noluthando_🍒",
       "spam": {
-        "lastMessage": 1787480366607,
+        "lastMessage": 1787515157121,
         "count": 1
       },
-      "xp": 825,
+      "xp": 845,
       "lastRob": 1787406396011,
       "robSuccess": 15,
       "lastSpin": 1787406275864,
@@ -6312,7 +6312,8 @@
       "lastBeg": 1787406381519,
       "begSuccess": 2,
       "level": 1,
-      "lastFreelance": 1787406408880
+      "lastFreelance": 1787406408880,
+      "lastLoadAcct": 1787515070783
     },
     "227530388803691": {
       "coin": 150005000,
@@ -6325,7 +6326,7 @@
       "xp": 60
     }
   },
-  "savedAt": 1787513729076,
+  "savedAt": 1787515158212,
   "clan": {
     "201481": {
       "name": "fuh",
