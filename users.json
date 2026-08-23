@@ -839,14 +839,14 @@
       "lastRepair": 1784206272985
     },
     "279800426053766": {
-      "coin": 242862678241,
+      "coin": 242862878441,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️🍃",
       "spam": {
-        "lastMessage": 1787502779924,
+        "lastMessage": 1787505216308,
         "count": 1
       },
-      "xp": 835,
+      "xp": 295,
       "lastWork": 1787403008999,
       "lastRob": 1787326495522,
       "robSuccess": 556,
@@ -859,7 +859,7 @@
         "premium": true
       },
       "lastHack": 1787403018850,
-      "level": 563,
+      "level": 564,
       "lastMine": 1787122404395,
       "autolevelup": true,
       "lastFreelance": 1787255358567,
@@ -868,7 +868,7 @@
       "last_give_day": "Sun Aug 23 2026",
       "daily_give_total": 150000000,
       "lastClaim": {
-        "daily": 1787390479367,
+        "daily": 1787503510803,
         "weekly": 1787122417082,
         "yearly": 1787250449772,
         "legendary": 1787250864495,
@@ -884,7 +884,7 @@
       "lastClean": 1787255366153,
       "lastRansom": 1782544949990,
       "lastSpin": 1787403051664,
-      "lastSaveData": 1787495286812,
+      "lastSaveData": 1787502781897,
       "lastBeg": 1782645005683,
       "begSuccess": 4,
       "lastDecrypt": 1782595532599,
@@ -1094,7 +1094,14 @@
         "Dank Dragonfruit": 1
       },
       "weedlastGather": 1787402877455,
-      "lastBlackjack": 1787492680373
+      "lastBlackjack": 1787503717847,
+      "lastSpins": 1787503087256,
+      "isHelper": true,
+      "helperXP": 0,
+      "helpedCount": 0,
+      "helperLevel": 1,
+      "helperGauge": 0,
+      "lastBuyUnban": 1787504003699
     },
     "235858498158618": {
       "coin": 804076715,
@@ -6318,7 +6325,7 @@
       "xp": 60
     }
   },
-  "savedAt": 1787502780759,
+  "savedAt": 1787505217314,
   "clan": {
     "201481": {
       "name": "fuh",
