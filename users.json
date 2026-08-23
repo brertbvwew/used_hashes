@@ -6270,9 +6270,19 @@
       "begSuccess": 2,
       "level": 1,
       "lastFreelance": 1787406408880
+    },
+    "227530388803691": {
+      "coin": 150005000,
+      "uid": "1ae2d6c7-31_b-nebula",
+      "username": "@user_1ae2d6c7-31",
+      "spam": {
+        "lastMessage": 1787485982036,
+        "count": 1
+      },
+      "xp": 60
     }
   },
-  "savedAt": 1787485877736,
+  "savedAt": 1787485983112,
   "clan": {
     "201481": {
       "name": "fuh",
