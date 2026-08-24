@@ -839,14 +839,14 @@
       "lastRepair": 1784206272985
     },
     "279800426053766": {
-      "coin": 3039890918981,
+      "coin": 3637193747731,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️🍃",
       "spam": {
-        "lastMessage": 1787542426869,
+        "lastMessage": 1787586198048,
         "count": 1
       },
-      "xp": 255,
+      "xp": 35,
       "lastWork": 1787403008999,
       "lastRob": 1787326495522,
       "robSuccess": 556,
@@ -859,13 +859,13 @@
         "premium": true
       },
       "lastHack": 1787403018850,
-      "level": 569,
+      "level": 570,
       "lastMine": 1787122404395,
       "autolevelup": true,
       "lastFreelance": 1787255358567,
       "lastPhish": 1787255354976,
-      "last_give_use": 1787485926264,
-      "last_give_day": "Sun Aug 23 2026",
+      "last_give_use": 1787542567908,
+      "last_give_day": "Mon Aug 24 2026",
       "daily_give_total": 150000000,
       "lastClaim": {
         "daily": 1787503510803,
@@ -889,7 +889,7 @@
       "begSuccess": 4,
       "lastDecrypt": 1782595532599,
       "bank": 0,
-      "lastLoadAcct": 1787485903437,
+      "lastLoadAcct": 1787542471845,
       "usedCoupons": [
         {
           "hash": "dXNlcjo1YjdmNmE0M2ZmOGIzNGY4MWI3NzAzZTIxMWMzNGQ1MzoxNzg3MTE3NDM3OjE2MDVmM2Q2Ojk5ZDA0YzcyZWI0ZjQ5YjE4NTlmNTkwMjczYzZkZTE4",
@@ -959,7 +959,7 @@
       "pokemonviewcard": 500,
       "vipgameviewcard": 500,
       "weedcooked": 500,
-      "weedgather": 502,
+      "weedgather": 503,
       "weedsell": 500,
       "weedtrades": 500,
       "lastAddInv": 1787333951264,
@@ -1070,7 +1070,7 @@
           null
         ]
       },
-      "spacestationlastPassiveIncome": 1787520534493,
+      "spacestationlastPassiveIncome": 1787582275117,
       "gear": {
         "equipped": {
           "weapon": null,
@@ -1088,7 +1088,7 @@
         "Grinder Part": 4,
         "Seed": 10,
         "Perlite": 3,
-        "Bud": 2,
+        "Bud": 5,
         "Rolling Tray": 4,
         "Pre-Roll": 3,
         "Sativa Nug": 6,
@@ -1097,15 +1097,22 @@
         "Dank Dragonfruit": 2,
         "Rolling Paper": 2,
         "Grinder": 2,
-        "Kief Dust": 2,
-        "Water Pipe": 2,
-        "Edible": 2,
+        "Kief Dust": 5,
+        "Water Pipe": 3,
+        "Edible": 4,
         "Moon Rock": 3,
         "Stash Jar": 1,
-        "Chillum": 1,
-        "Canvas Sheet": 2
+        "Chillum": 2,
+        "Canvas Sheet": 2,
+        "Metal Lid": 5,
+        "Worm Castings": 2,
+        "Indica Bud": 1,
+        "Plastic Shard": 1,
+        "Hydro Pot": 2,
+        "THC Crystal": 2,
+        "Blazing Flower": 1
       },
-      "weedlastGather": 1787505954432,
+      "weedlastGather": 1787582292924,
       "lastBlackjack": 1787510419925,
       "lastSpins": 1787505791395,
       "isHelper": true,
@@ -1113,9 +1120,9 @@
       "helpedCount": 0,
       "helperLevel": 1,
       "helperGauge": 0,
-      "lastBuyUnban": 1787520791069,
-      "lastClanId": "3a8ffa",
-      "leftClanAt": 1787521180906
+      "lastBuyUnban": 1787545233970,
+      "lastClanId": "b0cc15",
+      "leftClanAt": 1787584534113
     },
     "235858498158618": {
       "coin": 804076715,
@@ -6341,7 +6348,7 @@
       "xp": 60
     }
   },
-  "savedAt": 1787585436565,
+  "savedAt": 1787586199029,
   "clan": {
     "201481": {
       "name": "fuh",
