@@ -791,10 +791,10 @@
       "xp": 360
     },
     "93939944173798": {
-      "coin": 518454378500,
+      "coin": 4527754578500,
       "uid": "232d457b-38_b-nebula",
       "username": "@ratilicious💋✨",
-      "xp": 480,
+      "xp": 860,
       "robbed": 32,
       "lastMine": 1787324487623,
       "lastHack": 1787325245795,
@@ -814,7 +814,7 @@
       "autolevelup": true,
       "level": 31,
       "lastClaim": {
-        "daily": 1787511650066,
+        "daily": 1787758913817,
         "weekly": 1787589415656
       },
       "invPurchases": 0,
@@ -824,12 +824,12 @@
       "lastPhish": 1787324611221,
       "lastRansom": 1787325266354,
       "spam": {
-        "lastMessage": 1787683165495,
+        "lastMessage": 1787923573652,
         "count": 1
       },
       "winGame": 9,
       "lastLoadAcct": 1787507858861,
-      "lastSaveData": 1787590698262,
+      "lastSaveData": 1787683167948,
       "violations": 7,
       "last_give_use": 1787507499168,
       "last_give_day": "Sun Aug 23 2026",
@@ -880,7 +880,7 @@
       },
       "lastTagAllTime": 1787590400807,
       "tagAllCount": 1,
-      "clanId": "2f943e"
+      "clanId": "a17c65"
     },
     "279800426053766": {
       "coin": 5696535264431,
@@ -6359,7 +6359,7 @@
       "xp": 60
     }
   },
-  "savedAt": 1787923493402,
+  "savedAt": 1787923574630,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -7416,6 +7416,63 @@
       "maxMembers": 5,
       "questProgress": {},
       "lastQuestReset": 1787676726699,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [],
+      "stats": {
+        "missionCount": 0,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
+      }
+    },
+    "a17c65": {
+      "name": "y3k",
+      "leader": "93939944173798",
+      "members": [
+        "93939944173798"
+      ],
+      "createdAt": 1787757818713,
+      "lastIncome": 1787757839725,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 1787757839725,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "salvage": 0,
+      "renown": 0,
+      "xp": 30,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {},
+      "lastQuestReset": 1787757818713,
       "consumables": {},
       "activeConsumable": {},
       "achievements": [],
