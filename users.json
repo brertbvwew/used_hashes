@@ -883,14 +883,14 @@
       "clanId": "a17c65"
     },
     "279800426053766": {
-      "coin": 5696535264431,
+      "coin": 23696535264431,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️🍃",
       "spam": {
-        "lastMessage": 1787758026835,
+        "lastMessage": 1787936042977,
         "count": 1
       },
-      "xp": 775,
+      "xp": 855,
       "lastWork": 1787403008999,
       "lastRob": 1787326495522,
       "robSuccess": 556,
@@ -933,7 +933,7 @@
       "begSuccess": 4,
       "lastDecrypt": 1782595532599,
       "bank": 0,
-      "lastLoadAcct": 1787757558828,
+      "lastLoadAcct": 1787935924695,
       "usedCoupons": [
         {
           "hash": "dXNlcjo1YjdmNmE0M2ZmOGIzNGY4MWI3NzAzZTIxMWMzNGQ1MzoxNzg3MTE3NDM3OjE2MDVmM2Q2Ojk5ZDA0YzcyZWI0ZjQ5YjE4NTlmNTkwMjczYzZkZTE4",
@@ -1173,8 +1173,7 @@
       "inventory": [
         "spacecolony"
       ],
-      "lastClanId": "0fef61",
-      "leftClanAt": 1787757978725
+      "clanId": "9a6fd6"
     },
     "235858498158618": {
       "coin": 804076715,
@@ -6360,7 +6359,7 @@
       "xp": 60
     }
   },
-  "savedAt": 1787935965385,
+  "savedAt": 1787936044097,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -7483,6 +7482,65 @@
         "eventWins": 0,
         "territoryClaims": 0,
         "totalDeposited": 0
+      }
+    },
+    "9a6fd6": {
+      "name": "y3k",
+      "leader": "279800426053766",
+      "members": [
+        "279800426053766"
+      ],
+      "createdAt": 1787935942947,
+      "lastIncome": 0,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 0,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "salvage": 0,
+      "renown": 0,
+      "xp": 0,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {
+        "deposit_5m": 500000000000
+      },
+      "lastQuestReset": 1787935942947,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [],
+      "stats": {
+        "missionCount": 0,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 18000000000000
       }
     }
   }
