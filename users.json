@@ -1480,20 +1480,20 @@
       "permanent": false
     },
     "198449416917151": {
-      "coin": 323401576606,
+      "coin": 1334245003736,
       "uid": "364664be-31_b-nebula",
       "username": "@Sexy_Sonto🍒",
-      "xp": 585,
+      "xp": 875,
       "lastRansom": 1787481432011,
-      "robSuccess": 839,
+      "robSuccess": 840,
       "received_total": 1934406200,
-      "lastSpin": 1787514847799,
+      "lastSpin": 1788289676107,
       "lastMine": 1787514854989,
       "lastRoulette": 1767821716253,
       "lastFlip": 1767824111645,
       "autolevelup": true,
       "lastPhish": 1787371636232,
-      "lastRob": 1787514969021,
+      "lastRob": 1788290063926,
       "lastWork": 1787383826592,
       "workSuccess": 70,
       "lastSpins": 1787383899841,
@@ -1516,9 +1516,9 @@
         "monthly": 1788289189690,
         "quarterly": 1784291072600
       },
-      "robbed": 67,
+      "robbed": 68,
       "spam": {
-        "lastMessage": 1788289312425,
+        "lastMessage": 1788306238595,
         "count": 1
       },
       "lastBlackjack": 1784184400132,
@@ -1533,7 +1533,7 @@
       "lastBeg": 1787324849249,
       "begSuccess": 33,
       "donated_total": 200000,
-      "lastSaveData": 1788025963533,
+      "lastSaveData": 1788289314579,
       "lastLoadAcct": 1785668410057,
       "rpginventory": {},
       "rpghealth": 15,
@@ -6367,7 +6367,7 @@
       "xp": 60
     }
   },
-  "savedAt": 1788289717357,
+  "savedAt": 1788306239752,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -7076,7 +7076,8 @@
       "name": "tshabalala's fc",
       "leader": "198449416917151",
       "members": [
-        "198449416917151"
+        "198449416917151",
+        "257488272269538"
       ],
       "createdAt": 1787323011466,
       "lastIncome": 1788289173939,
@@ -7096,7 +7097,7 @@
         "logistics": 0
       },
       "perks": {},
-      "coin": 843425251,
+      "coin": 0,
       "glory": 1425,
       "essence": 7511,
       "salvage": 3414,
@@ -7118,7 +7119,8 @@
       "maxMembers": 5,
       "questProgress": {
         "mission_2": 0,
-        "scavenge_3": 4
+        "scavenge_3": 4,
+        "deposit_5m": 500000000000
       },
       "lastQuestReset": 1787323011466,
       "consumables": {},
@@ -7131,7 +7133,7 @@
         "battleWins": 0,
         "eventWins": 0,
         "territoryClaims": 0,
-        "totalDeposited": 0
+        "totalDeposited": 1010000000000
       }
     },
     "a8fd58": {
