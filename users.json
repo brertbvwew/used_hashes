@@ -792,10 +792,10 @@
       "xp": 360
     },
     "93939944173798": {
-      "coin": 4527754578500,
+      "coin": 4551575733500,
       "uid": "232d457b-38_b-nebula",
       "username": "@ratilicious💋✨",
-      "xp": 860,
+      "xp": 560,
       "robbed": 32,
       "lastMine": 1787324487623,
       "lastHack": 1787325245795,
@@ -809,14 +809,15 @@
       "lastRobBank": 1787598748285,
       "hasSentMsg": {
         "cooldown": true,
-        "premium": true
+        "premium": true,
+        "group": true
       },
       "lastDeliver": 1787497714629,
       "autolevelup": true,
-      "level": 31,
+      "level": 32,
       "lastClaim": {
-        "daily": 1787758913817,
-        "weekly": 1787589415656
+        "daily": 1788358300333,
+        "weekly": 1788358314308
       },
       "invPurchases": 0,
       "lastFreelance": 1787327995580,
@@ -825,16 +826,16 @@
       "lastPhish": 1787324611221,
       "lastRansom": 1787325266354,
       "spam": {
-        "lastMessage": 1787923573652,
+        "lastMessage": 1788358444770,
         "count": 1
       },
       "winGame": 9,
       "lastLoadAcct": 1787507858861,
-      "lastSaveData": 1787683167948,
+      "lastSaveData": 1787923575822,
       "violations": 7,
-      "last_give_use": 1787507499168,
-      "last_give_day": "Sun Aug 23 2026",
-      "daily_give_total": 4,
+      "last_give_use": 1787938904698,
+      "last_give_day": "Fri Aug 28 2026",
+      "daily_give_total": 30000000,
       "lastDecrypt": 1787327989116,
       "lastSteal": 1787324667653,
       "StealSuccess": 2,
@@ -881,7 +882,7 @@
       },
       "lastTagAllTime": 1787590400807,
       "tagAllCount": 1,
-      "clanId": "a17c65"
+      "clanId": "a61eb1"
     },
     "279800426053766": {
       "coin": 23696535264431,
@@ -6368,7 +6369,7 @@
       "xp": 60
     }
   },
-  "savedAt": 1788327187524,
+  "savedAt": 1788358446121,
   "clan": {
     "201481": {
       "name": "fuh",
@@ -7552,6 +7553,63 @@
         "eventWins": 0,
         "territoryClaims": 0,
         "totalDeposited": 18000000000000
+      }
+    },
+    "a61eb1": {
+      "name": "y3k",
+      "leader": "93939944173798",
+      "members": [
+        "93939944173798"
+      ],
+      "createdAt": 1788358372451,
+      "lastIncome": 1788358387184,
+      "lastBattle": 0,
+      "lastMission": 0,
+      "lastAmbush": 0,
+      "lastCollect": 1788358387184,
+      "lastChallenge": 0,
+      "lastScavenge": 0,
+      "lastResearch": 0,
+      "lastTrain": 0,
+      "upgrades": {
+        "defense": 0,
+        "attack": 0,
+        "vault": 0,
+        "morale": 0,
+        "logistics": 0
+      },
+      "perks": {},
+      "coin": 0,
+      "glory": 0,
+      "essence": 0,
+      "salvage": 0,
+      "renown": 0,
+      "xp": 30,
+      "level": 1,
+      "roles": {
+        "treasurer": null,
+        "warlord": null,
+        "spy": null,
+        "scout": null,
+        "quartermaster": null
+      },
+      "research": {
+        "project": null,
+        "eta": 0,
+        "projectType": null
+      },
+      "maxMembers": 5,
+      "questProgress": {},
+      "lastQuestReset": 1788358372451,
+      "consumables": {},
+      "activeConsumable": {},
+      "achievements": [],
+      "stats": {
+        "missionCount": 0,
+        "battleWins": 0,
+        "eventWins": 0,
+        "territoryClaims": 0,
+        "totalDeposited": 0
       }
     }
   }
