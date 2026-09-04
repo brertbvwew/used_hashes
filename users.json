@@ -38,7 +38,40 @@
       "hasSentMsg": {
         "owner": true
       }
+    },
+    "249216148455505": {
+      "coin": 54179,
+      "level": 0,
+      "uid": "6f4c608-35_b-nebula",
+      "username": "@No.1",
+      "spam": {
+        "lastMessage": 1788530699878,
+        "count": 1
+      },
+      "xp": 471,
+      "autolevelup": true,
+      "hasSentMsg": {
+        "coin": true
+      },
+      "lastWork": 1788530230732,
+      "lastRob": 1788530232242,
+      "robSuccess": 6,
+      "lastRobBank": 1788530236636,
+      "lastPhish": 1788530275085,
+      "lastSteal": 1788530295259,
+      "StealSuccess": 1,
+      "lastDecrypt": 1788530297937,
+      "lastDeliver": 1788530301172,
+      "lastBeg": 1788530312373,
+      "begSuccess": 1,
+      "lastClean": 1788530317171,
+      "lastCode": 1788530318324,
+      "lastFreelance": 1788530337078,
+      "lastHack": 1788530340335,
+      "lastMine": 1788530341719,
+      "lastRansom": 1788530356531,
+      "lastRepair": 1788530358323
     }
   },
-  "savedAt": 1788530254972
+  "savedAt": 1788530700593
 }
