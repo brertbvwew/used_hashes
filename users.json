@@ -3,14 +3,15 @@
     "168419274039524": {
       "coin": 25700,
       "spam": {
-        "lastMessage": 1788433288486,
+        "lastMessage": 1788528106069,
         "count": 1
       },
       "level": 0,
-      "xp": 60,
+      "xp": 100,
       "uid": "2d7b4b28-34_b-nebula",
-      "username": "@user_2d7b4b28-34"
+      "username": "@user_2d7b4b28-34",
+      "lastLoadAcct": 1788528067016
     }
   },
-  "savedAt": 1788433288754
+  "savedAt": 1788528106584
 }
