@@ -124,7 +124,24 @@
       "lastDeliver": 1788537726751,
       "lastCode": 1788537748719,
       "lastBlackjack": 1788537788450
+    },
+    "106077605646392": {
+      "coin": 25400,
+      "spam": {
+        "lastMessage": 1788554248504,
+        "count": 1
+      },
+      "level": 0,
+      "xp": 260,
+      "uid": "28d70f27-32_b-nebula",
+      "username": "@user_28d70f27-32",
+      "lastSpin": 1788554151727,
+      "hasSentMsg": {
+        "admin": true,
+        "cooldown": true
+      },
+      "lastBlackjack": 1788554161471
     }
   },
-  "savedAt": 1788552322166
+  "savedAt": 1788554249303
 }
