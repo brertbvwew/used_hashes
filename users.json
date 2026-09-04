@@ -42,38 +42,45 @@
       }
     },
     "249216148455505": {
-      "coin": 54179,
+      "coin": 10002,
       "level": 0,
       "uid": "6f4c608-35_b-nebula",
       "username": "@No.1",
       "spam": {
-        "lastMessage": 1788530699878,
+        "lastMessage": 1788533378668,
         "count": 1
       },
-      "xp": 471,
+      "xp": 709,
       "autolevelup": true,
       "hasSentMsg": {
-        "coin": true
+        "coin": true,
+        "cooldown": true
       },
-      "lastWork": 1788530230732,
-      "lastRob": 1788530232242,
-      "robSuccess": 6,
-      "lastRobBank": 1788530236636,
-      "lastPhish": 1788530275085,
-      "lastSteal": 1788530295259,
-      "StealSuccess": 1,
-      "lastDecrypt": 1788530297937,
-      "lastDeliver": 1788530301172,
-      "lastBeg": 1788530312373,
-      "begSuccess": 1,
-      "lastClean": 1788530317171,
-      "lastCode": 1788530318324,
-      "lastFreelance": 1788530337078,
-      "lastHack": 1788530340335,
-      "lastMine": 1788530341719,
-      "lastRansom": 1788530356531,
-      "lastRepair": 1788530358323
+      "lastWork": 1788533252784,
+      "lastRob": 1788533241479,
+      "robSuccess": 17,
+      "lastRobBank": 1788533244560,
+      "lastPhish": 1788533038459,
+      "lastSteal": 1788533247087,
+      "StealSuccess": 3,
+      "lastDecrypt": 1788532988585,
+      "lastDeliver": 1788533209975,
+      "lastBeg": 1788533195097,
+      "begSuccess": 3,
+      "lastClean": 1788533199520,
+      "lastCode": 1788533202480,
+      "lastFreelance": 1788533215998,
+      "lastHack": 1788533219264,
+      "lastMine": 1788533223061,
+      "lastRansom": 1788533234427,
+      "lastRepair": 1788533236963,
+      "lastSaveData": 1788530701316,
+      "workSuccess": 2,
+      "lastBlackjack": 1788532682103,
+      "lastSpins": 1788533324009,
+      "lastSpin": 1788533364757,
+      "bank": 113991
     }
   },
-  "savedAt": 1788532103200
+  "savedAt": 1788533379250
 }
