@@ -11,7 +11,21 @@
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@user_2d7b4b28-34",
       "lastLoadAcct": 1788528067016
+    },
+    "78534164926489": {
+      "coin": 25000,
+      "spam": {
+        "lastMessage": 1788530090939,
+        "count": 1
+      },
+      "level": 0,
+      "xp": 80,
+      "uid": "3706dde-39_b-nebula",
+      "username": "@user_3706dde-39",
+      "hasSentMsg": {
+        "owner": true
+      }
     }
   },
-  "savedAt": 1788528106584
+  "savedAt": 1788530091600
 }
