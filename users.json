@@ -80,7 +80,41 @@
       "lastSpins": 1788536632945,
       "lastSpin": 1788536635703,
       "bank": 263101
+    },
+    "137375183323372": {
+      "coin": 60063,
+      "level": 0,
+      "uid": "d31b042-32_b-nebula",
+      "username": "@Wayne4TheMammies",
+      "robbed": 1,
+      "spam": {
+        "lastMessage": 1788538056162,
+        "count": 1
+      },
+      "xp": 445,
+      "hasSentMsg": {
+        "coin": true,
+        "admin": true,
+        "cooldown": true
+      },
+      "lastRob": 1788537658831,
+      "robSuccess": 10,
+      "lastSteal": 1788537661795,
+      "StealSuccess": 2,
+      "lastPhish": 1788537732818,
+      "lastRansom": 1788537696501,
+      "lastDecrypt": 1788537668139,
+      "lastWork": 1788537673661,
+      "workSuccess": 2,
+      "autolevelup": true,
+      "lastHack": 1788537664209,
+      "lastMine": 1788537709378,
+      "lastRobBank": 1788537712389,
+      "lastClean": 1788537722856,
+      "lastDeliver": 1788537726751,
+      "lastCode": 1788537748719,
+      "lastBlackjack": 1788537788450
     }
   },
-  "savedAt": 1788536690398
+  "savedAt": 1788538056904
 }
