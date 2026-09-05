@@ -189,7 +189,18 @@
       "begSuccess": 1,
       "lastMine": 1788601235538,
       "lastFreelance": 1788601237807
+    },
+    "279800426053766": {
+      "coin": 25000,
+      "level": 0,
+      "uid": "2c18d595-36_b-nebula",
+      "username": "@user_2c18d595-36",
+      "spam": {
+        "lastMessage": 1788622050940,
+        "count": 1
+      },
+      "xp": 60
     }
   },
-  "savedAt": 1788613366153
+  "savedAt": 1788622051780
 }
