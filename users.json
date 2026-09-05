@@ -150,7 +150,22 @@
         "cooldown": true
       },
       "lastBlackjack": 1788554161471
+    },
+    "151994715099391": {
+      "coin": 37944,
+      "spam": {
+        "lastMessage": 1788588432196,
+        "count": 1
+      },
+      "level": 0,
+      "xp": 180,
+      "uid": "132dec0a-31_b-nebula",
+      "username": "@user_132dec0a-31",
+      "robbed": 1,
+      "lastWork": 1788542308801,
+      "workSuccess": 1,
+      "lastSpins": 1788588408961
     }
   },
-  "savedAt": 1788580395846
+  "savedAt": 1788588432917
 }
