@@ -58,47 +58,50 @@
       }
     },
     "249216148455505": {
-      "coin": 10000,
-      "level": 1,
+      "coin": 28891,
+      "level": 3,
       "uid": "6f4c608-35_b-nebula",
       "username": "@No.1",
       "spam": {
-        "lastMessage": 1788603656403,
+        "lastMessage": 1788613365537,
         "count": 1
       },
-      "xp": 1162,
+      "xp": 1862,
       "autolevelup": true,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true
       },
-      "lastWork": 1788602798878,
-      "lastRob": 1788602757061,
-      "robSuccess": 90,
-      "lastRobBank": 1788602767704,
-      "lastPhish": 1788602712419,
-      "lastSteal": 1788602783011,
-      "StealSuccess": 15,
+      "lastWork": 1788604031951,
+      "lastRob": 1788604020862,
+      "robSuccess": 95,
+      "lastRobBank": 1788604036274,
+      "lastPhish": 1788604012066,
+      "lastSteal": 1788604033660,
+      "StealSuccess": 16,
       "lastDecrypt": 1788602630236,
-      "lastDeliver": 1788602652543,
+      "lastDeliver": 1788603984453,
       "lastBeg": 1788602551109,
       "begSuccess": 15,
-      "lastClean": 1788602596803,
-      "lastCode": 1788602611910,
-      "lastFreelance": 1788602666777,
-      "lastHack": 1788602682137,
-      "lastMine": 1788602699739,
-      "lastRansom": 1788602726017,
-      "lastRepair": 1788602743294,
-      "lastSaveData": 1788580396889,
-      "workSuccess": 16,
+      "lastClean": 1788603860863,
+      "lastCode": 1788603857385,
+      "lastFreelance": 1788603981434,
+      "lastHack": 1788604016685,
+      "lastMine": 1788604014752,
+      "lastRansom": 1788604027578,
+      "lastRepair": 1788604023684,
+      "lastSaveData": 1788603657751,
+      "workSuccess": 17,
       "lastBlackjack": 1788532682103,
-      "lastSpins": 1788603372482,
-      "lastSpin": 1788603369835,
+      "lastSpins": 1788604047462,
+      "lastSpin": 1788604165951,
       "bank": 553726,
       "lastLoadAcct": 1788536697921,
       "robbed": 1,
-      "winGame": 1
+      "winGame": 1,
+      "last_give_use": 1788603825892,
+      "last_give_day": "Sat Sep 05 2026",
+      "daily_give_total": 10000
     },
     "137375183323372": {
       "coin": 60063,
@@ -188,5 +191,5 @@
       "lastFreelance": 1788601237807
     }
   },
-  "savedAt": 1788603657055
+  "savedAt": 1788613366153
 }
