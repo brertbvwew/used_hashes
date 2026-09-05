@@ -58,46 +58,47 @@
       }
     },
     "249216148455505": {
-      "coin": 2362,
-      "level": 0,
+      "coin": 47611,
+      "level": 1,
       "uid": "6f4c608-35_b-nebula",
       "username": "@No.1",
       "spam": {
-        "lastMessage": 1788540526126,
+        "lastMessage": 1788580395210,
         "count": 1
       },
-      "xp": 14959,
+      "xp": 362,
       "autolevelup": true,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true
       },
-      "lastWork": 1788540495827,
-      "lastRob": 1788536591327,
-      "robSuccess": 42,
-      "lastRobBank": 1788536607652,
-      "lastPhish": 1788536583217,
-      "lastSteal": 1788536609563,
-      "StealSuccess": 7,
-      "lastDecrypt": 1788536531276,
-      "lastDeliver": 1788536553583,
-      "lastBeg": 1788536537494,
-      "begSuccess": 7,
-      "lastClean": 1788536539068,
-      "lastCode": 1788536539969,
-      "lastFreelance": 1788536620179,
-      "lastHack": 1788536556700,
-      "lastMine": 1788536557642,
-      "lastRansom": 1788536588155,
-      "lastRepair": 1788536589017,
-      "lastSaveData": 1788533380094,
-      "workSuccess": 7,
+      "lastWork": 1788580371489,
+      "lastRob": 1788580356985,
+      "robSuccess": 66,
+      "lastRobBank": 1788580369827,
+      "lastPhish": 1788580354431,
+      "lastSteal": 1788580370648,
+      "StealSuccess": 11,
+      "lastDecrypt": 1788580249006,
+      "lastDeliver": 1788580343705,
+      "lastBeg": 1788580242626,
+      "begSuccess": 11,
+      "lastClean": 1788580247072,
+      "lastCode": 1788580248123,
+      "lastFreelance": 1788580344577,
+      "lastHack": 1788580346246,
+      "lastMine": 1788580347132,
+      "lastRansom": 1788580355375,
+      "lastRepair": 1788580356185,
+      "lastSaveData": 1788540527721,
+      "workSuccess": 12,
       "lastBlackjack": 1788532682103,
-      "lastSpins": 1788536632945,
-      "lastSpin": 1788536635703,
-      "bank": 270506,
+      "lastSpins": 1788580198981,
+      "lastSpin": 1788580231348,
+      "bank": 392386,
       "lastLoadAcct": 1788536697921,
-      "robbed": 1
+      "robbed": 1,
+      "winGame": 1
     },
     "137375183323372": {
       "coin": 60063,
@@ -151,5 +152,5 @@
       "lastBlackjack": 1788554161471
     }
   },
-  "savedAt": 1788554737423
+  "savedAt": 1788580395846
 }
