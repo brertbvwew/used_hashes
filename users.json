@@ -275,7 +275,39 @@
       "lastRepair": 1788706365434,
       "lastLoadAcct": 1788706413923,
       "lastDeliver": 1788706864749
+    },
+    "246098019020928": {
+      "coin": 62779,
+      "level": 0,
+      "uid": "2920406d-38_b-nebula",
+      "username": "@user_2920406d-38",
+      "robbed": 3,
+      "spam": {
+        "lastMessage": 1788709067127,
+        "count": 1
+      },
+      "xp": 2100,
+      "lastBeg": 1788680718521,
+      "begSuccess": 4,
+      "hasSentMsg": {
+        "cooldown": true,
+        "banned": true
+      },
+      "lastRob": 1788708884812,
+      "robSuccess": 12,
+      "lastRobBank": 1788708889949,
+      "lastClean": 1788708907590,
+      "lastWork": 1788650794871,
+      "workSuccess": 1,
+      "lastHack": 1788651366485,
+      "lastRepair": 1788650829746,
+      "lastBlackjack": 1788650959354,
+      "banned": false,
+      "permanent": false,
+      "lastSpins": 1788708804125,
+      "lastSpin": 1788690438274,
+      "bank": 1000
     }
   },
-  "savedAt": 1788707869796
+  "savedAt": 1788709067908
 }
