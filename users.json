@@ -307,7 +307,42 @@
       "lastSpins": 1788708804125,
       "lastSpin": 1788690438274,
       "bank": 1000
+    },
+    "92612597956617": {
+      "coin": 116276,
+      "level": 0,
+      "uid": "7deb4b8-37_b-nebula",
+      "username": "@l'amour.de.ma.vie",
+      "spam": {
+        "lastMessage": 1788709207295,
+        "count": 1
+      },
+      "xp": 1500,
+      "lastClean": 1788704795588,
+      "lastDecrypt": 1788704827245,
+      "robSuccess": 18,
+      "lastDeliver": 1788704844978,
+      "lastFreelance": 1788704864010,
+      "lastHack": 1788704916911,
+      "lastMine": 1788704936024,
+      "lastPhish": 1788704951145,
+      "lastRansom": 1788704966914,
+      "lastRepair": 1788704985738,
+      "lastRob": 1788705000819,
+      "lastRobBank": 1788705018808,
+      "lastSteal": 1788705036760,
+      "StealSuccess": 4,
+      "lastWork": 1788705054393,
+      "workSuccess": 3,
+      "lastBeg": 1788704779235,
+      "begSuccess": 2,
+      "lastCode": 1788704809651,
+      "lastSpins": 1788705084503,
+      "autolevelup": true,
+      "last_give_use": 1788704180248,
+      "last_give_day": "Sun Sep 06 2026",
+      "daily_give_total": 2000
     }
   },
-  "savedAt": 1788709067908
+  "savedAt": 1788709207987
 }
