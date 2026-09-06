@@ -194,36 +194,47 @@
       "lastFreelance": 1788601237807
     },
     "279800426053766": {
-      "coin": 82797,
+      "coin": 193467,
       "level": 0,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1788689216710,
+        "lastMessage": 1788706694452,
         "count": 1
       },
-      "xp": 1360,
-      "lastSaveData": 1788624167247,
+      "xp": 2760,
+      "lastSaveData": 1788689218029,
       "autolevelup": true,
-      "lastWork": 1788687591786,
-      "workSuccess": 5,
-      "lastHack": 1788688885169,
-      "robSuccess": 11,
-      "lastRobBank": 1788688878084,
+      "lastWork": 1788706237759,
+      "workSuccess": 8,
+      "lastHack": 1788706240153,
+      "robSuccess": 20,
+      "lastRobBank": 1788705914288,
       "hasSentMsg": {
         "coin": true,
-        "banned": true
+        "banned": true,
+        "cooldown": true
       },
-      "lastClean": 1788655566872,
-      "lastPhish": 1788682317458,
-      "lastBeg": 1788682319209,
-      "begSuccess": 1,
+      "lastClean": 1788706245607,
+      "lastPhish": 1788704623862,
+      "lastBeg": 1788706258147,
+      "begSuccess": 3,
       "banned": false,
       "permanent": false,
-      "lastBlackjack": 1788688836889,
-      "lastSpins": 1788688869852,
-      "lastFreelance": 1788688896584,
-      "lastDecrypt": 1788688900479
+      "lastBlackjack": 1788706649447,
+      "lastSpins": 1788705938274,
+      "lastFreelance": 1788705970084,
+      "lastDecrypt": 1788706585212,
+      "lastMine": 1788706555314,
+      "lastSteal": 1788706564533,
+      "StealSuccess": 2,
+      "lastRepair": 1788706525834,
+      "lastRansom": 1788706027005,
+      "lastCode": 1788706664682,
+      "lastDeliver": 1788706592741,
+      "lastSpin": 1788706646866,
+      "lastRob": 1788706559753,
+      "violations": 1
     },
     "27672522981": {
       "coin": 18169,
@@ -263,5 +274,5 @@
       "lastRepair": 1788706365434
     }
   },
-  "savedAt": 1788706386963
+  "savedAt": 1788706695045
 }
