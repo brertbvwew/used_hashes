@@ -238,42 +238,44 @@
       "lastLoadAcct": 1788706731486
     },
     "27672522981": {
-      "coin": 18169,
+      "coin": 8341,
       "level": 0,
       "uid": "1f06dd91-31_b-nebula",
       "username": "@user_1f06dd91-31",
       "spam": {
-        "lastMessage": 1788706386160,
+        "lastMessage": 1788707868824,
         "count": 1
       },
-      "xp": 820,
-      "last_give_use": 1788705753180,
+      "xp": 1480,
+      "last_give_use": 1788707679479,
       "last_give_day": "Sun Sep 06 2026",
-      "daily_give_total": 39000,
+      "daily_give_total": 78000,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true
       },
-      "lastWork": 1788705694068,
-      "workSuccess": 1,
-      "lastHack": 1788705698875,
-      "robSuccess": 6,
+      "lastWork": 1788707585241,
+      "workSuccess": 4,
+      "lastHack": 1788707633679,
+      "robSuccess": 13,
       "lastPhish": 1788705702279,
-      "lastDecrypt": 1788706295460,
+      "lastDecrypt": 1788707658053,
       "lastFreelance": 1788706327736,
       "lastMine": 1788705713566,
-      "lastBlackjack": 1788706312147,
+      "lastBlackjack": 1788707638429,
       "lastSpins": 1788706316011,
-      "lastBeg": 1788706334124,
-      "begSuccess": 2,
-      "lastCode": 1788706297806,
-      "lastRobBank": 1788706337199,
-      "lastRob": 1788706341016,
-      "lastSteal": 1788706344052,
-      "StealSuccess": 1,
-      "lastSpin": 1788706353707,
-      "lastRepair": 1788706365434
+      "lastBeg": 1788706871020,
+      "begSuccess": 3,
+      "lastCode": 1788707645222,
+      "lastRobBank": 1788707694892,
+      "lastRob": 1788707696740,
+      "lastSteal": 1788707698936,
+      "StealSuccess": 2,
+      "lastSpin": 1788707687669,
+      "lastRepair": 1788706365434,
+      "lastLoadAcct": 1788706413923,
+      "lastDeliver": 1788706864749
     }
   },
-  "savedAt": 1788707812740
+  "savedAt": 1788707869796
 }
