@@ -366,11 +366,11 @@
     "257488272269538": {
       "coin": 2598824,
       "spam": {
-        "lastMessage": 1788802768067,
+        "lastMessage": 1788804721184,
         "count": 1
       },
       "level": 0,
-      "xp": 1360,
+      "xp": 1500,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@Daddy",
       "robbed": 1,
@@ -399,9 +399,9 @@
       "daily_give_total": 2700,
       "lastLoadAcct": 1788802588200,
       "autolevelup": true,
-      "lastSaveData": 1788800717304,
+      "lastSaveData": 1788802769443,
       "lastSpin": 1788801841135
     }
   },
-  "savedAt": 1788802768624
+  "savedAt": 1788804722003
 }
