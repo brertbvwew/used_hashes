@@ -361,13 +361,13 @@
       "daily_give_total": 2000
     },
     "257488272269538": {
-      "coin": 333531,
+      "coin": 978824,
       "spam": {
-        "lastMessage": 1788800715938,
+        "lastMessage": 1788802533635,
         "count": 1
       },
       "level": 0,
-      "xp": 1140,
+      "xp": 1300,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@Daddy",
       "robbed": 1,
@@ -389,14 +389,16 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastBuyPremium": 1788793721130,
-      "lastRob": 1788794107844,
-      "robSuccess": 1,
+      "lastRob": 1788801723688,
+      "robSuccess": 2,
       "last_give_use": 1788794198145,
       "last_give_day": "Mon Sep 07 2026",
       "daily_give_total": 2700,
       "lastLoadAcct": 1788797101508,
-      "autolevelup": true
+      "autolevelup": true,
+      "lastSaveData": 1788800717304,
+      "lastSpin": 1788801841135
     }
   },
-  "savedAt": 1788800716516
+  "savedAt": 1788802534249
 }
