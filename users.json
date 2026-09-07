@@ -355,7 +355,42 @@
       "last_give_use": 1788704180248,
       "last_give_day": "Sun Sep 06 2026",
       "daily_give_total": 2000
+    },
+    "257488272269538": {
+      "coin": 333531,
+      "spam": {
+        "lastMessage": 1788797060837,
+        "count": 1
+      },
+      "level": 0,
+      "xp": 1020,
+      "uid": "2ee0d109-38_b-nebula",
+      "username": "@user_2ee0d109-38",
+      "robbed": 1,
+      "hasSentMsg": {
+        "coin": true,
+        "cooldown": true,
+        "owner": true
+      },
+      "crashGame": {
+        "betAmount": 550,
+        "crashPoint": 3.12,
+        "startedAt": 1788718696751,
+        "active": false
+      },
+      "lastCrash": 1788718714600,
+      "lastSpins": 1788782904087,
+      "premium": true,
+      "premiumUntil": 1788804521130,
+      "uplimit": "10MB",
+      "limit": 10,
+      "lastBuyPremium": 1788793721130,
+      "lastRob": 1788794107844,
+      "robSuccess": 1,
+      "last_give_use": 1788794198145,
+      "last_give_day": "Mon Sep 07 2026",
+      "daily_give_total": 2700
     }
   },
-  "savedAt": 1788797024483
+  "savedAt": 1788797061602
 }
