@@ -401,7 +401,19 @@
       "autolevelup": true,
       "lastSaveData": 1788802769443,
       "lastSpin": 1788801841135
+    },
+    "129511299494015": {
+      "coin": 11619,
+      "spam": {
+        "lastMessage": 1788814543688,
+        "count": 1
+      },
+      "level": 0,
+      "xp": 180,
+      "uid": "105c30d7-35_b-nebula",
+      "username": "@user_105c30d7-35",
+      "robbed": 5
     }
   },
-  "savedAt": 1788807851240
+  "savedAt": 1788814544626
 }
