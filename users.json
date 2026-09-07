@@ -194,48 +194,61 @@
       "lastFreelance": 1788601237807
     },
     "279800426053766": {
-      "coin": 229712,
+      "coin": 309864,
       "level": 0,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1788707811969,
+        "lastMessage": 1788797023861,
         "count": 1
       },
-      "xp": 3020,
+      "xp": 5020,
       "lastSaveData": 1788689218029,
       "autolevelup": true,
-      "lastWork": 1788707745373,
-      "workSuccess": 9,
-      "lastHack": 1788706240153,
-      "robSuccess": 22,
-      "lastRobBank": 1788705914288,
+      "lastWork": 1788795616778,
+      "workSuccess": 15,
+      "lastHack": 1788795621547,
+      "robSuccess": 38,
+      "lastRobBank": 1788721431767,
       "hasSentMsg": {
         "coin": true,
         "banned": true,
         "cooldown": true
       },
-      "lastClean": 1788706245607,
-      "lastPhish": 1788707794723,
-      "lastBeg": 1788707767159,
-      "begSuccess": 4,
+      "lastClean": 1788793222604,
+      "lastPhish": 1788795669799,
+      "lastBeg": 1788795841382,
+      "begSuccess": 7,
       "banned": false,
       "permanent": false,
-      "lastBlackjack": 1788707749446,
-      "lastSpins": 1788705938274,
-      "lastFreelance": 1788707769698,
-      "lastDecrypt": 1788707755099,
-      "lastMine": 1788707792236,
+      "lastBlackjack": 1788795918924,
+      "lastSpins": 1788795606488,
+      "lastFreelance": 1788795695621,
+      "lastDecrypt": 1788795643803,
+      "lastMine": 1788795673245,
       "lastSteal": 1788706564533,
       "StealSuccess": 2,
       "lastRepair": 1788706525834,
       "lastRansom": 1788706027005,
-      "lastCode": 1788707762983,
+      "lastCode": 1788795626365,
       "lastDeliver": 1788706592741,
-      "lastSpin": 1788707752202,
-      "lastRob": 1788706559753,
+      "lastSpin": 1788795614680,
+      "lastRob": 1788716701088,
       "violations": 1,
-      "lastLoadAcct": 1788706731486
+      "lastLoadAcct": 1788710165725,
+      "robbed": 1,
+      "crashGame": {
+        "betAmount": 3000,
+        "crashPoint": 5.46,
+        "startedAt": 1788795882112,
+        "active": false
+      },
+      "lastCrash": 1788795904474,
+      "premium": true,
+      "premiumUntil": 1788804591617,
+      "uplimit": "10MB",
+      "limit": 10,
+      "lastBuyPremium": 1788793791617
     },
     "27672522981": {
       "coin": 8341,
@@ -344,5 +357,5 @@
       "daily_give_total": 2000
     }
   },
-  "savedAt": 1788709207987
+  "savedAt": 1788797024483
 }
