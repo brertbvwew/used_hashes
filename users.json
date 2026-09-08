@@ -488,7 +488,45 @@
       "lastRobBank": 1788882978093,
       "lastSteal": 1788882986426,
       "StealSuccess": 1
+    },
+    "120066532208753": {
+      "coin": 549910,
+      "level": 0,
+      "uid": "2918cae-33_b-nebula",
+      "username": "@user_2918cae-33",
+      "spam": {
+        "lastMessage": 1788889360997,
+        "count": 1
+      },
+      "xp": 1060,
+      "lastSpin": 1788808034451,
+      "lastMine": 1788807987008,
+      "lastDecrypt": 1788807997522,
+      "robSuccess": 12,
+      "lastHack": 1788808002732,
+      "lastWork": 1788807111808,
+      "workSuccess": 2,
+      "lastDeliver": 1788808000049,
+      "last_give_use": 1788808178497,
+      "last_give_day": "Mon Sep 07 2026",
+      "daily_give_total": 70000,
+      "lastRobBank": 1788807109313,
+      "lastRob": 1788807902241,
+      "lastSpins": 1788808011983,
+      "lastCode": 1788808062380,
+      "lastBlackjack": 1788807456497,
+      "robbed": 1,
+      "lastBeg": 1788808052106,
+      "begSuccess": 1,
+      "lastClean": 1788808055994,
+      "violations": 1,
+      "lastFreelance": 1788808080884,
+      "lastPhish": 1788808122028,
+      "lastRansom": 1788808127841,
+      "lastRepair": 1788808131970,
+      "lastSteal": 1788808143072,
+      "StealSuccess": 1
     }
   },
-  "savedAt": 1788886227546
+  "savedAt": 1788889361676
 }
