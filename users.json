@@ -457,7 +457,37 @@
       "robbed": 1,
       "banned": false,
       "permanent": false
+    },
+    "227608251887631": {
+      "coin": 49673,
+      "spam": {
+        "lastMessage": 1788883003142,
+        "count": 1
+      },
+      "level": 0,
+      "xp": 440,
+      "uid": "27cdd96f-31_b-nebula",
+      "username": "@user_27cdd96f-31",
+      "lastSpin": 1788882880502,
+      "lastMine": 1788882884558,
+      "lastDecrypt": 1788882891571,
+      "robSuccess": 6,
+      "lastCode": 1788882911778,
+      "lastClean": 1788882918223,
+      "lastBeg": 1788882921781,
+      "begSuccess": 1,
+      "lastDeliver": 1788882928801,
+      "violations": 1,
+      "lastFreelance": 1788882943724,
+      "lastHack": 1788882948670,
+      "lastPhish": 1788882956295,
+      "lastRansom": 1788882960862,
+      "lastRepair": 1788882970042,
+      "lastRob": 1788882973619,
+      "lastRobBank": 1788882978093,
+      "lastSteal": 1788882986426,
+      "StealSuccess": 1
     }
   },
-  "savedAt": 1788882212955
+  "savedAt": 1788883003954
 }
