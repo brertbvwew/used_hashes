@@ -464,34 +464,36 @@
       "daily_give_total": 5449000
     },
     "227608251887631": {
-      "coin": 49673,
+      "coin": 4960998,
       "spam": {
-        "lastMessage": 1788883003142,
+        "lastMessage": 1788889988479,
         "count": 1
       },
       "level": 0,
-      "xp": 440,
+      "xp": 580,
       "uid": "27cdd96f-31_b-nebula",
       "username": "@user_27cdd96f-31",
-      "lastSpin": 1788882880502,
-      "lastMine": 1788882884558,
-      "lastDecrypt": 1788882891571,
-      "robSuccess": 6,
-      "lastCode": 1788882911778,
+      "lastSpin": 1788889871316,
+      "lastMine": 1788889873293,
+      "lastDecrypt": 1788889876430,
+      "robSuccess": 8,
+      "lastCode": 1788889927494,
       "lastClean": 1788882918223,
       "lastBeg": 1788882921781,
       "begSuccess": 1,
       "lastDeliver": 1788882928801,
       "violations": 1,
       "lastFreelance": 1788882943724,
-      "lastHack": 1788882948670,
+      "lastHack": 1788889904583,
       "lastPhish": 1788882956295,
       "lastRansom": 1788882960862,
       "lastRepair": 1788882970042,
       "lastRob": 1788882973619,
       "lastRobBank": 1788882978093,
       "lastSteal": 1788882986426,
-      "StealSuccess": 1
+      "StealSuccess": 1,
+      "lastSaveData": 1788883004808,
+      "lastSpins": 1788889910458
     },
     "120066532208753": {
       "coin": 549910,
@@ -532,5 +534,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1788889781907
+  "savedAt": 1788889989255
 }
