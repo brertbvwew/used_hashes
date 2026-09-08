@@ -198,21 +198,21 @@
       "lastFreelance": 1788601237807
     },
     "279800426053766": {
-      "coin": 15622568,
+      "coin": 25641021,
       "level": 0,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1788807850672,
+        "lastMessage": 1788879418007,
         "count": 1
       },
-      "xp": 5760,
+      "xp": 6980,
       "lastSaveData": 1788804750199,
       "autolevelup": true,
-      "lastWork": 1788795616778,
-      "workSuccess": 15,
-      "lastHack": 1788795621547,
-      "robSuccess": 41,
+      "lastWork": 1788840608498,
+      "workSuccess": 18,
+      "lastHack": 1788816465881,
+      "robSuccess": 45,
       "lastRobBank": 1788721431767,
       "hasSentMsg": {
         "coin": true,
@@ -225,9 +225,9 @@
       "begSuccess": 7,
       "banned": false,
       "permanent": false,
-      "lastBlackjack": 1788801813387,
-      "lastSpins": 1788801825654,
-      "lastFreelance": 1788801881839,
+      "lastBlackjack": 1788840612999,
+      "lastSpins": 1788816479191,
+      "lastFreelance": 1788812913665,
       "lastDecrypt": 1788795643803,
       "lastMine": 1788795673245,
       "lastSteal": 1788706564533,
@@ -236,10 +236,10 @@
       "lastRansom": 1788706027005,
       "lastCode": 1788795626365,
       "lastDeliver": 1788706592741,
-      "lastSpin": 1788801834153,
-      "lastRob": 1788807846497,
+      "lastSpin": 1788812942179,
+      "lastRob": 1788815097140,
       "violations": 1,
-      "lastLoadAcct": 1788806839961,
+      "lastLoadAcct": 1788808794521,
       "robbed": 2,
       "crashGame": {
         "betAmount": 3000,
@@ -253,9 +253,10 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastBuyPremium": 1788793791617,
-      "last_give_use": 1788804777843,
+      "last_give_use": 1788815106141,
       "last_give_day": "Mon Sep 07 2026",
-      "daily_give_total": 3001630
+      "daily_give_total": 3003630,
+      "bank": 0
     },
     "27672522981": {
       "coin": 8341,
@@ -415,5 +416,5 @@
       "robbed": 5
     }
   },
-  "savedAt": 1788873393132
+  "savedAt": 1788879418556
 }
