@@ -1,17 +1,17 @@
 {
   "user": {
     "168419274039524": {
-      "coin": 255516,
+      "coin": 0,
       "spam": {
-        "lastMessage": 1788816252335,
+        "lastMessage": 1788979188334,
         "count": 1
       },
       "level": 1,
-      "xp": 7144,
+      "xp": 8564,
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@ຖฯx",
       "lastLoadAcct": 1788717810827,
-      "lastSaveData": 1788552322963,
+      "lastSaveData": 1788816253816,
       "lastWork": 1788538494924,
       "workSuccess": 9,
       "lastSteal": 1788537648891,
@@ -27,7 +27,7 @@
       "lastPhish": 1788537722324,
       "autolevelup": true,
       "lastRansom": 1788536145739,
-      "lastSpins": 1788794300906,
+      "lastSpins": 1788953524140,
       "lastSpin": 1788535246886,
       "lastHack": 1788536148931,
       "lastClean": 1788536206602,
@@ -41,7 +41,9 @@
           "time": 1788553010090
         }
       ],
-      "lastBuyXP": 1788553010090
+      "lastBuyXP": 1788553010090,
+      "lastBuyUnban": 1788938221003,
+      "bank": 363975
     },
     "78534164926489": {
       "coin": 25000,
@@ -543,5 +545,5 @@
       "lastLoadAcct": 1788923494893
     }
   },
-  "savedAt": 1788979121097
+  "savedAt": 1788979189058
 }
