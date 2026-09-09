@@ -3,14 +3,14 @@
     "168419274039524": {
       "coin": 0,
       "spam": {
-        "lastMessage": 1788979188334,
+        "lastMessage": 1788980382756,
         "count": 1
       },
       "level": 1,
-      "xp": 8564,
+      "xp": 8584,
       "uid": "2d7b4b28-34_b-nebula",
       "username": "@ຖฯx",
-      "lastLoadAcct": 1788717810827,
+      "lastLoadAcct": 1788980373958,
       "lastSaveData": 1788816253816,
       "lastWork": 1788538494924,
       "workSuccess": 9,
@@ -545,5 +545,5 @@
       "lastLoadAcct": 1788923494893
     }
   },
-  "savedAt": 1788979189058
+  "savedAt": 1788980383572
 }
