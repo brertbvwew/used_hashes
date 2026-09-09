@@ -500,15 +500,15 @@
       "daily_give_total": 4900000
     },
     "120066532208753": {
-      "coin": 15292495,
+      "coin": 76351495,
       "level": 0,
       "uid": "2918cae-33_b-nebula",
       "username": "@Andile.🍒🐆🎱",
       "spam": {
-        "lastMessage": 1788923454309,
+        "lastMessage": 1788967814741,
         "count": 1
       },
-      "xp": 1320,
+      "xp": 1420,
       "lastSpin": 1788923360583,
       "lastMine": 1788807987008,
       "lastDecrypt": 1788807997522,
@@ -517,9 +517,9 @@
       "lastWork": 1788807111808,
       "workSuccess": 2,
       "lastDeliver": 1788808000049,
-      "last_give_use": 1788889759011,
-      "last_give_day": "Tue Sep 08 2026",
-      "daily_give_total": 5449000,
+      "last_give_use": 1788967623191,
+      "last_give_day": "Wed Sep 09 2026",
+      "daily_give_total": 81000,
       "lastRobBank": 1788807109313,
       "lastRob": 1788807902241,
       "lastSpins": 1788808011983,
@@ -539,8 +539,9 @@
       "lastSaveData": 1788889362648,
       "hasSentMsg": {
         "coin": true
-      }
+      },
+      "lastLoadAcct": 1788923494893
     }
   },
-  "savedAt": 1788967435794
+  "savedAt": 1788967815569
 }
