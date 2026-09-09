@@ -464,15 +464,15 @@
       "daily_give_total": 5449000
     },
     "227608251887631": {
-      "coin": 4960998,
+      "coin": 30620998,
       "spam": {
-        "lastMessage": 1788889988479,
+        "lastMessage": 1788965488523,
         "count": 1
       },
       "level": 0,
-      "xp": 580,
+      "xp": 700,
       "uid": "27cdd96f-31_b-nebula",
-      "username": "@user_27cdd96f-31",
+      "username": "@noluthando.🍒",
       "lastSpin": 1788889871316,
       "lastMine": 1788889873293,
       "lastDecrypt": 1788889876430,
@@ -493,7 +493,11 @@
       "lastSteal": 1788882986426,
       "StealSuccess": 1,
       "lastSaveData": 1788883004808,
-      "lastSpins": 1788889910458
+      "lastSpins": 1788889910458,
+      "lastLoadAcct": 1788890029136,
+      "last_give_use": 1788890041820,
+      "last_give_day": "Tue Sep 08 2026",
+      "daily_give_total": 4900000
     },
     "120066532208753": {
       "coin": 15292495,
@@ -538,5 +542,5 @@
       }
     }
   },
-  "savedAt": 1788938973996
+  "savedAt": 1788965489352
 }
