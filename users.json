@@ -545,17 +545,40 @@
       "lastLoadAcct": 1788923494893
     },
     "227784362319926": {
-      "coin": 9075,
+      "coin": 9327,
       "level": 0,
       "uid": "1148f2c2-36_b-nebula",
       "username": "@user_1148f2c2-36",
       "robbed": 2,
       "spam": {
-        "lastMessage": 1789055029465,
+        "lastMessage": 1789059920732,
         "count": 1
       },
-      "xp": 40
+      "xp": 320,
+      "last_give_use": 1789055047935,
+      "last_give_day": "Thu Sep 10 2026",
+      "daily_give_total": 400000,
+      "lastSaveData": 1789055047935,
+      "lastLoadAcct": 1789055047935,
+      "lastWork": 1789059843294,
+      "workSuccess": 1,
+      "lastHack": 1789059847509,
+      "robSuccess": 2,
+      "lastMine": 1789059855604,
+      "crashGame": {
+        "betAmount": 5000,
+        "crashPoint": 4.61,
+        "startedAt": 1789059865418,
+        "active": false
+      },
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastCrash": 1789059878637,
+      "lastPhish": 1789059893503,
+      "lastSpin": 1789059899008,
+      "lastFreelance": 1789059901774
     }
   },
-  "savedAt": 1789055030142
+  "savedAt": 1789059921471
 }
