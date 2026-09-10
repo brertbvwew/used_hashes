@@ -543,7 +543,19 @@
         "coin": true
       },
       "lastLoadAcct": 1788923494893
+    },
+    "227784362319926": {
+      "coin": 409075,
+      "level": 0,
+      "uid": "1148f2c2-36_b-nebula",
+      "username": "@user_1148f2c2-36",
+      "robbed": 2,
+      "spam": {
+        "lastMessage": 1789055029465,
+        "count": 1
+      },
+      "xp": 40
     }
   },
-  "savedAt": 1789010740415
+  "savedAt": 1789055030142
 }
