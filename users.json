@@ -54,18 +54,20 @@
       "lotteryWin": 1
     },
     "78534164926489": {
-      "coin": 25000,
+      "coin": 10097,
       "spam": {
-        "lastMessage": 1788530090939,
+        "lastMessage": 1789133821057,
         "count": 1
       },
       "level": 0,
-      "xp": 80,
+      "xp": 680,
       "uid": "3706dde-39_b-nebula",
       "username": "@user_3706dde-39",
       "hasSentMsg": {
         "owner": true
-      }
+      },
+      "lastLoadAcct": 1788530100547,
+      "robbed": 4
     },
     "249216148455505": {
       "coin": 10297,
@@ -614,5 +616,5 @@
       "lastMine": 1789111181369
     }
   },
-  "savedAt": 1789111224011
+  "savedAt": 1789133821872
 }
