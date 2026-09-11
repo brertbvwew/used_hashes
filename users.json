@@ -70,52 +70,18 @@
       "robbed": 4
     },
     "249216148455505": {
-      "coin": 10297,
+      "coin": 21000,
       "level": 3,
       "uid": "6f4c608-35_b-nebula",
-      "username": "@No.1",
+      "username": "@user_6f4c608-35",
       "spam": {
-        "lastMessage": 1789010739868,
-        "count": 1
+        "lastMessage": 1789144091274,
+        "count": 2
       },
-      "xp": 9622,
-      "autolevelup": true,
+      "xp": 10040,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true
-      },
-      "lastWork": 1789010698857,
-      "lastRob": 1789010689347,
-      "robSuccess": 131,
-      "lastRobBank": 1789010696484,
-      "lastPhish": 1789010679324,
-      "lastSteal": 1789010697681,
-      "StealSuccess": 22,
-      "lastDecrypt": 1789010668016,
-      "lastDeliver": 1789010670356,
-      "lastBeg": 1789010652846,
-      "begSuccess": 21,
-      "lastClean": 1789010657042,
-      "lastCode": 1789010660629,
-      "lastFreelance": 1789010671982,
-      "lastHack": 1789010676729,
-      "lastMine": 1789010677976,
-      "lastRansom": 1789010686932,
-      "lastRepair": 1789010688274,
-      "lastSaveData": 1788979122209,
-      "workSuccess": 23,
-      "lastBlackjack": 1788532682103,
-      "lastSpins": 1789010708515,
-      "lastSpin": 1789010711272,
-      "bank": 978786,
-      "lastLoadAcct": 1788978786553,
-      "robbed": 1,
-      "winGame": 1,
-      "last_give_use": 1788603825892,
-      "last_give_day": "Sat Sep 05 2026",
-      "daily_give_total": 10000,
-      "lastClaim": {
-        "daily": 1788681666576
       }
     },
     "137375183323372": {
@@ -623,5 +589,5 @@
       "lastMine": 1789111181369
     }
   },
-  "savedAt": 1789141792979
+  "savedAt": 1789144091887
 }
