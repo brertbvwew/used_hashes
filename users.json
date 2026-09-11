@@ -119,16 +119,16 @@
       }
     },
     "137375183323372": {
-      "coin": 109789,
-      "level": 0,
+      "coin": 95189,
+      "level": 1,
       "uid": "d31b042-32_b-nebula",
       "username": "@Wayne4TheMammies",
       "robbed": 2,
       "spam": {
-        "lastMessage": 1788799464906,
+        "lastMessage": 1789141792250,
         "count": 1
       },
-      "xp": 780,
+      "xp": 1180,
       "hasSentMsg": {
         "coin": true,
         "admin": true,
@@ -154,7 +154,14 @@
       "lastBlackjack": 1788537788450,
       "lastLoadAcct": 1788538365619,
       "lastBeg": 1788538692778,
-      "begSuccess": 1
+      "begSuccess": 1,
+      "crashGame": {
+        "betAmount": 600,
+        "crashPoint": 6,
+        "startedAt": 1789133324241,
+        "active": false
+      },
+      "lastCrash": 1789133342119
     },
     "106077605646392": {
       "coin": 25400,
@@ -616,5 +623,5 @@
       "lastMine": 1789111181369
     }
   },
-  "savedAt": 1789133821872
+  "savedAt": 1789141792979
 }
