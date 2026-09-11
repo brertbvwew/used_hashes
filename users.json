@@ -70,19 +70,53 @@
       "robbed": 4
     },
     "249216148455505": {
-      "coin": 21000,
-      "level": 3,
+      "coin": 0,
+      "level": 4,
       "uid": "6f4c608-35_b-nebula",
       "username": "@user_6f4c608-35",
       "spam": {
-        "lastMessage": 1789144091274,
-        "count": 2
+        "lastMessage": 1789151382375,
+        "count": 1
       },
-      "xp": 10040,
+      "xp": 2400,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true
-      }
+      },
+      "last_give_use": 1789148969280,
+      "last_give_day": "Fri Sep 11 2026",
+      "daily_give_total": 50000,
+      "lastSaveData": 1789148969280,
+      "lastLoadAcct": 1789148969280,
+      "bank": 111934,
+      "lastSpins": 1789150603664,
+      "lastClean": 1789150539970,
+      "lastBeg": 1789150535935,
+      "begSuccess": 3,
+      "lastCode": 1789150543811,
+      "lastDeliver": 1789150554628,
+      "lastDecrypt": 1789150556461,
+      "robSuccess": 18,
+      "lastFreelance": 1789150064771,
+      "lastMine": 1789150566128,
+      "lastHack": 1789150567926,
+      "lastPhish": 1789150571828,
+      "lastRepair": 1789150577236,
+      "lastRansom": 1789150582118,
+      "lastRob": 1789150586616,
+      "lastSteal": 1789150593526,
+      "StealSuccess": 3,
+      "lastRobBank": 1789150596268,
+      "lastWork": 1789150598252,
+      "workSuccess": 3,
+      "crashGame": {
+        "betAmount": 5000,
+        "crashPoint": 4.34,
+        "startedAt": 1789150611275,
+        "active": false
+      },
+      "lastCrash": 1789150622907,
+      "lastSpin": 1789150443204
     },
     "137375183323372": {
       "coin": 95189,
@@ -590,5 +624,5 @@
       "lastMine": 1789111181369
     }
   },
-  "savedAt": 1789148640172
+  "savedAt": 1789151383144
 }
