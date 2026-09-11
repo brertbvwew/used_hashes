@@ -586,7 +586,33 @@
       "lastPhish": 1789059893503,
       "lastSpin": 1789059899008,
       "lastFreelance": 1789059901774
+    },
+    "115560826282077": {
+      "coin": 57428,
+      "spam": {
+        "lastMessage": 1789111223319,
+        "count": 1
+      },
+      "level": 0,
+      "xp": 532,
+      "uid": "1c409e5b-37_b-nebula",
+      "username": "@user_1c409e5b-37",
+      "lastRob": 1789111102232,
+      "robSuccess": 8,
+      "lastHack": 1789111108844,
+      "lastDecrypt": 1789111117359,
+      "lastRansom": 1788599461599,
+      "lastClean": 1789111213212,
+      "lastCode": 1789111175180,
+      "lastWork": 1789111129061,
+      "workSuccess": 1,
+      "violations": 1,
+      "lastFreelance": 1789111193639,
+      "lastPhish": 1789111122416,
+      "lastBeg": 1789111134697,
+      "begSuccess": 1,
+      "lastMine": 1789111181369
     }
   },
-  "savedAt": 1789062607182
+  "savedAt": 1789111224011
 }
