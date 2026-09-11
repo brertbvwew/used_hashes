@@ -183,21 +183,21 @@
       "lastFreelance": 1788601237807
     },
     "279800426053766": {
-      "coin": 695590,
+      "coin": 30943,
       "level": 0,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1788973846467,
+        "lastMessage": 1789148625160,
         "count": 1
       },
-      "xp": 8820,
+      "xp": 9960,
       "lastSaveData": 1788938975504,
       "autolevelup": true,
-      "lastWork": 1788939289389,
-      "workSuccess": 24,
-      "lastHack": 1788938911404,
-      "robSuccess": 65,
+      "lastWork": 1789065995750,
+      "workSuccess": 27,
+      "lastHack": 1789065998434,
+      "robSuccess": 73,
       "lastRobBank": 1788938983839,
       "hasSentMsg": {
         "coin": true,
@@ -205,34 +205,34 @@
         "cooldown": true
       },
       "lastClean": 1788793222604,
-      "lastPhish": 1788938368176,
+      "lastPhish": 1789066029814,
       "lastBeg": 1788926349815,
       "begSuccess": 8,
       "banned": false,
       "permanent": false,
-      "lastBlackjack": 1788926380823,
+      "lastBlackjack": 1789066006322,
       "lastSpins": 1788926442899,
-      "lastFreelance": 1788938920893,
+      "lastFreelance": 1789066038060,
       "lastDecrypt": 1788926343791,
-      "lastMine": 1788938362695,
+      "lastMine": 1789066027128,
       "lastSteal": 1788938990013,
       "StealSuccess": 3,
-      "lastRepair": 1788706525834,
+      "lastRepair": 1789058844474,
       "lastRansom": 1788706027005,
       "lastCode": 1788926340065,
       "lastDeliver": 1788706592741,
       "lastSpin": 1788926397840,
-      "lastRob": 1788966533169,
+      "lastRob": 1789062491030,
       "violations": 1,
       "lastLoadAcct": 1788967907043,
-      "robbed": 7,
+      "robbed": 8,
       "crashGame": {
-        "betAmount": 3000,
-        "crashPoint": 5.46,
-        "startedAt": 1788795882112,
+        "betAmount": 5000,
+        "crashPoint": 3.07,
+        "startedAt": 1789066009171,
         "active": false
       },
-      "lastCrash": 1788795904474,
+      "lastCrash": 1789066016755,
       "premium": true,
       "premiumUntil": 1788804591617,
       "uplimit": "10MB",
@@ -241,7 +241,8 @@
       "last_give_use": 1788879509125,
       "last_give_day": "Tue Sep 08 2026",
       "daily_give_total": 6000,
-      "bank": 0
+      "bank": 700000,
+      "lastRoulette": 1789064490663
     },
     "27672522981": {
       "coin": 8341,
@@ -589,5 +590,5 @@
       "lastMine": 1789111181369
     }
   },
-  "savedAt": 1789144091887
+  "savedAt": 1789148625852
 }
