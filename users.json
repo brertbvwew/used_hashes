@@ -71,14 +71,14 @@
     },
     "249216148455505": {
       "coin": 10297,
-      "level": 1,
+      "level": 3,
       "uid": "6f4c608-35_b-nebula",
       "username": "@No.1",
       "spam": {
         "lastMessage": 1789010739868,
         "count": 1
       },
-      "xp": 5622,
+      "xp": 9622,
       "autolevelup": true,
       "hasSentMsg": {
         "coin": true,
