@@ -680,7 +680,18 @@
         "group": true
       },
       "robbed": 2
+    },
+    "114435796508833": {
+      "coin": 24000,
+      "level": 0,
+      "uid": "1f26dc08-33_b-nebula",
+      "username": "@user_1f26dc08-33",
+      "spam": {
+        "lastMessage": 1789225395243,
+        "count": 1
+      },
+      "xp": 80
     }
   },
-  "savedAt": 1789223790062
+  "savedAt": 1789225395921
 }
