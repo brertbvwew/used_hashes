@@ -682,7 +682,7 @@
       "robbed": 2
     },
     "114435796508833": {
-      "coin": 24000,
+      "coin": 22000,
       "level": 0,
       "uid": "1f26dc08-33_b-nebula",
       "username": "@user_1f26dc08-33",
@@ -691,6 +691,53 @@
         "count": 1
       },
       "xp": 80
+    },
+    "254511792803874": {
+      "coin": 6110,
+      "level": 0,
+      "uid": "403e88-34_b-nebula",
+      "username": "@user_403e88-34",
+      "spam": {
+        "lastMessage": 1789225342010,
+        "count": 1
+      },
+      "xp": 1540,
+      "hasSentMsg": {
+        "coin": true,
+        "cooldown": true,
+        "banned": true
+      },
+      "lastBlackjack": 1789056029572,
+      "lastSteal": 1789159524083,
+      "StealSuccess": 2,
+      "lastHack": 1789159521634,
+      "robSuccess": 13,
+      "lastFreelance": 1789159597257,
+      "lastWork": 1789159618920,
+      "workSuccess": 2,
+      "lastCode": 1789159542469,
+      "lastRob": 1789159526112,
+      "lastRobBank": 1789159528870,
+      "lastBeg": 1789159661778,
+      "begSuccess": 2,
+      "lastMine": 1789159655397,
+      "lastPhish": 1789159534597,
+      "lastRepair": 1789159624667,
+      "lastRansom": 1789159556997,
+      "lastDecrypt": 1789159537753,
+      "lastDeliver": 1789159546144,
+      "lastClean": 1789159553196,
+      "crashGame": {
+        "betAmount": 5000,
+        "crashPoint": 4.88,
+        "startedAt": 1789225283299,
+        "active": false
+      },
+      "lastCrash": 1789225295422,
+      "banned": false,
+      "permanent": false,
+      "robbed": 1,
+      "bank": 69000
     }
   },
   "savedAt": 1789225395921
