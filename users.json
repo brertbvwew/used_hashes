@@ -648,7 +648,23 @@
       "lastBeg": 1789111134697,
       "begSuccess": 1,
       "lastMine": 1789111181369
+    },
+    "27646839122": {
+      "coin": 3815,
+      "level": 0,
+      "uid": "24f04d57-32_b-nebula",
+      "username": "@user_24f04d57-32",
+      "spam": {
+        "lastMessage": 1789221633879,
+        "count": 1
+      },
+      "xp": 1000,
+      "lastSpin": 1789063361468,
+      "hasSentMsg": {
+        "group": true
+      },
+      "robbed": 2
     }
   },
-  "savedAt": 1789220782227
+  "savedAt": 1789221634190
 }
