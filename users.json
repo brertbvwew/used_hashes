@@ -71,54 +71,55 @@
     },
     "249216148455505": {
       "coin": 0,
-      "level": 5,
+      "level": 7,
       "uid": "6f4c608-35_b-nebula",
       "username": "@user_6f4c608-35",
       "spam": {
-        "lastMessage": 1789220781449,
+        "lastMessage": 1789223789245,
         "count": 1
       },
-      "xp": 11620,
+      "xp": 5300,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
         "premium": true,
-        "banned": true
+        "banned": true,
+        "admin": true
       },
       "last_give_use": 1789148969280,
       "last_give_day": "Fri Sep 11 2026",
       "daily_give_total": 50000,
-      "lastSaveData": 1789218113730,
+      "lastSaveData": 1789220783182,
       "lastLoadAcct": 1789148969280,
-      "bank": 996097,
-      "lastSpins": 1789220708907,
-      "lastClean": 1789220611072,
-      "lastBeg": 1789220609722,
-      "begSuccess": 16,
-      "lastCode": 1789220612198,
-      "lastDeliver": 1789220629351,
-      "lastDecrypt": 1789220627837,
-      "robSuccess": 96,
-      "lastFreelance": 1789220708436,
-      "lastMine": 1789220632380,
-      "lastHack": 1789220647568,
-      "lastPhish": 1789220662051,
-      "lastRepair": 1789220656123,
-      "lastRansom": 1789220655453,
-      "lastRob": 1789220685477,
-      "lastSteal": 1789220680764,
-      "StealSuccess": 16,
-      "lastRobBank": 1789220678552,
-      "lastWork": 1789220707353,
-      "workSuccess": 15,
+      "bank": 1290756,
+      "lastSpins": 1789223236259,
+      "lastClean": 1789223154152,
+      "lastBeg": 1789223158456,
+      "begSuccess": 19,
+      "lastCode": 1789223159902,
+      "lastDeliver": 1789223168921,
+      "lastDecrypt": 1789223167390,
+      "robSuccess": 112,
+      "lastFreelance": 1789223222041,
+      "lastMine": 1789223170167,
+      "lastHack": 1789223179367,
+      "lastPhish": 1789223194893,
+      "lastRepair": 1789223182161,
+      "lastRansom": 1789223180871,
+      "lastRob": 1789223207539,
+      "lastSteal": 1789223197398,
+      "StealSuccess": 19,
+      "lastRobBank": 1789223196032,
+      "lastWork": 1789223209534,
+      "workSuccess": 18,
       "crashGame": {
         "betAmount": 5000,
-        "crashPoint": 5.82,
-        "startedAt": 1789220715505,
+        "crashPoint": 1.31,
+        "startedAt": 1789223247824,
         "active": false
       },
-      "lastCrash": 1789220724411,
-      "lastSpin": 1789220755372,
+      "lastCrash": 1789223255848,
+      "lastSpin": 1789223259519,
       "banned": false,
       "permanent": false,
       "robbed": 1,
@@ -137,9 +138,24 @@
           "hash": "dXNlcl9pZDo5ZmQwZjQwNmVmMjRmNjA4M2FmMWIxNmQ4MWU2MDhjMjoxNzg4NjAzMTI2OjBodGllNTpmMjllZjIxZjlkM2VjNjkzMzVhZjUwNzk2Zjk3NjRiOQ==",
           "md5": "647e2fb3b8c1a4bad3154bcaafd4e3e5",
           "time": 1789216259590
+        },
+        {
+          "hash": "dXNlcjpmMThiYjY5YmY3NWI4ZGZhZWIwM2MwYjYyYzU4MGI2ZDoxNzg5MjIxNzU5Ojc1NTFhNWMzOjkzN2RmODFlMDhiNDU1ZWJkZjBlN2NhYmM4M2Q5MTIy",
+          "md5": "a198666153664f4281c1bb7738f0170a",
+          "time": 1789221779722
+        },
+        {
+          "hash": "dXNlcjpmMThiYjY5YmY3NWI4ZGZhZWIwM2MwYjYyYzU4MGI2ZDoxNzg5MjIxNzU5Ojc1NTFhNWMzOjkzN2RmODFlMDhiNDU1ZWJkZjBlN2NhYmM4M2Q5MTIy",
+          "md5": "a198666153664f4281c1bb7738f0170a",
+          "time": 1789221998609
+        },
+        {
+          "hash": "dXNlcjo4OGZhYzQ4Yzg3ZGUyYWYwMzcwNWVkZTdiN2NmNzViZjoxNzg5MjIyNTk1OjdkMzI1OTdjOmQxNjdiZGE2MmM4YWZhMmYyMGM4M2E0N2E1MjU4ZDJi",
+          "md5": "1823c9a69df03a682681c40d95d8c385",
+          "time": 1789222608392
         }
       ],
-      "lastBuyXP": 1789216259590,
+      "lastBuyXP": 1789222608392,
       "lastClaim": {
         "daily": 1789216316557
       }
@@ -666,5 +682,5 @@
       "robbed": 2
     }
   },
-  "savedAt": 1789222533308
+  "savedAt": 1789223790062
 }
