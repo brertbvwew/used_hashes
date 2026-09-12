@@ -70,15 +70,15 @@
       "robbed": 4
     },
     "249216148455505": {
-      "coin": 55698,
-      "level": 4,
+      "coin": 20400,
+      "level": 5,
       "uid": "6f4c608-35_b-nebula",
       "username": "@user_6f4c608-35",
       "spam": {
-        "lastMessage": 1789214469571,
+        "lastMessage": 1789216296464,
         "count": 1
       },
-      "xp": 5180,
+      "xp": 6820,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
@@ -88,37 +88,37 @@
       "last_give_use": 1789148969280,
       "last_give_day": "Fri Sep 11 2026",
       "daily_give_total": 50000,
-      "lastSaveData": 1789151384164,
+      "lastSaveData": 1789214471106,
       "lastLoadAcct": 1789148969280,
-      "bank": 217895,
-      "lastSpins": 1789214113628,
-      "lastClean": 1789214066352,
-      "lastBeg": 1789214425673,
-      "begSuccess": 8,
-      "lastCode": 1789214070139,
-      "lastDeliver": 1789214071564,
-      "lastDecrypt": 1789214077365,
-      "robSuccess": 48,
-      "lastFreelance": 1789214079133,
-      "lastMine": 1789214081707,
-      "lastHack": 1789214089787,
-      "lastPhish": 1789214091100,
-      "lastRepair": 1789214092862,
-      "lastRansom": 1789214098794,
-      "lastRob": 1789214099663,
-      "lastSteal": 1789214103495,
-      "StealSuccess": 8,
-      "lastRobBank": 1789214105080,
-      "lastWork": 1789214112311,
-      "workSuccess": 7,
+      "bank": 473670,
+      "lastSpins": 1789215971073,
+      "lastClean": 1789215619861,
+      "lastBeg": 1789215621484,
+      "begSuccess": 11,
+      "lastCode": 1789215623666,
+      "lastDeliver": 1789215647754,
+      "lastDecrypt": 1789215645932,
+      "robSuccess": 66,
+      "lastFreelance": 1789215949418,
+      "lastMine": 1789215649526,
+      "lastHack": 1789215697697,
+      "lastPhish": 1789215877079,
+      "lastRepair": 1789215701881,
+      "lastRansom": 1789215700637,
+      "lastRob": 1789215899345,
+      "lastSteal": 1789215896971,
+      "StealSuccess": 11,
+      "lastRobBank": 1789215879688,
+      "lastWork": 1789215948207,
+      "workSuccess": 10,
       "crashGame": {
         "betAmount": 5000,
-        "crashPoint": 2.01,
-        "startedAt": 1789214120307,
+        "crashPoint": 2.46,
+        "startedAt": 1789215981414,
         "active": false
       },
-      "lastCrash": 1789214132420,
-      "lastSpin": 1789150443204,
+      "lastCrash": 1789215990177,
+      "lastSpin": 1789216277033,
       "banned": false,
       "permanent": false,
       "robbed": 1,
@@ -126,7 +126,20 @@
       "premiumUntil": 1789224950603,
       "uplimit": "10MB",
       "limit": 10,
-      "lastBuyPremium": 1789214150603
+      "lastBuyPremium": 1789214150603,
+      "usedCoupons": [
+        {
+          "hash": "dXNlcl9pZDowNjAwMDMxYzljMmZlMDk0NjFkZDVmMDI2Mzc1OGQ5ZToxNzg4NjAzMTA3OmdjbzNjZzoyMzQ0NDhhZDNmNzAyOGI0ZmQwM2M2ZDk3NzMwNmIzOA==",
+          "md5": "822ee8e548dd89871b3b05af0f2b8c72",
+          "time": 1789216051043
+        },
+        {
+          "hash": "dXNlcl9pZDo5ZmQwZjQwNmVmMjRmNjA4M2FmMWIxNmQ4MWU2MDhjMjoxNzg4NjAzMTI2OjBodGllNTpmMjllZjIxZjlkM2VjNjkzMzVhZjUwNzk2Zjk3NjRiOQ==",
+          "md5": "647e2fb3b8c1a4bad3154bcaafd4e3e5",
+          "time": 1789216259590
+        }
+      ],
+      "lastBuyXP": 1789216259590
     },
     "137375183323372": {
       "coin": 95189,
@@ -634,5 +647,5 @@
       "lastMine": 1789111181369
     }
   },
-  "savedAt": 1789214470454
+  "savedAt": 1789216297093
 }
