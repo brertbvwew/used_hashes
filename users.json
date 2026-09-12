@@ -753,7 +753,51 @@
         "coin": true
       },
       "robbed": 1
+    },
+    "27609291971": {
+      "coin": 0,
+      "level": 0,
+      "uid": "3e4b181-31_b-nebula",
+      "username": "@user_3e4b181-31",
+      "spam": {
+        "lastMessage": 1789244028039,
+        "count": 1
+      },
+      "xp": 660,
+      "robbed": 1,
+      "lastBeg": 1789243890267,
+      "begSuccess": 1,
+      "lastClean": 1789243894367,
+      "lastCode": 1789243895950,
+      "lastDeliver": 1789243904240,
+      "lastDecrypt": 1789243910014,
+      "robSuccess": 6,
+      "lastMine": 1789243913422,
+      "lastRansom": 1789243921903,
+      "lastHack": 1789243923007,
+      "lastRepair": 1789243925534,
+      "lastRobBank": 1789243932852,
+      "lastPhish": 1789243934012,
+      "lastSteal": 1789243935500,
+      "StealSuccess": 1,
+      "lastWork": 1789243943463,
+      "workSuccess": 1,
+      "lastRob": 1789243946085,
+      "lastFreelance": 1789243947956,
+      "lastSpins": 1789243978934,
+      "crashGame": {
+        "betAmount": 5000,
+        "crashPoint": 5.77,
+        "startedAt": 1789243984656,
+        "active": false
+      },
+      "hasSentMsg": {
+        "cooldown": true,
+        "coin": true
+      },
+      "lastCrash": 1789243998275,
+      "bank": 72253
     }
   },
-  "savedAt": 1789225395921
+  "savedAt": 1789244028767
 }
