@@ -70,64 +70,65 @@
       "robbed": 4
     },
     "249216148455505": {
-      "coin": 30000,
-      "level": 7,
+      "coin": 101515,
+      "level": 10,
       "uid": "6f4c608-35_b-nebula",
-      "username": "@user_6f4c608-35",
+      "username": "@No.1",
       "spam": {
-        "lastMessage": 1789223789245,
+        "lastMessage": 1789323706536,
         "count": 1
       },
-      "xp": 5300,
+      "xp": 1740,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
         "premium": true,
         "banned": true,
-        "admin": true
+        "admin": true,
+        "owner": true
       },
-      "last_give_use": 1789148969280,
-      "last_give_day": "Fri Sep 11 2026",
-      "daily_give_total": 50000,
-      "lastSaveData": 1789220783182,
-      "lastLoadAcct": 1789148969280,
-      "bank": 1290756,
-      "lastSpins": 1789223236259,
-      "lastClean": 1789223154152,
-      "lastBeg": 1789223158456,
-      "begSuccess": 19,
-      "lastCode": 1789223159902,
-      "lastDeliver": 1789223168921,
-      "lastDecrypt": 1789223167390,
-      "robSuccess": 112,
-      "lastFreelance": 1789223222041,
-      "lastMine": 1789223170167,
-      "lastHack": 1789223179367,
-      "lastPhish": 1789223194893,
-      "lastRepair": 1789223182161,
-      "lastRansom": 1789223180871,
-      "lastRob": 1789223207539,
-      "lastSteal": 1789223197398,
-      "StealSuccess": 19,
-      "lastRobBank": 1789223196032,
-      "lastWork": 1789223209534,
-      "workSuccess": 18,
+      "last_give_use": 1789243485055,
+      "last_give_day": "Sat Sep 12 2026",
+      "daily_give_total": 20000,
+      "lastSaveData": 1789243485055,
+      "lastLoadAcct": 1789243485055,
+      "bank": 7450000,
+      "lastSpins": 1789323327412,
+      "lastClean": 1789323252548,
+      "lastBeg": 1789323247355,
+      "begSuccess": 41,
+      "lastCode": 1789323249668,
+      "lastDeliver": 1789323263626,
+      "lastDecrypt": 1789323267209,
+      "robSuccess": 243,
+      "lastFreelance": 1789323311798,
+      "lastMine": 1789323266061,
+      "lastHack": 1789323288106,
+      "lastPhish": 1789323299916,
+      "lastRepair": 1789323279449,
+      "lastRansom": 1789323278403,
+      "lastRob": 1789323326400,
+      "lastSteal": 1789323298197,
+      "StealSuccess": 41,
+      "lastRobBank": 1789323289173,
+      "lastWork": 1789323310218,
+      "workSuccess": 37,
       "crashGame": {
         "betAmount": 5000,
-        "crashPoint": 1.31,
-        "startedAt": 1789223247824,
+        "crashPoint": 3.44,
+        "startedAt": 1789244953675,
         "active": false
       },
-      "lastCrash": 1789223255848,
-      "lastSpin": 1789223259519,
+      "lastCrash": 1789244966675,
+      "lastSpin": 1789323350848,
       "banned": false,
       "permanent": false,
-      "robbed": 1,
+      "robbed": 2,
       "premium": true,
-      "premiumUntil": 1789224950603,
+      "premiumUntil": 1789323867540,
       "uplimit": "10MB",
       "limit": 10,
-      "lastBuyPremium": 1789214150603,
+      "lastBuyPremium": 1789313067540,
       "usedCoupons": [
         {
           "hash": "dXNlcl9pZDowNjAwMDMxYzljMmZlMDk0NjFkZDVmMDI2Mzc1OGQ5ZToxNzg4NjAzMTA3OmdjbzNjZzoyMzQ0NDhhZDNmNzAyOGI0ZmQwM2M2ZDk3NzMwNmIzOA==",
@@ -153,11 +154,89 @@
           "hash": "dXNlcjo4OGZhYzQ4Yzg3ZGUyYWYwMzcwNWVkZTdiN2NmNzViZjoxNzg5MjIyNTk1OjdkMzI1OTdjOmQxNjdiZGE2MmM4YWZhMmYyMGM4M2E0N2E1MjU4ZDJi",
           "md5": "1823c9a69df03a682681c40d95d8c385",
           "time": 1789222608392
+        },
+        {
+          "hash": "dXNlcjowODk2MTRhNWI1ZjI5MTBjOTlmOGU5NjFkN2UxY2RkZToxNzg5MzE3Njc2OjczZGJlYjc0OjFkNjY5ZGFmMzNiZjIxZjlmM2YwMzNjYjFjMjE4YmI4",
+          "md5": "f072e072d7bd32f9bbd005b0d51aa116",
+          "time": 1789317701496
+        },
+        {
+          "hash": "dXNlcjplMWIwYTM5YWJkZjk0MjFkMzg1ZGRkMTk3YWM5MDQzMDoxNzg5MzIwMDM2OjZlYTJkMGJiOmIwYjUyMTlmNTgzMzMzMDY5YTNkYzQ1NDhmZDcxOTdm",
+          "md5": "3d805052d9998a9a92ce1810d1130c22",
+          "time": 1789320191711
+        },
+        {
+          "hash": "dXNlcjo0M2RlMWE0MDY5NGI1YzYyMjc4MmQwZGNjNzI0ZTQxZDoxNzg5MzIxNzQyOmIyMzA0YmRiOjdkMjM2Zjc1YzQzNjkxZTcxMWFhOWUwMjlkNzY2MThm",
+          "md5": "57549192fc64c41c14f0f86c17db79fa",
+          "time": 1789321807321
+        },
+        {
+          "hash": "dXNlcjo4MjgyNzExYWNjMWU0YzlhZTRkYjMyMTUxNTEwZDdlYjoxNzg5MzIzMTAyOjFiNjliZmVmOjhhZjNhNTRjNzhkMTc0ZWY5NDExMmRjYzEzOTI3MmEw",
+          "md5": "b998abc392cd25162f6294cfa8c032b2",
+          "time": 1789323413186
         }
       ],
-      "lastBuyXP": 1789222608392,
+      "lastBuyXP": 1789323413186,
       "lastClaim": {
-        "daily": 1789216316557
+        "daily": 1789309557233
+      },
+      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
+      "profileFrames": [
+        "owner",
+        "premium"
+      ],
+      "activeFrame": "owner",
+      "weedinventory": {
+        "Lighter": 3,
+        "Seed": 6,
+        "Metal Lid": 2,
+        "Perlite": 1,
+        "Worm Castings": 1,
+        "Rolling Tray": 0,
+        "Sativa Nug": 4,
+        "Grinder": 0,
+        "Edible": 3,
+        "THC Oil": 2,
+        "Hash Brick": 3,
+        "Chillum": 1,
+        "Mystic Pipe": 2,
+        "420 Pineapple": 1,
+        "Rolling Paper": 2,
+        "Ash": 2,
+        "Bud": 2,
+        "Pre-Roll": 2,
+        "Kief Dust": 2,
+        "Compost": 1,
+        "Hydro Pot": 1,
+        "Buzz Crystal": 1
+      },
+      "weedlastGather": 1789318240072,
+      "weedgather": 2,
+      "weedsell": 8,
+      "stocks": {
+        "nebula": 1
+      },
+      "shoob": {
+        "dust": 15,
+        "lastDaily": 1789310165185,
+        "dailyStreak": 1,
+        "luckBoost": {
+          "active": true,
+          "grantedAt": 1789310165185,
+          "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
+        }
+      },
+      "autolevelup": true,
+      "clanId": "f326fb",
+      "gear": {
+        "equipped": {
+          "weapon": null,
+          "armor": null,
+          "accessory": null,
+          "boots": null,
+          "helmet": null
+        },
+        "inventory": {}
       }
     },
     "137375183323372": {
@@ -827,5 +906,5 @@
       "bank": 72253
     }
   },
-  "savedAt": 1789318954205
+  "savedAt": 1789323707095
 }
