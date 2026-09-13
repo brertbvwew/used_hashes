@@ -503,13 +503,13 @@
       "robbed": 5
     },
     "198449416917151": {
-      "coin": 219414,
+      "coin": 218414,
       "spam": {
-        "lastMessage": 1788968152760,
+        "lastMessage": 1789318953526,
         "count": 1
       },
       "level": 0,
-      "xp": 8560,
+      "xp": 8600,
       "uid": "364664be-31_b-nebula",
       "username": "@tshabalala.🐆🍒🎱",
       "autolevelup": true,
@@ -827,5 +827,5 @@
       "bank": 72253
     }
   },
-  "savedAt": 1789318846286
+  "savedAt": 1789318954205
 }
