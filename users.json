@@ -259,21 +259,21 @@
       "lastFreelance": 1788601237807
     },
     "279800426053766": {
-      "coin": 277671,
+      "coin": 1068298,
       "level": 2,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1789316207803,
+        "lastMessage": 1789318661340,
         "count": 1
       },
-      "xp": 14520,
-      "lastSaveData": 1789222534170,
+      "xp": 14920,
+      "lastSaveData": 1789316209293,
       "autolevelup": true,
-      "lastWork": 1789313960258,
-      "workSuccess": 40,
-      "lastHack": 1789313963418,
-      "robSuccess": 102,
+      "lastWork": 1789318273473,
+      "workSuccess": 41,
+      "lastHack": 1789318275130,
+      "robSuccess": 104,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -281,23 +281,23 @@
         "cooldown": true
       },
       "lastClean": 1789239479003,
-      "lastPhish": 1789239266221,
+      "lastPhish": 1789318311861,
       "lastBeg": 1789239220059,
       "begSuccess": 12,
       "banned": false,
       "permanent": false,
       "lastBlackjack": 1789313969596,
-      "lastSpins": 1789239297465,
+      "lastSpins": 1789318650931,
       "lastFreelance": 1789239285819,
       "lastDecrypt": 1789239186730,
-      "lastMine": 1789239184129,
+      "lastMine": 1789318279487,
       "lastSteal": 1789239275356,
       "StealSuccess": 4,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
       "lastCode": 1789239194040,
       "lastDeliver": 1789239234051,
-      "lastSpin": 1789313955361,
+      "lastSpin": 1789318628295,
       "lastRob": 1789309164732,
       "violations": 1,
       "lastLoadAcct": 1789148635453,
@@ -317,7 +317,7 @@
       "last_give_use": 1788879509125,
       "last_give_day": "Tue Sep 08 2026",
       "daily_give_total": 6000,
-      "bank": 785645,
+      "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "usedCoupons": [
@@ -824,5 +824,5 @@
       "bank": 72253
     }
   },
-  "savedAt": 1789316208482
+  "savedAt": 1789318662152
 }
