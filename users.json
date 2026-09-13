@@ -259,66 +259,91 @@
       "lastFreelance": 1788601237807
     },
     "279800426053766": {
-      "coin": 19380,
-      "level": 0,
+      "coin": 277671,
+      "level": 2,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1789222532685,
+        "lastMessage": 1789316207803,
         "count": 1
       },
-      "xp": 11960,
-      "lastSaveData": 1789217523379,
+      "xp": 14520,
+      "lastSaveData": 1789222534170,
       "autolevelup": true,
-      "lastWork": 1789222496324,
-      "workSuccess": 32,
-      "lastHack": 1789222497767,
-      "robSuccess": 86,
-      "lastRobBank": 1788938983839,
+      "lastWork": 1789313960258,
+      "workSuccess": 40,
+      "lastHack": 1789313963418,
+      "robSuccess": 102,
+      "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
         "banned": true,
         "cooldown": true
       },
-      "lastClean": 1788793222604,
-      "lastPhish": 1789222513763,
-      "lastBeg": 1789217502385,
-      "begSuccess": 9,
+      "lastClean": 1789239479003,
+      "lastPhish": 1789239266221,
+      "lastBeg": 1789239220059,
+      "begSuccess": 12,
       "banned": false,
       "permanent": false,
-      "lastBlackjack": 1789148671227,
-      "lastSpins": 1788926442899,
-      "lastFreelance": 1789222516497,
-      "lastDecrypt": 1789222501065,
-      "lastMine": 1789222509017,
-      "lastSteal": 1788938990013,
-      "StealSuccess": 3,
-      "lastRepair": 1789058844474,
-      "lastRansom": 1789148872647,
-      "lastCode": 1789222506307,
-      "lastDeliver": 1788706592741,
-      "lastSpin": 1789220148587,
-      "lastRob": 1789062491030,
+      "lastBlackjack": 1789313969596,
+      "lastSpins": 1789239297465,
+      "lastFreelance": 1789239285819,
+      "lastDecrypt": 1789239186730,
+      "lastMine": 1789239184129,
+      "lastSteal": 1789239275356,
+      "StealSuccess": 4,
+      "lastRepair": 1789239254601,
+      "lastRansom": 1789239250736,
+      "lastCode": 1789239194040,
+      "lastDeliver": 1789239234051,
+      "lastSpin": 1789313955361,
+      "lastRob": 1789309164732,
       "violations": 1,
       "lastLoadAcct": 1789148635453,
-      "robbed": 8,
+      "robbed": 9,
       "crashGame": {
         "betAmount": 5000,
-        "crashPoint": 2.84,
-        "startedAt": 1789220578440,
+        "crashPoint": 5.13,
+        "startedAt": 1789230096438,
         "active": false
       },
-      "lastCrash": 1789220591646,
-      "premium": false,
-      "premiumUntil": 0,
+      "lastCrash": 1789230115034,
+      "premium": true,
+      "premiumUntil": 1789318862505,
       "uplimit": "10MB",
       "limit": 10,
-      "lastBuyPremium": 1788793791617,
+      "lastBuyPremium": 1789308062505,
       "last_give_use": 1788879509125,
       "last_give_day": "Tue Sep 08 2026",
       "daily_give_total": 6000,
       "bank": 785645,
-      "lastRoulette": 1789148855348
+      "lastRoulette": 1789239170543,
+      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
+      "usedCoupons": [
+        {
+          "hash": "dXNlcjo3OWNmNWI1MzgxYTAzZmRlODEyYzM5MzBjYTA4NTQzZToxNzg5MzExNDc1OjA1ODI2NjQ4OmQxZjNlN2U2ZDQ1ZDdlMTcxY2E0YTJiYzdhM2VkZWMy",
+          "md5": "980670f7d3c1b8e01426ceecfc552f0e",
+          "time": 1789311494179
+        },
+        {
+          "hash": "dXNlcjozZWZlM2ZiOTA2NzRkMzVlZTdjNDE5YTNkNmM5OGY3ODoxNzg5MzE1MTk2OmM1MDY2NWIzOjNmMjY2YzE0OWMyOTFlNmFiY2M2MTUzZDViNWQzYWZl",
+          "md5": "97a8cecc39b2a6a2eddf5af8564ea582",
+          "time": 1789315527427
+        },
+        {
+          "hash": "dXNlcl9pZDo4NDkzOGM2ODMzNWM2ZjJjNWJhMTAyMGU4OTAzMGNjMzoxNzg5MzE1OTE0OmVrNGhtZzoyMWViNTkwMGE1ZmMyMmY1MWNkMzM1NTBmNTQ1NWM3Mg==",
+          "md5": "f06e4e0a2e59a3a6113a3e0c07efa9fb",
+          "time": 1789315971354
+        }
+      ],
+      "lastBuyXP": 1789315971354,
+      "stocks": {
+        "nebula": 0
+      },
+      "lastClaim": {
+        "daily": 1789316084330
+      }
     },
     "27672522981": {
       "coin": 8341,
@@ -799,5 +824,5 @@
       "bank": 72253
     }
   },
-  "savedAt": 1789244028767
+  "savedAt": 1789316208482
 }
