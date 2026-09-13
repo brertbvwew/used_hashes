@@ -348,49 +348,50 @@
       "lastDecrypt": 1789317046674
     },
     "279800426053766": {
-      "coin": 1068298,
-      "level": 2,
+      "coin": 127960,
+      "level": 3,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1789318661340,
-        "count": 1
+        "lastMessage": 1789324983654,
+        "count": 2
       },
-      "xp": 14920,
-      "lastSaveData": 1789316209293,
+      "xp": 7620,
+      "lastSaveData": 1789318662972,
       "autolevelup": true,
-      "lastWork": 1789318273473,
-      "workSuccess": 41,
-      "lastHack": 1789318275130,
-      "robSuccess": 104,
+      "lastWork": 1789320893368,
+      "workSuccess": 42,
+      "lastHack": 1789320896884,
+      "robSuccess": 108,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
         "banned": true,
-        "cooldown": true
+        "cooldown": true,
+        "premium": true
       },
       "lastClean": 1789239479003,
-      "lastPhish": 1789318311861,
-      "lastBeg": 1789239220059,
-      "begSuccess": 12,
+      "lastPhish": 1789320903984,
+      "lastBeg": 1789318706911,
+      "begSuccess": 13,
       "banned": false,
       "permanent": false,
       "lastBlackjack": 1789313969596,
       "lastSpins": 1789318650931,
       "lastFreelance": 1789239285819,
-      "lastDecrypt": 1789239186730,
-      "lastMine": 1789318279487,
+      "lastDecrypt": 1789320911184,
+      "lastMine": 1789320901165,
       "lastSteal": 1789239275356,
       "StealSuccess": 4,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
-      "lastCode": 1789239194040,
+      "lastCode": 1789320907007,
       "lastDeliver": 1789239234051,
-      "lastSpin": 1789318628295,
+      "lastSpin": 1789324844523,
       "lastRob": 1789309164732,
       "violations": 1,
       "lastLoadAcct": 1789148635453,
-      "robbed": 9,
+      "robbed": 10,
       "crashGame": {
         "betAmount": 5000,
         "crashPoint": 5.13,
@@ -424,14 +425,29 @@
           "hash": "dXNlcl9pZDo4NDkzOGM2ODMzNWM2ZjJjNWJhMTAyMGU4OTAzMGNjMzoxNzg5MzE1OTE0OmVrNGhtZzoyMWViNTkwMGE1ZmMyMmY1MWNkMzM1NTBmNTQ1NWM3Mg==",
           "md5": "f06e4e0a2e59a3a6113a3e0c07efa9fb",
           "time": 1789315971354
+        },
+        {
+          "hash": "dXNlcjplMzQwMmJiMmE0YzI5OGI2NzFjM2M1OTg0MTNjMzkyNDoxNzg5MzIwNjcwOjM2NTI5M2YyOjhkZGJlZDc3MDJkZmJlZjhkYjQzMmI0M2JiOTQxMzNi",
+          "md5": "59a9924f4748d8337984319f8929d651",
+          "time": 1789320998913
         }
       ],
-      "lastBuyXP": 1789315971354,
+      "lastBuyXP": 1789320998913,
       "stocks": {
-        "nebula": 0
+        "nebula": 4000
       },
       "lastClaim": {
         "daily": 1789316084330
+      },
+      "shoob": {
+        "dust": 15,
+        "lastDaily": 1789319940382,
+        "dailyStreak": 1,
+        "luckBoost": {
+          "active": true,
+          "grantedAt": 1789319940382,
+          "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
+        }
       }
     },
     "27672522981": {
@@ -916,5 +932,5 @@
       "bank": 72253
     }
   },
-  "savedAt": 1789324079754
+  "savedAt": 1789324984635
 }
