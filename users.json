@@ -70,15 +70,15 @@
       "robbed": 4
     },
     "249216148455505": {
-      "coin": 101515,
-      "level": 10,
+      "coin": 1758832035,
+      "level": 12,
       "uid": "6f4c608-35_b-nebula",
       "username": "@No.1",
       "spam": {
-        "lastMessage": 1789323706536,
+        "lastMessage": 1789375353850,
         "count": 1
       },
-      "xp": 1740,
+      "xp": 12780,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
@@ -90,29 +90,29 @@
       "last_give_use": 1789243485055,
       "last_give_day": "Sat Sep 12 2026",
       "daily_give_total": 20000,
-      "lastSaveData": 1789243485055,
+      "lastSaveData": 1789323708040,
       "lastLoadAcct": 1789243485055,
-      "bank": 7450000,
-      "lastSpins": 1789323327412,
-      "lastClean": 1789323252548,
-      "lastBeg": 1789323247355,
-      "begSuccess": 41,
-      "lastCode": 1789323249668,
-      "lastDeliver": 1789323263626,
-      "lastDecrypt": 1789323267209,
-      "robSuccess": 243,
-      "lastFreelance": 1789323311798,
-      "lastMine": 1789323266061,
-      "lastHack": 1789323288106,
-      "lastPhish": 1789323299916,
-      "lastRepair": 1789323279449,
-      "lastRansom": 1789323278403,
-      "lastRob": 1789323326400,
-      "lastSteal": 1789323298197,
-      "StealSuccess": 41,
-      "lastRobBank": 1789323289173,
-      "lastWork": 1789323310218,
-      "workSuccess": 37,
+      "bank": 0,
+      "lastSpins": 1789331079461,
+      "lastClean": 1789369957241,
+      "lastBeg": 1789369970281,
+      "begSuccess": 52,
+      "lastCode": 1789369991656,
+      "lastDeliver": 1789370033492,
+      "lastDecrypt": 1789370014149,
+      "robSuccess": 292,
+      "lastFreelance": 1789332755635,
+      "lastMine": 1789332917355,
+      "lastHack": 1789332937152,
+      "lastPhish": 1789333008799,
+      "lastRepair": 1789332957788,
+      "lastRansom": 1789332959003,
+      "lastRob": 1789333065839,
+      "lastSteal": 1789369518244,
+      "StealSuccess": 50,
+      "lastRobBank": 1789333033784,
+      "lastWork": 1789333089837,
+      "workSuccess": 44,
       "crashGame": {
         "betAmount": 5000,
         "crashPoint": 3.44,
@@ -125,10 +125,10 @@
       "permanent": false,
       "robbed": 2,
       "premium": true,
-      "premiumUntil": 1789323867540,
+      "premiumUntil": 1789344096083,
       "uplimit": "10MB",
       "limit": 10,
-      "lastBuyPremium": 1789313067540,
+      "lastBuyPremium": 1789333296083,
       "usedCoupons": [
         {
           "hash": "dXNlcl9pZDowNjAwMDMxYzljMmZlMDk0NjFkZDVmMDI2Mzc1OGQ5ZToxNzg4NjAzMTA3OmdjbzNjZzoyMzQ0NDhhZDNmNzAyOGI0ZmQwM2M2ZDk3NzMwNmIzOA==",
@@ -174,9 +174,29 @@
           "hash": "dXNlcjo4MjgyNzExYWNjMWU0YzlhZTRkYjMyMTUxNTEwZDdlYjoxNzg5MzIzMTAyOjFiNjliZmVmOjhhZjNhNTRjNzhkMTc0ZWY5NDExMmRjYzEzOTI3MmEw",
           "md5": "b998abc392cd25162f6294cfa8c032b2",
           "time": 1789323413186
+        },
+        {
+          "hash": "dXNlcl9pZDo3NzcxMWVhOTgwNzg5YTVmY2EzZDJkODFmOTYxOTQwYzoxNzg5MzY1NDc5Ojc5a3hqbjowMGM5MmE1OTQzYjUxOTI0ZTYwODkyZDI1MDAxOWY3OQ==",
+          "md5": "8886573b09c9bc1697166b50132aa275",
+          "time": 1789374219028
+        },
+        {
+          "hash": "dXNlcl9pZDo3NDU1NDllMTFhMTFmMTQyNmE4YTY5ZmMxZGJjNjBmYzoxNzg5MzY1NDY5OnU5YmYyM2s6ZDM4ZjVjMzQ0NzQ4NzRlYWRhM2MyZmQ5NzkyNWY5NGU=",
+          "md5": "76281c4d209676a2b2b22beb587fc221",
+          "time": 1789374739589
+        },
+        {
+          "hash": "dXNlcl9pZDowZjlkMzkyN2JmOTk4NGE2MzQ3OWY3NWIxYjZjMmUxZToxNzg5MzY1NDYwOjk0dTI4ZDoyZDA1MmQ0NmQ2NDJiMTAzOWY1MjRkNTAwNjRhYjQwNQ==",
+          "md5": "225718e64d19a4bed817735f3293b59d",
+          "time": 1789375042705
+        },
+        {
+          "hash": "dXNlcl9pZDpjMjMxNmY3NWUxZWMzODExMjE3NjJkNTA1OTI1YmFiMzoxNzg5MzY1NDQ4OmtsOWRyOmQ1MDRkZTUzNWIyNzVhNzFmOTlhZTExMzYxNWNhY2Vh",
+          "md5": "aeffff85d2ea4848a53e0051815e5b4f",
+          "time": 1789375241843
         }
       ],
-      "lastBuyXP": 1789323413186,
+      "lastBuyXP": 1789375241843,
       "lastClaim": {
         "daily": 1789309557233
       },
@@ -187,44 +207,101 @@
       ],
       "activeFrame": "owner",
       "weedinventory": {
-        "Lighter": 3,
-        "Seed": 6,
-        "Metal Lid": 2,
-        "Perlite": 1,
-        "Worm Castings": 1,
-        "Rolling Tray": 0,
-        "Sativa Nug": 4,
-        "Grinder": 0,
-        "Edible": 3,
-        "THC Oil": 2,
+        "Lighter": 10,
+        "Seed": 10,
+        "Metal Lid": 17,
+        "Perlite": 2,
+        "Worm Castings": 10,
+        "Rolling Tray": 5,
+        "Sativa Nug": 17,
+        "Grinder": 7,
+        "Edible": 7,
+        "THC Oil": 6,
         "Hash Brick": 3,
-        "Chillum": 1,
+        "Chillum": 2,
         "Mystic Pipe": 2,
-        "420 Pineapple": 1,
-        "Rolling Paper": 2,
-        "Ash": 2,
-        "Bud": 2,
-        "Pre-Roll": 2,
-        "Kief Dust": 2,
-        "Compost": 1,
-        "Hydro Pot": 1,
-        "Buzz Crystal": 1
+        "420 Pineapple": 3,
+        "Rolling Paper": 12,
+        "Ash": 12,
+        "Bud": 11,
+        "Pre-Roll": 5,
+        "Kief Dust": 4,
+        "Compost": 3,
+        "Hydro Pot": 3,
+        "Buzz Crystal": 1,
+        "Weed Leaf": 17,
+        "Paper Crutch": 13,
+        "Indica Bud": 5,
+        "Rare Blue Strain": 3,
+        "Lava Nug": 1,
+        "Grinder Part": 8,
+        "Stash Jar": 3,
+        "Canvas Sheet": 3,
+        "Sacred Stash": 1,
+        "THC Crystal": 3,
+        "Golden Grinder": 1,
+        "Dank Dragonfruit": 1,
+        "Vape Cartridge": 2,
+        "Moon Rock": 6,
+        "Bud Crystal": 1,
+        "Leaf Gold": 1,
+        "Water Pipe": 3,
+        "Celestial Joint": 1,
+        "Resin Chunk": 5,
+        "Plastic Shard": 1,
+        "Dab Tool": 2
       },
-      "weedlastGather": 1789318240072,
-      "weedgather": 2,
+      "weedlastGather": 1789374438302,
+      "weedgather": 10,
       "weedsell": 8,
       "stocks": {
-        "nebula": 1
+        "nebula": 0
       },
       "shoob": {
         "dust": 15,
         "lastDaily": 1789310165185,
         "dailyStreak": 1,
         "luckBoost": {
-          "active": true,
-          "grantedAt": 1789310165185,
-          "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
-        }
+          "active": false
+        },
+        "cards": [
+          {
+            "id": "mu09ckhp",
+            "tier": 1,
+            "title": "Rin Vispose",
+            "url": "https://cdn.shoob.gg/images/cards/1/1609578377968.png",
+            "series": "KimiSen",
+            "strength": 2994,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1789330783002,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "mu09dnnk",
+            "tier": 1,
+            "title": "Maya Fey",
+            "url": "https://cdn.shoob.gg/images/cards/1/1604277762622.png",
+            "series": "Phoenix Wright: Ace Attorney",
+            "strength": 3544,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1789330833777,
+            "inEscrow": false,
+            "onExpedition": false
+          }
+        ],
+        "questProgress": {
+          "pulls": 2
+        },
+        "lastPull": 1789330833777,
+        "pityCount": 2,
+        "totalPulls": 2
       },
       "autolevelup": true,
       "clanId": "f326fb",
@@ -237,7 +314,142 @@
           "helmet": null
         },
         "inventory": {}
-      }
+      },
+      "spaceinventory": {
+        "Scrap Metal": 23,
+        "Iron Ore": 14,
+        "Damaged Circuit": 16,
+        "Silicon Ore": 12,
+        "Copper Ore": 9,
+        "Copper Wire": 4,
+        "Biometric Data Pad": 8,
+        "Quantum Chip": 4,
+        "Titanium Ore": 8,
+        "Advanced Sensor Array": 8,
+        "Quantum Processor": 5,
+        "Energy Cell": 8,
+        "Plasma Coils": 7,
+        "Gold Ore": 1,
+        "Neutronium Fragment": 2,
+        "Fusion Core": 3,
+        "Crystal Shard": 2
+      },
+      "spacelastSalvage": 1789374437448,
+      "spacesalvage": 8,
+      "spacedrones": [
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        },
+        {
+          "level": 5
+        }
+      ],
+      "spacemine": {
+        "usedDrones": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "spacestationlastPassiveIncome": 1789374419779,
+      "plots": 1,
+      "weedfarm": {
+        "usedPlots": [
+          null
+        ]
+      },
+      "boughtplots": 1
     },
     "137375183323372": {
       "coin": 95189,
@@ -932,5 +1144,5 @@
       "bank": 72253
     }
   },
-  "savedAt": 1789324984635
+  "savedAt": 1789375354759
 }
