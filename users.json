@@ -70,7 +70,7 @@
       "robbed": 4
     },
     "249216148455505": {
-      "coin": 1758832035,
+      "coin": 1758082035,
       "level": 12,
       "uid": "6f4c608-35_b-nebula",
       "username": "@No.1",
@@ -1171,6 +1171,25 @@
       "lastClean": 1789376995126,
       "lastSteal": 1789376985733,
       "StealSuccess": 2
+    },
+    "251208962953347": {
+      "coin": 769185,
+      "level": 0,
+      "uid": "1649226d-37_b-nebula",
+      "username": "@user_1649226d-37",
+      "spam": {
+        "lastMessage": 1789330161168,
+        "count": 2
+      },
+      "xp": 1020,
+      "robbed": 3,
+      "lastRob": 1789329884800,
+      "robSuccess": 1,
+      "lastClean": 1789330158389,
+      "lastWork": 1789329899098,
+      "workSuccess": 1,
+      "lastBeg": 1789330161629,
+      "begSuccess": 1
     }
   },
   "savedAt": 1789375354759
