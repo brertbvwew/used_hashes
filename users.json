@@ -560,21 +560,21 @@
       "lastDecrypt": 1789317046674
     },
     "279800426053766": {
-      "coin": 127960,
+      "coin": 14327160,
       "level": 3,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1789324983654,
-        "count": 2
+        "lastMessage": 1789403125833,
+        "count": 1
       },
-      "xp": 7620,
-      "lastSaveData": 1789318662972,
+      "xp": 8140,
+      "lastSaveData": 1789324985558,
       "autolevelup": true,
-      "lastWork": 1789320893368,
-      "workSuccess": 42,
-      "lastHack": 1789320896884,
-      "robSuccess": 108,
+      "lastWork": 1789399011949,
+      "workSuccess": 43,
+      "lastHack": 1789399017205,
+      "robSuccess": 111,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -583,7 +583,7 @@
         "premium": true
       },
       "lastClean": 1789239479003,
-      "lastPhish": 1789320903984,
+      "lastPhish": 1789399022169,
       "lastBeg": 1789318706911,
       "begSuccess": 13,
       "banned": false,
@@ -591,13 +591,13 @@
       "lastBlackjack": 1789313969596,
       "lastSpins": 1789318650931,
       "lastFreelance": 1789239285819,
-      "lastDecrypt": 1789320911184,
-      "lastMine": 1789320901165,
+      "lastDecrypt": 1789399028135,
+      "lastMine": 1789399019709,
       "lastSteal": 1789239275356,
       "StealSuccess": 4,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
-      "lastCode": 1789320907007,
+      "lastCode": 1789399024519,
       "lastDeliver": 1789239234051,
       "lastSpin": 1789324844523,
       "lastRob": 1789309164732,
@@ -642,14 +642,19 @@
           "hash": "dXNlcjplMzQwMmJiMmE0YzI5OGI2NzFjM2M1OTg0MTNjMzkyNDoxNzg5MzIwNjcwOjM2NTI5M2YyOjhkZGJlZDc3MDJkZmJlZjhkYjQzMmI0M2JiOTQxMzNi",
           "md5": "59a9924f4748d8337984319f8929d651",
           "time": 1789320998913
+        },
+        {
+          "hash": "dXNlcjo3ODE1ZWE5N2MxMDljODhjZGUyYTQ1MDNjZDBkNWU0MzoxNzg5Mzk5NDcxOjBiZWI3MWU0OmI1ZGQzMzVkNzlhNjhkY2NlMTI4NzM4MzhlNTA4NGVk",
+          "md5": "76311746c143677ddc0aa46a30e31667",
+          "time": 1789399495155
         }
       ],
       "lastBuyXP": 1789320998913,
       "stocks": {
-        "nebula": 4000
+        "nebula": 0
       },
       "lastClaim": {
-        "daily": 1789316084330
+        "daily": 1789403101205
       },
       "shoob": {
         "dust": 15,
@@ -660,7 +665,8 @@
           "grantedAt": 1789319940382,
           "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
         }
-      }
+      },
+      "lastBuyCoin": 1789399495155
     },
     "27672522981": {
       "coin": 8341,
@@ -1192,5 +1198,5 @@
       "begSuccess": 1
     }
   },
-  "savedAt": 1789375354759
+  "savedAt": 1789403126491
 }
