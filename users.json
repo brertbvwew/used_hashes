@@ -54,7 +54,7 @@
       "lotteryWin": 1
     },
     "78534164926489": {
-      "coin": 10097,
+      "coin": 6994,
       "spam": {
         "lastMessage": 1789133821057,
         "count": 1
@@ -1142,6 +1142,35 @@
       },
       "lastCrash": 1789243998275,
       "bank": 72253
+    },
+    "141498184167498": {
+      "coin": 15106,
+      "spam": {
+        "lastMessage": 1789377030868,
+        "count": 1
+      },
+      "level": 0,
+      "xp": 1680,
+      "uid": "47a7eef-38_b-nebula",
+      "username": "@user_47a7eef-38",
+      "robbed": 2,
+      "lastSpin": 1789376504357,
+      "lastBeg": 1789376987410,
+      "begSuccess": 7,
+      "hasSentMsg": {
+        "cooldown": true
+      },
+      "lastRob": 1789376983133,
+      "robSuccess": 12,
+      "lastPhish": 1789376580826,
+      "lastWork": 1789376990087,
+      "workSuccess": 4,
+      "lastFreelance": 1789319742452,
+      "lastSpins": 1789319775432,
+      "lastRobBank": 1789376975578,
+      "lastClean": 1789376995126,
+      "lastSteal": 1789376985733,
+      "StealSuccess": 2
     }
   },
   "savedAt": 1789375354759
