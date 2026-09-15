@@ -70,15 +70,15 @@
       "robbed": 4
     },
     "249216148455505": {
-      "coin": 1756331912,
+      "coin": 40123564235,
       "level": 12,
       "uid": "6f4c608-35_b-nebula",
       "username": "@No.1",
       "spam": {
-        "lastMessage": 1789375353850,
+        "lastMessage": 1789460523156,
         "count": 1
       },
-      "xp": 12780,
+      "xp": 12980,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
@@ -87,11 +87,11 @@
         "admin": true,
         "owner": true
       },
-      "last_give_use": 1789243485055,
-      "last_give_day": "Sat Sep 12 2026",
-      "daily_give_total": 20000,
-      "lastSaveData": 1789323708040,
-      "lastLoadAcct": 1789243485055,
+      "last_give_use": 1789460421787,
+      "last_give_day": "Tue Sep 15 2026",
+      "daily_give_total": 1250124,
+      "lastSaveData": 1789455189633,
+      "lastLoadAcct": 1789455189633,
       "bank": 0,
       "lastSpins": 1789331079461,
       "lastClean": 1789369957241,
@@ -442,7 +442,7 @@
           null
         ]
       },
-      "spacestationlastPassiveIncome": 1789374419779,
+      "spacestationlastPassiveIncome": 1789455206846,
       "plots": 1,
       "weedfarm": {
         "usedPlots": [
@@ -1214,5 +1214,5 @@
       }
     }
   },
-  "savedAt": 1789409255271
+  "savedAt": 1789460524024
 }
