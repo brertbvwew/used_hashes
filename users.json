@@ -70,15 +70,15 @@
       "robbed": 4
     },
     "249216148455505": {
-      "coin": 40123564235,
-      "level": 12,
+      "coin": 10471805189,
+      "level": 13,
       "uid": "6f4c608-35_b-nebula",
       "username": "@No.1",
       "spam": {
-        "lastMessage": 1789460523156,
+        "lastMessage": 1789671514889,
         "count": 1
       },
-      "xp": 12980,
+      "xp": 13930,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
@@ -87,12 +87,12 @@
         "admin": true,
         "owner": true
       },
-      "last_give_use": 1789460421787,
+      "last_give_use": 1789492157535,
       "last_give_day": "Tue Sep 15 2026",
-      "daily_give_total": 1250124,
-      "lastSaveData": 1789455189633,
+      "daily_give_total": 8500124,
+      "lastSaveData": 1789460525051,
       "lastLoadAcct": 1789455189633,
-      "bank": 0,
+      "bank": 2248000083000,
       "lastSpins": 1789331079461,
       "lastClean": 1789369957241,
       "lastBeg": 1789369970281,
@@ -125,10 +125,10 @@
       "permanent": false,
       "robbed": 2,
       "premium": true,
-      "premiumUntil": 1789344096083,
+      "premiumUntil": 1789681091791,
       "uplimit": "10MB",
       "limit": 10,
-      "lastBuyPremium": 1789333296083,
+      "lastBuyPremium": 1789670291791,
       "usedCoupons": [
         {
           "hash": "dXNlcl9pZDowNjAwMDMxYzljMmZlMDk0NjFkZDVmMDI2Mzc1OGQ5ZToxNzg4NjAzMTA3OmdjbzNjZzoyMzQ0NDhhZDNmNzAyOGI0ZmQwM2M2ZDk3NzMwNmIzOA==",
@@ -198,7 +198,7 @@
       ],
       "lastBuyXP": 1789375241843,
       "lastClaim": {
-        "daily": 1789309557233
+        "daily": 1789472168602
       },
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "profileFrames": [
@@ -207,55 +207,80 @@
       ],
       "activeFrame": "owner",
       "weedinventory": {
-        "Lighter": 10,
-        "Seed": 10,
-        "Metal Lid": 17,
-        "Perlite": 2,
-        "Worm Castings": 10,
-        "Rolling Tray": 5,
-        "Sativa Nug": 17,
-        "Grinder": 7,
-        "Edible": 7,
-        "THC Oil": 6,
-        "Hash Brick": 3,
-        "Chillum": 2,
-        "Mystic Pipe": 2,
-        "420 Pineapple": 3,
-        "Rolling Paper": 12,
-        "Ash": 12,
-        "Bud": 11,
-        "Pre-Roll": 5,
-        "Kief Dust": 4,
-        "Compost": 3,
+        "Lighter": 19,
+        "Seed": 17,
+        "Metal Lid": 30,
+        "Perlite": 7,
+        "Worm Castings": 7,
+        "Rolling Tray": 11,
+        "Sativa Nug": 25,
+        "Grinder": 11,
+        "Edible": 11,
+        "THC Oil": 11,
+        "Hash Brick": 4,
+        "Chillum": 5,
+        "Mystic Pipe": 5,
+        "420 Pineapple": 4,
+        "Rolling Paper": 24,
+        "Ash": 23,
+        "Bud": 21,
+        "Pre-Roll": 6,
+        "Kief Dust": 9,
+        "Compost": 2,
         "Hydro Pot": 3,
         "Buzz Crystal": 1,
-        "Weed Leaf": 17,
-        "Paper Crutch": 13,
-        "Indica Bud": 5,
-        "Rare Blue Strain": 3,
+        "Weed Leaf": 41,
+        "Paper Crutch": 25,
+        "Indica Bud": 11,
+        "Rare Blue Strain": 7,
         "Lava Nug": 1,
-        "Grinder Part": 8,
-        "Stash Jar": 3,
+        "Grinder Part": 17,
+        "Stash Jar": 6,
         "Canvas Sheet": 3,
         "Sacred Stash": 1,
         "THC Crystal": 3,
-        "Golden Grinder": 1,
-        "Dank Dragonfruit": 1,
-        "Vape Cartridge": 2,
-        "Moon Rock": 6,
+        "Golden Grinder": 2,
+        "Dank Dragonfruit": 2,
+        "Vape Cartridge": 8,
+        "Moon Rock": 9,
         "Bud Crystal": 1,
-        "Leaf Gold": 1,
-        "Water Pipe": 3,
+        "Leaf Gold": 3,
+        "Water Pipe": 7,
         "Celestial Joint": 1,
-        "Resin Chunk": 5,
-        "Plastic Shard": 1,
-        "Dab Tool": 2
+        "Resin Chunk": 7,
+        "Plastic Shard": 4,
+        "Dab Tool": 6,
+        "Hybrid Nug": 4,
+        "Plastic Container": 3,
+        "Sand": 8,
+        "Copper Wire": 7,
+        "Screws": 7,
+        "Steel Sheet": 2,
+        "Quartz Crystal": 1,
+        "Lime Powder": 8,
+        "Light Bulb": 5,
+        "Wood": 2,
+        "Plastic Wrap": 9,
+        "Molasses": 3,
+        "Butane": 2,
+        "Plastic Handle": 2,
+        "String": 4,
+        "Metal Plate": 2,
+        "Magic Zipper": 2,
+        "Plastic Blade": 5,
+        "Butter": 4,
+        "Organic Soil Mix": 0,
+        "Infused Gummy": 1,
+        "Chocolate": 1,
+        "Gold Nugget": 1,
+        "Sensor Chip": 2
       },
-      "weedlastGather": 1789374438302,
-      "weedgather": 10,
+      "weedlastGather": 1789669192298,
+      "weedgather": 19,
       "weedsell": 8,
       "stocks": {
-        "nebula": 0
+        "nebula": 0,
+        "nebulaAvg": 0
       },
       "shoob": {
         "dust": 15,
@@ -294,17 +319,31 @@
             "pulledAt": 1789330833777,
             "inEscrow": false,
             "onExpedition": false
+          },
+          {
+            "id": "mu5w5rfl",
+            "tier": 1,
+            "title": "Lanzhu Zhong",
+            "url": "https://cdn.shoob.gg/images/cards/1/c0e908d3d17e568222e233f7dbbfd6b9c4aacb8a5796f2395b2b43fe30e6526f.png",
+            "series": "Love Live!",
+            "strength": 3521,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1789671427386,
+            "inEscrow": false,
+            "onExpedition": false
           }
         ],
         "questProgress": {
-          "pulls": 2
+          "pulls": 3
         },
-        "lastPull": 1789330833777,
-        "pityCount": 2,
-        "totalPulls": 2
+        "lastPull": 1789671427386,
+        "pityCount": 3,
+        "totalPulls": 3
       },
-      "autolevelup": true,
-      "clanId": "f326fb",
+      "autolevelup": false,
       "gear": {
         "equipped": {
           "weapon": null,
@@ -316,26 +355,26 @@
         "inventory": {}
       },
       "spaceinventory": {
-        "Scrap Metal": 23,
-        "Iron Ore": 14,
-        "Damaged Circuit": 16,
-        "Silicon Ore": 12,
-        "Copper Ore": 9,
-        "Copper Wire": 4,
-        "Biometric Data Pad": 8,
-        "Quantum Chip": 4,
-        "Titanium Ore": 8,
-        "Advanced Sensor Array": 8,
-        "Quantum Processor": 5,
-        "Energy Cell": 8,
-        "Plasma Coils": 7,
+        "Scrap Metal": 28,
+        "Iron Ore": 24,
+        "Damaged Circuit": 20,
+        "Silicon Ore": 18,
+        "Copper Ore": 14,
+        "Biometric Data Pad": 9,
+        "Quantum Chip": 5,
+        "Titanium Ore": 9,
+        "Advanced Sensor Array": 9,
+        "Quantum Processor": 4,
+        "Energy Cell": 9,
+        "Plasma Coils": 8,
         "Gold Ore": 1,
         "Neutronium Fragment": 2,
-        "Fusion Core": 3,
-        "Crystal Shard": 2
+        "Fusion Core": 4,
+        "Crystal Shard": 6,
+        "Copper Wire": 2
       },
-      "spacelastSalvage": 1789374437448,
-      "spacesalvage": 8,
+      "spacelastSalvage": 1789529363263,
+      "spacesalvage": 15,
       "spacedrones": [
         {
           "level": 5
@@ -442,14 +481,65 @@
           null
         ]
       },
-      "spacestationlastPassiveIncome": 1789455206846,
-      "plots": 1,
+      "spacestationlastPassiveIncome": 1789669139522,
+      "plots": 4,
       "weedfarm": {
         "usedPlots": [
+          {
+            "plantedAt": 1789529505182,
+            "readyIn": 3600000,
+            "emoji": "🌱"
+          },
+          {
+            "plantedAt": 1789529527707,
+            "readyIn": 3600000,
+            "emoji": "🌱"
+          },
+          null,
           null
         ]
       },
-      "boughtplots": 1
+      "boughtplots": 4,
+      "spacemissions": {
+        "startedAt": 1789470906080,
+        "claimed": {
+          "2": true
+        },
+        "counters": {
+          "spacesalvage": 9,
+          "sellcount": 0,
+          "spacecombat.victories": 0
+        }
+      },
+      "spaceship": {
+        "upgradeLevel": 4
+      },
+      "spacecombat": {
+        "lastFight": 1789491298225,
+        "victories": 2
+      },
+      "spaceplanet": "mars",
+      "club": {
+        "level": 32,
+        "upgrades": {
+          "music": 10,
+          "djs": 10,
+          "security": 5,
+          "bikegang": 10,
+          "carfleet": 10,
+          "heli": 10,
+          "armory": 10,
+          "safehouse": 10,
+          "militia": 10,
+          "elite": 10
+        },
+        "lastRentCollected": 1789655765532,
+        "upgradesBoughtSinceLevel": 2
+      },
+      "weedcooked": 4,
+      "weedplanted": 2,
+      "lastPassiveIncome": 1789529510791,
+      "clanId": "66acc6"
     },
     "137375183323372": {
       "coin": 95189,
@@ -1225,5 +1315,5 @@
       }
     }
   },
-  "savedAt": 1789671440868
+  "savedAt": 1789671515704
 }
