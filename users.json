@@ -560,21 +560,21 @@
       "lastDecrypt": 1789317046674
     },
     "279800426053766": {
-      "coin": 13827160,
-      "level": 3,
+      "coin": 10422408,
+      "level": 4,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1789403125833,
+        "lastMessage": 1789671439833,
         "count": 1
       },
-      "xp": 8140,
-      "lastSaveData": 1789324985558,
+      "xp": 8460,
+      "lastSaveData": 1789409194579,
       "autolevelup": true,
-      "lastWork": 1789399011949,
-      "workSuccess": 43,
-      "lastHack": 1789399017205,
-      "robSuccess": 111,
+      "lastWork": 1789583139254,
+      "workSuccess": 47,
+      "lastHack": 1789583144687,
+      "robSuccess": 116,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -583,7 +583,7 @@
         "premium": true
       },
       "lastClean": 1789239479003,
-      "lastPhish": 1789399022169,
+      "lastPhish": 1789413034962,
       "lastBeg": 1789318706911,
       "begSuccess": 13,
       "banned": false,
@@ -592,17 +592,17 @@
       "lastSpins": 1789318650931,
       "lastFreelance": 1789239285819,
       "lastDecrypt": 1789399028135,
-      "lastMine": 1789399019709,
-      "lastSteal": 1789239275356,
-      "StealSuccess": 4,
+      "lastMine": 1789413031993,
+      "lastSteal": 1789495304214,
+      "StealSuccess": 5,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
       "lastCode": 1789399024519,
       "lastDeliver": 1789239234051,
       "lastSpin": 1789324844523,
-      "lastRob": 1789309164732,
+      "lastRob": 1789495293208,
       "violations": 1,
-      "lastLoadAcct": 1789148635453,
+      "lastLoadAcct": 1789409194579,
       "robbed": 10,
       "crashGame": {
         "betAmount": 5000,
@@ -611,14 +611,14 @@
         "active": false
       },
       "lastCrash": 1789230115034,
-      "premium": true,
-      "premiumUntil": 1789318862505,
-      "uplimit": "10MB",
-      "limit": 10,
-      "lastBuyPremium": 1789308062505,
-      "last_give_use": 1788879509125,
-      "last_give_day": "Tue Sep 08 2026",
-      "daily_give_total": 6000,
+      "premium": false,
+      "premiumUntil": 0,
+      "uplimit": "5MB",
+      "limit": 5,
+      "lastBuyPremium": 1789412989797,
+      "last_give_use": 1789657750834,
+      "last_give_day": "Thu Sep 17 2026",
+      "daily_give_total": 10000,
       "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
@@ -647,22 +647,33 @@
           "hash": "dXNlcjo3ODE1ZWE5N2MxMDljODhjZGUyYTQ1MDNjZDBkNWU0MzoxNzg5Mzk5NDcxOjBiZWI3MWU0OmI1ZGQzMzVkNzlhNjhkY2NlMTI4NzM4MzhlNTA4NGVk",
           "md5": "76311746c143677ddc0aa46a30e31667",
           "time": 1789399495155
+        },
+        {
+          "hash": "dXNlcjplYTRkOGI5Y2Q5YTlmZmRlNWQ3ZWFiYjA4YjEwNTk1ODoxNzg5NDk4MDY3OjVkZjAzYWY0OjhhZjAwZDFhYTViYzE2MjkyOTY0OWViY2Y2ZDczN2Fm",
+          "md5": "e875875d8d8ce40d7fbb789a42bfb9de",
+          "time": 1789498152963
+        },
+        {
+          "hash": "dXNlcjo3ZDJiODM5NDA3NmUzNGQyNzY4MjJlYjUxMTZlYjdhNzoxNzg5NTkwMTQ5OjdmY2NiYjg5OmIxMGM3YmY0MWU5ODg4ZWViZmRiZWU3NjJjNTU4MDBh",
+          "md5": "b2cb5fd7a95e6571f076338a6cccade8",
+          "time": 1789590191652
         }
       ],
-      "lastBuyXP": 1789320998913,
+      "lastBuyXP": 1789590191652,
       "stocks": {
-        "nebula": 0
+        "nebula": 0,
+        "nebulaAvg": 0
       },
       "lastClaim": {
-        "daily": 1789403101205
+        "daily": 1789669703890
       },
       "shoob": {
-        "dust": 15,
-        "lastDaily": 1789319940382,
-        "dailyStreak": 1,
+        "dust": 60,
+        "lastDaily": 1789669696711,
+        "dailyStreak": 4,
         "luckBoost": {
           "active": true,
-          "grantedAt": 1789319940382,
+          "grantedAt": 1789669696711,
           "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
         }
       },
@@ -1214,5 +1225,5 @@
       }
     }
   },
-  "savedAt": 1789460524024
+  "savedAt": 1789671440868
 }
