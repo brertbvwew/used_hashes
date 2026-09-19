@@ -650,21 +650,21 @@
       "lastDecrypt": 1789317046674
     },
     "279800426053766": {
-      "coin": 10422408,
-      "level": 4,
+      "coin": 125411300,
+      "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1789671439833,
+        "lastMessage": 1789815940130,
         "count": 1
       },
-      "xp": 8460,
-      "lastSaveData": 1789409194579,
+      "xp": 1160,
+      "lastSaveData": 1789671442003,
       "autolevelup": true,
-      "lastWork": 1789583139254,
-      "workSuccess": 47,
-      "lastHack": 1789583144687,
-      "robSuccess": 116,
+      "lastWork": 1789745309367,
+      "workSuccess": 49,
+      "lastHack": 1789745311679,
+      "robSuccess": 123,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -672,25 +672,25 @@
         "cooldown": true,
         "premium": true
       },
-      "lastClean": 1789239479003,
-      "lastPhish": 1789413034962,
-      "lastBeg": 1789318706911,
-      "begSuccess": 13,
+      "lastClean": 1789745323480,
+      "lastPhish": 1789671539002,
+      "lastBeg": 1789745320180,
+      "begSuccess": 14,
       "banned": false,
       "permanent": false,
       "lastBlackjack": 1789313969596,
       "lastSpins": 1789318650931,
       "lastFreelance": 1789239285819,
-      "lastDecrypt": 1789399028135,
-      "lastMine": 1789413031993,
+      "lastDecrypt": 1789745354780,
+      "lastMine": 1789745314630,
       "lastSteal": 1789495304214,
       "StealSuccess": 5,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
-      "lastCode": 1789399024519,
+      "lastCode": 1789745329474,
       "lastDeliver": 1789239234051,
       "lastSpin": 1789324844523,
-      "lastRob": 1789495293208,
+      "lastRob": 1789745431301,
       "violations": 1,
       "lastLoadAcct": 1789409194579,
       "robbed": 10,
@@ -747,25 +747,53 @@
           "hash": "dXNlcjo3ZDJiODM5NDA3NmUzNGQyNzY4MjJlYjUxMTZlYjdhNzoxNzg5NTkwMTQ5OjdmY2NiYjg5OmIxMGM3YmY0MWU5ODg4ZWViZmRiZWU3NjJjNTU4MDBh",
           "md5": "b2cb5fd7a95e6571f076338a6cccade8",
           "time": 1789590191652
+        },
+        {
+          "hash": "dXNlcjo5YmMwMTM5YWE3ZTczM2Q3NDhhNjZhYTYxNjkxN2E2YjoxNzg5Njc1NTE2OjUzZWMyM2MzOmM5MmQ1Mzc4ZTMzMjI5ZmVjMTU5Y2YyY2JiZjFiZDM5",
+          "md5": "16ef6408d29dd9700ae18d555417cf26",
+          "time": 1789675582127
         }
       ],
-      "lastBuyXP": 1789590191652,
+      "lastBuyXP": 1789675582127,
       "stocks": {
         "nebula": 0,
         "nebulaAvg": 0
       },
       "lastClaim": {
-        "daily": 1789669703890
+        "daily": 1789761661316
       },
       "shoob": {
-        "dust": 60,
-        "lastDaily": 1789669696711,
-        "dailyStreak": 4,
+        "dust": 75,
+        "lastDaily": 1789761553188,
+        "dailyStreak": 5,
         "luckBoost": {
-          "active": true,
-          "grantedAt": 1789669696711,
-          "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
-        }
+          "active": false
+        },
+        "pvpLosses": 1,
+        "lastPvp": 1789810512582,
+        "cards": [
+          {
+            "id": "mu86z93i",
+            "tier": 1,
+            "title": "Shinobu Kawanishi",
+            "url": "https://cdn.shoob.gg/images/cards/1/1609573006976.png",
+            "series": "Girls und Panzer",
+            "strength": 1658,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1789810531888,
+            "inEscrow": false,
+            "onExpedition": false
+          }
+        ],
+        "questProgress": {
+          "pulls": 1
+        },
+        "lastPull": 1789810531888,
+        "pityCount": 1,
+        "totalPulls": 1
       },
       "lastBuyCoin": 1789399495155
     },
@@ -1315,5 +1343,5 @@
       }
     }
   },
-  "savedAt": 1789671515704
+  "savedAt": 1789815940958
 }
