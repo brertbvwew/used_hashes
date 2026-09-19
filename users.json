@@ -650,21 +650,21 @@
       "lastDecrypt": 1789317046674
     },
     "279800426053766": {
-      "coin": 133462100,
+      "coin": 139600810,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1789822927893,
+        "lastMessage": 1789848296573,
         "count": 1
       },
-      "xp": 1320,
+      "xp": 1860,
       "lastSaveData": 1789815941955,
       "autolevelup": true,
-      "lastWork": 1789745309367,
-      "workSuccess": 49,
-      "lastHack": 1789745311679,
-      "robSuccess": 123,
+      "lastWork": 1789828684092,
+      "workSuccess": 50,
+      "lastHack": 1789828687712,
+      "robSuccess": 125,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -681,18 +681,18 @@
       "lastBlackjack": 1789313969596,
       "lastSpins": 1789318650931,
       "lastFreelance": 1789239285819,
-      "lastDecrypt": 1789745354780,
-      "lastMine": 1789745314630,
+      "lastDecrypt": 1789828700745,
+      "lastMine": 1789828691663,
       "lastSteal": 1789495304214,
       "StealSuccess": 5,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
-      "lastCode": 1789745329474,
+      "lastCode": 1789828697739,
       "lastDeliver": 1789239234051,
       "lastSpin": 1789324844523,
       "lastRob": 1789745431301,
       "violations": 1,
-      "lastLoadAcct": 1789409194579,
+      "lastLoadAcct": 1789822970598,
       "robbed": 10,
       "crashGame": {
         "betAmount": 5000,
@@ -786,14 +786,29 @@
             "pulledAt": 1789810531888,
             "inEscrow": false,
             "onExpedition": false
+          },
+          {
+            "id": "mu8qd9s5",
+            "tier": 1,
+            "title": "Sage Ayana",
+            "url": "https://cdn.shoob.gg/images/cards/1/90f191d602c5a49d1cc14bebf79e6514f56a584accf277ec08a94821edc34855.png",
+            "series": "RWBY",
+            "strength": 1350,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1789843098672,
+            "inEscrow": false,
+            "onExpedition": false
           }
         ],
         "questProgress": {
-          "pulls": 1
+          "pulls": 2
         },
-        "lastPull": 1789810531888,
-        "pityCount": 1,
-        "totalPulls": 1
+        "lastPull": 1789843098672,
+        "pityCount": 2,
+        "totalPulls": 2
       },
       "lastBuyCoin": 1789399495155
     },
@@ -1343,5 +1358,5 @@
       }
     }
   },
-  "savedAt": 1789822928550
+  "savedAt": 1789848297299
 }
