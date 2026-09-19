@@ -650,16 +650,16 @@
       "lastDecrypt": 1789317046674
     },
     "279800426053766": {
-      "coin": 125411300,
+      "coin": 133462100,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moet🧛🏾‍♂️",
       "spam": {
-        "lastMessage": 1789815940130,
+        "lastMessage": 1789822927893,
         "count": 1
       },
-      "xp": 1160,
-      "lastSaveData": 1789671442003,
+      "xp": 1320,
+      "lastSaveData": 1789815941955,
       "autolevelup": true,
       "lastWork": 1789745309367,
       "workSuccess": 49,
@@ -1343,5 +1343,5 @@
       }
     }
   },
-  "savedAt": 1789815940958
+  "savedAt": 1789822928550
 }
