@@ -2726,15 +2726,64 @@
       "robbed": 2
     },
     "114435796508833": {
-      "coin": 22000,
-      "level": 0,
+      "coin": 28064,
+      "level": 1,
       "uid": "1f26dc08-33_b-nebula",
-      "username": "@user_1f26dc08-33",
+      "username": "@Redlinersa",
       "spam": {
-        "lastMessage": 1789225395243,
+        "lastMessage": 1790020216751,
         "count": 1
       },
-      "xp": 80
+      "xp": 4340,
+      "last_give_use": 1789914415461,
+      "last_give_day": "Sun Sep 20 2026",
+      "daily_give_total": 75000,
+      "lastSaveData": 1789225446060,
+      "lastLoadAcct": 1789225446060,
+      "robbed": 1,
+      "lastHack": 1790019818993,
+      "robSuccess": 56,
+      "lastSteal": 1790019824260,
+      "StealSuccess": 12,
+      "lastCode": 1790019423168,
+      "lastRepair": 1789914383052,
+      "lastRob": 1790019838917,
+      "lastRobBank": 1790019841454,
+      "lastFreelance": 1790019379832,
+      "lastDecrypt": 1790019831670,
+      "lastPhish": 1790019835255,
+      "crashGame": {
+        "betAmount": 5000,
+        "crashPoint": 3.92,
+        "startedAt": 1789907281151,
+        "active": false
+      },
+      "lastCrash": 1789907305654,
+      "lastWork": 1790019442797,
+      "workSuccess": 3,
+      "lastBeg": 1790019826580,
+      "begSuccess": 11,
+      "hasSentMsg": {
+        "cooldown": true,
+        "coin": true,
+        "banned": true
+      },
+      "lastClean": 1790019420570,
+      "lastMine": 1790019376543,
+      "lastDeliver": 1790010049019,
+      "lastRansom": 1790008472448,
+      "bank": 20000,
+      "stocks": {
+        "nebula": 384,
+        "nebulaAvg": 1437,
+        "nebulaBoughtAt": 1789912604813
+      },
+      "lastClaim": {
+        "daily": 1790009801361
+      },
+      "banned": false,
+      "permanent": false,
+      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
     },
     "254511792803874": {
       "coin": 6110,
@@ -2907,5 +2956,5 @@
       }
     }
   },
-  "savedAt": 1789901970961
+  "savedAt": 1790020217429
 }
