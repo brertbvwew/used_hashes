@@ -2993,7 +2993,28 @@
       "lastRob": 1790161382525,
       "robSuccess": 2,
       "lastRobBank": 1790161387412
+    },
+    "97028277301377": {
+      "coin": 12289,
+      "level": 0,
+      "uid": "13e17ddd-37_b-nebula",
+      "username": "@user_13e17ddd-37",
+      "spam": {
+        "lastMessage": 1790177438826,
+        "count": 1
+      },
+      "xp": 240,
+      "lastWork": 1790177368534,
+      "lastRob": 1790177374036,
+      "robSuccess": 2,
+      "lastSteal": 1790177391704,
+      "StealSuccess": 1,
+      "lastRansom": 1790177395374,
+      "lastCode": 1790177398758,
+      "lastClean": 1790177402636,
+      "lastDeliver": 1790177412968,
+      "bank": 8000000
     }
   },
-  "savedAt": 1790176069622
+  "savedAt": 1790177439475
 }
