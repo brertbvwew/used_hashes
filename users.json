@@ -2972,7 +2972,28 @@
         "coin": true,
         "cooldown": true
       }
+    },
+    "24258663211028": {
+      "coin": 3029584,
+      "level": 0,
+      "uid": "243b9a16-38_b-nebula",
+      "username": "@user_243b9a16-38",
+      "spam": {
+        "lastMessage": 1790175994848,
+        "count": 1
+      },
+      "xp": 460,
+      "hasSentMsg": {
+        "coin": true
+      },
+      "lastWork": 1790161359426,
+      "workSuccess": 2,
+      "lastSteal": 1790161369658,
+      "StealSuccess": 2,
+      "lastRob": 1790161382525,
+      "robSuccess": 2,
+      "lastRobBank": 1790161387412
     }
   },
-  "savedAt": 1790174640629
+  "savedAt": 1790175995493
 }
