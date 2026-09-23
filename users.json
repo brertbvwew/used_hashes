@@ -2153,26 +2153,26 @@
       "lastBlackjack": 1788554161471
     },
     "151994715099391": {
-      "coin": 0,
+      "coin": 2857,
       "spam": {
-        "lastMessage": 1789409254300,
-        "count": 2
+        "lastMessage": 1790174640001,
+        "count": 1
       },
       "level": 0,
-      "xp": 1996,
+      "xp": 3716,
       "uid": "132dec0a-31_b-nebula",
       "username": "@groper",
       "robbed": 2,
-      "lastWork": 1789317031612,
-      "workSuccess": 3,
-      "lastSpins": 1788799405412,
-      "lastSaveData": 1788602605124,
-      "lastSteal": 1789317037195,
-      "StealSuccess": 4,
-      "lastRob": 1788709379235,
-      "robSuccess": 13,
-      "lastRobBank": 1789317035287,
-      "lastRansom": 1789317042018,
+      "lastWork": 1790174500654,
+      "workSuccess": 11,
+      "lastSpins": 1789571337110,
+      "lastSaveData": 1789409256457,
+      "lastSteal": 1790064318244,
+      "StealSuccess": 7,
+      "lastRob": 1790174508443,
+      "robSuccess": 21,
+      "lastRobBank": 1790174511501,
+      "lastRansom": 1790174568024,
       "lastDeliver": 1788709392435,
       "lastCode": 1788599486704,
       "lastClean": 1789148597034,
@@ -2182,9 +2182,9 @@
       },
       "lastPhish": 1788599563651,
       "lastRepair": 1789148637928,
-      "bank": 1170167,
-      "lastBeg": 1788709409991,
-      "begSuccess": 2,
+      "bank": 2670383,
+      "lastBeg": 1790064774923,
+      "begSuccess": 3,
       "lastMine": 1788601235538,
       "lastFreelance": 1788601237807,
       "lastLoadAcct": 1789223885465,
@@ -2195,8 +2195,9 @@
         "active": false
       },
       "lastCrash": 1789237277877,
-      "lastHack": 1789317040408,
-      "lastDecrypt": 1789317046674
+      "lastHack": 1789823569032,
+      "lastDecrypt": 1789317046674,
+      "lastBlackjack": 1789477598192
     },
     "279800426053766": {
       "coin": 404734962,
@@ -2973,5 +2974,5 @@
       }
     }
   },
-  "savedAt": 1790174480888
+  "savedAt": 1790174640629
 }
