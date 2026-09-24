@@ -3085,15 +3085,15 @@
       "lastSaveData": 1790180554964
     },
     "97028277301377": {
-      "coin": 0,
+      "coin": 58009289,
       "level": 0,
       "uid": "13e17ddd-37_b-nebula",
       "username": "@user_13e17ddd-37",
       "spam": {
-        "lastMessage": 1790265720722,
+        "lastMessage": 1790273231657,
         "count": 1
       },
-      "xp": 340,
+      "xp": 440,
       "lastWork": 1790177368534,
       "lastRob": 1790177374036,
       "robSuccess": 2,
@@ -3103,11 +3103,12 @@
       "lastCode": 1790177398758,
       "lastClean": 1790177402636,
       "lastDeliver": 1790177412968,
-      "bank": 21010289,
+      "bank": 0,
       "lastLoadAcct": 1790177490723,
-      "last_give_use": 1790177515699,
-      "last_give_day": "Wed Sep 23 2026",
-      "daily_give_total": 8000000
+      "last_give_use": 1790273109673,
+      "last_give_day": "Thu Sep 24 2026",
+      "daily_give_total": 21000000,
+      "lastSaveData": 1790265722596
     },
     "27647925607": {
       "coin": 797,
@@ -3125,5 +3126,5 @@
       }
     }
   },
-  "savedAt": 1790273134875
+  "savedAt": 1790273232450
 }
