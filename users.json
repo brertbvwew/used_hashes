@@ -3059,15 +3059,15 @@
       }
     },
     "24258663211028": {
-      "coin": 16026584,
+      "coin": 21025584,
       "level": 0,
       "uid": "243b9a16-38_b-nebula",
       "username": "@user_243b9a16-38",
       "spam": {
-        "lastMessage": 1790180552779,
+        "lastMessage": 1790252892107,
         "count": 1
       },
-      "xp": 540,
+      "xp": 580,
       "hasSentMsg": {
         "coin": true
       },
@@ -3081,7 +3081,8 @@
       "lastLoadAcct": 1790176078374,
       "last_give_use": 1790176326658,
       "last_give_day": "Wed Sep 23 2026",
-      "daily_give_total": 3000000
+      "daily_give_total": 3000000,
+      "lastSaveData": 1790180554964
     },
     "97028277301377": {
       "coin": 12289,
@@ -3120,5 +3121,5 @@
       }
     }
   },
-  "savedAt": 1790252615958
+  "savedAt": 1790252892973
 }
