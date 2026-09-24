@@ -3021,7 +3021,22 @@
       "lastClean": 1790177402636,
       "lastDeliver": 1790177412968,
       "bank": 8000000
+    },
+    "27647925607": {
+      "coin": 797,
+      "level": 0,
+      "uid": "1fe0c0bf-37_b-nebula",
+      "username": "@user_1fe0c0bf-37",
+      "robbed": 6,
+      "spam": {
+        "lastMessage": 1790208509899,
+        "count": 1
+      },
+      "xp": 260,
+      "hasSentMsg": {
+        "coin": true
+      }
     }
   },
-  "savedAt": 1790180553566
+  "savedAt": 1790208510565
 }
