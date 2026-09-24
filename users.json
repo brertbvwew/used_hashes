@@ -2203,19 +2203,19 @@
       "daily_give_total": 5000000
     },
     "279800426053766": {
-      "coin": 200704818,
+      "coin": 423668028,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790233402282,
+        "lastMessage": 1790252615235,
         "count": 1
       },
-      "xp": 4900,
-      "lastSaveData": 1790168635808,
+      "xp": 5540,
+      "lastSaveData": 1790233404601,
       "autolevelup": true,
-      "lastWork": 1790174749655,
-      "workSuccess": 52,
+      "lastWork": 1790235706457,
+      "workSuccess": 53,
       "lastHack": 1790162285221,
       "robSuccess": 132,
       "lastRobBank": 1789239271524,
@@ -2262,7 +2262,7 @@
       "last_give_use": 1790187240125,
       "last_give_day": "Wed Sep 23 2026",
       "daily_give_total": 54500000,
-      "bank": 196608762,
+      "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "usedCoupons": [
@@ -2320,9 +2320,7 @@
         "lastDaily": 1790187186895,
         "dailyStreak": 1,
         "luckBoost": {
-          "active": true,
-          "grantedAt": 1790187186895,
-          "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
+          "active": false
         },
         "pvpLosses": 1,
         "lastPvp": 1789810512582,
@@ -2356,16 +2354,100 @@
             "pulledAt": 1789843098672,
             "inEscrow": false,
             "onExpedition": false
+          },
+          {
+            "id": "muf98w7j",
+            "tier": 2,
+            "title": "Darjeeling",
+            "url": "https://cdn.shoob.gg/images/cards/2/ca5bd15ac9eda1bb2dfb18a6a3744c7d04ae2ca7d9baa17f61626092866e9081.png",
+            "series": "Girls und Panzer",
+            "strength": 14251,
+            "serial": null,
+            "rarityName": "Ironbound",
+            "tierName": "Uncommon",
+            "color": "🟩",
+            "pulledAt": 1790237604208,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "muf9c7zz",
+            "tier": 1,
+            "title": "Azan",
+            "url": "https://cdn.shoob.gg/images/cards/1/1578708215175.png",
+            "series": "Berserk",
+            "strength": 1439,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1790237759307,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "mufgecgj",
+            "tier": 1,
+            "title": "Urumi Kanzaki",
+            "url": "https://cdn.shoob.gg/images/cards/1/68e84cc4c5de9e84e15486494a10e4ce.png",
+            "series": "Great Teacher Onizuka",
+            "strength": 1505,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1790249615649,
+            "inEscrow": false,
+            "onExpedition": false
           }
         ],
         "questProgress": {
-          "pulls": 2
+          "pulls": 2,
+          "duelWins": 0,
+          "expeditionsCompleted": 0,
+          "fusions": 0,
+          "raidDamage": 0,
+          "cardsConverted": 0,
+          "tradesCompleted": 0,
+          "pvpWinsDaily": 0,
+          "bossStagesCleared": 0
         },
-        "lastPull": 1789843098672,
-        "pityCount": 2,
-        "totalPulls": 2
+        "lastPull": 1790249615649,
+        "pityCount": 5,
+        "totalPulls": 5,
+        "questData": {
+          "lastSeed": 20260924,
+          "claimed": []
+        },
+        "bossProgress": {
+          "stage": 1,
+          "currentBossHp": 48899,
+          "lastFightTime": 1790237822120,
+          "deckHp": 71
+        }
       },
-      "lastBuyCoin": 1789399495155
+      "lastBuyCoin": 1789399495155,
+      "weedinventory": {
+        "Weed Leaf": 4,
+        "Rolling Paper": 3,
+        "Grinder Part": 1,
+        "Metal Lid": 5,
+        "Perlite": 1,
+        "Rolling Tray": 3,
+        "Butane": 2,
+        "Plastic Handle": 1,
+        "String": 2,
+        "Chocolate": 3,
+        "Small Motor": 2,
+        "Sensor Chip": 1,
+        "Growth Serum": 1,
+        "Dab Tool": 5,
+        "Canvas Sheet": 1,
+        "Golden Grinder": 1,
+        "Rare Blue Strain": 3
+      },
+      "weedlastGather": 1790238909174,
+      "weedgather": 1
     },
     "27672522981": {
       "coin": 8341,
@@ -3038,5 +3120,5 @@
       }
     }
   },
-  "savedAt": 1790233403140
+  "savedAt": 1790252615958
 }
