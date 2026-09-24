@@ -2508,36 +2508,66 @@
       "lastDeliver": 1788706864749
     },
     "246098019020928": {
-      "coin": 62779,
+      "coin": 403568,
       "level": 0,
       "uid": "2920406d-38_b-nebula",
       "username": "@user_2920406d-38",
-      "robbed": 3,
+      "robbed": 4,
       "spam": {
-        "lastMessage": 1788709067127,
-        "count": 1
+        "lastMessage": 1790276006138,
+        "count": 2
       },
-      "xp": 2100,
-      "lastBeg": 1788680718521,
-      "begSuccess": 4,
+      "xp": 11960,
+      "lastBeg": 1789479125283,
+      "begSuccess": 7,
       "hasSentMsg": {
         "cooldown": true,
         "banned": true
       },
-      "lastRob": 1788708884812,
-      "robSuccess": 12,
-      "lastRobBank": 1788708889949,
-      "lastClean": 1788708907590,
-      "lastWork": 1788650794871,
-      "workSuccess": 1,
-      "lastHack": 1788651366485,
-      "lastRepair": 1788650829746,
-      "lastBlackjack": 1788650959354,
+      "lastRob": 1790275953893,
+      "robSuccess": 113,
+      "lastRobBank": 1790275958121,
+      "lastClean": 1790274492486,
+      "lastWork": 1789571848529,
+      "workSuccess": 7,
+      "lastHack": 1790275445613,
+      "lastRepair": 1789477151831,
+      "lastBlackjack": 1790275607602,
       "banned": false,
       "permanent": false,
-      "lastSpins": 1788708804125,
-      "lastSpin": 1788690438274,
-      "bank": 1000
+      "lastSpins": 1790275944467,
+      "lastSpin": 1789385948509,
+      "bank": 1000,
+      "lastLoadAcct": 1788978887182,
+      "autolevelup": true,
+      "lastDecrypt": 1790275990212,
+      "crashGame": {
+        "betAmount": 5000,
+        "crashPoint": 3.13,
+        "startedAt": 1789239712046,
+        "active": false
+      },
+      "lastCrash": 1789239740474,
+      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
+      "lastMine": 1790275998073,
+      "lastFreelance": 1789477992794,
+      "lastPhish": 1789479793722,
+      "lastCode": 1789887367770,
+      "violations": 1,
+      "lastDeliver": 1790275985541,
+      "lastRansom": 1789477391396,
+      "lastSteal": 1790276003385,
+      "StealSuccess": 4,
+      "lotteryWin": 1,
+      "premium": true,
+      "premiumUntil": 1790286200333,
+      "uplimit": "10MB",
+      "limit": 10,
+      "lastBuyPremium": 1790275400333,
+      "afk": {
+        "reason": null,
+        "timestamp": 1790275833116
+      }
     },
     "92612597956617": {
       "coin": 116276,
@@ -3145,5 +3175,5 @@
       }
     }
   },
-  "savedAt": 1790275522463
+  "savedAt": 1790276006967
 }
