@@ -2203,16 +2203,16 @@
       "daily_give_total": 5000000
     },
     "279800426053766": {
-      "coin": 423668028,
+      "coin": 459732228,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790252615235,
+        "lastMessage": 1790275521723,
         "count": 1
       },
-      "xp": 5540,
-      "lastSaveData": 1790233404601,
+      "xp": 6140,
+      "lastSaveData": 1790252617442,
       "autolevelup": true,
       "lastWork": 1790235706457,
       "workSuccess": 53,
@@ -2259,9 +2259,9 @@
       "uplimit": "5MB",
       "limit": 5,
       "lastBuyPremium": 1789412989797,
-      "last_give_use": 1790187240125,
-      "last_give_day": "Wed Sep 23 2026",
-      "daily_give_total": 54500000,
+      "last_give_use": 1790252652195,
+      "last_give_day": "Thu Sep 24 2026",
+      "daily_give_total": 5000000,
       "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
@@ -2399,10 +2399,25 @@
             "pulledAt": 1790249615649,
             "inEscrow": false,
             "onExpedition": false
+          },
+          {
+            "id": "mufihsg0",
+            "tier": 1,
+            "title": "Fumiya Kurimoto",
+            "url": "https://cdn.shoob.gg/images/cards/1/1611018102654.png",
+            "series": "Domestic Girlfriend",
+            "strength": 3274,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1790253135659,
+            "inEscrow": false,
+            "onExpedition": false
           }
         ],
         "questProgress": {
-          "pulls": 2,
+          "pulls": 3,
           "duelWins": 0,
           "expeditionsCompleted": 0,
           "fusions": 0,
@@ -2412,9 +2427,9 @@
           "pvpWinsDaily": 0,
           "bossStagesCleared": 0
         },
-        "lastPull": 1790249615649,
-        "pityCount": 5,
-        "totalPulls": 5,
+        "lastPull": 1790253135659,
+        "pityCount": 6,
+        "totalPulls": 6,
         "questData": {
           "lastSeed": 20260924,
           "claimed": []
@@ -2447,7 +2462,11 @@
         "Rare Blue Strain": 3
       },
       "weedlastGather": 1790238909174,
-      "weedgather": 1
+      "weedgather": 1,
+      "profileFrames": [
+        "bronze"
+      ],
+      "activeFrame": "bronze"
     },
     "27672522981": {
       "coin": 8341,
@@ -3126,5 +3145,5 @@
       }
     }
   },
-  "savedAt": 1790273470307
+  "savedAt": 1790275522463
 }
