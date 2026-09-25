@@ -2203,15 +2203,15 @@
       "daily_give_total": 5000000
     },
     "279800426053766": {
-      "coin": 484627828,
+      "coin": 657228028,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790336947279,
+        "lastMessage": 1790341079710,
         "count": 1
       },
-      "xp": 6600,
+      "xp": 7100,
       "lastSaveData": 1790334763419,
       "autolevelup": true,
       "lastWork": 1790235706457,
@@ -2245,7 +2245,7 @@
       "lastSpin": 1789324844523,
       "lastRob": 1789745431301,
       "violations": 1,
-      "lastLoadAcct": 1790159004501,
+      "lastLoadAcct": 1790337023365,
       "robbed": 10,
       "crashGame": {
         "betAmount": 5000,
@@ -2259,9 +2259,9 @@
       "uplimit": "5MB",
       "limit": 5,
       "lastBuyPremium": 1789412989797,
-      "last_give_use": 1790275563544,
-      "last_give_day": "Thu Sep 24 2026",
-      "daily_give_total": 150000000,
+      "last_give_use": 1790337650327,
+      "last_give_day": "Fri Sep 25 2026",
+      "daily_give_total": 13000000,
       "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
@@ -2305,13 +2305,17 @@
           "hash": "dXNlcjo5YmMwMTM5YWE3ZTczM2Q3NDhhNjZhYTYxNjkxN2E2YjoxNzg5Njc1NTE2OjUzZWMyM2MzOmM5MmQ1Mzc4ZTMzMjI5ZmVjMTU5Y2YyY2JiZjFiZDM5",
           "md5": "16ef6408d29dd9700ae18d555417cf26",
           "time": 1789675582127
+        },
+        {
+          "hash": "dXNlcjpmZGJlNTM4M2MzNjc1NjBkZWUxNmMzNGUxZGNiMTQ0NToxNzkwMzQwOTMwOmQxMDZhMTdmOjA1MWIxNWIyYWQwY2Y3Njg3ZWQ5MWU5Yjc4MWMzYWI3",
+          "md5": "07d6f0e613e4bfe6ec9a83fa525ae293",
+          "time": 1790341052114
         }
       ],
       "lastBuyXP": 1789675582127,
       "stocks": {
-        "nebula": 100000,
-        "nebulaAvg": 1757,
-        "nebulaBoughtAt": 1790334767796
+        "nebula": 0,
+        "nebulaAvg": 0
       },
       "lastClaim": {
         "daily": 1790187192322
@@ -2442,7 +2446,7 @@
           "deckHp": 71
         }
       },
-      "lastBuyCoin": 1789399495155,
+      "lastBuyCoin": 1790341052114,
       "weedinventory": {
         "Weed Leaf": 4,
         "Rolling Paper": 3,
@@ -3184,5 +3188,5 @@
       }
     }
   },
-  "savedAt": 1790337125402
+  "savedAt": 1790341080519
 }
