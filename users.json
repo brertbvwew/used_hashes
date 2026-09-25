@@ -2204,21 +2204,21 @@
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
     },
     "279800426053766": {
-      "coin": 657228028,
+      "coin": 670833384,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790341079710,
+        "lastMessage": 1790358238640,
         "count": 1
       },
-      "xp": 7100,
-      "lastSaveData": 1790334763419,
+      "xp": 7700,
+      "lastSaveData": 1790341082066,
       "autolevelup": true,
-      "lastWork": 1790235706457,
-      "workSuccess": 53,
-      "lastHack": 1790162285221,
-      "robSuccess": 132,
+      "lastWork": 1790349135351,
+      "workSuccess": 54,
+      "lastHack": 1790349137737,
+      "robSuccess": 135,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -2227,7 +2227,7 @@
         "premium": true
       },
       "lastClean": 1790174776378,
-      "lastPhish": 1790050511948,
+      "lastPhish": 1790349142998,
       "lastBeg": 1790174765831,
       "begSuccess": 16,
       "banned": false,
@@ -2235,13 +2235,13 @@
       "lastBlackjack": 1790173927949,
       "lastSpins": 1789318650931,
       "lastFreelance": 1789239285819,
-      "lastDecrypt": 1790174745936,
-      "lastMine": 1790174763373,
+      "lastDecrypt": 1790349146501,
+      "lastMine": 1790349139915,
       "lastSteal": 1789495304214,
       "StealSuccess": 5,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
-      "lastCode": 1790174743481,
+      "lastCode": 1790349150000,
       "lastDeliver": 1790174771198,
       "lastSpin": 1789324844523,
       "lastRob": 1789745431301,
@@ -2319,14 +2319,16 @@
         "nebulaAvg": 0
       },
       "lastClaim": {
-        "daily": 1790187192322
+        "daily": 1790357656348
       },
       "shoob": {
-        "dust": 127,
-        "lastDaily": 1790187186895,
-        "dailyStreak": 1,
+        "dust": 142,
+        "lastDaily": 1790357630365,
+        "dailyStreak": 2,
         "luckBoost": {
-          "active": false
+          "active": true,
+          "grantedAt": 1790357630365,
+          "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
         },
         "pvpLosses": 1,
         "lastPvp": 1789810512582,
@@ -3189,5 +3191,5 @@
       }
     }
   },
-  "savedAt": 1790354182495
+  "savedAt": 1790358239325
 }
