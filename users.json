@@ -2204,16 +2204,16 @@
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
     },
     "279800426053766": {
-      "coin": 670833384,
+      "coin": 692657984,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790358238640,
+        "lastMessage": 1790366537140,
         "count": 1
       },
-      "xp": 7700,
-      "lastSaveData": 1790341082066,
+      "xp": 7800,
+      "lastSaveData": 1790358240612,
       "autolevelup": true,
       "lastWork": 1790349135351,
       "workSuccess": 54,
@@ -3191,5 +3191,5 @@
       }
     }
   },
-  "savedAt": 1790358239325
+  "savedAt": 1790366537943
 }
