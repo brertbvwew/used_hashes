@@ -2871,32 +2871,32 @@
       "robbed": 2
     },
     "114435796508833": {
-      "coin": 28064,
+      "coin": 143007166,
       "level": 1,
       "uid": "1f26dc08-33_b-nebula",
       "username": "@Redlinersa",
       "spam": {
-        "lastMessage": 1790020216751,
-        "count": 1
+        "lastMessage": 1790322014717,
+        "count": 2
       },
-      "xp": 4340,
-      "last_give_use": 1789914415461,
-      "last_give_day": "Sun Sep 20 2026",
-      "daily_give_total": 75000,
-      "lastSaveData": 1789225446060,
+      "xp": 6980,
+      "last_give_use": 1790175853323,
+      "last_give_day": "Wed Sep 23 2026",
+      "daily_give_total": 1000000,
+      "lastSaveData": 1790020219228,
       "lastLoadAcct": 1789225446060,
       "robbed": 1,
-      "lastHack": 1790019818993,
-      "robSuccess": 56,
-      "lastSteal": 1790019824260,
-      "StealSuccess": 12,
-      "lastCode": 1790019423168,
+      "lastHack": 1790020473774,
+      "robSuccess": 66,
+      "lastSteal": 1790024436684,
+      "StealSuccess": 14,
+      "lastCode": 1790024510730,
       "lastRepair": 1789914383052,
-      "lastRob": 1790019838917,
-      "lastRobBank": 1790019841454,
-      "lastFreelance": 1790019379832,
-      "lastDecrypt": 1790019831670,
-      "lastPhish": 1790019835255,
+      "lastRob": 1790024459825,
+      "lastRobBank": 1790024462980,
+      "lastFreelance": 1790020555587,
+      "lastDecrypt": 1790024476739,
+      "lastPhish": 1790024481118,
       "crashGame": {
         "betAmount": 5000,
         "crashPoint": 3.92,
@@ -2904,27 +2904,27 @@
         "active": false
       },
       "lastCrash": 1789907305654,
-      "lastWork": 1790019442797,
-      "workSuccess": 3,
-      "lastBeg": 1790019826580,
-      "begSuccess": 11,
+      "lastWork": 1790020574313,
+      "workSuccess": 4,
+      "lastBeg": 1790024455829,
+      "begSuccess": 13,
       "hasSentMsg": {
         "cooldown": true,
         "coin": true,
         "banned": true
       },
-      "lastClean": 1790019420570,
-      "lastMine": 1790019376543,
-      "lastDeliver": 1790010049019,
-      "lastRansom": 1790008472448,
-      "bank": 20000,
+      "lastClean": 1790024517800,
+      "lastMine": 1790024506914,
+      "lastDeliver": 1790020567474,
+      "lastRansom": 1790024503714,
+      "bank": 1020000,
       "stocks": {
-        "nebula": 384,
-        "nebulaAvg": 1437,
-        "nebulaBoughtAt": 1789912604813
+        "nebula": 100000,
+        "nebulaAvg": 1010,
+        "nebulaBoughtAt": 1790277762506
       },
       "lastClaim": {
-        "daily": 1790009801361
+        "daily": 1790265641980
       },
       "banned": false,
       "permanent": false,
@@ -3183,5 +3183,5 @@
       }
     }
   },
-  "savedAt": 1790321943696
+  "savedAt": 1790322015405
 }
