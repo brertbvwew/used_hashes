@@ -2931,66 +2931,66 @@
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
     },
     "254511792803874": {
-      "coin": 42498745,
-      "level": 1,
+      "coin": 128499769,
+      "level": 2,
       "uid": "403e88-34_b-nebula",
       "username": "@RedlineRSA1",
       "spam": {
-        "lastMessage": 1790174480201,
-        "count": 1
+        "lastMessage": 1790321942797,
+        "count": 2
       },
-      "xp": 13780,
+      "xp": 820,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
         "banned": true
       },
       "lastBlackjack": 1789910637642,
-      "lastSteal": 1790171798179,
-      "StealSuccess": 27,
-      "lastHack": 1790171796119,
-      "robSuccess": 139,
+      "lastSteal": 1790274238533,
+      "StealSuccess": 28,
+      "lastHack": 1790274799679,
+      "robSuccess": 146,
       "lastFreelance": 1790024748313,
-      "lastWork": 1790171811615,
-      "workSuccess": 15,
-      "lastCode": 1790171832707,
-      "lastRob": 1790171816379,
-      "lastRobBank": 1790171822154,
-      "lastBeg": 1790171801614,
-      "begSuccess": 21,
-      "lastMine": 1790024739878,
-      "lastPhish": 1790171808968,
+      "lastWork": 1790274305949,
+      "workSuccess": 16,
+      "lastCode": 1790274283110,
+      "lastRob": 1790274253474,
+      "lastRobBank": 1790274258786,
+      "lastBeg": 1790274241847,
+      "begSuccess": 22,
+      "lastMine": 1790274300860,
+      "lastPhish": 1790274250582,
       "lastRepair": 1789968984028,
-      "lastRansom": 1790171825335,
-      "lastDecrypt": 1790171805863,
-      "lastDeliver": 1790024752732,
-      "lastClean": 1790171828720,
+      "lastRansom": 1790274293950,
+      "lastDecrypt": 1790274246046,
+      "lastDeliver": 1790274289194,
+      "lastClean": 1790274279934,
       "crashGame": {
         "betAmount": 5000,
-        "crashPoint": 5.94,
-        "startedAt": 1789923975312,
+        "crashPoint": 2.6,
+        "startedAt": 1790274204957,
         "active": false
       },
-      "lastCrash": 1789923989611,
+      "lastCrash": 1790274216005,
       "banned": false,
       "permanent": false,
       "robbed": 1,
-      "bank": 1020000,
-      "last_give_use": 1790174201089,
-      "last_give_day": "Wed Sep 23 2026",
-      "daily_give_total": 10000000,
+      "bank": 19507745,
+      "last_give_use": 1790275693821,
+      "last_give_day": "Thu Sep 24 2026",
+      "daily_give_total": 57000000,
       "lastSpins": 1789907499383,
       "lastSpin": 1789910624197,
       "stocks": {
         "nebula": 100000,
-        "nebulaAvg": 1010,
-        "nebulaBoughtAt": 1790171505495
+        "nebulaAvg": 988,
+        "nebulaBoughtAt": 1790283003453
       },
       "lastClaim": {
-        "daily": 1790097785583
+        "daily": 1790187202686
       },
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
-      "lastSaveData": 1790168682175
+      "lastSaveData": 1790174482188
     },
     "66701597106413": {
       "coin": 1042691,
@@ -3183,5 +3183,5 @@
       }
     }
   },
-  "savedAt": 1790280708999
+  "savedAt": 1790321943696
 }
