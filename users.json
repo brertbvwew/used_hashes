@@ -2203,16 +2203,16 @@
       "daily_give_total": 5000000
     },
     "279800426053766": {
-      "coin": 459732228,
+      "coin": 662089828,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790275521723,
-        "count": 1
+        "lastMessage": 1790334761614,
+        "count": 2
       },
-      "xp": 6140,
-      "lastSaveData": 1790252617442,
+      "xp": 6480,
+      "lastSaveData": 1790275523617,
       "autolevelup": true,
       "lastWork": 1790235706457,
       "workSuccess": 53,
@@ -2259,9 +2259,9 @@
       "uplimit": "5MB",
       "limit": 5,
       "lastBuyPremium": 1789412989797,
-      "last_give_use": 1790252652195,
+      "last_give_use": 1790275563544,
       "last_give_day": "Thu Sep 24 2026",
-      "daily_give_total": 5000000,
+      "daily_give_total": 150000000,
       "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
@@ -3183,5 +3183,5 @@
       }
     }
   },
-  "savedAt": 1790322015405
+  "savedAt": 1790334762446
 }
