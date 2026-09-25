@@ -2203,16 +2203,16 @@
       "daily_give_total": 5000000
     },
     "279800426053766": {
-      "coin": 662089828,
+      "coin": 484627828,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790334761614,
-        "count": 2
+        "lastMessage": 1790336947279,
+        "count": 1
       },
-      "xp": 6480,
-      "lastSaveData": 1790275523617,
+      "xp": 6600,
+      "lastSaveData": 1790334763419,
       "autolevelup": true,
       "lastWork": 1790235706457,
       "workSuccess": 53,
@@ -2309,8 +2309,9 @@
       ],
       "lastBuyXP": 1789675582127,
       "stocks": {
-        "nebula": 0,
-        "nebulaAvg": 0
+        "nebula": 100000,
+        "nebulaAvg": 1757,
+        "nebulaBoughtAt": 1790334767796
       },
       "lastClaim": {
         "daily": 1790187192322
@@ -3183,5 +3184,5 @@
       }
     }
   },
-  "savedAt": 1790334762446
+  "savedAt": 1790336948198
 }
