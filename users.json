@@ -2204,21 +2204,21 @@
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
     },
     "279800426053766": {
-      "coin": 685845784,
+      "coin": 682990973,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790374410896,
+        "lastMessage": 1790437564136,
         "count": 1
       },
-      "xp": 7960,
-      "lastSaveData": 1790366539157,
+      "xp": 8920,
+      "lastSaveData": 1790374412957,
       "autolevelup": true,
       "lastWork": 1790349135351,
       "workSuccess": 54,
       "lastHack": 1790349137737,
-      "robSuccess": 135,
+      "robSuccess": 137,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -2228,20 +2228,20 @@
       },
       "lastClean": 1790174776378,
       "lastPhish": 1790349142998,
-      "lastBeg": 1790174765831,
-      "begSuccess": 16,
+      "lastBeg": 1790411150854,
+      "begSuccess": 17,
       "banned": false,
       "permanent": false,
       "lastBlackjack": 1790173927949,
       "lastSpins": 1789318650931,
       "lastFreelance": 1789239285819,
-      "lastDecrypt": 1790349146501,
-      "lastMine": 1790349139915,
+      "lastDecrypt": 1790410402645,
+      "lastMine": 1790411154765,
       "lastSteal": 1789495304214,
       "StealSuccess": 5,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
-      "lastCode": 1790349150000,
+      "lastCode": 1790411157657,
       "lastDeliver": 1790174771198,
       "lastSpin": 1789324844523,
       "lastRob": 1789745431301,
@@ -2260,9 +2260,9 @@
       "uplimit": "5MB",
       "limit": 5,
       "lastBuyPremium": 1789412989797,
-      "last_give_use": 1790337650327,
-      "last_give_day": "Fri Sep 25 2026",
-      "daily_give_total": 13000000,
+      "last_give_use": 1790412252614,
+      "last_give_day": "Sat Sep 26 2026",
+      "daily_give_total": 500000,
       "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
@@ -3191,5 +3191,5 @@
       }
     }
   },
-  "savedAt": 1790419671482
+  "savedAt": 1790437565099
 }
