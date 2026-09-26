@@ -2664,36 +2664,36 @@
       "robbed": 5
     },
     "198449416917151": {
-      "coin": 218414,
+      "coin": 20249581,
       "spam": {
-        "lastMessage": 1789318953526,
+        "lastMessage": 1790437703263,
         "count": 1
       },
       "level": 0,
-      "xp": 8600,
+      "xp": 9320,
       "uid": "364664be-31_b-nebula",
       "username": "@tshabalala.🐆🍒🎱",
       "autolevelup": true,
-      "lastSpin": 1788889538393,
-      "lastMine": 1788889542907,
-      "lastDecrypt": 1788889559679,
-      "robSuccess": 85,
-      "lastHack": 1788882895757,
-      "lastDeliver": 1788889565539,
-      "violations": 15,
-      "lastRobBank": 1788889173779,
-      "lastRob": 1788966573658,
-      "lastWork": 1788719667720,
+      "lastSpin": 1790428232918,
+      "lastMine": 1790428451911,
+      "lastDecrypt": 1790428046387,
+      "robSuccess": 92,
+      "lastHack": 1790428176445,
+      "lastDeliver": 1789356776376,
+      "violations": 16,
+      "lastRobBank": 1789318977842,
+      "lastRob": 1789318980650,
+      "lastWork": 1789356791539,
       "workSuccess": 7,
       "lastSpins": 1788879545524,
       "lastRepair": 1788618730698,
       "lastBeg": 1788707082197,
       "begSuccess": 4,
       "lastClean": 1788879669199,
-      "lastCode": 1788879641318,
+      "lastCode": 1789356789511,
       "lastRansom": 1788706266836,
       "lastBlackjack": 1788706532346,
-      "lastFreelance": 1788879648729,
+      "lastFreelance": 1789319035823,
       "lastSteal": 1788752560388,
       "StealSuccess": 7,
       "lastPhish": 1788706691658,
@@ -2702,14 +2702,15 @@
         "coin": true,
         "cooldown": true
       },
-      "robbed": 4,
+      "robbed": 6,
       "banned": false,
       "permanent": false,
-      "lastSaveData": 1788879559766,
+      "lastSaveData": 1789318955007,
       "lastLoadAcct": 1788967718516,
       "last_give_use": 1788967782787,
       "last_give_day": "Wed Sep 09 2026",
-      "daily_give_total": 91700000
+      "daily_give_total": 91700000,
+      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
     },
     "227608251887631": {
       "coin": 0,
@@ -3191,5 +3192,5 @@
       }
     }
   },
-  "savedAt": 1790437565099
+  "savedAt": 1790437704201
 }
