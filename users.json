@@ -2620,43 +2620,49 @@
       "daily_give_total": 2000
     },
     "257488272269538": {
-      "coin": 135000,
+      "coin": 151989100,
       "spam": {
-        "lastMessage": 1788886203921,
+        "lastMessage": 1790516602943,
         "count": 1
       },
-      "level": 0,
-      "xp": 2000,
+      "level": 1,
+      "xp": 3820,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@Daddy",
-      "robbed": 1,
+      "robbed": 2,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
         "owner": true
       },
       "crashGame": {
-        "betAmount": 550,
-        "crashPoint": 3.12,
-        "startedAt": 1788718696751,
+        "betAmount": 5000,
+        "crashPoint": 4.25,
+        "startedAt": 1789146273566,
         "active": false
       },
-      "lastCrash": 1788718714600,
-      "lastSpins": 1788782904087,
+      "lastCrash": 1789146277000,
+      "lastSpins": 1789147903734,
       "premium": true,
       "premiumUntil": 1788804521130,
       "uplimit": "10MB",
       "limit": 10,
       "lastBuyPremium": 1788793721130,
-      "lastRob": 1788808736541,
-      "robSuccess": 3,
-      "last_give_use": 1788794198145,
-      "last_give_day": "Mon Sep 07 2026",
-      "daily_give_total": 2700,
-      "lastLoadAcct": 1788886195975,
+      "lastRob": 1790488445859,
+      "robSuccess": 5,
+      "last_give_use": 1789133051878,
+      "last_give_day": "Fri Sep 11 2026",
+      "daily_give_total": 10000,
+      "lastLoadAcct": 1789133051878,
       "autolevelup": true,
-      "lastSaveData": 1788802769443,
-      "lastSpin": 1788801841135
+      "lastSaveData": 1789133051878,
+      "lastSpin": 1789147500213,
+      "lastClaim": {
+        "daily": 1790444355590
+      },
+      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
+      "stocks": {},
+      "lastRobBank": 1790488450875
     },
     "129511299494015": {
       "coin": 11619,
@@ -3201,5 +3207,5 @@
       }
     }
   },
-  "savedAt": 1790516445508
+  "savedAt": 1790516603814
 }
