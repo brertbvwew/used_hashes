@@ -2211,21 +2211,21 @@
       }
     },
     "279800426053766": {
-      "coin": 682990973,
+      "coin": 734372579,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790437564136,
+        "lastMessage": 1790516444755,
         "count": 1
       },
-      "xp": 8920,
+      "xp": 10060,
       "lastSaveData": 1790374412957,
       "autolevelup": true,
-      "lastWork": 1790349135351,
+      "lastWork": 1790458430411,
       "workSuccess": 54,
-      "lastHack": 1790349137737,
-      "robSuccess": 137,
+      "lastHack": 1790458432279,
+      "robSuccess": 139,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -2239,22 +2239,22 @@
       "begSuccess": 17,
       "banned": false,
       "permanent": false,
-      "lastBlackjack": 1790173927949,
-      "lastSpins": 1789318650931,
+      "lastBlackjack": 1790456799142,
+      "lastSpins": 1790456759821,
       "lastFreelance": 1789239285819,
       "lastDecrypt": 1790410402645,
-      "lastMine": 1790411154765,
+      "lastMine": 1790507307878,
       "lastSteal": 1789495304214,
       "StealSuccess": 5,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
-      "lastCode": 1790411157657,
+      "lastCode": 1790507399766,
       "lastDeliver": 1790174771198,
       "lastSpin": 1789324844523,
-      "lastRob": 1789745431301,
+      "lastRob": 1790447553431,
       "violations": 1,
-      "lastLoadAcct": 1790337023365,
-      "robbed": 10,
+      "lastLoadAcct": 1790437656410,
+      "robbed": 11,
       "crashGame": {
         "betAmount": 5000,
         "crashPoint": 5.13,
@@ -2267,9 +2267,9 @@
       "uplimit": "5MB",
       "limit": 5,
       "lastBuyPremium": 1789412989797,
-      "last_give_use": 1790412252614,
+      "last_give_use": 1790456936984,
       "last_give_day": "Sat Sep 26 2026",
-      "daily_give_total": 500000,
+      "daily_give_total": 20500000,
       "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
@@ -2326,15 +2326,15 @@
         "nebulaAvg": 0
       },
       "lastClaim": {
-        "daily": 1790357656348
+        "daily": 1790511058315
       },
       "shoob": {
-        "dust": 142,
-        "lastDaily": 1790357630365,
-        "dailyStreak": 2,
+        "dust": 157,
+        "lastDaily": 1790511054888,
+        "dailyStreak": 3,
         "luckBoost": {
           "active": true,
-          "grantedAt": 1790357630365,
+          "grantedAt": 1790511054888,
           "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
         },
         "pvpLosses": 1,
@@ -3201,5 +3201,5 @@
       }
     }
   },
-  "savedAt": 1790502152251
+  "savedAt": 1790516445508
 }
