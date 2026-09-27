@@ -2211,19 +2211,19 @@
       }
     },
     "279800426053766": {
-      "coin": 734372579,
+      "coin": 227245984,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790516444755,
+        "lastMessage": 1790536176184,
         "count": 1
       },
-      "xp": 10060,
-      "lastSaveData": 1790374412957,
+      "xp": 10540,
+      "lastSaveData": 1790516446718,
       "autolevelup": true,
-      "lastWork": 1790458430411,
-      "workSuccess": 54,
+      "lastWork": 1790536002993,
+      "workSuccess": 55,
       "lastHack": 1790458432279,
       "robSuccess": 139,
       "lastRobBank": 1789239271524,
@@ -2243,7 +2243,7 @@
       "lastSpins": 1790456759821,
       "lastFreelance": 1789239285819,
       "lastDecrypt": 1790410402645,
-      "lastMine": 1790507307878,
+      "lastMine": 1790536098555,
       "lastSteal": 1789495304214,
       "StealSuccess": 5,
       "lastRepair": 1789239254601,
@@ -2267,10 +2267,10 @@
       "uplimit": "5MB",
       "limit": 5,
       "lastBuyPremium": 1789412989797,
-      "last_give_use": 1790456936984,
-      "last_give_day": "Sat Sep 26 2026",
-      "daily_give_total": 20500000,
-      "bank": 0,
+      "last_give_use": 1790516584535,
+      "last_give_day": "Sun Sep 27 2026",
+      "daily_give_total": 150000000,
+      "bank": 522765579,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "usedCoupons": [
@@ -3207,5 +3207,5 @@
       }
     }
   },
-  "savedAt": 1790516603814
+  "savedAt": 1790536176935
 }
