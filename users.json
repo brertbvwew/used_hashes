@@ -2620,13 +2620,13 @@
       "daily_give_total": 2000
     },
     "257488272269538": {
-      "coin": 151989100,
+      "coin": 154043336,
       "spam": {
-        "lastMessage": 1790516602943,
+        "lastMessage": 1790536236272,
         "count": 1
       },
       "level": 1,
-      "xp": 3820,
+      "xp": 4200,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@Daddy",
       "robbed": 2,
@@ -2648,12 +2648,12 @@
       "uplimit": "10MB",
       "limit": 10,
       "lastBuyPremium": 1788793721130,
-      "lastRob": 1790488445859,
-      "robSuccess": 5,
+      "lastRob": 1790536019737,
+      "robSuccess": 8,
       "last_give_use": 1789133051878,
       "last_give_day": "Fri Sep 11 2026",
       "daily_give_total": 10000,
-      "lastLoadAcct": 1789133051878,
+      "lastLoadAcct": 1790516626380,
       "autolevelup": true,
       "lastSaveData": 1789133051878,
       "lastSpin": 1789147500213,
@@ -2661,8 +2661,15 @@
         "daily": 1790444355590
       },
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
-      "stocks": {},
-      "lastRobBank": 1790488450875
+      "stocks": {
+        "nebula": 0,
+        "nebulaAvg": 0
+      },
+      "lastRobBank": 1790536024596,
+      "bank": 0,
+      "lastDecrypt": 1790536028978,
+      "lastWork": 1790536033781,
+      "workSuccess": 1
     },
     "129511299494015": {
       "coin": 11619,
@@ -3207,5 +3214,5 @@
       }
     }
   },
-  "savedAt": 1790536176935
+  "savedAt": 1790536236977
 }
