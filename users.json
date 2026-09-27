@@ -2887,20 +2887,20 @@
       "robbed": 2
     },
     "114435796508833": {
-      "coin": 143007166,
+      "coin": 325881093,
       "level": 1,
       "uid": "1f26dc08-33_b-nebula",
       "username": "@Redlinersa",
       "spam": {
-        "lastMessage": 1790322014717,
-        "count": 2
+        "lastMessage": 1790499789202,
+        "count": 1
       },
-      "xp": 6980,
-      "last_give_use": 1790175853323,
-      "last_give_day": "Wed Sep 23 2026",
-      "daily_give_total": 1000000,
+      "xp": 7580,
+      "last_give_use": 1790499439662,
+      "last_give_day": "Sun Sep 27 2026",
+      "daily_give_total": 150000000,
       "lastSaveData": 1790020219228,
-      "lastLoadAcct": 1789225446060,
+      "lastLoadAcct": 1790322094480,
       "robbed": 1,
       "lastHack": 1790020473774,
       "robSuccess": 66,
@@ -2935,9 +2935,8 @@
       "lastRansom": 1790024503714,
       "bank": 1020000,
       "stocks": {
-        "nebula": 100000,
-        "nebulaAvg": 1010,
-        "nebulaBoughtAt": 1790277762506
+        "nebula": 0,
+        "nebulaAvg": 0
       },
       "lastClaim": {
         "daily": 1790265641980
@@ -3201,5 +3200,5 @@
       }
     }
   },
-  "savedAt": 1790499568661
+  "savedAt": 1790499789976
 }
