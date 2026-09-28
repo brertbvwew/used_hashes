@@ -2523,29 +2523,29 @@
       "lastDeliver": 1788706864749
     },
     "246098019020928": {
-      "coin": 435425,
-      "level": 0,
+      "coin": 463173,
+      "level": 1,
       "uid": "2920406d-38_b-nebula",
       "username": "@user_2920406d-38",
       "robbed": 4,
       "spam": {
-        "lastMessage": 1790585181277,
+        "lastMessage": 1790630591562,
         "count": 1
       },
-      "xp": 14240,
-      "lastBeg": 1790374350708,
-      "begSuccess": 8,
+      "xp": 20,
+      "lastBeg": 1790585734252,
+      "begSuccess": 10,
       "hasSentMsg": {
         "cooldown": true,
         "banned": true
       },
-      "lastRob": 1790585156617,
-      "robSuccess": 133,
-      "lastRobBank": 1790585161006,
-      "lastClean": 1790585164011,
+      "lastRob": 1790630549407,
+      "robSuccess": 141,
+      "lastRobBank": 1790630551375,
+      "lastClean": 1790585736751,
       "lastWork": 1789571848529,
       "workSuccess": 7,
-      "lastHack": 1790441694559,
+      "lastHack": 1790622344737,
       "lastRepair": 1789477151831,
       "lastBlackjack": 1790275607602,
       "banned": false,
@@ -2553,9 +2553,9 @@
       "lastSpins": 1790374582541,
       "lastSpin": 1789385948509,
       "bank": 1000,
-      "lastLoadAcct": 1788978887182,
+      "lastLoadAcct": 1790585212496,
       "autolevelup": true,
-      "lastDecrypt": 1790585168406,
+      "lastDecrypt": 1790585744202,
       "crashGame": {
         "betAmount": 5000,
         "crashPoint": 3.13,
@@ -2564,12 +2564,12 @@
       },
       "lastCrash": 1789239740474,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
-      "lastMine": 1790441681054,
+      "lastMine": 1790585753504,
       "lastFreelance": 1789477992794,
       "lastPhish": 1789479793722,
       "lastCode": 1789887367770,
       "violations": 1,
-      "lastDeliver": 1790585170977,
+      "lastDeliver": 1790585740434,
       "lastRansom": 1789477391396,
       "lastSteal": 1790276003385,
       "StealSuccess": 4,
@@ -3227,5 +3227,5 @@
       "lotteryWin": 1
     }
   },
-  "savedAt": 1790585182208
+  "savedAt": 1790630592435
 }
