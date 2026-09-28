@@ -3212,7 +3212,23 @@
       "hasSentMsg": {
         "coin": true
       }
+    },
+    "210952452612144": {
+      "coin": 150043200,
+      "level": 0,
+      "uid": "27277f6b-34_b-nebula",
+      "username": "@P-DIDDY",
+      "spam": {
+        "lastMessage": 1790583298652,
+        "count": 2
+      },
+      "xp": 540,
+      "hasSentMsg": {
+        "coin": true,
+        "owner": true
+      },
+      "lotteryWin": 1
     }
   },
-  "savedAt": 1790583252249
+  "savedAt": 1790583299523
 }
