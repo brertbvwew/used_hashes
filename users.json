@@ -2629,13 +2629,13 @@
       "daily_give_total": 2000
     },
     "257488272269538": {
-      "coin": 304033336,
+      "coin": 304032336,
       "spam": {
-        "lastMessage": 1790583363128,
+        "lastMessage": 1790689441380,
         "count": 1
       },
       "level": 1,
-      "xp": 4460,
+      "xp": 4500,
       "uid": "2ee0d109-38_b-nebula",
       "username": "@p-diddy",
       "robbed": 2,
@@ -2662,7 +2662,7 @@
       "last_give_use": 1790536284596,
       "last_give_day": "Sun Sep 27 2026",
       "daily_give_total": 150000000,
-      "lastLoadAcct": 1790516626380,
+      "lastLoadAcct": 1790689428330,
       "autolevelup": true,
       "lastSaveData": 1790536238148,
       "lastSpin": 1789147500213,
@@ -3272,5 +3272,5 @@
       "lastMine": 1790688984147
     }
   },
-  "savedAt": 1790689055526
+  "savedAt": 1790689442151
 }
