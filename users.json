@@ -3248,7 +3248,29 @@
       "uid": "113705af-36_b-nebula",
       "username": "@user_113705af-36",
       "xp": 20
+    },
+    "84040061317285": {
+      "coin": 0,
+      "level": 0,
+      "uid": "38e73df0-35_b-nebula",
+      "username": "@user_38e73df0-35",
+      "spam": {
+        "lastMessage": 1790689054660,
+        "count": 1
+      },
+      "xp": 320,
+      "lastWork": 1790688442815,
+      "workSuccess": 1,
+      "bank": 39700,
+      "lastRob": 1790688544634,
+      "robSuccess": 2,
+      "hasSentMsg": {
+        "coin": true
+      },
+      "lastRobBank": 1790688924750,
+      "lastDeliver": 1790688956939,
+      "lastMine": 1790688984147
     }
   },
-  "savedAt": 1790689044734
+  "savedAt": 1790689055526
 }
