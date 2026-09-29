@@ -3282,7 +3282,31 @@
       "lastCode": 1790690994947,
       "lastSteal": 1790691128291,
       "StealSuccess": 1
+    },
+    "71846498164741": {
+      "coin": 0,
+      "level": 0,
+      "uid": "14d834c2-31_b-nebula",
+      "username": "@user_14d834c2-31",
+      "spam": {
+        "lastMessage": 1790691339995,
+        "count": 1
+      },
+      "xp": 500,
+      "lastRob": 1790688299437,
+      "robSuccess": 3,
+      "lastWork": 1790691155338,
+      "workSuccess": 3,
+      "bank": 39828,
+      "hasSentMsg": {
+        "coin": true
+      },
+      "lastRobBank": 1790689196411,
+      "lastCode": 1790690338643,
+      "lastHack": 1790690620511,
+      "lastSteal": 1790691199849,
+      "StealSuccess": 1
     }
   },
-  "savedAt": 1790691323058
+  "savedAt": 1790691340589
 }
