@@ -3258,34 +3258,36 @@
       "uid": "38e73df0-35_b-nebula",
       "username": "@user_38e73df0-35",
       "spam": {
-        "lastMessage": 1790693197922,
+        "lastMessage": 1790711721378,
         "count": 1
       },
-      "xp": 2060,
-      "lastWork": 1790692573397,
-      "workSuccess": 5,
-      "bank": 650051,
+      "xp": 2720,
+      "lastWork": 1790711630446,
+      "workSuccess": 8,
+      "bank": 706140,
       "lastRob": 1790690413900,
-      "robSuccess": 9,
+      "robSuccess": 17,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true
       },
-      "lastRobBank": 1790690387624,
-      "lastDeliver": 1790688956939,
-      "lastMine": 1790690404259,
-      "lastSaveData": 1790691324312,
-      "lastClean": 1790689094026,
-      "lastFreelance": 1790689129954,
-      "lastRepair": 1790689146285,
-      "lastBeg": 1790692586859,
-      "begSuccess": 3,
-      "lastDecrypt": 1790692597262,
+      "lastRobBank": 1790711637844,
+      "lastDeliver": 1790697779219,
+      "lastMine": 1790697821750,
+      "lastSaveData": 1790693199750,
+      "lastClean": 1790711678001,
+      "lastFreelance": 1790697811160,
+      "lastRepair": 1790711687155,
+      "lastBeg": 1790711648064,
+      "begSuccess": 5,
+      "lastDecrypt": 1790711644091,
       "lastHack": 1790690632164,
-      "lastCode": 1790692581743,
+      "lastCode": 1790711651687,
       "lastSteal": 1790691128291,
       "StealSuccess": 1,
-      "winGame": 1
+      "winGame": 1,
+      "lastPhish": 1790711663906,
+      "lastRansom": 1790711690967
     },
     "71846498164741": {
       "coin": 0,
@@ -3312,5 +3314,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1790699062095
+  "savedAt": 1790711722364
 }
