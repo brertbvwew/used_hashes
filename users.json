@@ -3237,7 +3237,18 @@
         "owner": true
       },
       "lotteryWin": 1
+    },
+    "174891739418636": {
+      "coin": 20000000,
+      "level": 0,
+      "spam": {
+        "lastMessage": 1790689044018,
+        "count": 1
+      },
+      "uid": "113705af-36_b-nebula",
+      "username": "@user_113705af-36",
+      "xp": 20
     }
   },
-  "savedAt": 1790682530479
+  "savedAt": 1790689044734
 }
