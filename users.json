@@ -2211,16 +2211,16 @@
       }
     },
     "279800426053766": {
-      "coin": 1019604851,
+      "coin": 0,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790682529665,
+        "lastMessage": 1790693765837,
         "count": 1
       },
-      "xp": 12360,
-      "lastSaveData": 1790658999005,
+      "xp": 12580,
+      "lastSaveData": 1790682531579,
       "autolevelup": true,
       "lastWork": 1790669132884,
       "workSuccess": 55,
@@ -2231,7 +2231,8 @@
         "coin": true,
         "banned": true,
         "cooldown": true,
-        "premium": true
+        "premium": true,
+        "admin": true
       },
       "lastClean": 1790174776378,
       "lastPhish": 1790669139515,
@@ -2270,7 +2271,7 @@
       "last_give_use": 1790516584535,
       "last_give_day": "Sun Sep 27 2026",
       "daily_give_total": 150000000,
-      "bank": 0,
+      "bank": 804469851,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "usedCoupons": [
@@ -2322,8 +2323,9 @@
       ],
       "lastBuyXP": 1789675582127,
       "stocks": {
-        "nebula": 0,
-        "nebulaAvg": 0
+        "nebula": 100000,
+        "nebulaAvg": 2130,
+        "nebulaBoughtAt": 1790689272396
       },
       "lastClaim": {
         "daily": 1790669157409
@@ -3309,5 +3311,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1790693340143
+  "savedAt": 1790693766438
 }
