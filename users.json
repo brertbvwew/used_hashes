@@ -2695,18 +2695,18 @@
       "robbed": 5
     },
     "198449416917151": {
-      "coin": 58742180,
+      "coin": 58742653,
       "spam": {
-        "lastMessage": 1790693339537,
+        "lastMessage": 1790696127705,
         "count": 1
       },
       "level": 0,
-      "xp": 10640,
+      "xp": 10740,
       "uid": "364664be-31_b-nebula",
       "username": "@tshabalala.🐆🍒🎱",
       "autolevelup": true,
       "lastSpin": 1790428232918,
-      "lastMine": 1790692557382,
+      "lastMine": 1790696123653,
       "lastDecrypt": 1790689518024,
       "robSuccess": 93,
       "lastHack": 1790428176445,
@@ -2736,7 +2736,7 @@
       "robbed": 6,
       "banned": false,
       "permanent": false,
-      "lastSaveData": 1790690436959,
+      "lastSaveData": 1790693341509,
       "lastLoadAcct": 1790689058665,
       "last_give_use": 1788967782787,
       "last_give_day": "Wed Sep 09 2026",
@@ -3311,5 +3311,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1790693766438
+  "savedAt": 1790696128417
 }
