@@ -2211,21 +2211,21 @@
       }
     },
     "279800426053766": {
-      "coin": 416193536,
+      "coin": 0,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790583251324,
+        "lastMessage": 1790658997008,
         "count": 1
       },
-      "xp": 11120,
+      "xp": 11940,
       "lastSaveData": 1790577454423,
       "autolevelup": true,
       "lastWork": 1790536002993,
       "workSuccess": 55,
       "lastHack": 1790458432279,
-      "robSuccess": 140,
+      "robSuccess": 142,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -2244,16 +2244,16 @@
       "lastFreelance": 1789239285819,
       "lastDecrypt": 1790410402645,
       "lastMine": 1790536098555,
-      "lastSteal": 1790536950014,
-      "StealSuccess": 6,
+      "lastSteal": 1790586308433,
+      "StealSuccess": 8,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
       "lastCode": 1790507399766,
       "lastDeliver": 1790174771198,
       "lastSpin": 1789324844523,
-      "lastRob": 1790536936323,
+      "lastRob": 1790586300305,
       "violations": 1,
-      "lastLoadAcct": 1790437656410,
+      "lastLoadAcct": 1790583268650,
       "robbed": 11,
       "crashGame": {
         "betAmount": 5000,
@@ -2270,7 +2270,7 @@
       "last_give_use": 1790516584535,
       "last_give_day": "Sun Sep 27 2026",
       "daily_give_total": 150000000,
-      "bank": 522765579,
+      "bank": 1009787521,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "usedCoupons": [
@@ -2481,7 +2481,19 @@
       "profileFrames": [
         "bronze"
       ],
-      "activeFrame": "bronze"
+      "activeFrame": "bronze",
+      "poker": {
+        "pokerusername": "moettt",
+        "chips": 1000,
+        "equippedFrame": "default",
+        "inventory": [
+          "default"
+        ],
+        "pokerwins": 0,
+        "membershipTier": "NONE",
+        "membershipExpiry": 0,
+        "activeGame": null
+      }
     },
     "27672522981": {
       "coin": 8341,
@@ -3227,5 +3239,5 @@
       "lotteryWin": 1
     }
   },
-  "savedAt": 1790630592435
+  "savedAt": 1790658997880
 }
