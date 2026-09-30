@@ -2153,20 +2153,20 @@
       "lastBlackjack": 1788554161471
     },
     "151994715099391": {
-      "coin": 345180631,
+      "coin": 496160031,
       "spam": {
-        "lastMessage": 1790696220662,
+        "lastMessage": 1790788099360,
         "count": 1
       },
       "level": 1,
-      "xp": 8596,
+      "xp": 8996,
       "uid": "132dec0a-31_b-nebula",
       "username": "@groper",
       "robbed": 2,
       "lastWork": 1790442554931,
       "workSuccess": 13,
       "lastSpins": 1789571337110,
-      "lastSaveData": 1790502153097,
+      "lastSaveData": 1790696223000,
       "lastSteal": 1790442558049,
       "StealSuccess": 8,
       "lastRob": 1790174508443,
@@ -2203,9 +2203,8 @@
       "daily_give_total": 150000000,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "stocks": {
-        "nebula": 100000,
-        "nebulaAvg": 1031,
-        "nebulaBoughtAt": 1790621284547
+        "nebula": 0,
+        "nebulaAvg": 0
       },
       "lastClaim": {
         "daily": 1790444338162
@@ -3324,5 +3323,5 @@
       "xp": 80
     }
   },
-  "savedAt": 1790770190574
+  "savedAt": 1790788100533
 }
