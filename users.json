@@ -2212,21 +2212,21 @@
       }
     },
     "279800426053766": {
-      "coin": 1001380,
+      "coin": 902971713,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790696248167,
+        "lastMessage": 1790745172511,
         "count": 1
       },
-      "xp": 12700,
+      "xp": 13420,
       "lastSaveData": 1790693767734,
       "autolevelup": true,
-      "lastWork": 1790694023693,
-      "workSuccess": 56,
+      "lastWork": 1790701644990,
+      "workSuccess": 58,
       "lastHack": 1790458432279,
-      "robSuccess": 144,
+      "robSuccess": 145,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -2244,19 +2244,19 @@
       "lastBlackjack": 1790456799142,
       "lastSpins": 1790583060781,
       "lastFreelance": 1789239285819,
-      "lastDecrypt": 1790669142123,
-      "lastMine": 1790536098555,
+      "lastDecrypt": 1790744568421,
+      "lastMine": 1790744564859,
       "lastSteal": 1790586308433,
       "StealSuccess": 8,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
-      "lastCode": 1790507399766,
+      "lastCode": 1790744993163,
       "lastDeliver": 1790174771198,
       "lastSpin": 1789324844523,
       "lastRob": 1790586300305,
       "violations": 1,
-      "lastLoadAcct": 1790583268650,
-      "robbed": 11,
+      "lastLoadAcct": 1790696272474,
+      "robbed": 12,
       "crashGame": {
         "betAmount": 5000,
         "crashPoint": 5.13,
@@ -2272,7 +2272,7 @@
       "last_give_use": 1790516584535,
       "last_give_day": "Sun Sep 27 2026",
       "daily_give_total": 150000000,
-      "bank": 804469851,
+      "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "usedCoupons": [
@@ -2324,9 +2324,8 @@
       ],
       "lastBuyXP": 1789675582127,
       "stocks": {
-        "nebula": 100000,
-        "nebulaAvg": 2130,
-        "nebulaBoughtAt": 1790689272396
+        "nebula": 0,
+        "nebulaAvg": 0
       },
       "lastClaim": {
         "daily": 1790669157409
@@ -3314,5 +3313,5 @@
       "StealSuccess": 1
     }
   },
-  "savedAt": 1790711722364
+  "savedAt": 1790745173445
 }
