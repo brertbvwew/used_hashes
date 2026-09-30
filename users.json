@@ -2211,21 +2211,21 @@
       }
     },
     "279800426053766": {
-      "coin": 902971713,
+      "coin": 956450276,
       "level": 5,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790745172511,
+        "lastMessage": 1790798721893,
         "count": 1
       },
-      "xp": 13420,
-      "lastSaveData": 1790693767734,
+      "xp": 14740,
+      "lastSaveData": 1790745174819,
       "autolevelup": true,
-      "lastWork": 1790701644990,
-      "workSuccess": 58,
+      "lastWork": 1790752909027,
+      "workSuccess": 59,
       "lastHack": 1790458432279,
-      "robSuccess": 145,
+      "robSuccess": 146,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -2234,8 +2234,8 @@
         "premium": true,
         "admin": true
       },
-      "lastClean": 1790174776378,
-      "lastPhish": 1790669139515,
+      "lastClean": 1790752952145,
+      "lastPhish": 1790752946612,
       "lastBeg": 1790411150854,
       "begSuccess": 17,
       "banned": false,
@@ -2244,14 +2244,14 @@
       "lastSpins": 1790583060781,
       "lastFreelance": 1789239285819,
       "lastDecrypt": 1790744568421,
-      "lastMine": 1790744564859,
+      "lastMine": 1790752941073,
       "lastSteal": 1790586308433,
       "StealSuccess": 8,
       "lastRepair": 1789239254601,
       "lastRansom": 1789239250736,
       "lastCode": 1790744993163,
       "lastDeliver": 1790174771198,
-      "lastSpin": 1789324844523,
+      "lastSpin": 1790768521964,
       "lastRob": 1790586300305,
       "violations": 1,
       "lastLoadAcct": 1790696272474,
@@ -2327,16 +2327,14 @@
         "nebulaAvg": 0
       },
       "lastClaim": {
-        "daily": 1790669157409
+        "daily": 1790768558434
       },
       "shoob": {
-        "dust": 172,
-        "lastDaily": 1790669148307,
-        "dailyStreak": 4,
+        "dust": 187,
+        "lastDaily": 1790768549959,
+        "dailyStreak": 5,
         "luckBoost": {
-          "active": true,
-          "grantedAt": 1790669148307,
-          "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
+          "active": false
         },
         "pvpLosses": 1,
         "lastPvp": 1789810512582,
@@ -2430,22 +2428,127 @@
             "pulledAt": 1790253135659,
             "inEscrow": false,
             "onExpedition": false
+          },
+          {
+            "id": "muo1gprv",
+            "tier": 1,
+            "title": "Unknown Card T1",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 3720,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1790768727750,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "muo239pa",
+            "tier": 1,
+            "title": "Unknown Card T1",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 3769,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1790769780139,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "muo24y6g",
+            "tier": 1,
+            "title": "Unknown Card T1",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 3250,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1790769858404,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "muo27t23",
+            "tier": 1,
+            "title": "Unknown Card T1",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 3340,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1790769991678,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "muo2bwzz",
+            "tier": 2,
+            "title": "Unknown Card T2",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 7619,
+            "serial": null,
+            "rarityName": "Ironbound",
+            "tierName": "Uncommon",
+            "color": "🟩",
+            "pulledAt": 1790770183588,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "muo2cpor",
+            "tier": 1,
+            "title": "Unknown Card T1",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 3522,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1790770220766,
+            "inEscrow": false,
+            "onExpedition": false
+          },
+          {
+            "id": "muo2e0n3",
+            "tier": 1,
+            "title": "Unknown Card T1",
+            "url": null,
+            "series": "Unknown Series",
+            "strength": 3694,
+            "serial": null,
+            "rarityName": "Dust",
+            "tierName": "Common",
+            "color": "⬜",
+            "pulledAt": 1790770281612,
+            "inEscrow": false,
+            "onExpedition": false
           }
         ],
         "questProgress": {
-          "pulls": 3,
+          "pulls": 10,
           "duelWins": 0,
           "expeditionsCompleted": 0,
           "fusions": 0,
-          "raidDamage": 0,
+          "raidDamage": 12137,
           "cardsConverted": 0,
           "tradesCompleted": 0,
           "pvpWinsDaily": 0,
           "bossStagesCleared": 0
         },
-        "lastPull": 1790253135659,
-        "pityCount": 6,
-        "totalPulls": 6,
+        "lastPull": 1790770281612,
+        "pityCount": 13,
+        "totalPulls": 13,
         "questData": {
           "lastSeed": 20260924,
           "claimed": []
@@ -3322,5 +3425,5 @@
       "xp": 80
     }
   },
-  "savedAt": 1790788106248
+  "savedAt": 1790798722684
 }
