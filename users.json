@@ -3311,7 +3311,18 @@
       "lastHack": 1790690620511,
       "lastSteal": 1790691199849,
       "StealSuccess": 1
+    },
+    "27823993251": {
+      "coin": 22000,
+      "level": 0,
+      "uid": "2c964250-31_b-nebula",
+      "username": "@user_2c964250-31",
+      "spam": {
+        "lastMessage": 1790747483126,
+        "count": 1
+      },
+      "xp": 80
     }
   },
-  "savedAt": 1790745173445
+  "savedAt": 1790747483768
 }
