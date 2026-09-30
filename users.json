@@ -2975,10 +2975,10 @@
       "uid": "403e88-34_b-nebula",
       "username": "@RedlineRSA1",
       "spam": {
-        "lastMessage": 1790770044132,
+        "lastMessage": 1790770189185,
         "count": 1
       },
-      "xp": 4320,
+      "xp": 4360,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
@@ -3030,7 +3030,7 @@
       },
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "lastSaveData": 1790699064304,
-      "lastLoadAcct": 1790419713347,
+      "lastLoadAcct": 1790770173781,
       "autolevelup": true
     },
     "66701597106413": {
@@ -3324,5 +3324,5 @@
       "xp": 80
     }
   },
-  "savedAt": 1790770044905
+  "savedAt": 1790770190574
 }
