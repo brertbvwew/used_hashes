@@ -3285,31 +3285,32 @@
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
     },
     "97028277301377": {
-      "coin": 100008289,
+      "coin": 150010516,
       "level": 0,
       "uid": "13e17ddd-37_b-nebula",
       "username": "@user_13e17ddd-37",
       "spam": {
-        "lastMessage": 1790502094192,
+        "lastMessage": 1790877007570,
         "count": 1
       },
-      "xp": 640,
-      "lastWork": 1790177368534,
+      "xp": 860,
+      "lastWork": 1790876482907,
       "lastRob": 1790177374036,
-      "robSuccess": 2,
-      "lastSteal": 1790177391704,
-      "StealSuccess": 1,
-      "lastRansom": 1790177395374,
+      "robSuccess": 3,
+      "lastSteal": 1790876485644,
+      "StealSuccess": 2,
+      "lastRansom": 1790876496979,
       "lastCode": 1790177398758,
       "lastClean": 1790177402636,
-      "lastDeliver": 1790177412968,
+      "lastDeliver": 1790876513728,
       "bank": 0,
-      "lastLoadAcct": 1790273426231,
-      "last_give_use": 1790354142474,
-      "last_give_day": "Fri Sep 25 2026",
-      "daily_give_total": 58000000,
+      "lastLoadAcct": 1790502133146,
+      "last_give_use": 1790876930997,
+      "last_give_day": "Thu Oct 01 2026",
+      "daily_give_total": 100000000,
       "lastSaveData": 1790265722596,
-      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
+      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
+      "workSuccess": 1
     },
     "27647925607": {
       "coin": 797,
@@ -3426,5 +3427,5 @@
       "xp": 80
     }
   },
-  "savedAt": 1790875338557
+  "savedAt": 1790877008605
 }
