@@ -3013,19 +3013,19 @@
       "robbed": 2
     },
     "114435796508833": {
-      "coin": 115587373,
+      "coin": 115585373,
       "level": 1,
       "uid": "1f26dc08-33_b-nebula",
       "username": "@Redlinersa",
       "spam": {
-        "lastMessage": 1790845898718,
+        "lastMessage": 1790858456735,
         "count": 1
       },
-      "xp": 8340,
+      "xp": 8420,
       "last_give_use": 1790696287844,
       "last_give_day": "Tue Sep 29 2026",
       "daily_give_total": 148000000,
-      "lastSaveData": 1790769992095,
+      "lastSaveData": 1790845900688,
       "lastLoadAcct": 1790673072865,
       "robbed": 1,
       "lastHack": 1790020473774,
@@ -3425,5 +3425,5 @@
       "xp": 80
     }
   },
-  "savedAt": 1790845899567
+  "savedAt": 1790858457501
 }
