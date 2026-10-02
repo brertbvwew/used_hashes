@@ -2211,15 +2211,15 @@
       }
     },
     "279800426053766": {
-      "coin": 956450276,
-      "level": 5,
+      "coin": 1081687286,
+      "level": 6,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790798721893,
-        "count": 1
+        "lastMessage": 1790937929331,
+        "count": 2
       },
-      "xp": 14740,
+      "xp": 80,
       "lastSaveData": 1790745174819,
       "autolevelup": true,
       "lastWork": 1790752909027,
@@ -2254,8 +2254,8 @@
       "lastSpin": 1790768521964,
       "lastRob": 1790586300305,
       "violations": 1,
-      "lastLoadAcct": 1790696272474,
-      "robbed": 12,
+      "lastLoadAcct": 1790847524340,
+      "robbed": 13,
       "crashGame": {
         "betAmount": 5000,
         "crashPoint": 5.13,
@@ -3459,5 +3459,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1790927527452
+  "savedAt": 1790937930229
 }
