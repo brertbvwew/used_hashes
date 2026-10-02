@@ -2885,32 +2885,32 @@
       "robbed": 1
     },
     "120066532208753": {
-      "coin": 59817348,
+      "coin": 8604,
       "level": 0,
       "uid": "2918cae-33_b-nebula",
       "username": "@Andile.🍒🐆🎱",
       "spam": {
-        "lastMessage": 1790884738369,
+        "lastMessage": 1790917637614,
         "count": 1
       },
-      "xp": 1860,
+      "xp": 2380,
       "lastSpin": 1788923360583,
-      "lastMine": 1790884692286,
-      "lastDecrypt": 1790884716273,
-      "robSuccess": 16,
+      "lastMine": 1790917593678,
+      "lastDecrypt": 1790917612389,
+      "robSuccess": 22,
       "lastHack": 1788923353997,
       "lastWork": 1790883820127,
       "workSuccess": 3,
       "lastDeliver": 1790884272719,
-      "last_give_use": 1790884394169,
+      "last_give_use": 1790887285386,
       "last_give_day": "Thu Oct 01 2026",
-      "daily_give_total": 100,
+      "daily_give_total": 2101,
       "lastRobBank": 1788807109313,
-      "lastRob": 1790883629577,
+      "lastRob": 1790887766900,
       "lastSpins": 1788808011983,
       "lastCode": 1788808062380,
       "lastBlackjack": 1788807456497,
-      "robbed": 3,
+      "robbed": 4,
       "lastBeg": 1788808052106,
       "begSuccess": 1,
       "lastClean": 1788808055994,
@@ -2921,11 +2921,12 @@
       "lastRepair": 1788808131970,
       "lastSteal": 1788808143072,
       "StealSuccess": 1,
-      "lastSaveData": 1788889362648,
+      "lastSaveData": 1790884740517,
       "hasSentMsg": {
         "coin": true
       },
-      "lastLoadAcct": 1790884070981
+      "lastLoadAcct": 1790884070981,
+      "bank": 59818757
     },
     "227784362319926": {
       "coin": 144999436,
@@ -3427,5 +3428,5 @@
       "xp": 80
     }
   },
-  "savedAt": 1790884739227
+  "savedAt": 1790917638501
 }
