@@ -2797,53 +2797,54 @@
       "robbed": 5
     },
     "198449416917151": {
-      "coin": 58778479,
+      "coin": 69763345,
       "spam": {
-        "lastMessage": 1790883830536,
+        "lastMessage": 1790966835593,
         "count": 1
       },
       "level": 0,
-      "xp": 11340,
+      "xp": 13280,
       "uid": "364664be-31_b-nebula",
       "username": "@tshabalala.🐆🍒🎱",
       "autolevelup": true,
-      "lastSpin": 1790883622543,
-      "lastMine": 1790883625737,
-      "lastDecrypt": 1790883634808,
-      "robSuccess": 99,
+      "lastSpin": 1790966521525,
+      "lastMine": 1790923123836,
+      "lastDecrypt": 1790943511984,
+      "robSuccess": 102,
       "lastHack": 1790880268350,
-      "lastDeliver": 1790883657295,
+      "lastDeliver": 1790943516243,
       "violations": 17,
       "lastRobBank": 1789318977842,
       "lastRob": 1790883675766,
-      "lastWork": 1790883775498,
+      "lastWork": 1790922246414,
       "workSuccess": 8,
       "lastSpins": 1790883784573,
       "lastRepair": 1788618730698,
       "lastBeg": 1788707082197,
       "begSuccess": 4,
       "lastClean": 1790883813867,
-      "lastCode": 1790883817759,
+      "lastCode": 1790922240881,
       "lastRansom": 1788706266836,
       "lastBlackjack": 1788706532346,
       "lastFreelance": 1789319035823,
-      "lastSteal": 1790691222396,
-      "StealSuccess": 8,
+      "lastSteal": 1790884706585,
+      "StealSuccess": 9,
       "lastPhish": 1788706691658,
       "hasSentMsg": {
         "premium": true,
         "coin": true,
         "cooldown": true
       },
-      "robbed": 7,
+      "robbed": 8,
       "banned": false,
       "permanent": false,
-      "lastSaveData": 1790693341509,
+      "lastSaveData": 1790883832706,
       "lastLoadAcct": 1790878700526,
-      "last_give_use": 1788967782787,
-      "last_give_day": "Wed Sep 09 2026",
-      "daily_give_total": 91700000,
-      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
+      "last_give_use": 1790884219723,
+      "last_give_day": "Thu Oct 01 2026",
+      "daily_give_total": 58001000,
+      "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
+      "bank": 0
     },
     "227608251887631": {
       "coin": 0,
@@ -3459,5 +3460,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1790966805815
+  "savedAt": 1790966836604
 }
