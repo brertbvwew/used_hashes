@@ -3265,10 +3265,10 @@
       "uid": "243b9a16-38_b-nebula",
       "username": "@user_243b9a16-38",
       "spam": {
-        "lastMessage": 1790875231139,
+        "lastMessage": 1791013402254,
         "count": 1
       },
-      "xp": 1160,
+      "xp": 1180,
       "hasSentMsg": {
         "coin": true
       },
@@ -3279,7 +3279,7 @@
       "lastRob": 1790161382525,
       "robSuccess": 2,
       "lastRobBank": 1790161387412,
-      "lastLoadAcct": 1790500887829,
+      "lastLoadAcct": 1790876209881,
       "last_give_use": 1790696201405,
       "last_give_day": "Tue Sep 29 2026",
       "daily_give_total": 110000000,
@@ -3460,5 +3460,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1790979952681
+  "savedAt": 1791013403073
 }
