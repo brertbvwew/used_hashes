@@ -2211,16 +2211,16 @@
       }
     },
     "279800426053766": {
-      "coin": 1011318846,
+      "coin": 1011310846,
       "level": 6,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1791043203156,
+        "lastMessage": 1791050947548,
         "count": 1
       },
-      "xp": 420,
-      "lastSaveData": 1790937931891,
+      "xp": 640,
+      "lastSaveData": 1791043205264,
       "autolevelup": true,
       "lastWork": 1790752909027,
       "workSuccess": 59,
@@ -3463,5 +3463,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1791043203935
+  "savedAt": 1791050948200
 }
