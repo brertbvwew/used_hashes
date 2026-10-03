@@ -2889,48 +2889,48 @@
       "robbed": 1
     },
     "120066532208753": {
-      "coin": 499344,
+      "coin": 159671404,
       "level": 0,
       "uid": "2918cae-33_b-nebula",
       "username": "@andile.❤️🤙🏻",
       "spam": {
-        "lastMessage": 1790966356010,
+        "lastMessage": 1791051113234,
         "count": 1
       },
-      "xp": 3340,
-      "lastSpin": 1788923360583,
-      "lastMine": 1790942513561,
-      "lastDecrypt": 1790917612389,
-      "robSuccess": 25,
+      "xp": 5740,
+      "lastSpin": 1790966531949,
+      "lastMine": 1791049865501,
+      "lastDecrypt": 1791049876505,
+      "robSuccess": 39,
       "lastHack": 1788923353997,
-      "lastWork": 1790883820127,
-      "workSuccess": 3,
-      "lastDeliver": 1790946435354,
-      "last_give_use": 1790946143117,
-      "last_give_day": "Fri Oct 02 2026",
-      "daily_give_total": 1002,
-      "lastRobBank": 1790965583129,
-      "lastRob": 1790942780852,
+      "lastWork": 1791049905371,
+      "workSuccess": 11,
+      "lastDeliver": 1791050974844,
+      "last_give_use": 1791050939028,
+      "last_give_day": "Sat Oct 03 2026",
+      "daily_give_total": 504000,
+      "lastRobBank": 1791048128276,
+      "lastRob": 1791025653419,
       "lastSpins": 1788808011983,
       "lastCode": 1788808062380,
       "lastBlackjack": 1788807456497,
-      "robbed": 4,
-      "lastBeg": 1788808052106,
-      "begSuccess": 1,
-      "lastClean": 1788808055994,
-      "violations": 1,
+      "robbed": 5,
+      "lastBeg": 1791050847328,
+      "begSuccess": 12,
+      "lastClean": 1791048076402,
+      "violations": 2,
       "lastFreelance": 1788808080884,
       "lastPhish": 1788808122028,
       "lastRansom": 1788808127841,
-      "lastRepair": 1788808131970,
-      "lastSteal": 1788808143072,
-      "StealSuccess": 1,
-      "lastSaveData": 1790917639581,
+      "lastRepair": 1791047701947,
+      "lastSteal": 1791048264834,
+      "StealSuccess": 3,
+      "lastSaveData": 1790966358298,
       "hasSentMsg": {
         "coin": true
       },
       "lastLoadAcct": 1790884070981,
-      "bank": 59329363
+      "bank": 0
     },
     "227784362319926": {
       "coin": 144999436,
@@ -3463,5 +3463,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1791051014016
+  "savedAt": 1791051113932
 }
