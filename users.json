@@ -2211,21 +2211,21 @@
       }
     },
     "279800426053766": {
-      "coin": 1081685286,
+      "coin": 1011318846,
       "level": 6,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1790966804639,
+        "lastMessage": 1791043203156,
         "count": 1
       },
-      "xp": 140,
+      "xp": 420,
       "lastSaveData": 1790937931891,
       "autolevelup": true,
       "lastWork": 1790752909027,
       "workSuccess": 59,
       "lastHack": 1790458432279,
-      "robSuccess": 146,
+      "robSuccess": 147,
       "lastRobBank": 1789239271524,
       "hasSentMsg": {
         "coin": true,
@@ -2252,9 +2252,9 @@
       "lastCode": 1790744993163,
       "lastDeliver": 1790174771198,
       "lastSpin": 1790768521964,
-      "lastRob": 1790586300305,
+      "lastRob": 1790967488989,
       "violations": 1,
-      "lastLoadAcct": 1790847524340,
+      "lastLoadAcct": 1790966842326,
       "robbed": 13,
       "crashGame": {
         "betAmount": 5000,
@@ -2268,9 +2268,9 @@
       "uplimit": "5MB",
       "limit": 5,
       "lastBuyPremium": 1789412989797,
-      "last_give_use": 1790516584535,
-      "last_give_day": "Sun Sep 27 2026",
-      "daily_give_total": 150000000,
+      "last_give_use": 1790967518262,
+      "last_give_day": "Fri Oct 02 2026",
+      "daily_give_total": 100000,
       "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
@@ -2323,18 +2323,21 @@
       ],
       "lastBuyXP": 1789675582127,
       "stocks": {
-        "nebula": 0,
-        "nebulaAvg": 0
+        "nebula": 100000,
+        "nebulaAvg": 1059,
+        "nebulaBoughtAt": 1791031304233
       },
       "lastClaim": {
-        "daily": 1790768558434
+        "daily": 1790967053450
       },
       "shoob": {
-        "dust": 187,
-        "lastDaily": 1790768549959,
-        "dailyStreak": 5,
+        "dust": 217,
+        "lastDaily": 1790967036661,
+        "dailyStreak": 6,
         "luckBoost": {
-          "active": false
+          "active": true,
+          "grantedAt": 1790967036661,
+          "description": "ᴛ4+ ᴅʀᴏᴘ ʀᴀᴛᴇ ʙᴏᴏꜱᴛ ᴏɴ ɴᴇxᴛ ᴘᴜʟʟ"
         },
         "pvpLosses": 1,
         "lastPvp": 1789810512582,
@@ -3460,5 +3463,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1791013457209
+  "savedAt": 1791043203935
 }
