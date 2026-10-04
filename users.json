@@ -2211,16 +2211,16 @@
       }
     },
     "279800426053766": {
-      "coin": 1011310846,
+      "coin": 1057613446,
       "level": 6,
       "uid": "2c18d595-36_b-nebula",
       "username": "@Moetʕ˖͜͡˖ʔ",
       "spam": {
-        "lastMessage": 1791050947548,
+        "lastMessage": 1791097995671,
         "count": 1
       },
-      "xp": 640,
-      "lastSaveData": 1791043205264,
+      "xp": 760,
+      "lastSaveData": 1791050949325,
       "autolevelup": true,
       "lastWork": 1790752909027,
       "workSuccess": 59,
@@ -2268,9 +2268,9 @@
       "uplimit": "5MB",
       "limit": 5,
       "lastBuyPremium": 1789412989797,
-      "last_give_use": 1790967518262,
-      "last_give_day": "Fri Oct 02 2026",
-      "daily_give_total": 100000,
+      "last_give_use": 1791050982230,
+      "last_give_day": "Sat Oct 03 2026",
+      "daily_give_total": 150000000,
       "bank": 0,
       "lastRoulette": 1789239170543,
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
@@ -2323,9 +2323,8 @@
       ],
       "lastBuyXP": 1789675582127,
       "stocks": {
-        "nebula": 100000,
-        "nebulaAvg": 1059,
-        "nebulaBoughtAt": 1791031304233
+        "nebula": 0,
+        "nebulaAvg": 0
       },
       "lastClaim": {
         "daily": 1790967053450
@@ -3463,5 +3462,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1791051113932
+  "savedAt": 1791097996463
 }
