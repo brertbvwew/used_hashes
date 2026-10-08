@@ -2888,15 +2888,15 @@
       "robbed": 1
     },
     "120066532208753": {
-      "coin": 159668365,
+      "coin": 310659365,
       "level": 0,
       "uid": "2918cae-33_b-nebula",
       "username": "@andile.❤️🤙🏻",
       "spam": {
-        "lastMessage": 1791388074984,
+        "lastMessage": 1791478428500,
         "count": 1
       },
-      "xp": 6020,
+      "xp": 6280,
       "lastSpin": 1790966531949,
       "lastMine": 1791049865501,
       "lastDecrypt": 1791049876505,
@@ -2905,8 +2905,8 @@
       "lastWork": 1791049905371,
       "workSuccess": 11,
       "lastDeliver": 1791051412055,
-      "last_give_use": 1791382233629,
-      "last_give_day": "Wed Oct 07 2026",
+      "last_give_use": 1791478336691,
+      "last_give_day": "Thu Oct 08 2026",
       "daily_give_total": 150000000,
       "lastRobBank": 1791048128276,
       "lastRob": 1791382106853,
@@ -2929,7 +2929,7 @@
         "coin": true,
         "cooldown": true
       },
-      "lastLoadAcct": 1791051285969,
+      "lastLoadAcct": 1791388100632,
       "bank": 0
     },
     "227784362319926": {
@@ -3463,5 +3463,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1791478362398
+  "savedAt": 1791478430261
 }
