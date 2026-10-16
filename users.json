@@ -3077,54 +3077,54 @@
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg"
     },
     "254511792803874": {
-      "coin": 1216573064,
+      "coin": 3027620882,
       "level": 2,
       "uid": "403e88-34_b-nebula",
       "username": "@RedlineRSA1",
       "spam": {
-        "lastMessage": 1790874863638,
+        "lastMessage": 1792161956237,
         "count": 1
       },
-      "xp": 5060,
+      "xp": 8880,
       "hasSentMsg": {
         "coin": true,
         "cooldown": true,
         "banned": true
       },
       "lastBlackjack": 1789910637642,
-      "lastSteal": 1790694070784,
-      "StealSuccess": 29,
-      "lastHack": 1790694064216,
-      "robSuccess": 147,
+      "lastSteal": 1791006780013,
+      "StealSuccess": 30,
+      "lastHack": 1791006776952,
+      "robSuccess": 152,
       "lastFreelance": 1790024748313,
-      "lastWork": 1790274305949,
-      "workSuccess": 16,
-      "lastCode": 1790274283110,
-      "lastRob": 1790274253474,
-      "lastRobBank": 1790274258786,
-      "lastBeg": 1790694073550,
-      "begSuccess": 23,
+      "lastWork": 1791006801408,
+      "workSuccess": 17,
+      "lastCode": 1791006805741,
+      "lastRob": 1791006813142,
+      "lastRobBank": 1791006816828,
+      "lastBeg": 1791006782572,
+      "begSuccess": 24,
       "lastMine": 1790274300860,
-      "lastPhish": 1790274250582,
+      "lastPhish": 1791006793623,
       "lastRepair": 1789968984028,
       "lastRansom": 1790274293950,
-      "lastDecrypt": 1790274246046,
+      "lastDecrypt": 1791006787593,
       "lastDeliver": 1790274289194,
       "lastClean": 1790274279934,
       "crashGame": {
         "betAmount": 5000,
-        "crashPoint": 2.6,
-        "startedAt": 1790274204957,
+        "crashPoint": 3.43,
+        "startedAt": 1791006846787,
         "active": false
       },
-      "lastCrash": 1790274216005,
+      "lastCrash": 1791006860505,
       "banned": false,
       "permanent": false,
       "robbed": 1,
       "bank": 0,
-      "last_give_use": 1790694024530,
-      "last_give_day": "Tue Sep 29 2026",
-      "daily_give_total": 1000000,
+      "last_give_use": 1791397665331,
+      "last_give_day": "Wed Oct 07 2026",
+      "daily_give_total": 100000000,
       "lastSpins": 1789907499383,
       "lastSpin": 1789910624197,
       "stocks": {
@@ -3136,7 +3136,7 @@
       },
       "avatarUrl": "https://i.pinimg.com/736x/70/dd/61/70dd612c65034b88ebf474a52ccc70c4.jpg",
       "lastSaveData": 1790788107420,
-      "lastLoadAcct": 1790770173781,
+      "lastLoadAcct": 1790874883455,
       "autolevelup": true
     },
     "66701597106413": {
@@ -3463,5 +3463,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1792006825988
+  "savedAt": 1792161957094
 }
