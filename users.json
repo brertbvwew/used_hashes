@@ -2153,20 +2153,20 @@
       "lastBlackjack": 1788554161471
     },
     "151994715099391": {
-      "coin": 1745575411,
+      "coin": 1992633391,
       "spam": {
-        "lastMessage": 1792229785220,
+        "lastMessage": 1792516881561,
         "count": 1
       },
       "level": 1,
-      "xp": 11456,
+      "xp": 12976,
       "uid": "132dec0a-31_b-nebula",
       "username": "@groper",
       "robbed": 2,
       "lastWork": 1790442554931,
       "workSuccess": 13,
       "lastSpins": 1789571337110,
-      "lastSaveData": 1792006827450,
+      "lastSaveData": 1792229787066,
       "lastSteal": 1790442558049,
       "StealSuccess": 8,
       "lastRob": 1790174508443,
@@ -3463,5 +3463,5 @@
       "lastRansom": 1790874376772
     }
   },
-  "savedAt": 1792516250861
+  "savedAt": 1792516882433
 }
